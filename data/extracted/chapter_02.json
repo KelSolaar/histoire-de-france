@@ -1,0 +1,1810 @@
+{
+  "chapter_number": 2,
+  "chapter_title": "L'ESSAI MÉROVINGIEN",
+  "line_start": 522,
+  "line_end": 806,
+  "validation_status": "success",
+  "entries": [
+    {
+      "id": "evt_001",
+      "type": "period",
+      "date_start": {
+        "year": 481,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "date_end": {
+        "year": 511,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Conquête de la Gaule par Clovis",
+      "description": "En quelques années et expéditions, Clovis devient maître de la Gaule, apparaissant comme libérateur et protecteur des catholiques face aux Barbares ariens.",
+      "importance": 5,
+      "people": [
+        "Clovis"
+      ],
+      "locations": [
+        "Gaule"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 8,
+        "line_end": 12,
+        "excerpt": "Les débuts de Clovis furent si grands, si heureux... il fut le maître de la Gaule. Campagnes à la fois militaires et politiques."
+      }
+    },
+    {
+      "id": "evt_002",
+      "type": "political",
+      "date_start": {
+        "year": 500,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Soumission de Gondebaud roi de Bourgogne",
+      "description": "Gondebaud, roi de Bourgogne (vallée du Rhône), devient tributaire de Clovis et donne des garanties aux Gallo-Romains.",
+      "importance": 3,
+      "people": [
+        "Clovis",
+        "Gondebaud"
+      ],
+      "locations": [
+        "Bourgogne",
+        "Vallée du Rhône"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 13,
+        "line_end": 15,
+        "excerpt": "Gondebaud, le roi de Bourgogne (et la Bourgogne, c'était toute la vallée du Rhône), devint son tributaire et donna des garanties aux Gallo-Romains."
+      }
+    },
+    {
+      "id": "evt_003",
+      "type": "battle",
+      "date_start": {
+        "year": 507,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Libération de l'Aquitaine des Goths",
+      "description": "Clovis délivre l'Aquitaine et la vallée de la Garonne de la domination des Wisigoths.",
+      "importance": 4,
+      "people": [
+        "Clovis"
+      ],
+      "locations": [
+        "Aquitaine",
+        "Vallée de la Garonne"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 15,
+        "line_end": 16,
+        "excerpt": "Avec l'Aquitaine, la vallée de la Garonne fut délivrée des Goths."
+      }
+    },
+    {
+      "id": "evt_004",
+      "type": "political",
+      "date_start": {
+        "year": 508,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Clovis reçoit les insignes consulaires d'Anastase",
+      "description": "L'empereur byzantin Anastase confère à Clovis la dignité et les insignes consulaires, ce qu'aucun autre roi barbare n'avait obtenu, rattachant ainsi la dynastie mérovingienne à l'Empire romain.",
+      "importance": 4,
+      "people": [
+        "Clovis",
+        "Anastase"
+      ],
+      "locations": [
+        "Constantinople"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 16,
+        "line_end": 24,
+        "excerpt": "Lorsque Clovis eut reçu d'Anastase la dignité et les insignes consulaires, ce qu'aucun autre roi barbare n'avait obtenu, sa position se trouva grandie."
+      }
+    },
+    {
+      "id": "evt_005",
+      "type": "political",
+      "date_start": {
+        "year": 500,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Élimination des chefs francs rivaux par Clovis",
+      "description": "Clovis supprime par ruse les petits chefs francs païens, dont certains étaient ses parents (comme Ragnacaire et Sigebert), pour achever l'unité de son royaume au Nord.",
+      "importance": 3,
+      "people": [
+        "Clovis",
+        "Ragnacaire",
+        "Sigebert",
+        "Grégoire de Tours"
+      ],
+      "locations": [
+        "Nord de la Gaule"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 26,
+        "line_end": 44,
+        "excerpt": "Clovis ne vit pas d'autre moyen que de les supprimer. Il frappa à la tête, exécuta une série de crimes politiques avec une ruse dont le bon Grégoire de Tours a laissé un naïf récit."
+      }
+    },
+    {
+      "id": "evt_006",
+      "type": "period",
+      "date_start": {
+        "year": 481,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "date_end": {
+        "year": 751,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Période mérovingienne",
+      "description": "La dynastie mérovingienne se prolonge pendant deux siècles et demi, rattachée à l'Empire romain et considérée comme légitime.",
+      "importance": 5,
+      "people": [
+        "Clovis"
+      ],
+      "locations": [
+        "Gaule",
+        "France"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 21,
+        "line_end": 24,
+        "excerpt": "La dynastie mérovingienne se trouvait rattachée à l'Empire romain. Elle parut le continuer et elle fut dès lors «légitime». C'est une des raisons qui lui permirent de se prolonger pendant deux siècles et demi."
+      }
+    },
+    {
+      "id": "evt_007",
+      "type": "political",
+      "date_start": {
+        "year": 511,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Partage du royaume entre les fils de Clovis",
+      "description": "À la mort de Clovis, selon l'usage franc, le domaine royal est partagé entre ses quatre fils, inaugurant une période de divisions.",
+      "importance": 4,
+      "people": [
+        "Clovis",
+        "Thierry Ier"
+      ],
+      "locations": [
+        "Gaule"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 83,
+        "line_end": 89,
+        "excerpt": "L'usage des Francs était que le domaine royal fût partagé, à l'exclusion des filles, entre les fils du roi défunt... Les quatre fils de Clovis se partagèrent sa succession."
+      }
+    },
+    {
+      "id": "evt_008",
+      "type": "reign_start",
+      "date_start": {
+        "year": 511,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Thierry Ier reçoit l'Austrasie",
+      "description": "L'aîné des fils de Clovis, Thierry, reçoit l'Austrasie (pays de l'Est), la majeure partie de l'Empire franc, avec Metz pour capitale.",
+      "importance": 3,
+      "people": [
+        "Thierry Ier"
+      ],
+      "locations": [
+        "Austrasie",
+        "Metz"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 113,
+        "line_end": 118,
+        "excerpt": "L'aîné des fils de Clovis, Thierry, reçut, avec l'Austrasie ou pays de l'Est, la majeure partie de l'Empire franc: Metz en était la capitale."
+      }
+    },
+    {
+      "id": "evt_009",
+      "type": "period",
+      "date_start": {
+        "year": 511,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 95,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Opposition entre Austrasie et Neustrie",
+      "description": "Le partage du royaume crée une funeste opposition entre l'Austrasie et la Neustrie, entre Paris et Metz, Rouen et Verdun.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Austrasie",
+        "Neustrie",
+        "Paris",
+        "Metz",
+        "Rouen",
+        "Verdun"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 94,
+        "line_end": 97,
+        "excerpt": "De ce moment date, entre l'Austrasie et la Neustrie, une funeste opposition dans laquelle les peuples n'étaient pour rien puisque c'était l'opposition de Paris et de Metz, de Rouen et de Verdun."
+      }
+    },
+    {
+      "id": "evt_010",
+      "type": "period",
+      "date_start": {
+        "year": 511,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 555,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Quarante années d'expéditions brillantes",
+      "description": "Les héritiers de Clovis mènent des expéditions brillantes jusqu'en Espagne et en Italie pour protéger les frontières du royaume mérovingien.",
+      "importance": 3,
+      "people": [
+        "Thierry Ier"
+      ],
+      "locations": [
+        "Espagne",
+        "Italie",
+        "Gaule"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 125,
+        "line_end": 131,
+        "excerpt": "Il y eut là une quarantaine d'années d'expéditions brillantes, jusqu'en Espagne et en Italie, destinées à protéger les frontières du royaume mérovingien."
+      }
+    },
+    {
+      "id": "evt_011",
+      "type": "death",
+      "date_start": {
+        "year": 555,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Mort de Théodebald",
+      "description": "À la mort de Théodebald, fils de Thierry, de terribles dissentiments éclatent dans la descendance de Clovis.",
+      "importance": 3,
+      "people": [
+        "Théodebald",
+        "Thierry Ier"
+      ],
+      "locations": [],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 131,
+        "line_end": 134,
+        "excerpt": "Mais, à la mort de Théodebald, fils de Thierry, de terribles dissentiments éclatèrent dans la descendance de Clovis."
+      }
+    },
+    {
+      "id": "evt_012",
+      "type": "political",
+      "date_start": {
+        "year": 561,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "date_end": {
+        "year": 613,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Guerre civile entre Austrasie et Neustrie",
+      "description": "Luttes dramatiques entre Chilpéric et Sigebert, rivalité interminable entre Frédégonde et Brunehaut pour la prééminence entre Austrasiens et Neustriens.",
+      "importance": 4,
+      "people": [
+        "Chilpéric Ier",
+        "Sigebert Ier",
+        "Frédégonde",
+        "Brunehaut"
+      ],
+      "locations": [
+        "Austrasie",
+        "Neustrie"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 133,
+        "line_end": 138,
+        "excerpt": "Les luttes dramatiques de Chilpéric et de Sigebert, l'interminable rivalité de Frédégonde et de Brunehaut, n'eurent pas d'autre cause. C'étaient des partis qui se déchiraient."
+      }
+    },
+    {
+      "id": "evt_013",
+      "type": "reign_start",
+      "date_start": {
+        "year": 613,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Réunification sous Clotaire II",
+      "description": "Après la longue guerre civile, l'empire des Francs se trouve réuni dans une seule main, celle de Clotaire II.",
+      "importance": 4,
+      "people": [
+        "Clotaire II"
+      ],
+      "locations": [
+        "Austrasie",
+        "Bourgogne",
+        "Neustrie"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 140,
+        "line_end": 142,
+        "excerpt": "Après cette longue guerre civile, l'empire des Francs se trouva réuni dans une seule main, celle de Clotaire II."
+      }
+    },
+    {
+      "id": "evt_014",
+      "type": "political",
+      "date_start": {
+        "year": 620,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Montée en puissance des maires du palais",
+      "description": "Pendant les périodes troublées et les minorités, le maire du palais devient le premier ministre, puis vice-roi quand le souverain est mineur ou incapable.",
+      "importance": 4,
+      "people": [
+        "Pépin de Landen"
+      ],
+      "locations": [
+        "Austrasie"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 146,
+        "line_end": 152,
+        "excerpt": "le maire du palais, c'était en somme le premier ministre, devenu vice-roi quand le souverain était mineur ou incapable... L'un d'eux, Pépin de Landen, en Austrasie, devait donner naissance à une deuxième dynastie."
+      }
+    },
+    {
+      "id": "evt_015",
+      "type": "reign_start",
+      "date_start": {
+        "year": 629,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Règne de Dagobert",
+      "description": "Dagobert, grand lettré, grand bâtisseur et véritable artiste, règne brillamment avec son ministre saint Éloi, portant le plus loin l'imitation des empereurs de Rome.",
+      "importance": 4,
+      "people": [
+        "Dagobert",
+        "Saint Éloi"
+      ],
+      "locations": [
+        "Gaule"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 154,
+        "line_end": 159,
+        "excerpt": "Dagobert... grand lettré, grand bâtisseur, véritable artiste, est resté fameux, ainsi que son ministre saint Eloi. C'est peut-être, de tous les princes de sa race, celui qui a porté le plus loin l'imitation des empereurs de Rome."
+      }
+    },
+    {
+      "id": "evt_016",
+      "type": "reign_end",
+      "date_start": {
+        "year": 638,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Dagobert et début de la décadence mérovingienne",
+      "description": "Après la mort de Dagobert en 638, la décadence s'installe : les partages recommencent, aggravés par les minorités, et les maires du palais deviennent les véritables maîtres.",
+      "importance": 4,
+      "people": [
+        "Dagobert"
+      ],
+      "locations": [],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 161,
+        "line_end": 165,
+        "excerpt": "Après Dagobert (638), ce fut la décadence: les partages recommencèrent entre ses fils et l'effet du partage fut aggravé par les minorités. Les maires du palais devinrent les véritables maîtres."
+      }
+    },
+    {
+      "id": "evt_017",
+      "type": "death",
+      "date_start": {
+        "year": 675,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Assassinat de Chilpéric II",
+      "description": "Chilpéric II, considéré comme despote et réactionnaire pour avoir tenté de rétablir l'autorité royale, est assassiné.",
+      "importance": 3,
+      "people": [
+        "Chilpéric II"
+      ],
+      "locations": [],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 167,
+        "line_end": 169,
+        "excerpt": "Chilpéric II passa pour un despote et un réactionnaire: il fut assassiné."
+      }
+    },
+    {
+      "id": "evt_018",
+      "type": "political",
+      "date_start": {
+        "year": 673,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Conflit entre Ébroin et saint Léger",
+      "description": "Le grand conflit entre Ébroin, maire de Neustrie, et saint Léger, tout-puissant en Bourgogne, marque une période de coups d'état et de révolutions politiques.",
+      "importance": 3,
+      "people": [
+        "Ébroin",
+        "Saint Léger"
+      ],
+      "locations": [
+        "Neustrie",
+        "Bourgogne"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 172,
+        "line_end": 176,
+        "excerpt": "Le grand conflit qui mit aux prises Ebroin, maire de Neustrie, et saint Léger, tout-puissant en Bourgogne, formerait une histoire fastidieuse de coups d'état et de révolutions politiques."
+      }
+    },
+    {
+      "id": "evt_019",
+      "type": "battle",
+      "date_start": {
+        "year": 687,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Tertry",
+      "description": "Pépin d'Héristal vainqueur des maires neustriens Ébroin et Waratte à Tertry, porte le coup de grâce à la dynastie mérovingienne et établit la domination des Pipinnides.",
+      "importance": 4,
+      "people": [
+        "Pépin d'Héristal",
+        "Ébroin",
+        "Waratte"
+      ],
+      "locations": [
+        "Tertry"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 203,
+        "line_end": 211,
+        "excerpt": "Vainqueur, à Testry, en 687, des maires neustriens, Ebroin et Waratte, il porta aussi le coup de grâce à la dynastie mérovingienne... les Mérovingiens, pourvus d'un vain titre, ne furent plus que les «rois fainéants»."
+      }
+    },
+    {
+      "id": "evt_020",
+      "type": "period",
+      "date_start": {
+        "year": 687,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 751,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Période des rois fainéants",
+      "description": "À partir de 687, les Mérovingiens, pourvus d'un vain titre, ne sont plus que les «rois fainéants» traînés dans leurs chariots à bœufs, tandis que le pouvoir réel est aux mains des Pipinnides.",
+      "importance": 3,
+      "people": [],
+      "locations": [],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 207,
+        "line_end": 211,
+        "excerpt": "les Mérovingiens, pourvus d'un vain titre, ne furent plus que les «rois fainéants» traînés dans leurs chariots à boeufs. La réalité du pouvoir était en d'autres mains."
+      }
+    },
+    {
+      "id": "evt_021",
+      "type": "death",
+      "date_start": {
+        "year": 714,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Pépin d'Héristal",
+      "description": "Pépin d'Héristal meurt en 714 sans avoir pris la couronne. La guerre civile reprend, aggravée par l'alliance du parti neustrien avec les tribus allemandes.",
+      "importance": 3,
+      "people": [
+        "Pépin d'Héristal"
+      ],
+      "locations": [],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 217,
+        "line_end": 224,
+        "excerpt": "Pépin mourut en 714 sans avoir trouvé l'occasion de prendre la couronne. A sa mort, peu s'en fallut que tout ne fût compromis. La guerre civile reprit, aggravée par la guerre étrangère."
+      }
+    },
+    {
+      "id": "evt_022",
+      "type": "political",
+      "date_start": {
+        "year": 714,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Alliance du maire Rainfroi avec les tribus allemandes",
+      "description": "Le maire de Neustrie Rainfroi s'allie aux tribus allemandes révoltées contre l'Austrasie, donnant à Charles Martel l'occasion d'apparaître comme défenseur de la civilisation.",
+      "importance": 2,
+      "people": [
+        "Rainfroi",
+        "Charles Martel"
+      ],
+      "locations": [
+        "Neustrie",
+        "Austrasie"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 219,
+        "line_end": 224,
+        "excerpt": "le parti neustrien ne craignit pas de s'allier aux tribus allemandes révoltées contre l'Austrasie. Faute grave du maire de Neustrie Rainfroi."
+      }
+    },
+    {
+      "id": "evt_023",
+      "type": "period",
+      "date_start": {
+        "year": 711,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "date_end": {
+        "year": 732,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Invasion arabe en Gaule",
+      "description": "L'Islam, sorti d'Arabie, conquiert l'Afrique du Nord, l'Espagne, franchit les Pyrénées et pénètre dans les vallées de la Garonne et du Rhône jusqu'à la prise de Bordeaux.",
+      "importance": 4,
+      "people": [
+        "Abdérame"
+      ],
+      "locations": [
+        "Arabie",
+        "Afrique du Nord",
+        "Espagne",
+        "Pyrénées",
+        "Garonne",
+        "Rhône",
+        "Bordeaux"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 233,
+        "line_end": 247,
+        "excerpt": "l'invasion des Arabes... Sorti du fond de l'Arabie, l'Islam avance vers l'Occident. Il a réduit à rien l'empire de Constantinople, conquis l'Afrique du Nord, l'Espagne, franchi les Pyrénées."
+      }
+    },
+    {
+      "id": "evt_024",
+      "type": "battle",
+      "date_start": {
+        "year": 732,
+        "month": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Poitiers",
+      "description": "Charles, qui reçoit ce jour-là le nom de Martel, rencontre et met en fuite l'armée arabe d'Abdérame près de Poitiers, devenant un héros national et chrétien.",
+      "importance": 5,
+      "people": [
+        "Charles Martel",
+        "Abdérame"
+      ],
+      "locations": [
+        "Poitiers"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 245,
+        "line_end": 247,
+        "excerpt": "Charles, qui reçut ce jour-là le nom de Martel, le rencontra et le mit en fuite près de Poitiers (732)."
+      }
+    },
+    {
+      "id": "evt_025",
+      "type": "political",
+      "date_start": {
+        "year": 735,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Le pape Grégoire III sollicite l'aide de Charles Martel",
+      "description": "Le pape Grégoire III sollicite le secours du bras de Charles Martel, vainqueur des infidèles, héros national et chrétien.",
+      "importance": 3,
+      "people": [
+        "Charles Martel",
+        "Grégoire III"
+      ],
+      "locations": [
+        "Rome"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 251,
+        "line_end": 254,
+        "excerpt": "Le pape Grégoire III sollicitait le secours de son bras et Charles répondait avec empressement: ce bienfait ne devait pas être perdu."
+      }
+    },
+    {
+      "id": "evt_026",
+      "type": "death",
+      "date_start": {
+        "year": 737,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Thierry IV",
+      "description": "Thierry IV, dernier Mérovingien régnant, meurt en 737. Charles Martel ne le remplace pas, régnant de fait sans le titre de roi.",
+      "importance": 3,
+      "people": [
+        "Thierry IV",
+        "Charles Martel"
+      ],
+      "locations": [],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 255,
+        "line_end": 257,
+        "excerpt": "Il s'était borné à ne pas remplacer un obscur Mérovingien, Thierry IV, mort en 737."
+      }
+    },
+    {
+      "id": "evt_027",
+      "type": "political",
+      "date_start": {
+        "year": 741,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Partage des États entre Carloman et Pépin",
+      "description": "Avant de mourir, Charles Martel partage ses États entre ses deux fils Carloman et Pépin, répétant l'usage des Francs.",
+      "importance": 3,
+      "people": [
+        "Charles Martel",
+        "Carloman",
+        "Pépin le Bref"
+      ],
+      "locations": [],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 259,
+        "line_end": 262,
+        "excerpt": "avant de mourir, il partagea ses Etats entre ses deux fils, Carloman et Pépin."
+      }
+    },
+    {
+      "id": "evt_028",
+      "type": "political",
+      "date_start": {
+        "year": 743,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Restauration du dernier Mérovingien par Carloman et Pépin",
+      "description": "Les deux frères tirent d'un cloître le dernier rejeton des Mérovingiens pour se couvrir de légitimité et soumettre les rebelles.",
+      "importance": 2,
+      "people": [
+        "Carloman",
+        "Pépin le Bref"
+      ],
+      "locations": [],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 263,
+        "line_end": 266,
+        "excerpt": "Les deux frères tirèrent d'un cloître le dernier rejeton des Mérovingiens pour se couvrir de la légitimité. Ils soumirent les rebelles."
+      }
+    },
+    {
+      "id": "evt_029",
+      "type": "political",
+      "date_start": {
+        "year": 747,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Abdication de Carloman",
+      "description": "Carloman abdique et laisse le pouvoir à son frère Pépin, franchissant les derniers obstacles vers le changement de dynastie.",
+      "importance": 3,
+      "people": [
+        "Carloman",
+        "Pépin le Bref"
+      ],
+      "locations": [],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 266,
+        "line_end": 268,
+        "excerpt": "Carloman eut le bon esprit d'abdiquer et de laisser le pouvoir à son frère, l'énergique Pépin."
+      }
+    },
+    {
+      "id": "evt_030",
+      "type": "religious",
+      "date_start": {
+        "year": 751,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Consultation du pape Zacharie sur la légitimité",
+      "description": "Le pape Zacharie déclare que le vrai roi est celui qui exerce le pouvoir, consacrant l'état de fait et récompensant le service rendu à Grégoire III.",
+      "importance": 4,
+      "people": [
+        "Zacharie",
+        "Pépin le Bref",
+        "Grégoire III"
+      ],
+      "locations": [
+        "Rome"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 269,
+        "line_end": 273,
+        "excerpt": "une consultation du pape qui fut d'avis que le vrai roi était celui qui exerçait le pouvoir: Zacharie récompensait le service rendu à Grégoire III par le père de Pépin."
+      }
+    },
+    {
+      "id": "evt_031",
+      "type": "reign_start",
+      "date_start": {
+        "year": 752,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Changement de dynastie - Sacre de Pépin le Bref",
+      "description": "Le changement de dynastie se fait sans secousses. Le sacre par le Saint-Siège crée une nouvelle légitimité. Le maire du palais devient roi, ouvrant l'ère des Carolingiens.",
+      "importance": 5,
+      "people": [
+        "Pépin le Bref"
+      ],
+      "locations": [],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 275,
+        "line_end": 283,
+        "excerpt": "Le changement de dynastie se fit sans secousses (752)... La consécration du Saint-Siège, le «sacre», rendait la nouvelle dynastie indiscutable... Le maire du palais était devenu roi."
+      }
+    }
+  ],
+  "people": [
+    {
+      "id": "per_001",
+      "name": "Clovis Ier",
+      "aliases": [
+        "Clovis"
+      ],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Roi des Francs"
+      ],
+      "birth": null,
+      "death": {
+        "year": 511,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 481,
+          "circa": true,
+          "era": "CE",
+          "precision": "decade"
+        },
+        "end": {
+          "year": 511,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Thierry Ier"
+        },
+        {
+          "type": "fils",
+          "person": "Clodomir"
+        },
+        {
+          "type": "fils",
+          "person": "Childebert Ier"
+        },
+        {
+          "type": "fils",
+          "person": "Clotaire Ier"
+        }
+      ],
+      "source_lines": [
+        8,
+        16,
+        26,
+        30,
+        40,
+        50,
+        79,
+        85,
+        88,
+        92,
+        105,
+        113,
+        125,
+        126,
+        133,
+        179,
+        196,
+        260
+      ]
+    },
+    {
+      "id": "per_002",
+      "name": "Gondebaud",
+      "aliases": [
+        "Roi de Bourgogne"
+      ],
+      "dynasty": "Burgondes",
+      "titles": [
+        "Roi de Bourgogne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        13
+      ]
+    },
+    {
+      "id": "per_003",
+      "name": "Anastase Ier",
+      "aliases": [
+        "Anastase",
+        "Empereur"
+      ],
+      "dynasty": "Empire byzantin",
+      "titles": [
+        "Empereur byzantin"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        19
+      ]
+    },
+    {
+      "id": "per_004",
+      "name": "Grégoire de Tours",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Évêque de Tours",
+        "Historien"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        32
+      ]
+    },
+    {
+      "id": "per_005",
+      "name": "Ragnacaire",
+      "aliases": [],
+      "dynasty": "Francs",
+      "titles": [
+        "Chef franc"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        41
+      ]
+    },
+    {
+      "id": "per_006",
+      "name": "Sigebert de Cologne",
+      "aliases": [
+        "Sigebert"
+      ],
+      "dynasty": "Francs",
+      "titles": [
+        "Chef franc",
+        "Roi de Cologne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        41
+      ]
+    },
+    {
+      "id": "per_007",
+      "name": "Fustel de Coulanges",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Historien"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        76
+      ]
+    },
+    {
+      "id": "per_008",
+      "name": "Thierry Ier",
+      "aliases": [
+        "Thierry"
+      ],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Roi d'Austrasie"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 511,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 534,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Clovis Ier"
+        },
+        {
+          "type": "fils",
+          "person": "Théodebald"
+        }
+      ],
+      "source_lines": [
+        113,
+        116,
+        132
+      ]
+    },
+    {
+      "id": "per_009",
+      "name": "Théodebald",
+      "aliases": [],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Roi d'Austrasie"
+      ],
+      "birth": null,
+      "death": {
+        "year": 555,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Thierry Ier"
+        }
+      ],
+      "source_lines": [
+        132
+      ]
+    },
+    {
+      "id": "per_010",
+      "name": "Chilpéric Ier",
+      "aliases": [
+        "Chilpéric"
+      ],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Roi de Neustrie"
+      ],
+      "birth": null,
+      "death": {
+        "year": 584,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Frédégonde"
+        }
+      ],
+      "source_lines": [
+        105,
+        135
+      ]
+    },
+    {
+      "id": "per_011",
+      "name": "Sigebert Ier",
+      "aliases": [
+        "Sigebert"
+      ],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Roi d'Austrasie"
+      ],
+      "birth": null,
+      "death": {
+        "year": 575,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Brunehaut"
+        }
+      ],
+      "source_lines": [
+        135
+      ]
+    },
+    {
+      "id": "per_012",
+      "name": "Frédégonde",
+      "aliases": [],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Reine de Neustrie"
+      ],
+      "birth": null,
+      "death": {
+        "year": 597,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Chilpéric Ier"
+        }
+      ],
+      "source_lines": [
+        136
+      ]
+    },
+    {
+      "id": "per_013",
+      "name": "Brunehaut",
+      "aliases": [],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Reine d'Austrasie"
+      ],
+      "birth": null,
+      "death": {
+        "year": 613,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Sigebert Ier"
+        }
+      ],
+      "source_lines": [
+        136
+      ]
+    },
+    {
+      "id": "per_014",
+      "name": "Clotaire II",
+      "aliases": [
+        "Clotaire"
+      ],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Roi des Francs"
+      ],
+      "birth": null,
+      "death": {
+        "year": 629,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 613,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 629,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Dagobert Ier"
+        }
+      ],
+      "source_lines": [
+        105,
+        141,
+        154
+      ]
+    },
+    {
+      "id": "per_015",
+      "name": "Pépin de Landen",
+      "aliases": [
+        "Pépin l'Ancien"
+      ],
+      "dynasty": "Pipinnides",
+      "titles": [
+        "Maire du palais d'Austrasie"
+      ],
+      "birth": null,
+      "death": {
+        "year": 640,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        150,
+        185
+      ]
+    },
+    {
+      "id": "per_016",
+      "name": "Dagobert Ier",
+      "aliases": [
+        "Dagobert"
+      ],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Roi des Francs"
+      ],
+      "birth": null,
+      "death": {
+        "year": 638,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 629,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 638,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Clotaire II"
+        }
+      ],
+      "source_lines": [
+        155,
+        161
+      ]
+    },
+    {
+      "id": "per_017",
+      "name": "Saint Éloi",
+      "aliases": [
+        "Éloi",
+        "Eligius"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Évêque de Noyon",
+        "Ministre"
+      ],
+      "birth": null,
+      "death": {
+        "year": 660,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        156
+      ]
+    },
+    {
+      "id": "per_018",
+      "name": "Chilpéric II",
+      "aliases": [],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Roi des Francs"
+      ],
+      "birth": null,
+      "death": {
+        "year": 675,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        168
+      ]
+    },
+    {
+      "id": "per_019",
+      "name": "Ébroin",
+      "aliases": [
+        "Ebroin"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Maire du palais de Neustrie"
+      ],
+      "birth": null,
+      "death": {
+        "year": 681,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        173,
+        205
+      ]
+    },
+    {
+      "id": "per_020",
+      "name": "Saint Léger",
+      "aliases": [
+        "Léger",
+        "Leodegar"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Évêque d'Autun"
+      ],
+      "birth": null,
+      "death": {
+        "year": 679,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        173
+      ]
+    },
+    {
+      "id": "per_021",
+      "name": "Pépin d'Héristal",
+      "aliases": [
+        "Pépin II",
+        "Pépin de Herstal"
+      ],
+      "dynasty": "Pipinnides",
+      "titles": [
+        "Duc d'Austrasie",
+        "Maire du palais"
+      ],
+      "birth": null,
+      "death": {
+        "year": 714,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Charles Martel"
+        },
+        {
+          "type": "ancêtre",
+          "person": "Pépin de Landen"
+        }
+      ],
+      "source_lines": [
+        184,
+        190,
+        204,
+        213,
+        217
+      ]
+    },
+    {
+      "id": "per_022",
+      "name": "Waratte",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Maire du palais de Neustrie"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        205
+      ]
+    },
+    {
+      "id": "per_023",
+      "name": "Rainfroi",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Maire du palais de Neustrie"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        221
+      ]
+    },
+    {
+      "id": "per_024",
+      "name": "Charles Martel",
+      "aliases": [
+        "Charles",
+        "Le Martel"
+      ],
+      "dynasty": "Pipinnides",
+      "titles": [
+        "Duc d'Austrasie",
+        "Maire du palais"
+      ],
+      "birth": {
+        "year": 688,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "death": {
+        "year": 741,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Pépin d'Héristal"
+        },
+        {
+          "type": "fils",
+          "person": "Carloman"
+        },
+        {
+          "type": "fils",
+          "person": "Pépin le Bref"
+        }
+      ],
+      "source_lines": [
+        226,
+        227,
+        230,
+        242,
+        245,
+        251,
+        253,
+        256,
+        259,
+        260,
+        282
+      ]
+    },
+    {
+      "id": "per_025",
+      "name": "Abdérame",
+      "aliases": [
+        "Abd al-Rahman"
+      ],
+      "dynasty": "Omeyyades",
+      "titles": [
+        "Gouverneur d'Al-Andalus"
+      ],
+      "birth": null,
+      "death": {
+        "year": 732,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        245
+      ]
+    },
+    {
+      "id": "per_026",
+      "name": "Grégoire III",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Pape"
+      ],
+      "birth": null,
+      "death": {
+        "year": 741,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 731,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 741,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [],
+      "source_lines": [
+        252,
+        272
+      ]
+    },
+    {
+      "id": "per_027",
+      "name": "Thierry IV",
+      "aliases": [],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Roi des Francs"
+      ],
+      "birth": null,
+      "death": {
+        "year": 737,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        256
+      ]
+    },
+    {
+      "id": "per_028",
+      "name": "Carloman",
+      "aliases": [],
+      "dynasty": "Pipinnides",
+      "titles": [
+        "Maire du palais d'Austrasie"
+      ],
+      "birth": null,
+      "death": {
+        "year": 754,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Charles Martel"
+        },
+        {
+          "type": "frère",
+          "person": "Pépin le Bref"
+        }
+      ],
+      "source_lines": [
+        261,
+        262,
+        264,
+        266
+      ]
+    },
+    {
+      "id": "per_029",
+      "name": "Pépin le Bref",
+      "aliases": [
+        "Pépin III",
+        "Pépin"
+      ],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Roi des Francs"
+      ],
+      "birth": {
+        "year": 714,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "death": {
+        "year": 768,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 752,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 768,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Charles Martel"
+        },
+        {
+          "type": "frère",
+          "person": "Carloman"
+        },
+        {
+          "type": "fils",
+          "person": "Charlemagne"
+        }
+      ],
+      "source_lines": [
+        261,
+        262,
+        267,
+        272,
+        280
+      ]
+    },
+    {
+      "id": "per_030",
+      "name": "Zacharie",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Pape"
+      ],
+      "birth": null,
+      "death": {
+        "year": 752,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 741,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 752,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [],
+      "source_lines": [
+        272
+      ]
+    },
+    {
+      "id": "per_031",
+      "name": "Charlemagne",
+      "aliases": [
+        "Charles le Grand",
+        "Carolus Magnus"
+      ],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Roi des Francs",
+        "Empereur"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "ancêtre",
+          "person": "Pépin d'Héristal"
+        }
+      ],
+      "source_lines": [
+        198
+      ]
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_001",
+      "name": "Mérovingiens",
+      "period_start": {
+        "year": 481,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "period_end": {
+        "year": 751,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_002",
+      "name": "Pipinnides",
+      "period_start": {
+        "year": 640,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "period_end": {
+        "year": 751,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_003",
+      "name": "Carolingiens",
+      "period_start": {
+        "year": 751,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}

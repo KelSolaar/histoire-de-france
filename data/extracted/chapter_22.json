@@ -1,0 +1,1702 @@
+{
+  "chapter_number": 22,
+  "chapter_title": "LA GUERRE ET LA PAIX, LES TRAVAUX ET LES JOURS",
+  "line_start": 14980,
+  "line_end": 16090,
+  "validation_status": "success",
+  "entries": [
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1914,
+        "month": 7,
+        "day": 23,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Ultimatum autrichien à la Serbie",
+      "description": "L'Autriche-Hongrie remet un ultimatum à la Serbie, rédigé d'accord avec l'Allemagne, déclenchant la crise de juillet.",
+      "importance": 4,
+      "people": [
+        "Raymond Poincaré",
+        "René Viviani"
+      ],
+      "locations": [
+        "Belgrade",
+        "Saint-Pétersbourg",
+        "Paris"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 18,
+        "line_end": 23,
+        "excerpt": "Cet ultimatum fut remis à Belgrade le 23 juillet, au moment où Poincaré et Viviani quittaient Saint-Pétersbourg."
+      },
+      "id": "evt_22_001"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1914,
+        "month": 8,
+        "day": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Déclaration de guerre de l'Allemagne à la Russie",
+      "description": "L'Allemagne déclare la guerre à la Russie, invoquant la mobilisation russe comme prétexte.",
+      "importance": 5,
+      "people": [],
+      "locations": [
+        "Berlin"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 51,
+        "line_end": 55,
+        "excerpt": "Le 1er août, elle déclare la guerre à la Russie, somme la France d'annoncer ses intentions"
+      },
+      "id": "evt_22_002"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1914,
+        "month": 8,
+        "day": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mobilisation française",
+      "description": "La France mobilise ses troupes après l'ultimatum allemand. Viviani ordonne le retrait des troupes à 10 km de la frontière pour prouver que la France n'est pas l'agresseur.",
+      "importance": 4,
+      "people": [
+        "René Viviani"
+      ],
+      "locations": [
+        "France",
+        "Toul",
+        "Verdun"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 62,
+        "line_end": 68,
+        "excerpt": "La France est bien obligée, le 2 août, de mobiliser à son tour... Viviani ordonne que nos troupes se retirent à 10 kilomètres de la frontière"
+      },
+      "id": "evt_22_003"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1914,
+        "month": 7,
+        "day": 31,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Assassinat de Jean Jaurès",
+      "description": "Le chef socialiste Jean Jaurès est assassiné à Paris, mais cet événement ne cause aucun trouble.",
+      "importance": 3,
+      "people": [
+        "Jean Jaurès"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 78,
+        "line_end": 80,
+        "excerpt": "L'assassinat du chef socialiste Jaurès, dans la soirée du 31 juillet, n'avait pas causé le moindre trouble."
+      },
+      "id": "evt_22_004"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1914,
+        "month": 8,
+        "day": 3,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Déclaration de guerre de l'Allemagne à la France",
+      "description": "L'Allemagne déclare officiellement la guerre à la France après avoir violé la neutralité belge.",
+      "importance": 5,
+      "people": [],
+      "locations": [
+        "France",
+        "Belgique"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 91,
+        "line_end": 94,
+        "excerpt": "Le 3 août, l'Allemagne nous déclare la guerre. Dès la veille, violant des traités, elle a sommé le gouvernement belge de livrer passage à ses armées"
+      },
+      "id": "evt_22_005"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1839,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Garantie de la neutralité belge",
+      "description": "L'Angleterre avait promis de garantir la neutralité belge, engagement qui la contraint à intervenir en 1914.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Belgique",
+        "Angleterre"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 96,
+        "line_end": 99,
+        "excerpt": "parce qu'elle avait promis, en 1839, de garantir la neutralité belge et aussi parce qu'il était dit que jamais dans l'histoire elle ne tolérerait qu'une grande puissance européenne s'emparât des bouches de l'Escaut"
+      },
+      "id": "evt_22_006"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1902,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Accord franco-italien de neutralité",
+      "description": "L'Italie avait signé un accord avec la France en 1902, ce qui lui permet de rester neutre au début de la guerre de 1914.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Italie",
+        "France"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 107,
+        "line_end": 109,
+        "excerpt": "L'Italie, fidèle à l'accord qu'elle avait signé en 1902, s'empressait de nous informer qu'elle resterait neutre"
+      },
+      "id": "evt_22_007"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1914,
+        "month": 8,
+        "day": 17,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Début des opérations militaires",
+      "description": "Les opérations militaires proprement dites commencent après la période de mise en marche des armées.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "France",
+        "Belgique"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 128,
+        "line_end": 129,
+        "excerpt": "les opérations proprement dites avaient commencé le 17 août"
+      },
+      "id": "evt_22_008"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1914,
+        "month": 8,
+        "day": 22,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Batailles de Charleroi et Mons",
+      "description": "Les Français et les Anglais doivent reculer à Charleroi et Mons face à l'avancée allemande en Belgique.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Charleroi",
+        "Mons",
+        "Belgique"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 129,
+        "line_end": 131,
+        "excerpt": "Dès le 22, les Français et les Anglais, qui s'étaient portés au secours de la Belgique, devaient reculer à Charleroi et à Mons."
+      },
+      "id": "evt_22_009"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1914,
+        "month": 9,
+        "day": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "date_end": {
+        "year": 1914,
+        "month": 9,
+        "day": 13,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de la Marne",
+      "description": "Bataille décisive qui sauve Paris et arrête l'invasion allemande. Joffre ordonne la contre-attaque après que Gallieni a repéré la manœuvre possible contre le flanc de von Kluck.",
+      "importance": 5,
+      "people": [
+        "Joseph Joffre",
+        "Joseph Gallieni",
+        "Alexander von Kluck"
+      ],
+      "locations": [
+        "Marne",
+        "Paris",
+        "Moselle"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 152,
+        "line_end": 162,
+        "excerpt": "La bataille de la Marne, bataille gigantesque, qui s'étendit des abords immédiats de Paris jusqu'à la Moselle, dura du 6 au 13 septembre et se termina par la défaite et le recul général de l'ennemi."
+      },
+      "id": "evt_22_010"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1914,
+        "month": 9,
+        "day": 4,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Pacte de Londres",
+      "description": "Les Alliés signent le pacte de Londres par lequel ils s'interdisent de conclure la paix séparément avec l'Allemagne.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Londres"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 181,
+        "line_end": 184,
+        "excerpt": "Le 4 septembre, au moment même où s'engageait la bataille de la Marne, ils avaient signé le pacte de Londres par lequel ils s'interdisaient de conclure la paix séparément."
+      },
+      "id": "evt_22_011"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1914,
+        "month": 9,
+        "day": 17,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Stabilisation du front - début de la guerre de tranchées",
+      "description": "Le front se stabilise après la bataille de la Marne. Les tranchées se creusent face à face, début de la guerre de position.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Oise",
+        "Argonne"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 171,
+        "line_end": 175,
+        "excerpt": "Dès le 17 septembre, le front était stabilisé, les tranchées se creusaient face à face: une sorte de guerre de siège, atroce et journellement meurtrière, commençait."
+      },
+      "id": "evt_22_012"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1914,
+        "month": 11,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Bataille de l'Yser",
+      "description": "Les Allemands tentent d'envelopper les armées alliées par la Flandre maritime. L'inondation aide à les arrêter. Combat héroïque à Dixmude.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Yser",
+        "Dixmude",
+        "Flandre"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 176,
+        "line_end": 181,
+        "excerpt": "Au commencement du mois de novembre, après la bataille de l'Yser, ils durent reconnaître qu'ils ne passeraient pas"
+      },
+      "id": "evt_22_013"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1915,
+        "month": 3,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Première offensive de Champagne",
+      "description": "Première tentative française pour percer le front allemand en Champagne, qui échoue.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Champagne"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 213,
+        "line_end": 215,
+        "excerpt": "En mars, une première offensive échoue en Champagne, et une deuxième, en septembre, ne réussira pas mieux."
+      },
+      "id": "evt_22_014"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1915,
+        "month": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "date_end": {
+        "year": 1915,
+        "month": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Offensive d'Artois",
+      "description": "Offensive française en Artois qui échoue après un début prometteur.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Artois"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 215,
+        "line_end": 217,
+        "excerpt": "Une autre, après un début heureux, qui fit illusion, échoua en Artois aux mois de mai et de juin."
+      },
+      "id": "evt_22_015"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1915,
+        "month": 5,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Entrée en guerre de l'Italie",
+      "description": "L'Italie renonce à sa neutralité et rejoint l'Entente, étendant encore la guerre en Europe.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Italie"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 217,
+        "line_end": 219,
+        "excerpt": "A ce moment-là, renonçant à sa neutralité, l'Italie à son tour vient grossir l'Entente"
+      },
+      "id": "evt_22_016"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1915,
+        "month": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Entrée en guerre de la Bulgarie",
+      "description": "La Bulgarie rejoint le camp des Empires centraux, permettant la liaison avec la Turquie.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Bulgarie"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 219,
+        "line_end": 220,
+        "excerpt": "En octobre, ce sont les Bulgares qui se joignent à nos ennemis."
+      },
+      "id": "evt_22_017"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1915,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Campagne des Dardanelles",
+      "description": "Échec des tentatives franco-britanniques pour forcer le passage des Dardanelles à Gallipoli.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Dardanelles",
+        "Gallipoli"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 220,
+        "line_end": 223,
+        "excerpt": "Dans les Dardanelles, à Gallipoli, par mer et par terre, les Anglais et les Français ont vainement essayé de s'ouvrir un chemin."
+      },
+      "id": "evt_22_018"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1915,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Offensive allemande contre la Russie - Prise de la Pologne",
+      "description": "L'Allemagne porte un coup violent contre la Russie et s'empare de toute la Pologne.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Pologne",
+        "Russie"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 232,
+        "line_end": 235,
+        "excerpt": "l'Allemagne, renversant son plan primitif, a porté un coup violent contre la Russie et s'est emparée de toute la Pologne."
+      },
+      "id": "evt_22_019"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1916,
+        "month": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "date_end": {
+        "year": 1916,
+        "month": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Bataille de Verdun",
+      "description": "Les Allemands attaquent Verdun pour y attirer le gros de l'armée française et la forcer à demander la paix. Bataille de près de six mois, la plus formidable de tous les temps.",
+      "importance": 5,
+      "people": [],
+      "locations": [
+        "Verdun"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 247,
+        "line_end": 258,
+        "excerpt": "Les batailles qui s'engagèrent là et qui durèrent près de six mois ont été les plus formidables de tous les temps... de février jusqu'en août 1916, fut un enfer."
+      },
+      "id": "evt_22_020"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1916,
+        "month": 8,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Entrée en guerre de la Roumanie",
+      "description": "La Roumanie intervient aux côtés de l'Entente fin août 1916, mais sera écrasée en quelques semaines.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Roumanie"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 261,
+        "line_end": 264,
+        "excerpt": "L'intervention de la Roumanie à la fin du mois d'août 1916 fut une diversion nouvelle... Cependant la Roumanie fut écrasée en quelques semaines"
+      },
+      "id": "evt_22_021"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1916,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de la Somme",
+      "description": "Offensive alliée sur la Somme en réponse à Verdun.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Somme"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 262,
+        "line_end": 264,
+        "excerpt": "une vigoureuse «réplique de Verdun» que les Alliés lancèrent sur la Somme"
+      },
+      "id": "evt_22_022"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1916,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Massacre du Zappeïon d'Athènes",
+      "description": "Des marins français sont massacrés par trahison au Zappeïon d'Athènes, alors que le roi Constantin penche vers l'Allemagne.",
+      "importance": 2,
+      "people": [
+        "Constantin Ier de Grèce",
+        "Guillaume II"
+      ],
+      "locations": [
+        "Athènes",
+        "Grèce"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 264,
+        "line_end": 269,
+        "excerpt": "le massacre, par trahison, de marins français au Zappeïon d'Athènes"
+      },
+      "id": "evt_22_023"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1917,
+        "month": 3,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Révolution russe - Chute de Nicolas II",
+      "description": "La révolution russe renverse Nicolas II, privant la France d'un allié fidèle. La Russie tombe dans le chaos.",
+      "importance": 5,
+      "people": [
+        "Nicolas II"
+      ],
+      "locations": [
+        "Russie"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 278,
+        "line_end": 285,
+        "excerpt": "la révolution, en renversant Nicolas II, nous privait d'un allié qui, malgré les incertitudes de son caractère, nous était resté fidèle."
+      },
+      "id": "evt_22_024"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1917,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mutineries dans l'armée française",
+      "description": "Des mutineries éclatent dans l'armée française, répercussion des événements de Russie.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 286,
+        "line_end": 288,
+        "excerpt": "Des mutineries éclatèrent dans l'armée."
+      },
+      "id": "evt_22_025"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1917,
+        "month": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Clemenceau devient président du Conseil",
+      "description": "Georges Clemenceau devient président du Conseil avec le programme 'Je fais la guerre'. Il poursuit les affaires de trahison et inculpe Joseph Caillaux.",
+      "importance": 4,
+      "people": [
+        "Georges Clemenceau",
+        "Joseph Caillaux",
+        "Louis Malvy",
+        "Léon Daudet",
+        "Paul Painlevé"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 299,
+        "line_end": 309,
+        "excerpt": "En novembre 1917 Clemenceau devenait président du conseil avec ce programme, à l'intérieur comme à l'extérieur: «Je fais la guerre.»"
+      },
+      "id": "evt_22_026"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1917,
+        "month": 4,
+        "day": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Déclaration de guerre des États-Unis à l'Allemagne",
+      "description": "Le président Wilson déclare la guerre à l'Allemagne, apportant un nouveau contre-poids après la défection russe.",
+      "importance": 5,
+      "people": [
+        "Woodrow Wilson"
+      ],
+      "locations": [
+        "États-Unis"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 322,
+        "line_end": 330,
+        "excerpt": "le président Wilson avait déclaré la guerre le 2 avril 1917, les Etats-Unis ne seraient pas en mesure de prendre part à la lutte avant de longs mois."
+      },
+      "id": "evt_22_027"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1918,
+        "month": 3,
+        "day": 21,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Offensive Ludendorff - Attaque du front anglais",
+      "description": "L'offensive allemande de Ludendorff enfonce le front anglais, une armée britannique bat en retraite. Paris est bombardé par de mystérieux canons à longue distance.",
+      "importance": 4,
+      "people": [
+        "Erich Ludendorff",
+        "Paul von Hindenburg"
+      ],
+      "locations": [
+        "France",
+        "Paris"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 340,
+        "line_end": 348,
+        "excerpt": "le 21 mars 1918, Ludendorff l'attaquait, l'enfonçait. Toute une armée anglaise battait en retraite"
+      },
+      "id": "evt_22_028"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1918,
+        "month": 3,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Foch reçoit le commandement unique des armées alliées",
+      "description": "Le général Ferdinand Foch reçoit enfin le commandement unique des armées alliées face au danger commun.",
+      "importance": 4,
+      "people": [
+        "Ferdinand Foch"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 350,
+        "line_end": 353,
+        "excerpt": "un général français, Foch, reçut enfin le commandement unique des armées alliées. La guerre eut désormais une direction et une méthode."
+      },
+      "id": "evt_22_029"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1918,
+        "month": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Seconde bataille de la Marne",
+      "description": "Les Allemands revenus sur la Marne y subissent une nouvelle défaite en juillet 1918. Foch passe à l'offensive générale.",
+      "importance": 5,
+      "people": [
+        "Ferdinand Foch"
+      ],
+      "locations": [
+        "Marne",
+        "Amiens",
+        "Compiègne",
+        "Flandre",
+        "Chemin des Dames"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 354,
+        "line_end": 360,
+        "excerpt": "les Allemands, revenus jusque sur la Marne, y trouvent au mois de juillet une autre défaite."
+      },
+      "id": "evt_22_030"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1918,
+        "month": 11,
+        "day": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Armistice du 11 novembre 1918",
+      "description": "Armistice accordé à l'armée allemande, jugé 'généreux jusqu'à l'imprudence', qui sauve l'armée allemande d'une catastrophe totale et lui permet de repasser le Rhin sans avoir capitulé.",
+      "importance": 5,
+      "people": [
+        "Ferdinand Foch"
+      ],
+      "locations": [
+        "France",
+        "Rhin"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 362,
+        "line_end": 368,
+        "excerpt": "Le 11 novembre 1918, un armistice, «généreux jusqu'à l'imprudence», était accordé à l'armée allemande, la sauvait d'une catastrophe totale et lui permettait de repasser le Rhin sans avoir capitulé."
+      },
+      "id": "evt_22_031"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1918,
+        "month": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Chute des empires centraux",
+      "description": "Les trônes des Habsbourg, des Hohenzollern et de tous les souverains allemands tombent les uns après les autres. Guillaume II fuit l'Allemagne.",
+      "importance": 5,
+      "people": [
+        "Guillaume II"
+      ],
+      "locations": [
+        "Autriche",
+        "Allemagne"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 369,
+        "line_end": 376,
+        "excerpt": "Les trônes, celui des Habsbourg, celui des Hohenzollern, ceux de tous les souverains allemands, tombaient les uns après les autres."
+      },
+      "id": "evt_22_032"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1919,
+        "month": 6,
+        "day": 28,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Traité de Versailles",
+      "description": "Signature du traité de paix dans la galerie des Glaces à Versailles, même lieu où l'Empire allemand avait été proclamé le 18 janvier 1871. Vingt-sept nations signent avec les délégués de la République allemande.",
+      "importance": 5,
+      "people": [],
+      "locations": [
+        "Versailles"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 410,
+        "line_end": 418,
+        "excerpt": "la paix qui fut conclue à Versailles le 28 juin 1919, jour anniversaire du crime de Sarajevo, dans cette même galerie des Glaces où, le 18 janvier 1871, avait été proclamé l'Empire allemand."
+      },
+      "id": "evt_22_033"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1871,
+        "month": 1,
+        "day": 18,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Proclamation de l'Empire allemand à Versailles",
+      "description": "L'Empire allemand avait été proclamé dans la galerie des Glaces à Versailles après la défaite française de 1870.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Versailles"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 413,
+        "line_end": 415,
+        "excerpt": "dans cette même galerie des Glaces où, le 18 janvier 1871, avait été proclamé l'Empire allemand"
+      },
+      "id": "evt_22_034"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1919,
+        "month": 11,
+        "day": 16,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Élections législatives de novembre 1919 - Victoire du Bloc national",
+      "description": "Premières élections depuis 1914, avec représentation proportionnelle. Victoire des modérés et conservateurs du Bloc national.",
+      "importance": 3,
+      "people": [
+        "Georges Clemenceau",
+        "Louis Malvy",
+        "Joseph Caillaux"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 439,
+        "line_end": 451,
+        "excerpt": "les élections du 16 novembre 1919 eurent lieu. Pour la première fois, le vieux scrutin d'arrondissement était abandonné"
+      },
+      "id": "evt_22_035"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1920,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Élection de Paul Deschanel à la présidence",
+      "description": "Paul Deschanel succède à Poincaré. Clemenceau, candidat, n'est pas élu. Deschanel promet la fin de l'anticléricalisme et la reprise des relations avec le Saint-Siège.",
+      "importance": 3,
+      "people": [
+        "Paul Deschanel",
+        "Raymond Poincaré",
+        "Georges Clemenceau"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 453,
+        "line_end": 458,
+        "excerpt": "Paul Deschanel, qui avait promis la fin de l'anticléricalisme et la reprise des relations diplomatiques avec le Saint-Siège, succéda à Poincaré."
+      },
+      "id": "evt_22_036"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1920,
+        "month": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Guerre polono-soviétique - Bataille de Varsovie",
+      "description": "La Pologne est envahie par les Russes soviétiques. Millerand envoie le général Weygand en appui. L'armée rouge est repoussée après être entrée dans les faubourgs de Varsovie.",
+      "importance": 4,
+      "people": [
+        "Alexandre Millerand",
+        "Maxime Weygand"
+      ],
+      "locations": [
+        "Pologne",
+        "Varsovie"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 475,
+        "line_end": 483,
+        "excerpt": "au mois d'août 1920 la Pologne fut envahie par les Russes... l'armée rouge fut repoussée après être entrée jusque dans les faubourgs de Varsovie."
+      },
+      "id": "evt_22_037"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1920,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Alexandre Millerand devient président de la République",
+      "description": "Millerand succède à Deschanel, obligé de se démettre pour maladie. Il annonce vouloir remplir un rôle actif.",
+      "importance": 3,
+      "people": [
+        "Alexandre Millerand",
+        "Paul Deschanel"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 487,
+        "line_end": 494,
+        "excerpt": "ce fut lui qui succéda au président Deschanel, obligé par la maladie de se démettre de sa charge"
+      },
+      "id": "evt_22_038"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1922,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Démission de Briand - Poincaré président du Conseil",
+      "description": "Millerand rappelle Briand de Cannes et lui demande sa démission. Raymond Poincaré prend le pouvoir, favorable à l'exécution intégrale du traité de Versailles.",
+      "importance": 3,
+      "people": [
+        "Alexandre Millerand",
+        "Aristide Briand",
+        "Raymond Poincaré",
+        "Lloyd George"
+      ],
+      "locations": [
+        "Cannes",
+        "Paris"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 501,
+        "line_end": 514,
+        "excerpt": "La protestation des Chambres et de l'opinion publique détermina Millerand à rappeler Briand de Cannes... Opposé à la politique des concessions... Raymond Poincaré était naturellement désigné pour prendre le pouvoir."
+      },
+      "id": "evt_22_039"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1923,
+        "month": 1,
+        "day": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Occupation de la Ruhr",
+      "description": "Les troupes françaises et belges entrent à Essen et occupent la Ruhr pour forcer l'Allemagne à respecter ses engagements de réparations.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Ruhr",
+        "Essen"
+      ],
+      "group_dynasty": "Troisième République",
+      "source": {
+        "line_start": 525,
+        "line_end": 528,
+        "excerpt": "le gouvernement français, de concert avec la Belgique, prit la solution d'occuper la Ruhr. Le 11 janvier 1923, sans coup férir, les troupes françaises entraient à Essen."
+      },
+      "id": "evt_22_040"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1620,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de la Montagne Blanche (référence)",
+      "description": "Référence à la bataille de la Montagne Blanche au XVIIe siècle, mentionnée comme exemple de conflit européen lointain ayant impliqué la France.",
+      "importance": 2,
+      "people": [],
+      "locations": [
+        "Montagne Blanche",
+        "Bohême"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 14,
+        "line_end": 16,
+        "excerpt": "comme au dix-septième siècle, après la Montagne Blanche"
+      },
+      "id": "evt_22_041"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1866,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Sadowa (référence)",
+      "description": "Référence à Sadowa au XIXe siècle, victoire prussienne qui annonçait le danger allemand pour la France.",
+      "importance": 2,
+      "people": [],
+      "locations": [
+        "Sadowa"
+      ],
+      "group_dynasty": "Second Empire",
+      "source": {
+        "line_start": 15,
+        "line_end": 16,
+        "excerpt": "comme au dix-neuvième siècle, après Sadowa"
+      },
+      "id": "evt_22_042"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1792,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Valmy (référence)",
+      "description": "Référence à la victoire de Valmy en 1792, comparée à la bataille de la Marne pour l'espoir qu'elle suscita.",
+      "importance": 2,
+      "people": [],
+      "locations": [
+        "Valmy"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 165,
+        "line_end": 166,
+        "excerpt": "la France crut à la victoire complète, à la délivrance du territoire, comme après Valmy"
+      },
+      "id": "evt_22_043"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1827,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Navarin (référence)",
+      "description": "Référence à la bataille de Navarin où la France s'était battue pour la liberté grecque, moins d'un siècle avant le massacre du Zappeïon.",
+      "importance": 2,
+      "people": [],
+      "locations": [
+        "Navarin"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 267,
+        "line_end": 269,
+        "excerpt": "moins d'un siècle après Navarin, quand la France s'était passionnée pour la liberté hellénique"
+      },
+      "id": "evt_22_044"
+    }
+  ],
+  "people": [
+    {
+      "name": "Raymond Poincaré",
+      "aliases": [
+        "Poincaré"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Président de la République",
+        "Président du Conseil"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1913,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1920,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [],
+      "source_lines": [
+        18,
+        61,
+        454,
+        510
+      ],
+      "id": "per_raymond_poincar_"
+    },
+    {
+      "name": "René Viviani",
+      "aliases": [
+        "Viviani"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Président du Conseil"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        18,
+        65
+      ],
+      "id": "per_ren__viviani"
+    },
+    {
+      "name": "Jean Jaurès",
+      "aliases": [
+        "Jaurès"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Chef socialiste"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1914,
+        "month": 7,
+        "day": 31,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        78
+      ],
+      "id": "per_jean_jaur_s"
+    },
+    {
+      "name": "Joseph Joffre",
+      "aliases": [
+        "Joffre"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Général",
+        "Maréchal de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        149,
+        156
+      ],
+      "id": "per_joseph_joffre"
+    },
+    {
+      "name": "Joseph Gallieni",
+      "aliases": [
+        "Gallieni"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        149
+      ],
+      "id": "per_joseph_gallieni"
+    },
+    {
+      "name": "Ferdinand Foch",
+      "aliases": [
+        "Foch"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Général",
+        "Maréchal",
+        "Généralissime"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        351,
+        357,
+        363
+      ],
+      "id": "per_ferdinand_foch"
+    },
+    {
+      "name": "Georges Clemenceau",
+      "aliases": [
+        "Clemenceau"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Président du Conseil"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        297,
+        300,
+        306,
+        438,
+        453
+      ],
+      "id": "per_georges_clemenceau"
+    },
+    {
+      "name": "Joseph Caillaux",
+      "aliases": [
+        "Caillaux"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Ancien ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        303,
+        449
+      ],
+      "id": "per_joseph_caillaux"
+    },
+    {
+      "name": "Louis Malvy",
+      "aliases": [
+        "Malvy"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Ministre de l'intérieur"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        290,
+        305,
+        449
+      ],
+      "id": "per_louis_malvy"
+    },
+    {
+      "name": "Léon Daudet",
+      "aliases": [],
+      "dynasty": "Troisième République",
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        291
+      ],
+      "id": "per_l_on_daudet"
+    },
+    {
+      "name": "Paul Painlevé",
+      "aliases": [
+        "Painlevé"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Président du Conseil"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        292
+      ],
+      "id": "per_paul_painlev_"
+    },
+    {
+      "name": "Nicolas II",
+      "aliases": [],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Tsar de Russie"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        279
+      ],
+      "id": "per_nicolas_ii"
+    },
+    {
+      "name": "Woodrow Wilson",
+      "aliases": [
+        "Wilson",
+        "Président Wilson"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Président des États-Unis"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        322,
+        327,
+        390,
+        400,
+        468
+      ],
+      "id": "per_woodrow_wilson"
+    },
+    {
+      "name": "Paul von Hindenburg",
+      "aliases": [
+        "Hindenburg"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Général allemand"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        315
+      ],
+      "id": "per_paul_von_hindenburg"
+    },
+    {
+      "name": "Erich Ludendorff",
+      "aliases": [
+        "Ludendorff"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Général allemand"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        315,
+        340
+      ],
+      "id": "per_erich_ludendorff"
+    },
+    {
+      "name": "Alexander von Kluck",
+      "aliases": [
+        "von Kluck"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Général allemand"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        150
+      ],
+      "id": "per_alexander_von_kluck"
+    },
+    {
+      "name": "Guillaume II",
+      "aliases": [],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Empereur d'Allemagne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "beau-frère",
+          "person": "Constantin Ier de Grèce"
+        }
+      ],
+      "source_lines": [
+        228,
+        374
+      ],
+      "id": "per_guillaume_ii"
+    },
+    {
+      "name": "Constantin Ier de Grèce",
+      "aliases": [
+        "roi Constantin"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Roi de Grèce"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "beau-frère",
+          "person": "Guillaume II"
+        }
+      ],
+      "source_lines": [
+        228
+      ],
+      "id": "per_constantin_ier_de_gr"
+    },
+    {
+      "name": "Paul Déroulède",
+      "aliases": [
+        "Déroulède"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        207
+      ],
+      "id": "per_paul_d_roul_de"
+    },
+    {
+      "name": "Alexandre Millerand",
+      "aliases": [
+        "Millerand"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Président du Conseil",
+        "Président de la République"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        461,
+        480,
+        488,
+        501
+      ],
+      "id": "per_alexandre_millerand"
+    },
+    {
+      "name": "Aristide Briand",
+      "aliases": [
+        "Briand"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Président du Conseil"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        499,
+        504
+      ],
+      "id": "per_aristide_briand"
+    },
+    {
+      "name": "Paul Deschanel",
+      "aliases": [
+        "Deschanel"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Président de la République"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1920,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1920,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [],
+      "source_lines": [
+        454,
+        487
+      ],
+      "id": "per_paul_deschanel"
+    },
+    {
+      "name": "Lloyd George",
+      "aliases": [],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Premier ministre britannique"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        503
+      ],
+      "id": "per_lloyd_george"
+    },
+    {
+      "name": "Maxime Weygand",
+      "aliases": [
+        "général Weygand"
+      ],
+      "dynasty": "Troisième République",
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        480
+      ],
+      "id": "per_maxime_weygand"
+    },
+    {
+      "name": "Mirabeau",
+      "aliases": [],
+      "dynasty": "Première République",
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        47
+      ],
+      "id": "per_mirabeau"
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_troisieme_republique",
+      "name": "Troisième République",
+      "period_start": {
+        "year": 1870,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1940,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,1962 @@
+{
+  "chapter_number": 11,
+  "chapter_title": "LOUIS XIII ET RICHELIEU: LA LUTTE NATIONALE CONTRE LA MAISON D'AUTRICHE",
+  "line_start": 5297,
+  "line_end": 5710,
+  "validation_status": "success",
+  "entries": [
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1610,
+        "month": 5,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort d'Henri IV",
+      "description": "Assassinat d'Henri IV par Ravaillac, marquant le début de la régence de Marie de Médicis et la crainte d'un retour des troubles.",
+      "importance": 5,
+      "people": [
+        "Henri IV",
+        "Ravaillac",
+        "Marie de Médicis",
+        "Sully"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 6,
+        "line_end": 14,
+        "excerpt": "Au lendemain de la mort d'Henri IV, tout le monde craignit le recommencement des troubles... «Le temps des rois est passé. Celui des princes et des grands est venu.»"
+      },
+      "id": "evt_11_001"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1610,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Prise de Juliers",
+      "description": "Prise de la ville de Juliers par la France et les Hollandais pour empêcher qu'elle reste aux Impériaux, puis remise aux alliés d'Allemagne.",
+      "importance": 2,
+      "people": [
+        "Villeroy"
+      ],
+      "locations": [
+        "Juliers",
+        "Allemagne",
+        "Pays-Bas"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 16,
+        "line_end": 21,
+        "excerpt": "On se contenta de prendre la ville de Juliers, de compte à demi avec les Hollandais, pour qu'elle ne restât pas aux Impériaux"
+      },
+      "id": "evt_11_002"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1615,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mariage de Louis XIII et Anne d'Autriche",
+      "description": "Mariage du jeune Louis XIII avec Anne d'Autriche pour s'assurer de l'alliance avec l'Espagne.",
+      "importance": 4,
+      "people": [
+        "Louis XIII",
+        "Anne d'Autriche",
+        "Henri IV"
+      ],
+      "locations": [
+        "France",
+        "Espagne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 19,
+        "line_end": 21,
+        "excerpt": "Pour s'assurer de l'Espagne, on réalisa un projet de mariage qui avait déjà été envisagé du vivant du roi et le jeune Louis XIII épousa Anne d'Autriche."
+      },
+      "id": "evt_11_003"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1614,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ligue des princes contre la régence",
+      "description": "Les princes Condé, Soissons, Mayenne, Bouillon, Nevers et Vendôme forment une ligue et prennent les armes contre la régence de Marie de Médicis.",
+      "importance": 3,
+      "people": [
+        "Condé",
+        "Soissons",
+        "Mayenne",
+        "Bouillon",
+        "Nevers",
+        "Vendôme",
+        "Concini",
+        "Marie de Médicis"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 23,
+        "line_end": 31,
+        "excerpt": "Les princes des deux religions, Condé, Soissons, Mayenne, Bouillon, Nevers, Vendôme, formèrent une ligue et prirent les armes."
+      },
+      "id": "evt_11_004"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1614,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "États Généraux de 1614",
+      "description": "Derniers États Généraux avant 1789, marqués par la querelle de la Paulette et les conflits entre les trois ordres. Premier discours politique de Richelieu comme orateur du clergé.",
+      "importance": 4,
+      "people": [
+        "Richelieu",
+        "Louis XIII"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 36,
+        "line_end": 55,
+        "excerpt": "Les Etats Généraux de 1614 seront les derniers avant ceux de 1789. Ils discréditèrent l'institution parce que l'idée du bien général en fut absente..."
+      },
+      "id": "evt_11_005"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1616,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Richelieu nommé secrétaire d'État à la Guerre",
+      "description": "Concini appelle aux affaires des hommes énergiques dont Richelieu, nommé secrétaire d'État à la Guerre.",
+      "importance": 4,
+      "people": [
+        "Richelieu",
+        "Concini"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 65,
+        "line_end": 68,
+        "excerpt": "C'est au milieu de ces désordres que Concini appela aux affaires des hommes énergiques, parmi lesquels Richelieu, qui fut nommé secrétaire d'Etat à la Guerre"
+      },
+      "id": "evt_11_006"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1617,
+        "month": 4,
+        "day": 24,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Assassinat de Concini",
+      "description": "Concini (maréchal d'Ancre) est arrêté et tué à coups de pistolet par Vitry sur ordre de Louis XIII au moment où il entre au Louvre.",
+      "importance": 3,
+      "people": [
+        "Concini",
+        "Louis XIII",
+        "Vitry",
+        "Charles d'Albert de Luynes",
+        "Marie de Médicis",
+        "Richelieu"
+      ],
+      "locations": [
+        "Paris",
+        "Louvre"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 77,
+        "line_end": 86,
+        "excerpt": "Le 24 avril 1615, au moment où Concini entrait au Louvre, il fut arrêté au nom du roi par Vitry, capitaine des gardes, et, comme il appelait à l'aide, tué à coups de pistolet."
+      },
+      "id": "evt_11_007"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1618,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Défenestration de Prague",
+      "description": "Les Tchèques de Bohême lancent la résistance contre l'Empereur par la défenestration des représentants impériaux au château de Prague, déclenchant la guerre de Trente Ans.",
+      "importance": 5,
+      "people": [
+        "Ferdinand II"
+      ],
+      "locations": [
+        "Prague",
+        "Bohême",
+        "Allemagne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 93,
+        "line_end": 100,
+        "excerpt": "La Bohême (les Tchèques d'aujourd'hui) avait commencé la résistance par la fameuse «défenestration» des représentants de l'Empereur au château de Prague."
+      },
+      "id": "evt_11_008"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1620,
+        "month": 11,
+        "day": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de la Montagne-Blanche",
+      "description": "Les Tchèques révoltés sont écrasés par les forces impériales. Cette victoire accroît considérablement la puissance de l'Empereur et menace indirectement la France.",
+      "importance": 4,
+      "people": [
+        "Ferdinand II"
+      ],
+      "locations": [
+        "Montagne-Blanche",
+        "Bohême",
+        "Prague"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 107,
+        "line_end": 111,
+        "excerpt": "Bientôt les Tchèques révoltés furent écrasés à la bataille de la Montagne-Blanche: ce fut pour l'Europe «le coup de tonnerre» que reproduira un jour la bataille de Sadowa."
+      },
+      "id": "evt_11_009"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1621,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Luynes",
+      "description": "Mort de Luynes alors que le Midi est troublé par les calvinistes et que le siège de Montauban a dû être levé.",
+      "importance": 2,
+      "people": [
+        "Charles d'Albert de Luynes",
+        "Louis XIII"
+      ],
+      "locations": [
+        "Montauban",
+        "Midi"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 115,
+        "line_end": 119,
+        "excerpt": "Au moment où Luynes mourut, le Midi était toujours troublé par les calvinistes, et le roi en personne, venu pour prendre Montauban, avait dû en lever le siège."
+      },
+      "id": "evt_11_010"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1624,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Richelieu obtient le pouvoir",
+      "description": "Richelieu, devenu cardinal, entre au Conseil du roi et devient rapidement le premier ministre, commençant le redressement de la politique étrangère française.",
+      "importance": 5,
+      "people": [
+        "Richelieu",
+        "Louis XIII",
+        "Marie de Médicis",
+        "Concini"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 122,
+        "line_end": 129,
+        "excerpt": "Il n'obtient le pouvoir qu'en 1624: Louis XIII avait peine à lui pardonner d'avoir été l'homme de Concini... Au Conseil, il fut bientôt le premier"
+      },
+      "id": "evt_11_011"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1624,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Affaire de la Valteline",
+      "description": "Richelieu délivre la vallée suisse de la Valteline des garnisons autrichiennes pour couper les communications de l'Empereur avec l'Espagne.",
+      "importance": 3,
+      "people": [
+        "Richelieu"
+      ],
+      "locations": [
+        "Valteline",
+        "Suisse",
+        "Italie"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 127,
+        "line_end": 131,
+        "excerpt": "C'était la vallée suisse de la Valteline par laquelle les Impériaux passaient librement en Italie. En délivrant la Valteline des garnisons autrichiennes, la France coupait les communications de l'Empereur avec l'Espagne."
+      },
+      "id": "evt_11_012"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1625,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mariage d'Henriette de France et Charles Ier",
+      "description": "Henriette de France épouse Charles Ier d'Angleterre dans le cadre des alliances protestantes de Richelieu contre la maison d'Autriche.",
+      "importance": 3,
+      "people": [
+        "Henriette de France",
+        "Charles Ier d'Angleterre",
+        "Richelieu"
+      ],
+      "locations": [
+        "France",
+        "Angleterre"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 135,
+        "line_end": 138,
+        "excerpt": "Pour combattre la maison d'Autriche il fallait, en Europe, recourir à des alliés protestants: princes allemands, Pays-Bas, Angleterre, et c'est ainsi qu'Henriette de France épousa Charles Ier."
+      },
+      "id": "evt_11_013"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1626,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Exécution de Chalais",
+      "description": "Chalais, qui avait pris part au complot autour de Gaston d'Orléans, est décapité sur ordre de Richelieu.",
+      "importance": 2,
+      "people": [
+        "Chalais",
+        "Gaston d'Orléans",
+        "Richelieu",
+        "Louis XIII"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 140,
+        "line_end": 144,
+        "excerpt": "Il fallut briser la cabale qui s'était formée autour de Gaston d'Orléans: Chalais qui, chargé de surveiller le remuant jeune prince, avait pris part au complot, eut la tête tranchée."
+      },
+      "id": "evt_11_014"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1627,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Anglais chassés de l'île de Ré",
+      "description": "Les Anglais, descendus dans l'île de Ré pour porter secours aux protestants de La Rochelle, en sont chassés par les forces françaises.",
+      "importance": 3,
+      "people": [
+        "Richelieu",
+        "Malherbe"
+      ],
+      "locations": [
+        "Île de Ré",
+        "La Rochelle"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 160,
+        "line_end": 163,
+        "excerpt": "Les Anglais, descendus dans l'île de Ré pour leur porter secours, en furent heureusement chassés."
+      },
+      "id": "evt_11_015"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1628,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Siège et capitulation de La Rochelle",
+      "description": "Richelieu mène le long siège de La Rochelle, bastion protestant. Après un nouvel échec des Anglais, la ville capitule, marquant une étape décisive dans la soumission des protestants.",
+      "importance": 5,
+      "people": [
+        "Richelieu"
+      ],
+      "locations": [
+        "La Rochelle"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 163,
+        "line_end": 167,
+        "excerpt": "On dut encore réduire La Rochelle par un long siège qui est resté fameux et où Richelieu montra sa ténacité. Du succès de cette entreprise, tout le reste dépendait."
+      },
+      "id": "evt_11_016"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1629,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Défaite finale du protestantisme politique",
+      "description": "Après la prise de La Rochelle, les dernières places rebelles du Midi sont soumises. Le protestantisme cesse d'être un parti politique et un État dans l'État.",
+      "importance": 5,
+      "people": [
+        "Richelieu"
+      ],
+      "locations": [
+        "Midi",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 167,
+        "line_end": 170,
+        "excerpt": "L'année 1629 marqua la défaite finale du protestantisme comme parti politique et comme Etat dans l'Etat."
+      },
+      "id": "evt_11_017"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1630,
+        "month": 11,
+        "day": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Journée des Dupes",
+      "description": "Richelieu triomphe de l'opposition groupée autour de Monsieur (Gaston d'Orléans) et de la reine mère Marie de Médicis, avec l'appui décisif de Louis XIII.",
+      "importance": 4,
+      "people": [
+        "Richelieu",
+        "Louis XIII",
+        "Gaston d'Orléans",
+        "Marie de Médicis"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 171,
+        "line_end": 175,
+        "excerpt": "Délivré de ce péril intérieur, Richelieu eut encore à défendre sa situation personnelle contre l'opposition qui se groupait autour de Monsieur et de la reine mère. Assuré de l'appui de Louis XIII après la «journée des Dupes»"
+      },
+      "id": "evt_11_018"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1632,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Exécution du maréchal de Montmorency",
+      "description": "Le maréchal de Montmorency, gouverneur du Languedoc, qui avait pris parti pour Gaston d'Orléans, est décapité sur ordre de Louis XIII et Richelieu.",
+      "importance": 3,
+      "people": [
+        "Montmorency",
+        "Gaston d'Orléans",
+        "Louis XIII",
+        "Richelieu"
+      ],
+      "locations": [
+        "Languedoc",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 175,
+        "line_end": 178,
+        "excerpt": "le maréchal de Montmorency, gouverneur du Languedoc, qui avait pris fait et cause pour Gaston d'Orléans, eut la tête tranchée."
+      },
+      "id": "evt_11_019"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1632,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Gustave-Adolphe à Lutzen",
+      "description": "Le roi de Suède Gustave-Adolphe, champion du protestantisme et allié précieux contre l'Empereur, est tué dans sa victoire à Lutzen.",
+      "importance": 4,
+      "people": [
+        "Gustave-Adolphe",
+        "Ferdinand II",
+        "Richelieu"
+      ],
+      "locations": [
+        "Lutzen",
+        "Allemagne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 196,
+        "line_end": 199,
+        "excerpt": "lorsque Gustave-Adolphe eut été tué dans sa dernière victoire, celle de Lutzen, en 1632, un précieux auxiliaire disparut."
+      },
+      "id": "evt_11_020"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1633,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Occupation de la Lorraine",
+      "description": "La Lorraine, dont le duc se prêtait aux intrigues de Gaston d'Orléans, est occupée par les forces françaises.",
+      "importance": 3,
+      "people": [
+        "Richelieu",
+        "Gaston d'Orléans",
+        "Duc de Lorraine"
+      ],
+      "locations": [
+        "Lorraine"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 203,
+        "line_end": 205,
+        "excerpt": "En effet la Lorraine, dont le duc se prêtait aux intrigues de Gaston d'Orléans, fut occupée."
+      },
+      "id": "evt_11_021"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1633,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Garnisons françaises en Alsace",
+      "description": "Richelieu place des garnisons en Alsace dont les habitants avaient demandé la protection de la France pour éviter les ravages de la guerre.",
+      "importance": 4,
+      "people": [
+        "Richelieu"
+      ],
+      "locations": [
+        "Alsace",
+        "Allemagne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 205,
+        "line_end": 209,
+        "excerpt": "Richelieu mit des garnisons en Alsace dont les habitants avaient réclamé la protection de la France, craignant que leur pays ne servît de champ de bataille"
+      },
+      "id": "evt_11_022"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1634,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Assassinat de Wallenstein",
+      "description": "Le célèbre général impérial Wallenstein, en révolte contre l'Empereur Ferdinand, est assassiné, ce qui raffermit l'autorité impériale.",
+      "importance": 3,
+      "people": [
+        "Wallenstein",
+        "Ferdinand II"
+      ],
+      "locations": [
+        "Allemagne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 209,
+        "line_end": 211,
+        "excerpt": "Mais Wallenstein fut assassiné et l'autorité impériale se raffermit."
+      },
+      "id": "evt_11_023"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1634,
+        "month": 9,
+        "day": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Nördlingen",
+      "description": "La ligue protestante allemande est battue par les forces impériales et espagnoles à Nördlingen. La France doit intervenir directement ou abandonner l'Europe à la maison d'Autriche.",
+      "importance": 4,
+      "people": [
+        "Richelieu",
+        "Ferdinand II"
+      ],
+      "locations": [
+        "Nördlingen",
+        "Allemagne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 211,
+        "line_end": 215,
+        "excerpt": "Les Suédois commencèrent à reculer. La ligue protestante fut battue à Nordlingue. La France devait s'en mêler ou abandonner l'Europe à la domination de la maison d'Autriche."
+      },
+      "id": "evt_11_024"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1635,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Entrée de la France dans la guerre de Trente Ans",
+      "description": "Après vingt-cinq ans d'évitement, la France entre directement dans la guerre contre la maison d'Autriche. Richelieu se résout à l'intervention militaire directe.",
+      "importance": 5,
+      "people": [
+        "Richelieu",
+        "Louis XIII"
+      ],
+      "locations": [
+        "France",
+        "Allemagne",
+        "Pays-Bas"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 217,
+        "line_end": 221,
+        "excerpt": "On était en 1635. Il y avait vingt-cinq ans que la France écartait la guerre. Cette fois, elle venait nous chercher et Richelieu dut s'y résoudre."
+      },
+      "id": "evt_11_025"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1636,
+        "month": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Prise de Corbie par les Espagnols",
+      "description": "Les Espagnols prennent Corbie en Picardie, menaçant Paris. Louis XIII et Richelieu restent dans la capitale, évitant la panique et provoquant un sursaut patriotique.",
+      "importance": 4,
+      "people": [
+        "Richelieu",
+        "Louis XIII"
+      ],
+      "locations": [
+        "Corbie",
+        "Picardie",
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 221,
+        "line_end": 230,
+        "excerpt": "La prise de Corbie par les Espagnols en août 1636 rappela que notre pays était vulnérable et Paris dangereusement voisin de la frontière."
+      },
+      "id": "evt_11_026"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1636,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "L'année de Corbie - Sursaut national",
+      "description": "Mouvement de patriotisme français face à l'invasion espagnole. Année du Cid de Corneille et de la fondation de l'Académie française par Richelieu. Annonce du siècle de Louis XIV.",
+      "importance": 4,
+      "people": [
+        "Richelieu",
+        "Louis XIII",
+        "Corneille"
+      ],
+      "locations": [
+        "France",
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 227,
+        "line_end": 232,
+        "excerpt": "L'«année de Corbie» a beaucoup frappé les contemporains. La France y donna en effet une preuve de solidité... C'est l'année du Cid, l'année où Richelieu fonde l'Académie française."
+      },
+      "id": "evt_11_027"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1636,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Fondation de l'Académie française",
+      "description": "Richelieu fonde l'Académie française, institution culturelle majeure qui symbolise le rayonnement de la France.",
+      "importance": 4,
+      "people": [
+        "Richelieu"
+      ],
+      "locations": [
+        "Paris",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 230,
+        "line_end": 232,
+        "excerpt": "C'est l'année du Cid, l'année où Richelieu fonde l'Académie française. L'annonce du siècle de Louis XIV est là."
+      },
+      "id": "evt_11_028"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1638,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Prise de Brisach",
+      "description": "Prise de la forteresse de Brisach par les forces françaises, victoire importante dans la guerre contre la maison d'Autriche.",
+      "importance": 3,
+      "people": [
+        "Richelieu"
+      ],
+      "locations": [
+        "Brisach",
+        "Alsace"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 244,
+        "line_end": 246,
+        "excerpt": "Des campagnes difficiles mais heureuses et marquées par la prise de Brisach et celle d'Arras"
+      },
+      "id": "evt_11_029"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1640,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Prise d'Arras",
+      "description": "Prise de la ville d'Arras par les forces françaises, victoire significative contre les Espagnols.",
+      "importance": 3,
+      "people": [
+        "Richelieu"
+      ],
+      "locations": [
+        "Arras",
+        "Artois"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 244,
+        "line_end": 246,
+        "excerpt": "Des campagnes difficiles mais heureuses et marquées par la prise de Brisach et celle d'Arras"
+      },
+      "id": "evt_11_030"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1640,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Révolte des Catalans et Portugais contre l'Espagne",
+      "description": "La Catalogne et le Portugal se révoltent contre le gouvernement espagnol, affaiblissant l'Espagne au profit de la France.",
+      "importance": 3,
+      "people": [
+        "Richelieu"
+      ],
+      "locations": [
+        "Catalogne",
+        "Portugal",
+        "Espagne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 246,
+        "line_end": 249,
+        "excerpt": "la révolte des Catalans et des Portugais contre le gouvernement espagnol, circonstance dont sut profiter la politique de Richelieu"
+      },
+      "id": "evt_11_031"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1642,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Occupation du Roussillon",
+      "description": "Le Roussillon est occupé par les forces françaises et restera définitivement français, marquant une avancée vers les frontières des Pyrénées.",
+      "importance": 4,
+      "people": [
+        "Richelieu",
+        "Louis XIII"
+      ],
+      "locations": [
+        "Roussillon",
+        "Pyrénées"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 249,
+        "line_end": 252,
+        "excerpt": "C'est alors que le Roussillon fut occupé et nous n'en sortirons plus."
+      },
+      "id": "evt_11_032"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1642,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Exécution de Cinq-Mars et de Thou",
+      "description": "Cinq-Mars et son complice de Thou sont exécutés pour complot contre Richelieu.",
+      "importance": 2,
+      "people": [
+        "Cinq-Mars",
+        "de Thou",
+        "Richelieu",
+        "Louis XIII"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 182,
+        "line_end": 185,
+        "excerpt": "on est surpris des murmures qu'excita l'exécution de Montmorency, comme plus tard celle de Cinq-Mars et de son complice de Thou."
+      },
+      "id": "evt_11_033"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1642,
+        "month": 12,
+        "day": 4,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort du cardinal de Richelieu",
+      "description": "Mort du cardinal de Richelieu après avoir fait avancer la France vers ses frontières historiques du Rhin et des Pyrénées. Sa mort est ressentie comme un soulagement par les contemporains.",
+      "importance": 5,
+      "people": [
+        "Richelieu",
+        "Louis XIII"
+      ],
+      "locations": [
+        "Paris",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 252,
+        "line_end": 257,
+        "excerpt": "Rien n'était pourtant achevé, la guerre continuait du côté allemand et du côté espagnol, lorsque, cette année-là, le cardinal mourut."
+      },
+      "id": "evt_11_034"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1643,
+        "month": 5,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort de Louis XIII",
+      "description": "Louis XIII meurt cinq mois après Richelieu, laissant un roi de cinq ans (Louis XIV), une régente espagnole (Anne d'Autriche) et un ministre italien (Mazarin).",
+      "importance": 5,
+      "people": [
+        "Louis XIII",
+        "Richelieu",
+        "Louis XIV",
+        "Anne d'Autriche",
+        "Mazarin"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 255,
+        "line_end": 258,
+        "excerpt": "Cinq mois après Louis XIII le suivit dans la tombe. Ces deux hommes unis par la raison d'Etat... ne peuvent plus, pour l'histoire, être séparés."
+      },
+      "id": "evt_11_035"
+    },
+    {
+      "type": "reign_start",
+      "date_start": {
+        "year": 1643,
+        "month": 5,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Début du règne de Louis XIV",
+      "description": "Début du règne de Louis XIV, âgé de cinq ans, sous la régence d'Anne d'Autriche et le ministère de Mazarin.",
+      "importance": 5,
+      "people": [
+        "Louis XIV",
+        "Anne d'Autriche",
+        "Mazarin",
+        "Richelieu"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 272,
+        "line_end": 276,
+        "excerpt": "Un roi de cinq ans, une régente espagnole, un ministre italien: mauvaises conditions, semblait-il, mais corrigées par une chose importante. Richelieu laissait une doctrine d'Etat"
+      },
+      "id": "evt_11_036"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1643,
+        "month": 5,
+        "day": 19,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Rocroi",
+      "description": "Victoire éclatante de Condé sur la redoutable infanterie espagnole à Rocroi, donnant aux Français un élan nouveau au début du règne de Louis XIV.",
+      "importance": 5,
+      "people": [
+        "Condé",
+        "Mazarin"
+      ],
+      "locations": [
+        "Rocroi",
+        "Ardennes"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 286,
+        "line_end": 290,
+        "excerpt": "En 1643 une victoire éclatante à Rocroy, où la redoutable infanterie espagnole fut battue par Condé, donna aux Français un élan nouveau."
+      },
+      "id": "evt_11_037"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1644,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Début des négociations de paix à Munster",
+      "description": "Début des négociations de paix à Munster en Westphalie, l'année après Rocroi. Les négociations dureront quatre ans.",
+      "importance": 3,
+      "people": [
+        "Mazarin"
+      ],
+      "locations": [
+        "Munster",
+        "Westphalie",
+        "Allemagne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 292,
+        "line_end": 296,
+        "excerpt": "Dès le temps de Richelieu on avait parlé de la paix. L'année d'après Rocroy, des négociations commencèrent. Le lieu choisi pour la conférence était Munster, en Westphalie."
+      },
+      "id": "evt_11_038"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1648,
+        "month": 8,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Lens",
+      "description": "Victoire éclatante du Grand Condé sur les Impériaux unis aux Espagnols à Lens, qui décide l'Empereur à traiter.",
+      "importance": 4,
+      "people": [
+        "Condé",
+        "Turenne",
+        "Mazarin"
+      ],
+      "locations": [
+        "Lens",
+        "Artois"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 297,
+        "line_end": 300,
+        "excerpt": "Les campagnes de Turenne en Allemagne, une éclatante victoire du Grand Condé à Lens sur les Impériaux unis aux Espagnols décidèrent enfin l'Empereur à traiter."
+      },
+      "id": "evt_11_039"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1648,
+        "month": 10,
+        "day": 24,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Traité de Westphalie",
+      "description": "Signature du traité de Westphalie qui couronne la politique de Richelieu. La France obtient l'Alsace et le droit de garantie sur la Constitution de l'Empire. L'Allemagne est divisée en 343 États indépendants, consacrant son impuissance politique.",
+      "importance": 5,
+      "people": [
+        "Mazarin",
+        "Richelieu",
+        "Ferdinand II",
+        "Louis XIV"
+      ],
+      "locations": [
+        "Munster",
+        "Westphalie",
+        "Alsace",
+        "Allemagne",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 300,
+        "line_end": 340,
+        "excerpt": "La paix de Westphalie fut signée en octobre 1648. Cette paix, qui devait rester pendant un siècle et demi la charte de l'Europe, couronnait la politique de Richelieu."
+      },
+      "id": "evt_11_040"
+    },
+    {
+      "type": "period",
+      "date_start": {
+        "year": 1618,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 1648,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Guerre de Trente Ans",
+      "description": "Conflit européen majeur opposant les forces catholiques impériales aux princes protestants et leurs alliés. La France intervient d'abord indirectement par des subsides, puis directement à partir de 1635.",
+      "importance": 5,
+      "people": [
+        "Richelieu",
+        "Mazarin",
+        "Gustave-Adolphe",
+        "Ferdinand II",
+        "Wallenstein",
+        "Condé",
+        "Turenne"
+      ],
+      "locations": [
+        "Allemagne",
+        "Bohême",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 286,
+        "line_end": 288,
+        "excerpt": "Sur tous les fronts, la guerre continuait, cette guerre qui, pour l'Allemagne, fut de trente ans."
+      },
+      "id": "evt_11_041"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1648,
+        "month": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Début de la Fronde",
+      "description": "La France entre en état de révolution trois mois avant la signature du traité de Westphalie. Le gouvernement est à peine maître de Paris.",
+      "importance": 4,
+      "people": [
+        "Mazarin",
+        "Anne d'Autriche",
+        "Louis XIV"
+      ],
+      "locations": [
+        "Paris",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 347,
+        "line_end": 351,
+        "excerpt": "A l'heure où elle fut signée, la France était depuis trois mois en état de révolution et le gouvernement français à peine maître de Paris."
+      },
+      "id": "evt_11_042"
+    }
+  ],
+  "people": [
+    {
+      "name": "Louis XIII",
+      "aliases": [
+        "le roi"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": {
+        "year": 1601,
+        "month": 9,
+        "day": 27,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "death": {
+        "year": 1643,
+        "month": 5,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": {
+        "start": {
+          "year": 1610,
+          "month": 5,
+          "day": 14,
+          "circa": false,
+          "era": "CE",
+          "precision": "exact"
+        },
+        "end": {
+          "year": 1643,
+          "month": 5,
+          "day": 14,
+          "circa": false,
+          "era": "CE",
+          "precision": "exact"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Henri IV"
+        },
+        {
+          "type": "mère",
+          "person": "Marie de Médicis"
+        },
+        {
+          "type": "épouse",
+          "person": "Anne d'Autriche"
+        },
+        {
+          "type": "fils",
+          "person": "Louis XIV"
+        },
+        {
+          "type": "frère",
+          "person": "Gaston d'Orléans"
+        }
+      ],
+      "source_lines": [
+        20,
+        35,
+        77,
+        86,
+        89,
+        118,
+        122,
+        143,
+        175,
+        224,
+        252,
+        255,
+        257
+      ],
+      "id": "per_louis_xiii"
+    },
+    {
+      "name": "Armand Jean du Plessis de Richelieu",
+      "aliases": [
+        "Richelieu",
+        "Cardinal de Richelieu",
+        "évêque de Luçon",
+        "le grand cardinal"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Cardinal",
+        "Premier ministre",
+        "Évêque de Luçon",
+        "Secrétaire d'État à la Guerre"
+      ],
+      "death": {
+        "year": 1642,
+        "month": 12,
+        "day": 4,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "source_lines": [
+        44,
+        48,
+        52,
+        66,
+        68,
+        85,
+        86,
+        119,
+        122,
+        126,
+        130,
+        134,
+        138,
+        149,
+        154,
+        157,
+        164,
+        171,
+        179,
+        186,
+        195,
+        199,
+        203,
+        208,
+        219,
+        237,
+        244,
+        252,
+        264,
+        272,
+        276,
+        302,
+        337
+      ],
+      "id": "per_armand_jean_du_pless"
+    },
+    {
+      "name": "Henri IV",
+      "aliases": [
+        "le roi"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France",
+        "Roi de Navarre"
+      ],
+      "death": {
+        "year": 1610,
+        "month": 5,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Louis XIII"
+        },
+        {
+          "type": "fils",
+          "person": "Gaston d'Orléans"
+        },
+        {
+          "type": "épouse",
+          "person": "Marie de Médicis"
+        }
+      ],
+      "source_lines": [
+        6,
+        15,
+        20,
+        88,
+        152
+      ],
+      "id": "per_henri_iv"
+    },
+    {
+      "name": "Marie de Médicis",
+      "aliases": [
+        "la régente",
+        "reine mère"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Reine de France",
+        "Régente"
+      ],
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Henri IV"
+        },
+        {
+          "type": "fils",
+          "person": "Louis XIII"
+        },
+        {
+          "type": "fils",
+          "person": "Gaston d'Orléans"
+        }
+      ],
+      "source_lines": [
+        28,
+        73,
+        85,
+        122,
+        171
+      ],
+      "id": "per_marie_de_m_dicis"
+    },
+    {
+      "name": "Anne d'Autriche",
+      "aliases": [
+        "la régente espagnole"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Reine de France",
+        "Régente"
+      ],
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Louis XIII"
+        },
+        {
+          "type": "fils",
+          "person": "Louis XIV"
+        }
+      ],
+      "source_lines": [
+        20,
+        272,
+        282
+      ],
+      "id": "per_anne_d_autriche"
+    },
+    {
+      "name": "Louis XIV",
+      "aliases": [
+        "le roi de cinq ans"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": {
+        "year": 1638,
+        "month": 9,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": {
+        "start": {
+          "year": 1643,
+          "month": 5,
+          "day": 14,
+          "circa": false,
+          "era": "CE",
+          "precision": "exact"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis XIII"
+        },
+        {
+          "type": "mère",
+          "person": "Anne d'Autriche"
+        }
+      ],
+      "source_lines": [
+        231,
+        272
+      ],
+      "id": "per_louis_xiv"
+    },
+    {
+      "name": "Gaston d'Orléans",
+      "aliases": [
+        "Monsieur",
+        "le frère du roi"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Duc d'Orléans"
+      ],
+      "relations": [
+        {
+          "type": "père",
+          "person": "Henri IV"
+        },
+        {
+          "type": "mère",
+          "person": "Marie de Médicis"
+        },
+        {
+          "type": "frère",
+          "person": "Louis XIII"
+        }
+      ],
+      "source_lines": [
+        140,
+        171,
+        176,
+        204
+      ],
+      "id": "per_gaston_d_orl_ans"
+    },
+    {
+      "name": "Concini",
+      "aliases": [
+        "Maréchal d'Ancre",
+        "le Florentin"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Maréchal d'Ancre"
+      ],
+      "death": {
+        "year": 1617,
+        "month": 4,
+        "day": 24,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "source_lines": [
+        27,
+        56,
+        65,
+        69,
+        72,
+        77,
+        83,
+        122
+      ],
+      "id": "per_concini"
+    },
+    {
+      "name": "Jules Mazarin",
+      "aliases": [
+        "Mazarin",
+        "le ministre italien"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Cardinal",
+        "Premier ministre"
+      ],
+      "source_lines": [
+        61,
+        274,
+        278,
+        282,
+        291,
+        297,
+        344
+      ],
+      "id": "per_jules_mazarin"
+    },
+    {
+      "name": "Charles d'Albert de Luynes",
+      "aliases": [
+        "Luynes"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Duc de Luynes",
+        "Connétable de France"
+      ],
+      "death": {
+        "year": 1621,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "source_lines": [
+        75,
+        85,
+        88,
+        90,
+        115
+      ],
+      "id": "per_charles_d_albert_de_"
+    },
+    {
+      "name": "Louis de Bourbon, prince de Condé",
+      "aliases": [
+        "Condé",
+        "le Grand Condé"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Prince de Condé"
+      ],
+      "source_lines": [
+        25,
+        287,
+        290,
+        298
+      ],
+      "id": "per_louis_de_bourbon__pr"
+    },
+    {
+      "name": "Henri de La Tour d'Auvergne, vicomte de Turenne",
+      "aliases": [
+        "Turenne"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Vicomte de Turenne",
+        "Maréchal de France"
+      ],
+      "source_lines": [
+        298
+      ],
+      "id": "per_henri_de_la_tour_d_a"
+    },
+    {
+      "name": "Gustave II Adolphe",
+      "aliases": [
+        "Gustave-Adolphe",
+        "le roi de Suède"
+      ],
+      "dynasty": "Autres",
+      "titles": [
+        "Roi de Suède"
+      ],
+      "death": {
+        "year": 1632,
+        "month": 11,
+        "day": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "source_lines": [
+        191,
+        194,
+        197
+      ],
+      "id": "per_gustave_ii_adolphe"
+    },
+    {
+      "name": "Ferdinand II",
+      "aliases": [
+        "l'Empereur",
+        "Ferdinand"
+      ],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Empereur du Saint-Empire"
+      ],
+      "source_lines": [
+        97,
+        195,
+        300
+      ],
+      "id": "per_ferdinand_ii"
+    },
+    {
+      "name": "Albrecht von Wallenstein",
+      "aliases": [
+        "Wallenstein"
+      ],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Duc de Friedland",
+        "Généralissime des armées impériales"
+      ],
+      "death": {
+        "year": 1634,
+        "month": 2,
+        "day": 25,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "source_lines": [
+        200,
+        209
+      ],
+      "id": "per_albrecht_von_wallens"
+    },
+    {
+      "name": "Henri II de Montmorency",
+      "aliases": [
+        "Montmorency",
+        "maréchal de Montmorency"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Maréchal de France",
+        "Gouverneur du Languedoc"
+      ],
+      "death": {
+        "year": 1632,
+        "month": 10,
+        "day": 30,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "source_lines": [
+        176,
+        182
+      ],
+      "id": "per_henri_ii_de_montmore"
+    },
+    {
+      "name": "Henri d'Effiat, marquis de Cinq-Mars",
+      "aliases": [
+        "Cinq-Mars"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Grand Écuyer de France"
+      ],
+      "death": {
+        "year": 1642,
+        "month": 9,
+        "day": 12,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "source_lines": [
+        183
+      ],
+      "id": "per_henri_d_effiat__marq"
+    },
+    {
+      "name": "François-Auguste de Thou",
+      "aliases": [
+        "de Thou"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [],
+      "death": {
+        "year": 1642,
+        "month": 9,
+        "day": 12,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "source_lines": [
+        183
+      ],
+      "id": "per_fran_ois_auguste_de_"
+    },
+    {
+      "name": "Henri de Talleyrand, comte de Chalais",
+      "aliases": [
+        "Chalais"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Comte de Chalais"
+      ],
+      "death": {
+        "year": 1626,
+        "month": 8,
+        "day": 19,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "source_lines": [
+        141
+      ],
+      "id": "per_henri_de_talleyrand_"
+    },
+    {
+      "name": "Henriette-Marie de France",
+      "aliases": [
+        "Henriette de France"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Reine d'Angleterre"
+      ],
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Charles Ier d'Angleterre"
+        }
+      ],
+      "source_lines": [
+        137
+      ],
+      "id": "per_henriette_marie_de_f"
+    },
+    {
+      "name": "Charles Ier d'Angleterre",
+      "aliases": [
+        "Charles Ier"
+      ],
+      "dynasty": "Stuart",
+      "titles": [
+        "Roi d'Angleterre"
+      ],
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Henriette de France"
+        }
+      ],
+      "source_lines": [
+        137
+      ],
+      "id": "per_charles_ier_d_anglet"
+    },
+    {
+      "name": "François de Ravaillac",
+      "aliases": [
+        "Ravaillac"
+      ],
+      "dynasty": "Autres",
+      "titles": [],
+      "source_lines": [
+        9
+      ],
+      "id": "per_fran_ois_de_ravailla"
+    },
+    {
+      "name": "Nicolas de Neufville, seigneur de Villeroy",
+      "aliases": [
+        "Villeroy"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Secrétaire d'État"
+      ],
+      "source_lines": [
+        17
+      ],
+      "id": "per_nicolas_de_neufville"
+    },
+    {
+      "name": "Maximilien de Béthune, duc de Sully",
+      "aliases": [
+        "Sully"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Duc de Sully",
+        "Surintendant des finances"
+      ],
+      "source_lines": [
+        9
+      ],
+      "id": "per_maximilien_de_b_thun"
+    },
+    {
+      "name": "Nicolas de L'Hospital, marquis de Vitry",
+      "aliases": [
+        "Vitry"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Capitaine des gardes",
+        "Maréchal de France"
+      ],
+      "source_lines": [
+        79
+      ],
+      "id": "per_nicolas_de_l_hospita"
+    },
+    {
+      "name": "François de Malherbe",
+      "aliases": [
+        "Malherbe"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Poète"
+      ],
+      "source_lines": [
+        159
+      ],
+      "id": "per_fran_ois_de_malherbe"
+    },
+    {
+      "name": "Frédéric II de Prusse",
+      "aliases": [
+        "Frédéric II"
+      ],
+      "dynasty": "Hohenzollern",
+      "titles": [
+        "Roi de Prusse"
+      ],
+      "source_lines": [
+        333
+      ],
+      "id": "per_fr_d_ric_ii_de_pruss"
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_bourbons",
+      "name": "Bourbons",
+      "period_start": {
+        "year": 1589,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1792,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_habsbourg",
+      "name": "Habsbourg",
+      "period_start": {
+        "year": 1273,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1918,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_stuart",
+      "name": "Stuart",
+      "period_start": {
+        "year": 1603,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1714,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}

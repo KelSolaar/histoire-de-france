@@ -1,0 +1,1616 @@
+{
+  "chapter_number": 12,
+  "chapter_title": "LA LEÇON DE LA FRONDE",
+  "line_start": 5711,
+  "line_end": 6043,
+  "validation_status": "success",
+  "entries": [
+    {
+      "id": "evt_240",
+      "type": "period",
+      "date_start": {
+        "year": 1648,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 1653,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "La Fronde",
+      "description": "Poussée révolutionnaire du dix-septième siècle, mêlant grands seigneurs, Parlement, bourgeoisie et peuple contre le pouvoir royal et Mazarin.",
+      "importance": 5,
+      "people": [
+        "Mazarin",
+        "Anne d'Autriche",
+        "Louis XIV"
+      ],
+      "locations": [
+        "Paris",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 1,
+        "line_end": 15,
+        "excerpt": "On a pris l'habitude de regarder la Fronde comme un épisode romanesque et même galant... Ce fut, en réalité, la poussée révolutionnaire du dix-septième siècle."
+      }
+    },
+    {
+      "id": "evt_241",
+      "type": "political",
+      "date_start": {
+        "year": 1647,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Révolte de Masaniello à Naples",
+      "description": "Le pêcheur Masaniello prend le pouvoir à Naples, événement qui frappe les imaginations et inspire les révoltés parisiens.",
+      "importance": 2,
+      "people": [
+        "Masaniello"
+      ],
+      "locations": [
+        "Naples"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 10,
+        "line_end": 13,
+        "excerpt": "A Naples, le pêcheur Masaniello prit le pouvoir et son histoire frappa les imaginations. A Paris, dans les rues... on criait: «A Naples!»"
+      }
+    },
+    {
+      "id": "evt_242",
+      "type": "death",
+      "date_start": {
+        "year": 1649,
+        "month": 1,
+        "day": 30,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Exécution de Charles Ier d'Angleterre",
+      "description": "L'exécution du roi d'Angleterre, beau-frère de Louis XIII, semble annoncer la fin des monarchies et influence les troubles en France.",
+      "importance": 4,
+      "people": [
+        "Charles Ier d'Angleterre",
+        "Louis XIII"
+      ],
+      "locations": [
+        "Angleterre",
+        "Londres"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 13,
+        "line_end": 16,
+        "excerpt": "L'exécution de Charles Ier, beau-frère de Louis XIII, semblait annoncer la fin des monarchies."
+      }
+    },
+    {
+      "id": "evt_243",
+      "type": "treaty",
+      "date_start": {
+        "year": 1648,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de Westphalie",
+      "description": "Traité de paix mettant fin à la guerre de Trente Ans, signé l'année même où éclatent les troubles de la Fronde.",
+      "importance": 5,
+      "people": [
+        "Mazarin"
+      ],
+      "locations": [
+        "Westphalie"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 32,
+        "line_end": 35,
+        "excerpt": "Lorsque les troubles éclatèrent, au commencement de 1648, l'année du traité de Westphalie"
+      }
+    },
+    {
+      "id": "evt_244",
+      "type": "religious",
+      "date_start": {
+        "year": 1640,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Le jansénisme et la Fronde religieuse",
+      "description": "Le jansénisme, 'Réforme sans schisme', contribue à l'agitation de la Fronde. Les mazarinades et les Provinciales partent du même esprit.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 24,
+        "line_end": 29,
+        "excerpt": "il y eut le jansénisme, cette Réforme sans schisme, qu'on a pu appeler «la Fronde religieuse»"
+      }
+    },
+    {
+      "id": "evt_245",
+      "type": "battle",
+      "date_start": {
+        "year": 1648,
+        "month": 8,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Lens",
+      "description": "Victoire française qui donne au gouvernement l'occasion de tenter de réprimer l'opposition parlementaire.",
+      "importance": 3,
+      "people": [
+        "Condé"
+      ],
+      "locations": [
+        "Lens"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 60,
+        "line_end": 62,
+        "excerpt": "Le gouvernement... voulut couper court et profiter de l'impression produite par la victoire de Lens."
+      }
+    },
+    {
+      "id": "evt_246",
+      "type": "political",
+      "date_start": {
+        "year": 1648,
+        "month": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Arrestation de Broussel et journée des Barricades",
+      "description": "L'arrestation du conseiller Broussel, populaire pour son opposition aux impôts, déclenche l'insurrection et les barricades à Paris.",
+      "importance": 4,
+      "people": [
+        "Broussel"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 62,
+        "line_end": 68,
+        "excerpt": "L'arrestation de quelques conseillers fut ordonnée et parmi eux Broussel, devenu populaire... Ce fut le signal de l'insurrection et des barricades."
+      }
+    },
+    {
+      "id": "evt_247",
+      "type": "political",
+      "date_start": {
+        "year": 1648,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Libération de Broussel et capitulation du pouvoir",
+      "description": "Face au soulèvement de Paris, le gouvernement cède, libère Broussel et accorde l'abolition ou la réduction des taxes ainsi que des garanties pour la liberté individuelle.",
+      "importance": 3,
+      "people": [
+        "Broussel",
+        "Anne d'Autriche"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 66,
+        "line_end": 72,
+        "excerpt": "Broussel, «le père du peuple», fut remis en liberté. L'abolition ou la réduction des taxes fut accordée"
+      }
+    },
+    {
+      "id": "evt_248",
+      "type": "event",
+      "date_start": {
+        "year": 1648,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Départ de la famille royale à Rueil",
+      "description": "Anne d'Autriche, ne se sentant plus en liberté à Paris, emmène le jeune roi Louis XIV à Rueil.",
+      "importance": 2,
+      "people": [
+        "Anne d'Autriche",
+        "Louis XIV"
+      ],
+      "locations": [
+        "Paris",
+        "Rueil"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 73,
+        "line_end": 76,
+        "excerpt": "La reine Anne s'en rendit si bien compte qu'elle ne se crut plus en liberté à Paris et emmena le jeune roi à Rueil."
+      }
+    },
+    {
+      "id": "evt_249",
+      "type": "political",
+      "date_start": {
+        "year": 1649,
+        "month": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Début de la première Fronde (Fronde parlementaire)",
+      "description": "Le gouvernement quitte secrètement Paris pour Saint-Germain, le Parlement exige le renvoi de Mazarin et Paris se met en état de défense.",
+      "importance": 4,
+      "people": [
+        "Mazarin",
+        "Anne d'Autriche",
+        "Louis XIV"
+      ],
+      "locations": [
+        "Paris",
+        "Saint-Germain"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 81,
+        "line_end": 87,
+        "excerpt": "le gouvernement jugea plus prudent de quitter Paris pour Saint-Germain, mais de nuit et secrètement... La première Fronde éclatait."
+      }
+    },
+    {
+      "id": "evt_250",
+      "type": "battle",
+      "date_start": {
+        "year": 1649,
+        "month": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Combat de Charenton",
+      "description": "Les troupes régulières infligent un échec à l'armée levée par les Parisiens devant Charenton.",
+      "importance": 2,
+      "people": [],
+      "locations": [
+        "Charenton"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 96,
+        "line_end": 98,
+        "excerpt": "Dès le premier choc avec les troupes régulières, l'armée levée par les Parisiens subit un échec devant Charenton."
+      }
+    },
+    {
+      "id": "evt_251",
+      "type": "political",
+      "date_start": {
+        "year": 1649,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Révolte de la Normandie et de Bordeaux",
+      "description": "Le désordre s'étend aux provinces, la Normandie et Bordeaux se trouvent un moment en révolte ouverte.",
+      "importance": 2,
+      "people": [],
+      "locations": [
+        "Normandie",
+        "Bordeaux"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 103,
+        "line_end": 105,
+        "excerpt": "Le désordre s'était étendu aux provinces. La Normandie et Bordeaux furent un moment en révolte ouverte."
+      }
+    },
+    {
+      "id": "evt_252",
+      "type": "event",
+      "date_start": {
+        "year": 1614,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "États Généraux de 1614 et affaire de la Paulette",
+      "description": "Référence aux États Généraux de 1614 et à la querelle entre noblesse d'épée et noblesse de robe à propos de la Paulette.",
+      "importance": 2,
+      "people": [],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 116,
+        "line_end": 119,
+        "excerpt": "se souvenait des Etats de 1614, de l'affaire de la Paulette et de la rancune des gens d'épée contre les gens de robe"
+      }
+    },
+    {
+      "id": "evt_253",
+      "type": "political",
+      "date_start": {
+        "year": 1650,
+        "month": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Arrestation de Condé et des princes",
+      "description": "Mazarin et Anne d'Autriche font arrêter Condé et les princes de sa famille grâce à des promesses faites au clan de Gondi.",
+      "importance": 3,
+      "people": [
+        "Condé",
+        "Mazarin",
+        "Anne d'Autriche",
+        "Gondi"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 121,
+        "line_end": 124,
+        "excerpt": "Mazarin et la reine Anne... avaient essayé de diviser leurs adversaires et obtenu l'arrestation de Condé et des princes de sa famille"
+      }
+    },
+    {
+      "id": "evt_254",
+      "type": "battle",
+      "date_start": {
+        "year": 1650,
+        "month": 12,
+        "day": 15,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Rethel",
+      "description": "Turenne et les Espagnols sont battus à Rethel par les troupes royales.",
+      "importance": 3,
+      "people": [
+        "Turenne"
+      ],
+      "locations": [
+        "Rethel"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 124,
+        "line_end": 126,
+        "excerpt": "Turenne et les Espagnols ayant en outre été battus à Rethel"
+      }
+    },
+    {
+      "id": "evt_255",
+      "type": "political",
+      "date_start": {
+        "year": 1651,
+        "month": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Fuite de Mazarin et libération des princes",
+      "description": "Le Parlement exige le bannissement de Mazarin qui s'enfuit et se réfugie chez l'électeur de Cologne. Les princes sont libérés.",
+      "importance": 3,
+      "people": [
+        "Mazarin",
+        "Condé",
+        "Duc d'Orléans",
+        "Molé",
+        "Gondi"
+      ],
+      "locations": [
+        "Paris",
+        "Cologne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 130,
+        "line_end": 136,
+        "excerpt": "le Parlement n'exigea pas seulement la libération des princes mais le bannissement du ministre. Mazarin... se réfugia chez notre allié l'électeur de Cologne"
+      }
+    },
+    {
+      "id": "evt_256",
+      "type": "event",
+      "date_start": {
+        "year": 1651,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "La famille royale prisonnière à Paris",
+      "description": "Anne d'Autriche veut quitter Paris mais en est empêchée par les Frondeurs. Elle apaise les milices bourgeoises en leur montrant le jeune roi endormi.",
+      "importance": 3,
+      "people": [
+        "Anne d'Autriche",
+        "Louis XIV",
+        "Beaufort",
+        "Gondi",
+        "Grande Mademoiselle"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 138,
+        "line_end": 145,
+        "excerpt": "La reine Anne, ayant voulu à son tour quitter Paris, en fut empêchée par les Frondeurs... elle ne les apaisa qu'en leur montrant le jeune roi endormi"
+      }
+    },
+    {
+      "id": "evt_257",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1651,
+        "month": 9,
+        "day": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Majorité de Louis XIV",
+      "description": "Proclamation de la majorité du roi Louis XIV, mettant fin officiellement à la régence.",
+      "importance": 4,
+      "people": [
+        "Louis XIV"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 155,
+        "line_end": 157,
+        "excerpt": "le jeune roi, dont la majorité avait été proclamée sur ces entrefaites"
+      }
+    },
+    {
+      "id": "evt_258",
+      "type": "battle",
+      "date_start": {
+        "year": 1652,
+        "month": 7,
+        "day": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Combat de la Porte Saint-Antoine",
+      "description": "L'armée royale commandée par Turenne est arrêtée à la porte Saint-Antoine. Mademoiselle tire le canon de la Bastille contre les troupes du roi.",
+      "importance": 3,
+      "people": [
+        "Turenne",
+        "Grande Mademoiselle"
+      ],
+      "locations": [
+        "Paris",
+        "Porte Saint-Antoine",
+        "Bastille"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 158,
+        "line_end": 162,
+        "excerpt": "elle fut arrêtée à la porte Saint-Antoine et c'est là que Mademoiselle, du haut de la Bastille, tira le canon contre les troupes du roi"
+      }
+    },
+    {
+      "id": "evt_259",
+      "type": "political",
+      "date_start": {
+        "year": 1652,
+        "month": 7,
+        "day": 4,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Émeute et incendie de l'Hôtel de Ville",
+      "description": "Une émeute accompagnée de tuerie et d'incendie à l'Hôtel de Ville effraye les bourgeois et commence à les dégoûter de la Fronde.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Paris",
+        "Hôtel de Ville"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 170,
+        "line_end": 173,
+        "excerpt": "Une émeute, accompagnée de tuerie et d'incendie à l'Hôtel de Ville, effraya les uns et commença à dégoûter les autres."
+      }
+    },
+    {
+      "id": "evt_260",
+      "type": "political",
+      "date_start": {
+        "year": 1652,
+        "month": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Retour de Louis XIV à Paris",
+      "description": "Après trois mois de désordre, Paris devient plus sage et est mûr pour le retour du jeune roi.",
+      "importance": 3,
+      "people": [
+        "Louis XIV"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 173,
+        "line_end": 175,
+        "excerpt": "Après trois mois de ce gâchis, Paris, devenu plus sage, fut mûr pour le retour du jeune roi"
+      }
+    },
+    {
+      "id": "evt_261",
+      "type": "political",
+      "date_start": {
+        "year": 1653,
+        "month": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Retour de Mazarin à Paris",
+      "description": "Mazarin rentre à Paris en février 1653, marquant la fin effective de la Fronde.",
+      "importance": 4,
+      "people": [
+        "Mazarin"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 174,
+        "line_end": 176,
+        "excerpt": "Mazarin rentra lui-même en février de l'année suivante"
+      }
+    },
+    {
+      "id": "evt_262",
+      "type": "event",
+      "date_start": {
+        "year": 1655,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Missions de saint Vincent de Paul",
+      "description": "Les missions de saint Vincent de Paul parcourent le royaume pour porter secours aux affamés et aux malades après les ravages de la Fronde.",
+      "importance": 2,
+      "people": [
+        "Vincent de Paul"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 180,
+        "line_end": 183,
+        "excerpt": "les missions de saint Vincent de Paul parcouraient le royaume pour porter secours aux affamés et aux malades"
+      }
+    },
+    {
+      "id": "evt_263",
+      "type": "political",
+      "date_start": {
+        "year": 1665,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Grands Jours d'Auvergne",
+      "description": "Dix ans après la Fronde, il faut encore tenir des 'grands jours' en Auvergne pour réprimer les brigands à prétentions féodales.",
+      "importance": 2,
+      "people": [],
+      "locations": [
+        "Auvergne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 186,
+        "line_end": 190,
+        "excerpt": "Ce fut le cas de l'Auvergne où il fallut encore, dix ans plus tard, tenir des «grands jours» et faire des exemples"
+      }
+    },
+    {
+      "id": "evt_264",
+      "type": "period",
+      "date_start": {
+        "year": 1653,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 1661,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Transition vers le règne personnel de Louis XIV",
+      "description": "Période de maturation où Louis XIV réfléchit, forme ses idées et prépare son règne personnel tandis que le calme revient.",
+      "importance": 3,
+      "people": [
+        "Louis XIV",
+        "Mazarin"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 213,
+        "line_end": 217,
+        "excerpt": "De 1653 à 1661, cette pensée mûrit. Louis XIV, qui devient homme, réfléchit, forme ses idées."
+      }
+    },
+    {
+      "id": "evt_265",
+      "type": "political",
+      "date_start": {
+        "year": 1655,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avertissement de Louis XIV au Parlement",
+      "description": "Louis XIV revient en hâte de la chasse pour parler sévèrement aux magistrats qui refusaient d'enregistrer des édits, épisode légendaire associé au mot 'L'État c'est moi'.",
+      "importance": 3,
+      "people": [
+        "Louis XIV",
+        "Mazarin"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 219,
+        "line_end": 228,
+        "excerpt": "lorsque, ayant appris qu'ils refusaient d'enregistrer des édits présentés par lui le même jour, il revint en hâte de la chasse et leur parla un langage sévère"
+      }
+    },
+    {
+      "id": "evt_266",
+      "type": "political",
+      "date_start": {
+        "year": 1640,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Révolution du Portugal soutenue par Mazarin",
+      "description": "Mazarin soutient la révolution du Portugal contre l'Espagne en représailles au soutien espagnol à la Fronde.",
+      "importance": 2,
+      "people": [
+        "Mazarin"
+      ],
+      "locations": [
+        "Portugal"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 231,
+        "line_end": 233,
+        "excerpt": "Mazarin soutenait la révolution du Portugal comme les Espagnols aidaient la Fronde"
+      }
+    },
+    {
+      "id": "evt_267",
+      "type": "death",
+      "date_start": {
+        "year": 1657,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Ferdinand III et élection de Léopold de Habsbourg",
+      "description": "Après la mort de l'empereur Ferdinand, Mazarin ne peut empêcher l'élection de Léopold de Habsbourg mais noue la Ligue du Rhin.",
+      "importance": 3,
+      "people": [
+        "Ferdinand III",
+        "Léopold de Habsbourg",
+        "Mazarin"
+      ],
+      "locations": [
+        "Allemagne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 234,
+        "line_end": 238,
+        "excerpt": "Si Mazarin ne put empêcher l'élection de Léopold de Habsbourg après la mort de Ferdinand, il noua... l'alliance connue sous le nom de Ligue du Rhin"
+      }
+    },
+    {
+      "id": "evt_268",
+      "type": "treaty",
+      "date_start": {
+        "year": 1658,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ligue du Rhin",
+      "description": "Alliance conclue par Mazarin avec une douzaine de princes allemands pour paralyser l'Empire.",
+      "importance": 3,
+      "people": [
+        "Mazarin"
+      ],
+      "locations": [
+        "Allemagne",
+        "Rhin"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 236,
+        "line_end": 238,
+        "excerpt": "il noua avec une douzaine de princes allemands l'alliance connue sous le nom de Ligue du Rhin qui suffisait à paralyser l'Empire"
+      }
+    },
+    {
+      "id": "evt_269",
+      "type": "political",
+      "date_start": {
+        "year": 1654,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Alliance de Mazarin avec Cromwell",
+      "description": "Mazarin recherche l'amitié de Cromwell malgré l'asile donné aux Stuarts, car la France a besoin du concours de l'Angleterre contre l'Espagne.",
+      "importance": 3,
+      "people": [
+        "Mazarin",
+        "Cromwell",
+        "Charles Ier d'Angleterre",
+        "Louis XIV"
+      ],
+      "locations": [
+        "France",
+        "Angleterre"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 238,
+        "line_end": 244,
+        "excerpt": "Mazarin rechercha l'amitié de Cromwell bien que la France eût donné asile aux Stuarts"
+      }
+    },
+    {
+      "id": "evt_270",
+      "type": "battle",
+      "date_start": {
+        "year": 1658,
+        "month": 6,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille des Dunes près de Dunkerque",
+      "description": "Turenne bat Condé, toujours au camp espagnol, près de Dunkerque. Cette victoire décisive précipite la fin de la guerre.",
+      "importance": 4,
+      "people": [
+        "Turenne",
+        "Condé"
+      ],
+      "locations": [
+        "Dunkerque",
+        "Flandre"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 253,
+        "line_end": 255,
+        "excerpt": "Turenne se retrouva en face de Condé, toujours au camp espagnol, et le battit près de Dunkerque aux dunes. Ce fut la fin."
+      }
+    },
+    {
+      "id": "evt_271",
+      "type": "treaty",
+      "date_start": {
+        "year": 1659,
+        "month": 11,
+        "day": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Traité des Pyrénées",
+      "description": "Paix signée entre la France et l'Espagne, apportant le Roussillon, la Cerdagne, une partie de l'Artois et des places en Flandre, Hainaut et Luxembourg.",
+      "importance": 5,
+      "people": [
+        "Louis XIV",
+        "Mazarin",
+        "Philippe IV"
+      ],
+      "locations": [
+        "Pyrénées",
+        "Roussillon",
+        "Cerdagne",
+        "Artois",
+        "Flandre",
+        "Hainaut",
+        "Luxembourg"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 255,
+        "line_end": 261,
+        "excerpt": "Le traité des Pyrénées fut signé entre la France et l'Espagne en 1659... Nos acquisitions étaient importantes: le Roussillon et la Cerdagne, une partie de l'Artois"
+      }
+    },
+    {
+      "id": "evt_272",
+      "type": "event",
+      "date_start": {
+        "year": 1660,
+        "month": 6,
+        "day": 9,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mariage de Louis XIV et Marie-Thérèse",
+      "description": "Louis XIV épouse l'infante Marie-Thérèse d'Espagne, empêchant son mariage avec l'empereur Léopold et ouvrant des droits sur la succession espagnole.",
+      "importance": 5,
+      "people": [
+        "Louis XIV",
+        "Marie-Thérèse",
+        "Léopold de Habsbourg",
+        "Philippe IV",
+        "Mazarin"
+      ],
+      "locations": [
+        "France",
+        "Espagne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 263,
+        "line_end": 272,
+        "excerpt": "En manoeuvrant pour que Louis XIV épousât l'aînée des infantes, Mazarin empêchait le mariage de Marie-Thérèse avec l'empereur Léopold"
+      }
+    },
+    {
+      "id": "evt_273",
+      "type": "death",
+      "date_start": {
+        "year": 1661,
+        "month": 3,
+        "day": 9,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort de Mazarin",
+      "description": "Mort du cardinal Mazarin, marquant le début du règne personnel de Louis XIV.",
+      "importance": 4,
+      "people": [
+        "Mazarin",
+        "Louis XIV"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 283,
+        "line_end": 285,
+        "excerpt": "En 1661, lorsque Mazarin meurt et que la véritable majorité du roi commence"
+      }
+    },
+    {
+      "id": "evt_274",
+      "type": "political",
+      "date_start": {
+        "year": 1661,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Début du règne personnel de Louis XIV",
+      "description": "Louis XIV décide de gouverner lui-même sans Premier ministre, répondant au désir de la nation de mettre fin au 'ministériat'.",
+      "importance": 5,
+      "people": [
+        "Louis XIV"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 283,
+        "line_end": 290,
+        "excerpt": "En 1661, lorsque Mazarin meurt et que la véritable majorité du roi commence, tout est réuni au dedans et au dehors pour un grand règne"
+      }
+    },
+    {
+      "id": "evt_275",
+      "type": "political",
+      "date_start": {
+        "year": 1661,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Procès de Fouquet",
+      "description": "Le procès du surintendant Fouquet sera l'acte par lequel Louis XIV établit son autorité face aux puissances d'argent.",
+      "importance": 3,
+      "people": [
+        "Fouquet",
+        "Louis XIV"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 293,
+        "line_end": 296,
+        "excerpt": "Les financiers, les traitants... étaient devenus un pouvoir inquiétant pour l'Etat: le procès de Fouquet sera l'acte par lequel Louis XIV... établira son autorité"
+      }
+    },
+    {
+      "id": "evt_276",
+      "type": "event",
+      "date_start": {
+        "year": 1617,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Régime du ministériat depuis Concini",
+      "description": "Depuis trente ans et plus, depuis Concini, le régime de la France est celui du ministériat, gouvernement au nom du roi par un ministre.",
+      "importance": 2,
+      "people": [
+        "Concini",
+        "Richelieu",
+        "Mazarin"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 202,
+        "line_end": 207,
+        "excerpt": "Depuis trente années et même plus, car l'origine remonte à Concini, le régime de la France avait été celui du «ministériat»"
+      }
+    }
+  ],
+  "people": [
+    {
+      "name": "Louis XIV",
+      "aliases": [
+        "le jeune roi",
+        "le Roi"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": {
+        "year": 1638,
+        "month": 9,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": {
+        "start": {
+          "year": 1643,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "mère",
+          "person": "Anne d'Autriche"
+        },
+        {
+          "type": "épouse",
+          "person": "Marie-Thérèse d'Espagne"
+        }
+      ],
+      "source_lines": [
+        12,
+        73,
+        76,
+        139,
+        145,
+        157,
+        162,
+        174,
+        213,
+        219,
+        264,
+        273,
+        285,
+        293,
+        296,
+        303
+      ],
+      "id": "per_louis_xiv"
+    },
+    {
+      "name": "Mazarin",
+      "aliases": [
+        "le cardinal",
+        "le deuxième cardinal"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Cardinal",
+        "Premier ministre"
+      ],
+      "death": {
+        "year": 1661,
+        "month": 3,
+        "day": 9,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "relations": [],
+      "source_lines": [
+        21,
+        26,
+        37,
+        43,
+        78,
+        82,
+        122,
+        131,
+        148,
+        174,
+        213,
+        227,
+        231,
+        234,
+        238,
+        253,
+        264,
+        277,
+        283
+      ],
+      "id": "per_mazarin"
+    },
+    {
+      "name": "Anne d'Autriche",
+      "aliases": [
+        "la reine Anne",
+        "la régente"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Reine de France",
+        "Régente"
+      ],
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Louis XIII"
+        },
+        {
+          "type": "fils",
+          "person": "Louis XIV"
+        }
+      ],
+      "source_lines": [
+        12,
+        73,
+        122,
+        138
+      ],
+      "id": "per_anne_d_autriche"
+    },
+    {
+      "name": "Condé",
+      "aliases": [
+        "Monsieur le Prince",
+        "le Grand Condé"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Prince de Condé"
+      ],
+      "relations": [],
+      "source_lines": [
+        105,
+        122,
+        149,
+        152,
+        254
+      ],
+      "id": "per_cond_"
+    },
+    {
+      "name": "Turenne",
+      "aliases": [],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Maréchal de France",
+        "Vicomte de Turenne"
+      ],
+      "relations": [],
+      "source_lines": [
+        92,
+        105,
+        124,
+        158,
+        254
+      ],
+      "id": "per_turenne"
+    },
+    {
+      "name": "Gondi",
+      "aliases": [
+        "Cardinal de Retz"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Cardinal de Retz",
+        "Coadjuteur de Paris"
+      ],
+      "relations": [],
+      "source_lines": [
+        90,
+        122,
+        128,
+        144
+      ],
+      "id": "per_gondi"
+    },
+    {
+      "name": "Broussel",
+      "aliases": [
+        "le père du peuple"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Conseiller au Parlement"
+      ],
+      "relations": [],
+      "source_lines": [
+        63,
+        66
+      ],
+      "id": "per_broussel"
+    },
+    {
+      "name": "Grande Mademoiselle",
+      "aliases": [
+        "Mademoiselle",
+        "Anne Marie Louise d'Orléans"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Duchesse de Montpensier"
+      ],
+      "relations": [
+        {
+          "type": "père",
+          "person": "Gaston d'Orléans"
+        }
+      ],
+      "source_lines": [
+        144,
+        161
+      ],
+      "id": "per_grande_mademoiselle"
+    },
+    {
+      "name": "Gaston d'Orléans",
+      "aliases": [
+        "le duc d'Orléans",
+        "Monsieur"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Duc d'Orléans"
+      ],
+      "relations": [
+        {
+          "type": "fille",
+          "person": "Grande Mademoiselle"
+        }
+      ],
+      "source_lines": [
+        128
+      ],
+      "id": "per_gaston_d_orl_ans"
+    },
+    {
+      "name": "Beaufort",
+      "aliases": [
+        "le roi des Halles"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Duc de Beaufort"
+      ],
+      "relations": [],
+      "source_lines": [
+        144
+      ],
+      "id": "per_beaufort"
+    },
+    {
+      "name": "Molé",
+      "aliases": [],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Président du Parlement"
+      ],
+      "relations": [],
+      "source_lines": [
+        128
+      ],
+      "id": "per_mol_"
+    },
+    {
+      "name": "Charles Ier d'Angleterre",
+      "aliases": [],
+      "dynasty": "Stuarts",
+      "titles": [
+        "Roi d'Angleterre"
+      ],
+      "death": {
+        "year": 1649,
+        "month": 1,
+        "day": 30,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "relations": [
+        {
+          "type": "beau-frère",
+          "person": "Louis XIII"
+        }
+      ],
+      "source_lines": [
+        14,
+        239
+      ],
+      "id": "per_charles_ier_d_anglet"
+    },
+    {
+      "name": "Cromwell",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Lord Protecteur d'Angleterre"
+      ],
+      "relations": [],
+      "source_lines": [
+        238,
+        248
+      ],
+      "id": "per_cromwell"
+    },
+    {
+      "name": "Masaniello",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "pêcheur"
+      ],
+      "relations": [],
+      "source_lines": [
+        11
+      ],
+      "id": "per_masaniello"
+    },
+    {
+      "name": "Marie-Thérèse d'Espagne",
+      "aliases": [
+        "l'infante"
+      ],
+      "dynasty": "Habsbourg d'Espagne",
+      "titles": [
+        "Infante d'Espagne",
+        "Reine de France"
+      ],
+      "relations": [
+        {
+          "type": "père",
+          "person": "Philippe IV d'Espagne"
+        },
+        {
+          "type": "époux",
+          "person": "Louis XIV"
+        }
+      ],
+      "source_lines": [
+        264,
+        268
+      ],
+      "id": "per_marie_th_r_se_d_espa"
+    },
+    {
+      "name": "Philippe IV d'Espagne",
+      "aliases": [],
+      "dynasty": "Habsbourg d'Espagne",
+      "titles": [
+        "Roi d'Espagne"
+      ],
+      "relations": [
+        {
+          "type": "fille",
+          "person": "Marie-Thérèse d'Espagne"
+        }
+      ],
+      "source_lines": [
+        270
+      ],
+      "id": "per_philippe_iv_d_espagn"
+    },
+    {
+      "name": "Léopold de Habsbourg",
+      "aliases": [
+        "l'empereur Léopold"
+      ],
+      "dynasty": "Habsbourg d'Autriche",
+      "titles": [
+        "Empereur du Saint-Empire"
+      ],
+      "relations": [],
+      "source_lines": [
+        235,
+        265,
+        270
+      ],
+      "id": "per_l_opold_de_habsbourg"
+    },
+    {
+      "name": "Ferdinand III",
+      "aliases": [
+        "Ferdinand"
+      ],
+      "dynasty": "Habsbourg d'Autriche",
+      "titles": [
+        "Empereur du Saint-Empire"
+      ],
+      "death": {
+        "year": 1657,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [],
+      "source_lines": [
+        235
+      ],
+      "id": "per_ferdinand_iii"
+    },
+    {
+      "name": "Vincent de Paul",
+      "aliases": [
+        "saint Vincent de Paul"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Saint"
+      ],
+      "relations": [],
+      "source_lines": [
+        181
+      ],
+      "id": "per_vincent_de_paul"
+    },
+    {
+      "name": "Fouquet",
+      "aliases": [],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Surintendant des finances"
+      ],
+      "relations": [],
+      "source_lines": [
+        294
+      ],
+      "id": "per_fouquet"
+    },
+    {
+      "name": "Richelieu",
+      "aliases": [],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Cardinal",
+        "Premier ministre"
+      ],
+      "relations": [],
+      "source_lines": [
+        21,
+        43,
+        47,
+        55,
+        92,
+        202,
+        261
+      ],
+      "id": "per_richelieu"
+    },
+    {
+      "name": "Concini",
+      "aliases": [],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Maréchal d'Ancre"
+      ],
+      "relations": [],
+      "source_lines": [
+        204
+      ],
+      "id": "per_concini"
+    },
+    {
+      "name": "Louis XIII",
+      "aliases": [],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "relations": [
+        {
+          "type": "beau-frère",
+          "person": "Charles Ier d'Angleterre"
+        }
+      ],
+      "source_lines": [
+        14
+      ],
+      "id": "per_louis_xiii"
+    },
+    {
+      "name": "Sainte-Beuve",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Écrivain",
+        "Critique littéraire"
+      ],
+      "relations": [],
+      "source_lines": [
+        193,
+        304
+      ],
+      "id": "per_sainte_beuve"
+    },
+    {
+      "name": "Boileau",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Poète"
+      ],
+      "relations": [],
+      "source_lines": [
+        39
+      ],
+      "id": "per_boileau"
+    },
+    {
+      "name": "M. Lavisse",
+      "aliases": [
+        "Lavisse"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Historien"
+      ],
+      "relations": [],
+      "source_lines": [
+        191
+      ],
+      "id": "per_m__lavisse"
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_007",
+      "name": "Bourbons",
+      "period_start": {
+        "year": 1589,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1792,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_008",
+      "name": "Habsbourg d'Espagne",
+      "period_start": {
+        "year": 1516,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1700,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_009",
+      "name": "Habsbourg d'Autriche",
+      "period_start": {
+        "year": 1278,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1918,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_010",
+      "name": "Stuarts",
+      "period_start": {
+        "year": 1603,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1714,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,3412 @@
+{
+  "chapter_number": 16,
+  "chapter_title": "LA RÉVOLUTION",
+  "line_start": 9129,
+  "line_end": 10629,
+  "validation_status": "success",
+  "entries": [
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1789,
+        "month": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Journées d'octobre 1789",
+      "description": "Après les journées d'octobre, 120 députés se retirent de l'Assemblée, estimant qu'elle n'est plus libre. Parmi eux, Mounier, l'homme du programme de Vizille.",
+      "importance": 4,
+      "people": [
+        "Mounier"
+      ],
+      "locations": [
+        "Paris",
+        "Vizille"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 8,
+        "line_end": 13,
+        "excerpt": "Le sens des journées d'octobre, dont on ne punit même pas les excès, fut compris: cent vingt députés, estimant que l'Assemblée n'était plus libre, se retirèrent."
+      },
+      "id": "evt_16_001"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1789,
+        "month": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Début de l'émigration",
+      "description": "L'émigration commence dès le mois de juin 1789, avec des nobles et royalistes qui quittent la France pour combattre la Révolution depuis l'étranger.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 11,
+        "line_end": 13,
+        "excerpt": "Dès le mois de juin, l'émigration avait d'ailleurs commencé. De la fraternité on allait à la guerre civile"
+      },
+      "id": "evt_16_002"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1789,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Suppression des Parlements",
+      "description": "Les Parlements prétendent enregistrer les décrets de l'Assemblée Nationale comme ils enregistraient les édits royaux. Ils sont supprimés.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 31,
+        "line_end": 36,
+        "excerpt": "les Parlements lorsqu'ils prétendirent, comme s'il n'y avait rien de changé, enregistrer les décrets de l'Assemblée Nationale... Ils furent supprimés"
+      },
+      "id": "evt_16_003"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1789,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Élaboration de la Constitution",
+      "description": "L'Assemblée élabore une Constitution pour remplacer les coutumes et lois fondamentales de l'ancien régime, tout en préservant le principe monarchique.",
+      "importance": 4,
+      "people": [
+        "Louis XVI",
+        "Camille Desmoulins"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 56,
+        "line_end": 61,
+        "excerpt": "La Constitution que l'Assemblée élaborait devait tenir lieu des coutumes, des droits traditionnels, des lois fondamentales"
+      },
+      "id": "evt_16_004"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1789,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Division de la France en départements",
+      "description": "L'Assemblée remanie la carte de la France, divisant les provinces en départements de taille à peu près égale, mettant l'uniformité où était la diversité.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 92,
+        "line_end": 95,
+        "excerpt": "Elle remaniait la France, simplifiait jusqu'à la carte, divisait les provinces en départements de taille à peu près égale"
+      },
+      "id": "evt_16_005"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1789,
+        "month": 12,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Première émission d'assignats",
+      "description": "Émission de 400 millions d'assignats-titres, obligations hypothécaires garanties par les biens nationaux confisqués au clergé.",
+      "importance": 4,
+      "people": [
+        "Necker"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 129,
+        "line_end": 131,
+        "excerpt": "les 400 millions d'assignats-titres émis au mois de décembre 1789 furent rapidement absorbés"
+      },
+      "id": "evt_16_006"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1790,
+        "month": 4,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Dépossession du clergé",
+      "description": "Le clergé est purement et simplement dépossédé de ses biens. L'État se charge des frais du culte et de l'assistance publique. Les assignats deviennent papier-monnaie.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 131,
+        "line_end": 137,
+        "excerpt": "Le clergé était purement et simplement dépossédé, en échange de quoi l'Etat se chargeait des frais du culte et de l'assistance publique"
+      },
+      "id": "evt_16_007"
+    },
+    {
+      "type": "religious",
+      "date_start": {
+        "year": 1790,
+        "month": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Constitution civile du clergé",
+      "description": "L'Assemblée vote la Constitution civile du clergé pour mettre l'Église dans la dépendance du pouvoir civil. Non reconnue par le Pape, elle crée un schisme entre prêtres assermentés et insermentés.",
+      "importance": 5,
+      "people": [
+        "Pie VI"
+      ],
+      "locations": [
+        "France",
+        "Rome"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 184,
+        "line_end": 198,
+        "excerpt": "l'Assemblée au mois de juillet 1790 lorsqu'elle vota la Constitution civile du clergé... Par là elle attenta aux consciences et créa une nouvelle sorte de conflit"
+      },
+      "id": "evt_16_008"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1790,
+        "month": 7,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Fête de la Fédération",
+      "description": "Grande célébration nationale au Champ-de-Mars pour l'anniversaire de la prise de la Bastille. 60.000 fédérés venus de toutes les provinces prêtent serment avec le roi devant l'autel de la patrie.",
+      "importance": 4,
+      "people": [
+        "Louis XVI",
+        "La Fayette",
+        "Bailly"
+      ],
+      "locations": [
+        "Paris",
+        "Champ-de-Mars"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 235,
+        "line_end": 246,
+        "excerpt": "La fête de la Fédération, au Champ-de-Mars, sembla marquer un apaisement... le roi en tête, prêta serment à la Fédération devant l'«autel de la patrie»"
+      },
+      "id": "evt_16_009"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1790,
+        "month": 3,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Mirabeau conseiller du roi",
+      "description": "Depuis mars 1790, Mirabeau est en relation secrète avec Louis XVI et Marie-Antoinette, leur prodiguant des conseils pour modérer la Révolution.",
+      "importance": 3,
+      "people": [
+        "Mirabeau",
+        "Louis XVI",
+        "Marie-Antoinette"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 231,
+        "line_end": 233,
+        "excerpt": "Depuis le mois de mars 1790, il était en relation avec le roi et la reine. Il leur prodiguait ses conseils"
+      },
+      "id": "evt_16_010"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1790,
+        "month": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Mutinerie de Nancy",
+      "description": "Trois régiments se révoltent à Nancy. Bouillé, commandant à Metz, mène une répression sévère. Les mutins du régiment de Châteauvieux deviennent des martyrs pour les journaux patriotes.",
+      "importance": 3,
+      "people": [
+        "Bouillé"
+      ],
+      "locations": [
+        "Nancy",
+        "Metz"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 263,
+        "line_end": 268,
+        "excerpt": "Trois régiments s'étant révoltés à Nancy, l'Assemblée cette fois s'émut et chargea de la répression Bouillé qui commandait à Metz"
+      },
+      "id": "evt_16_011"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1791,
+        "month": 4,
+        "day": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort de Mirabeau",
+      "description": "Mirabeau meurt après une brève maladie. Ses plans pour modérer la Révolution meurent avec lui. Des funérailles solennelles lui sont faites.",
+      "importance": 4,
+      "people": [
+        "Mirabeau"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 307,
+        "line_end": 314,
+        "excerpt": "Mirabeau mourut, après une brève maladie, le 2 avril 1791. Ses relations avec la cour étaient connues... Malgré les funérailles solennelles qui lui furent faites"
+      },
+      "id": "evt_16_012"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1791,
+        "month": 4,
+        "day": 18,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Émeute de Saint-Cloud",
+      "description": "Une émeute empêche Louis XVI d'aller à Saint-Cloud. Le bataillon de Danton tient en échec La Fayette. Le roi n'est plus libre malgré la Constitution.",
+      "importance": 3,
+      "people": [
+        "Louis XVI",
+        "Danton",
+        "La Fayette"
+      ],
+      "locations": [
+        "Paris",
+        "Tuileries",
+        "Saint-Cloud"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 317,
+        "line_end": 322,
+        "excerpt": "le 18 avril, une émeute avait empêché le roi d'aller à Saint-Cloud, et un bataillon de la garde nationale, celui de Danton, avait tenu en échec La Fayette"
+      },
+      "id": "evt_16_013"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1791,
+        "month": 6,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Fuite de Varennes",
+      "description": "Louis XVI quitte les Tuileries avec sa famille pour rejoindre Bouillé à Montmédy. Reconnu à Varennes, le roi est arrêté et ramené à Paris.",
+      "importance": 5,
+      "people": [
+        "Louis XVI",
+        "Marie-Antoinette",
+        "Bouillé",
+        "Louis XVIII"
+      ],
+      "locations": [
+        "Paris",
+        "Tuileries",
+        "Varennes",
+        "Montmédy",
+        "Belgique"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 322,
+        "line_end": 324,
+        "excerpt": "Il quitta les Tuileries dans la nuit du 20 juin avec sa famille pour rejoindre Bouillé à Montmédy. Reconnu à Varennes, le roi fut arrêté et ramené à Paris"
+      },
+      "id": "evt_16_014"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1791,
+        "month": 7,
+        "day": 15,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Inviolabilité du roi déclarée",
+      "description": "La majorité de l'Assemblée décide que le roi étant inviolable, l'affaire de Varennes ne comporte pas de suites.",
+      "importance": 3,
+      "people": [
+        "Louis XVI"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 351,
+        "line_end": 352,
+        "excerpt": "Le 15 juillet, la majorité de l'Assemblée avait décidé que, le roi étant inviolable, l'affaire de Varennes ne comportait pas de suites"
+      },
+      "id": "evt_16_015"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1791,
+        "month": 7,
+        "day": 17,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Fusillade du Champ-de-Mars",
+      "description": "Des Jacobins déposent une pétition réclamant la déchéance du roi et organisent une manifestation. La Fayette ordonne de tirer sur la foule. Trois à quatre cents morts et blessés.",
+      "importance": 4,
+      "people": [
+        "La Fayette"
+      ],
+      "locations": [
+        "Paris",
+        "Champ-de-Mars"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 352,
+        "line_end": 360,
+        "excerpt": "Le 16, des Jacobins déposèrent au Champ-de-Mars... La Fayette lui-même ordonna de tirer sur la foule... Il y eut trois ou quatre cents morts et blessés"
+      },
+      "id": "evt_16_016"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1791,
+        "month": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Création du club des Feuillants",
+      "description": "Après la fusillade du Champ-de-Mars, les Constitutionnels abandonnent le club des Jacobins pour ouvrir celui des Feuillants.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 365,
+        "line_end": 367,
+        "excerpt": "les Constitutionnels ne recherchaient pas les responsables, n'osaient même pas fermer le club des Jacobins qu'ils abandonnèrent pour en ouvrir un autre, celui des Feuillants"
+      },
+      "id": "evt_16_017"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1791,
+        "month": 9,
+        "day": 30,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Fin de l'Assemblée Constituante",
+      "description": "La Constituante tient sa dernière séance. Le président Thouret déclare à Louis XVI: «Sire, Votre Majesté a fini la Révolution.» Ses membres décident de ne pas être rééligibles.",
+      "importance": 4,
+      "people": [
+        "Louis XVI",
+        "Thouret",
+        "Barnave"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 384,
+        "line_end": 397,
+        "excerpt": "Le 30 septembre, la Constituante tint sa dernière séance devant Louis XVI à qui le président Thouret adressa cette parole mémorable... «Sire, Votre Majesté a fini la Révolution»"
+      },
+      "id": "evt_16_018"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1791,
+        "month": 10,
+        "day": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Ouverture de l'Assemblée Législative",
+      "description": "La nouvelle Assemblée législative se réunit. Elle est composée d'hommes nouveaux, issus de la bourgeoisie, partisans des frontières naturelles et de l'alliance prussienne.",
+      "importance": 4,
+      "people": [
+        "Sieyès"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 595,
+        "line_end": 596,
+        "excerpt": "Dès le début de la Législative, réunie le 1er octobre 1791, les Girondins s'étaient prononcés pour une politique belliqueuse"
+      },
+      "id": "evt_16_019"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1791,
+        "month": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Déclaration de Pillnitz",
+      "description": "Frédéric-Guillaume de Prusse et Léopold II d'Autriche se rapprochent et publient une déclaration ambiguë que les émigrés interprètent comme un soutien à leur cause.",
+      "importance": 4,
+      "people": [
+        "Frédéric-Guillaume II",
+        "Léopold II"
+      ],
+      "locations": [
+        "Pillnitz"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 513,
+        "line_end": 520,
+        "excerpt": "dès le mois d'août 1791, Frédéric-Guillaume et Léopold s'étaient rapprochés... se traduisit par l'équivoque déclaration de Pillnitz"
+      },
+      "id": "evt_16_020"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1792,
+        "month": 3,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Mise en accusation de Lessart",
+      "description": "Brissot obtient la mise en accusation du ministre des affaires étrangères de Lessart, accusé de protéger les émigrés et de diriger un «comité autrichien».",
+      "importance": 3,
+      "people": [
+        "Brissot",
+        "de Lessart",
+        "Marie-Antoinette"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 664,
+        "line_end": 665,
+        "excerpt": "Au mois de mars 1792, la Gironde remporta sa première victoire: Brissot obtint la mise en accusation de Lessart"
+      },
+      "id": "evt_16_021"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1792,
+        "month": 4,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Déclaration de guerre à l'Autriche",
+      "description": "L'Assemblée presque unanime vote la déclaration de guerre à l'Autriche, prélude à la guerre générale européenne.",
+      "importance": 5,
+      "people": [
+        "Louis XVI",
+        "Dumouriez",
+        "Brissot"
+      ],
+      "locations": [
+        "Paris",
+        "Autriche"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 672,
+        "line_end": 674,
+        "excerpt": "Le 20 avril, ils obtenaient, de l'Assemblée presque unanime, la déclaration de guerre à l'Autriche, prélude de la guerre générale"
+      },
+      "id": "evt_16_022"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1792,
+        "month": 4,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Échec de la campagne de Belgique",
+      "description": "Deux corps français marchant sur Mons et Tournai sont repoussés par les Autrichiens. Le général Dillon est assassiné par les fuyards.",
+      "importance": 3,
+      "people": [
+        "Dillon"
+      ],
+      "locations": [
+        "Belgique",
+        "Mons",
+        "Tournai"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 699,
+        "line_end": 704,
+        "excerpt": "deux de nos corps, qui marchaient l'un sur Mons, l'autre sur Tournai, furent repoussés par les Autrichiens... le général Dillon fut assassiné par les fuyards"
+      },
+      "id": "evt_16_023"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1792,
+        "month": 6,
+        "day": 12,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Renvoi des ministres girondins",
+      "description": "Louis XVI refuse de sanctionner les décrets sur la déportation des prêtres insermentés et renvoie les ministres girondins.",
+      "importance": 3,
+      "people": [
+        "Louis XVI",
+        "Dumouriez"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 716,
+        "line_end": 718,
+        "excerpt": "Louis XVI refusa de sanctionner les décrets et renvoya les ministres girondins le 12 juin"
+      },
+      "id": "evt_16_024"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1792,
+        "month": 6,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Journée du 20 juin 1792",
+      "description": "Un cortège tumultueux envahit les Tuileries. Louis XVI, à la foule qui l'insulte, oppose son courage et coiffe le bonnet rouge qui lui est tendu.",
+      "importance": 4,
+      "people": [
+        "Louis XVI",
+        "Vergniaud"
+      ],
+      "locations": [
+        "Paris",
+        "Tuileries"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 722,
+        "line_end": 727,
+        "excerpt": "Le 20 juin, un cortège tumultueux... viola les Tuileries... Louis XVI, à la foule qui l'insultait et le menaçait, opposa son courage résigné et tranquille et coiffa le bonnet rouge"
+      },
+      "id": "evt_16_025"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1792,
+        "month": 7,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "La patrie en danger",
+      "description": "Sur proposition de Vergniaud, l'Assemblée décrète que la patrie est en danger face à la guerre avec la Prusse et l'Autriche réunies.",
+      "importance": 4,
+      "people": [
+        "Vergniaud"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 738,
+        "line_end": 742,
+        "excerpt": "sur la proposition de Vergniaud, l'Assemblée décréta que la patrie était en danger"
+      },
+      "id": "evt_16_026"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1792,
+        "month": 7,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Manifeste de Brunswick",
+      "description": "Le général prussien Brunswick publie un manifeste menaçant de détruire Paris, rédigé par le marquis de Limon. Ce défi renforce l'idée que le roi conspire avec l'ennemi.",
+      "importance": 4,
+      "people": [
+        "Brunswick",
+        "Marquis de Limon"
+      ],
+      "locations": [
+        "Paris",
+        "Prusse"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 777,
+        "line_end": 784,
+        "excerpt": "Le manifeste du général prussien Brunswick... était, avec ses menaces insolentes de détruire Paris, conçu dans les termes les plus propres à blesser la fierté des Français"
+      },
+      "id": "evt_16_027"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1792,
+        "month": 8,
+        "day": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Journée du 10 août - Chute de la monarchie",
+      "description": "Émeute organisée par Danton et Robespierre. Mandat, commandant la garde nationale, est assassiné. La famille royale se réfugie à l'Assemblée. La Commune insurrectionnelle prend le pouvoir.",
+      "importance": 5,
+      "people": [
+        "Louis XVI",
+        "Marie-Antoinette",
+        "Danton",
+        "Robespierre",
+        "Mandat"
+      ],
+      "locations": [
+        "Paris",
+        "Tuileries"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 788,
+        "line_end": 797,
+        "excerpt": "Une autre émeute, organisée par Danton et Robespierre, leur força la main, le 10 août... En même temps que la famille royale, menacée de mort, quittait les Tuileries"
+      },
+      "id": "evt_16_028"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1792,
+        "month": 8,
+        "day": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Suspension du roi et emprisonnement au Temple",
+      "description": "La Commune insurrectionnelle impose la suspension du roi. La famille royale est conduite au Temple. Danton devient ministre de la Justice. Le tribunal révolutionnaire est créé.",
+      "importance": 5,
+      "people": [
+        "Louis XVI",
+        "Danton",
+        "Robespierre"
+      ],
+      "locations": [
+        "Paris",
+        "Temple",
+        "Hôtel de Ville"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 800,
+        "line_end": 809,
+        "excerpt": "la Commune insurrectionnelle fit la loi... Elle se fit livrer la famille royale qui fut conduite au Temple, prisonnière. Danton devint Ministre de la Justice"
+      },
+      "id": "evt_16_029"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1792,
+        "month": 9,
+        "day": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Massacres de Septembre",
+      "description": "Massacres dans les prisons de Paris, précédés de perquisitions et arrestations ordonnées par Danton. Œuvre de la Commune insurrectionnelle et des Jacobins pour terroriser les électeurs.",
+      "importance": 5,
+      "people": [
+        "Danton",
+        "Robespierre",
+        "Marat"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 848,
+        "line_end": 855,
+        "excerpt": "les massacres du 2 septembre, précédés de perquisitions domiciliaires et d'arrestations en masse ordonnées par le ministre de la justice, eurent lieu le jour même où se réunissaient les électeurs"
+      },
+      "id": "evt_16_030"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1792,
+        "month": 9,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Valmy",
+      "description": "Combat médiocre en lui-même (moins de 800 morts de chaque côté), mais les Prussiens, déconcertés par la résistance française, renoncent à avancer sur Châlons.",
+      "importance": 5,
+      "people": [
+        "Dumouriez",
+        "Brunswick"
+      ],
+      "locations": [
+        "Valmy",
+        "Châlons"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 886,
+        "line_end": 901,
+        "excerpt": "après le combat de Valmy, affaire médiocre en elle-même, puisqu'il n'y eut pas huit cents hommes hors de combat de chaque côté, mais grosse de conséquences"
+      },
+      "id": "evt_16_031"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1792,
+        "month": 9,
+        "day": 21,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Proclamation de la République",
+      "description": "La Convention s'ouvre le 21 septembre et proclame aussitôt la République.",
+      "importance": 5,
+      "people": [],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 902,
+        "line_end": 903,
+        "excerpt": "Valmy est du 20 septembre 1792. La Convention s'ouvrait le 21. Elle proclama aussitôt la République"
+      },
+      "id": "evt_16_032"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1792,
+        "month": 11,
+        "day": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Jemmapes",
+      "description": "Victoire de Dumouriez qui ouvre la Belgique à la France. Cette conquête provoque l'hostilité de l'Angleterre.",
+      "importance": 4,
+      "people": [
+        "Dumouriez"
+      ],
+      "locations": [
+        "Jemmapes",
+        "Belgique"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 967,
+        "line_end": 968,
+        "excerpt": "les plans de Dumouriez sur la Belgique, que la victoire de Jemmapes venait de lui ouvrir"
+      },
+      "id": "evt_16_033"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1793,
+        "month": 3,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Création du Comité de Salut Public",
+      "description": "La Convention tire de son sein le Comité de Salut Public pour contrôler les ministres et gouverner directement.",
+      "importance": 4,
+      "people": [
+        "Marat"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1049,
+        "line_end": 1054,
+        "excerpt": "A la fin du mois de mars, la Convention avait déjà tiré de son sein le Comité de Salut Public pour contrôler les ministres"
+      },
+      "id": "evt_16_034"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1793,
+        "month": 1,
+        "day": 21,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Exécution de Louis XVI",
+      "description": "Louis XVI est exécuté. La mort du roi est votée par 361 voix sur 721 votants. Le duc d'Orléans (Philippe-Égalité) vote la mort avec la Montagne.",
+      "importance": 5,
+      "people": [
+        "Louis XVI",
+        "Philippe-Égalité"
+      ],
+      "locations": [
+        "Paris",
+        "Place de la Révolution"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 940,
+        "line_end": 948,
+        "excerpt": "La mort du roi, enjeu de cette bataille pour le pouvoir, fut votée par 361 voix sur 721 votants... Le 21 janvier 1793, jour de l'exécution de Louis XVI"
+      },
+      "id": "evt_16_035"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1793,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Entrée en guerre de l'Angleterre",
+      "description": "L'Angleterre entre en guerre contre la France révolutionnaire, déterminée à empêcher la France de contrôler les Pays-Bas et à profiter de la faiblesse de la marine française.",
+      "importance": 5,
+      "people": [
+        "Pitt"
+      ],
+      "locations": [
+        "Angleterre",
+        "Belgique",
+        "Anvers"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 985,
+        "line_end": 992,
+        "excerpt": "Aussitôt après notre victoire de Jemmapes... l'Angleterre était d'ailleurs résolue à la guerre... les Anglais se seraient peu souciés de l'exécution de Louis XVI si, le 21 janvier, nous n'eussions déjà occupé Anvers"
+      },
+      "id": "evt_16_036"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1793,
+        "month": 4,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Défection de Dumouriez",
+      "description": "Dumouriez échoue en Hollande, perd la Belgique, puis émigre après avoir livré aux Autrichiens les commissaires de la Convention.",
+      "importance": 3,
+      "people": [
+        "Dumouriez",
+        "La Fayette"
+      ],
+      "locations": [
+        "Hollande",
+        "Belgique"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1086,
+        "line_end": 1089,
+        "excerpt": "Dumouriez avait échoué en Hollande, perdu la Belgique, puis il avait émigré, comme La Fayette, après avoir livré aux Autrichiens les commissaires de la Convention"
+      },
+      "id": "evt_16_037"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1793,
+        "month": 5,
+        "day": 31,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Journée du 31 mai - Chute des Girondins",
+      "description": "Henriot cerne la Convention avec la garde nationale et impose la mise en accusation des Girondins. Les Jacobins prennent le contrôle total du gouvernement.",
+      "importance": 5,
+      "people": [
+        "Robespierre",
+        "Danton",
+        "Henriot"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1110,
+        "line_end": 1117,
+        "excerpt": "Le «général» Henriot, à la tête des sections les plus avancées de la garde nationale, cerne la Convention... leur impose la mise en accusation des Girondins... Cette journée du 31 mai 1793"
+      },
+      "id": "evt_16_038"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1793,
+        "month": 10,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Procès et exécution des Girondins",
+      "description": "Procès des Girondins, auteurs de la guerre à l'Autriche. Exécution de Marie-Antoinette, Philippe-Égalité, Mme Roland, l'ancien maire Bailly.",
+      "importance": 4,
+      "people": [
+        "Marie-Antoinette",
+        "Philippe-Égalité",
+        "Madame Roland",
+        "Bailly"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1123,
+        "line_end": 1128,
+        "excerpt": "En octobre, le procès des Girondins... coïncida avec l'exécution de Marie-Antoinette... Philippe-Egalité, Mme Roland, l'ancien maire Bailly... se succédèrent en quelques jours sous le couteau"
+      },
+      "id": "evt_16_039"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1793,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Soulèvement de la Vendée",
+      "description": "L'enrôlement forcé de 300.000 hommes, ajouté à la guerre religieuse et à l'exécution de Louis XVI, soulève définitivement la Vendée contre la République.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Vendée"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1136,
+        "line_end": 1139,
+        "excerpt": "l'enrôlement forcé de 300.000 hommes, ajouté à la guerre religieuse et à l'exécution de Louis XVI, avait définitivement soulevé la Vendée"
+      },
+      "id": "evt_16_040"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1793,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Révoltes de Lyon, Marseille et Toulon",
+      "description": "Lyon et Marseille sont en révolte contre les Jacobins. Toulon se donne aux Anglais pour échapper à la Terreur.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Lyon",
+        "Marseille",
+        "Toulon"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1140,
+        "line_end": 1141,
+        "excerpt": "Lyon et Marseille étaient en révolte contre les Jacobins. Pour leur échapper, Toulon se donnait aux Anglais"
+      },
+      "id": "evt_16_041"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1793,
+        "month": 7,
+        "day": 13,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Assassinat de Marat par Charlotte Corday",
+      "description": "Charlotte Corday assassine Marat. Bien que la Révolution ne s'arrête pas, sa marche en est sensiblement ralentie.",
+      "importance": 4,
+      "people": [
+        "Marat",
+        "Charlotte Corday"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1067,
+        "line_end": 1072,
+        "excerpt": "La marche de la Révolution ne s'arrêtera pas le jour même où Charlotte Corday aura tué ce monstre, mais elle en sera sensiblement ralentie"
+      },
+      "id": "evt_16_042"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1793,
+        "month": 10,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Victoire de Wattignies",
+      "description": "Victoire française qui débloque la frontière du Nord. La situation militaire commence à se rétablir.",
+      "importance": 3,
+      "people": [
+        "Carnot"
+      ],
+      "locations": [
+        "Wattignies"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1171,
+        "line_end": 1172,
+        "excerpt": "la situation se rétablissait en octobre par la victoire de Wattignies qui débloquait la frontière du Nord"
+      },
+      "id": "evt_16_043"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1793,
+        "month": 12,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Reprise de Toulon",
+      "description": "Bonaparte se signale à la reprise de Toulon aux Anglais. La Vendée est définitivement vaincue, l'Alsace délivrée.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Toulon",
+        "Vendée",
+        "Alsace",
+        "Belgique"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1174,
+        "line_end": 1176,
+        "excerpt": "En décembre, la Vendée sera définitivement vaincue, Bonaparte se sera signalé à la reprise de Toulon, l'Alsace sera délivrée"
+      },
+      "id": "evt_16_044"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1794,
+        "month": 3,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Exécution des Hébertistes",
+      "description": "Robespierre frappe les hébertistes et la «canaille parisienne», commençant à redouter l'anarchie.",
+      "importance": 3,
+      "people": [
+        "Robespierre",
+        "Hébert"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1193,
+        "line_end": 1195,
+        "excerpt": "Robespierre était conduit à se comporter comme un chef. Il commençait à redouter l'anarchie: le premier il osa frapper la canaille parisienne avec Hébert et les hébertistes"
+      },
+      "id": "evt_16_045"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1794,
+        "month": 4,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Exécution de Danton et des Indulgents",
+      "description": "Robespierre envoie à la guillotine Danton et les dantonistes, ceux qui penchaient pour une paix prématurée.",
+      "importance": 4,
+      "people": [
+        "Robespierre",
+        "Danton",
+        "Camille Desmoulins",
+        "Lucile Desmoulins"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1195,
+        "line_end": 1212,
+        "excerpt": "ce furent Danton et les dantonistes, les «indulgents»... qu'il envoya à la guillotine... Danton a été supprimé, Camille Desmoulins et sa Lucile aussi"
+      },
+      "id": "evt_16_046"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1794,
+        "month": 7,
+        "day": 28,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "9 Thermidor - Chute et exécution de Robespierre",
+      "description": "La Convention vote la mise en accusation de Robespierre. Tallien et Barras organisent la résistance avec la section Le Pelletier. Robespierre, réfugié à l'Hôtel de Ville, tente de se suicider et est guillotiné le lendemain.",
+      "importance": 5,
+      "people": [
+        "Robespierre",
+        "Tallien",
+        "Barras",
+        "Santerre",
+        "Henriot"
+      ],
+      "locations": [
+        "Paris",
+        "Hôtel de Ville"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1240,
+        "line_end": 1248,
+        "excerpt": "Tallien et Barras se chargèrent de la manoeuvre... Robespierre, réfugié à l'Hôtel de Ville... Il voulut se tuer, se manqua et, le lendemain, fut porté tout sanglant sur l'échafaud (27-28 juillet 1794)"
+      },
+      "id": "evt_16_047"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1795,
+        "month": 4,
+        "day": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Journée du 12 germinal an III",
+      "description": "Émeute jacobine qui avorte car la Commune de Paris a été supprimée.",
+      "importance": 2,
+      "people": [],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1283,
+        "line_end": 1285,
+        "excerpt": "Le 12 germinal et le 1er prairial, l'émeute se renouvelle et avorte parce qu'elle n'a plus de direction ni d'organisation"
+      },
+      "id": "evt_16_048"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1795,
+        "month": 5,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Journée du 1er prairial an III",
+      "description": "La foule envahit l'Assemblée, tue le député Féraud et porte sa tête au bout d'une pique. L'insurrection est vaincue. La garde nationale perd son autonomie.",
+      "importance": 3,
+      "people": [
+        "Féraud"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1285,
+        "line_end": 1291,
+        "excerpt": "au 1er prairial, l'alerte a été chaude. La foule a encore envahi l'Assemblée, tué le député Féraud, et porté sa tête au bout d'une pique"
+      },
+      "id": "evt_16_049"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1795,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de Bâle avec la Prusse",
+      "description": "La Convention conclut la paix avec la Prusse qui se désintéresse de la rive gauche du Rhin moyennant compensation en Allemagne.",
+      "importance": 4,
+      "people": [
+        "Barthélemy"
+      ],
+      "locations": [
+        "Bâle"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1311,
+        "line_end": 1320,
+        "excerpt": "la Convention avait saisi l'occasion de conclure la paix avec la Prusse... elle signa le traité de Bâle et se désintéressa de la rive gauche du Rhin"
+      },
+      "id": "evt_16_050"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1795,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Paix avec l'Espagne",
+      "description": "L'Espagne conclut la paix avec la France républicaine dans l'esprit de l'ancien pacte de famille.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Espagne"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1315,
+        "line_end": 1324,
+        "excerpt": "Elle avait également conclu la paix avec l'Espagne... Les Bourbons d'Espagne comprirent de leur côté qu'ils travaillaient uniquement pour l'Angleterre"
+      },
+      "id": "evt_16_051"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1795,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Constitution de l'an III - Création du Directoire",
+      "description": "La Constitution crée un Directoire de cinq membres et un pouvoir législatif à deux chambres: Conseil des Anciens et Conseil des Cinq-Cents.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1333,
+        "line_end": 1338,
+        "excerpt": "La Constitution de l'an III essaya de reconstituer un pouvoir exécutif régulier en créant un Directoire de cinq membres et un pouvoir législatif équilibré, composé de deux assemblées ou conseils"
+      },
+      "id": "evt_16_052"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1795,
+        "month": 10,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "13 Vendémiaire - Bonaparte écrase les royalistes",
+      "description": "Bonaparte et son artillerie écrasent un mouvement royaliste à Paris. L'ère des généraux commence.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1295,
+        "line_end": 1298,
+        "excerpt": "Le 13 vendémiaire, il faut appeler Bonaparte et son artillerie pour écraser un mouvement royaliste à Paris"
+      },
+      "id": "evt_16_053"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1796,
+        "month": 2,
+        "day": 19,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Destruction de la planche aux assignats",
+      "description": "Le Directoire brûle solennellement la planche qui servait à imprimer les assignats, symbole de la banqueroute. Les mandats territoriaux les remplacent avec le même échec.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1349,
+        "line_end": 1362,
+        "excerpt": "Le Directoire se décida à brûler solennellement la planche qui servait à les imprimer... La destruction de la planche aux assignats... est du 19 février 1796"
+      },
+      "id": "evt_16_054"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1796,
+        "month": 2,
+        "day": 22,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bonaparte reçoit le commandement de l'armée d'Italie",
+      "description": "Bonaparte reçoit le commandement de l'armée des Alpes qu'il entraîne vers l'Italie pour conquérir et piller ces riches provinces.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Italie"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1363,
+        "line_end": 1365,
+        "excerpt": "Le 22, Bonaparte recevait le commandement de l'armée des Alpes qu'il entraînait vers «ces riches provinces»"
+      },
+      "id": "evt_16_055"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1796,
+        "month": 8,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Castiglione",
+      "description": "Victoire de Bonaparte en Italie lors de sa première campagne.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Castiglione",
+        "Italie"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1366,
+        "line_end": 1367,
+        "excerpt": "Une campagne marquée par une série de victoires, Castiglione, Arcole, Rivoli"
+      },
+      "id": "evt_16_056"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1796,
+        "month": 11,
+        "day": 17,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille d'Arcole",
+      "description": "Victoire de Bonaparte en Italie.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Arcole",
+        "Italie"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1366,
+        "line_end": 1367,
+        "excerpt": "Une campagne marquée par une série de victoires, Castiglione, Arcole, Rivoli"
+      },
+      "id": "evt_16_057"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1797,
+        "month": 1,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Rivoli",
+      "description": "Victoire décisive de Bonaparte en Italie qui permet d'accomplir son programme de conquête.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Rivoli",
+        "Italie"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1366,
+        "line_end": 1367,
+        "excerpt": "Une campagne marquée par une série de victoires, Castiglione, Arcole, Rivoli"
+      },
+      "id": "evt_16_058"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1797,
+        "month": 4,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Préliminaires de Léoben",
+      "description": "L'Autriche, chassée d'Italie et menacée chez elle, signe les préliminaires de paix de Léoben avec la France.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Léoben",
+        "Autriche"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1379,
+        "line_end": 1381,
+        "excerpt": "au moment où l'Autriche, chassée de l'Italie, menacée jusque chez elle, signait les préliminaires de Léoben"
+      },
+      "id": "evt_16_059"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1797,
+        "month": 9,
+        "day": 4,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Coup d'État du 18 fructidor",
+      "description": "Bonaparte envoie Augereau à Paris qui envahit la salle des conseils avec Rossignol et Santerre, arrêtant les députés modérés. Une Terreur sèche s'ensuit avec déportations en Guyane.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte",
+        "Augereau",
+        "Rossignol",
+        "Santerre",
+        "Barthélemy",
+        "Carnot",
+        "Barras",
+        "La Revellière",
+        "Rewbell"
+      ],
+      "locations": [
+        "Paris",
+        "Guyane"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1414,
+        "line_end": 1426,
+        "excerpt": "Bonaparte envoya à Paris Augereau qui envahit la salle des conseils accompagné de Rossignol et de Santerre... le lendemain du 18 fructidor... (4 septembre 1797)"
+      },
+      "id": "evt_16_060"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1797,
+        "month": 10,
+        "day": 17,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Traité de Campo-Formio",
+      "description": "Bonaparte signe avec l'Autriche une paix de transaction qui renvoie les affaires d'Allemagne au futur Congrès de Rastadt.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Campo-Formio",
+        "Rastadt"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1442,
+        "line_end": 1444,
+        "excerpt": "il signe avec l'Autriche la paix de Campo-Formio, une paix de transaction qui renvoie les affaires les plus difficiles... à un futur Congrès, celui de Rastadt"
+      },
+      "id": "evt_16_061"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1798,
+        "month": 8,
+        "day": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille d'Aboukir - Désastre naval",
+      "description": "Nelson détruit la flotte française à Aboukir. Bonaparte, qui a conquis l'Égypte, se trouve bloqué.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte",
+        "Nelson"
+      ],
+      "locations": [
+        "Aboukir",
+        "Égypte"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1465,
+        "line_end": 1468,
+        "excerpt": "Nelson, peu de temps après, détruisait la flotte française à Aboukir (août 1798)... Bonaparte avait conquis l'Egypte, mais s'y trouvait bloqué"
+      },
+      "id": "evt_16_062"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1799,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Deuxième coalition contre la France",
+      "description": "La Russie et la Turquie déclarent la guerre. L'Autriche rompt les négociations de Rastadt et fait assassiner les plénipotentiaires français.",
+      "importance": 4,
+      "people": [
+        "Souvarof"
+      ],
+      "locations": [
+        "Rastadt",
+        "Italie",
+        "Milan"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1468,
+        "line_end": 1480,
+        "excerpt": "La Russie et la Turquie déclaraient la guerre à la République. L'Autriche, à son tour, rompait les négociations de Rastadt, faisait même assassiner nos plénipotentiaires"
+      },
+      "id": "evt_16_063"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1799,
+        "month": 8,
+        "day": 15,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Défaite de Novi",
+      "description": "Défaite française en Italie. L'Italie est perdue.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Novi",
+        "Italie"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1484,
+        "line_end": 1485,
+        "excerpt": "Après la défaite de Novi, l'Italie fut perdue"
+      },
+      "id": "evt_16_064"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1799,
+        "month": 9,
+        "day": 25,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Victoire de Masséna à Zurich",
+      "description": "Victoire de Masséna qui arrête l'ennemi et évite une débâcle totale.",
+      "importance": 3,
+      "people": [
+        "Masséna"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1485,
+        "line_end": 1486,
+        "excerpt": "Sans une victoire de Masséna à Zurich et un succès de Brune en Hollande, qui arrêtèrent l'ennemi, une débâcle était menaçante"
+      },
+      "id": "evt_16_065"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1799,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Succès de Brune en Hollande",
+      "description": "Brune remporte un succès en Hollande qui contribue à arrêter l'ennemi.",
+      "importance": 2,
+      "people": [
+        "Brune"
+      ],
+      "locations": [
+        "Hollande"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1486,
+        "line_end": 1487,
+        "excerpt": "un succès de Brune en Hollande, qui arrêtèrent l'ennemi"
+      },
+      "id": "evt_16_066"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1799,
+        "month": 10,
+        "day": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Retour de Bonaparte d'Égypte",
+      "description": "Bonaparte, informé des événements de France et ayant échoué en Syrie, échappe aux navires anglais et débarque à Fréjus.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Fréjus",
+        "Égypte",
+        "Syrie"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1491,
+        "line_end": 1493,
+        "excerpt": "il résolut de rentrer, échappa aux navires anglais par une fortune extraordinaire, et, le 8 octobre 1799, il débarquait à Fréjus"
+      },
+      "id": "evt_16_067"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1799,
+        "month": 11,
+        "day": 9,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Coup d'État du 18 Brumaire",
+      "description": "Bonaparte renverse le Directoire par un coup d'État. La période révolutionnaire se termine par l'aveu d'une cruelle impuissance à fonder un gouvernement.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 1495,
+        "line_end": 1499,
+        "excerpt": "Un mois plus tard, le 9 novembre, 18 brumaire, le Directoire était renversé... La Révolution... se terminait par l'aveu d'une cruelle impuissance à fonder un gouvernement"
+      },
+      "id": "evt_16_068"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1790,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Affaire de la baie de Nootka",
+      "description": "La Constituante refuse de tenir les engagements du pacte de famille envers l'Espagne face aux Anglais qui veulent prendre la baie de Nootka en Californie.",
+      "importance": 2,
+      "people": [
+        "Pitt",
+        "Catherine II"
+      ],
+      "locations": [
+        "Nootka",
+        "Californie",
+        "Espagne",
+        "Angleterre"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 441,
+        "line_end": 444,
+        "excerpt": "la Constituante... eut refusé de tenir les engagements du pacte de famille envers l'Espagne à qui les Anglais voulaient prendre, en 1790, la baie de Nootka en Californie"
+      },
+      "id": "evt_16_069"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1795,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Conquête de la Hollande par Pichegru",
+      "description": "L'armée française conquiert la Hollande avec Pichegru, un exploit étonnant qui accroît l'influence politique de l'armée.",
+      "importance": 3,
+      "people": [
+        "Pichegru"
+      ],
+      "locations": [
+        "Hollande"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1292,
+        "line_end": 1294,
+        "excerpt": "une armée victorieuse qui vient, par un étonnant exploit, de conquérir la Hollande avec Pichegru"
+      },
+      "id": "evt_16_070"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1796,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Conspiration de Babeuf",
+      "description": "La misère favorise la propagande socialiste et la conspiration de Babeuf contre le Directoire.",
+      "importance": 2,
+      "people": [
+        "Babeuf"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1355,
+        "line_end": 1356,
+        "excerpt": "Bientôt la misère allait favoriser la propagande socialiste et la conspiration de Babeuf"
+      },
+      "id": "evt_16_071"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1798,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Expédition d'Égypte",
+      "description": "Bonaparte entreprend l'expédition d'Égypte pour frapper l'empire anglais des Indes, avec une marine mal reconstituée.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Égypte"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1453,
+        "line_end": 1467,
+        "excerpt": "Il inventa autre chose, une expédition d'Egypte, une entreprise d'Orient... de frapper l'empire anglais des Indes"
+      },
+      "id": "evt_16_072"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1799,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Échec de Bonaparte en Syrie",
+      "description": "Bonaparte échoue en Syrie où il avait essayé de s'ouvrir un chemin depuis l'Égypte.",
+      "importance": 2,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Syrie"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 1489,
+        "line_end": 1491,
+        "excerpt": "Bonaparte, de son côté, venait d'échouer en Syrie où il avait essayé de s'ouvrir un chemin"
+      },
+      "id": "evt_16_073"
+    },
+    {
+      "type": "religious",
+      "date_start": {
+        "year": 1791,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Annexion du Comtat Venaissin et d'Avignon",
+      "description": "La Constituante accueille le Comtat et Avignon, terres du Pape, qui s'étaient soulevés, malgré ses principes contre les annexions.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Comtat Venaissin",
+        "Avignon"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 582,
+        "line_end": 588,
+        "excerpt": "Lorsque le Comtat et Avignon, terres du Pape, s'étaient soulevés, la Constituante avait hésité à les accueillir... Ces scrupules furent vaincus"
+      },
+      "id": "evt_16_074"
+    }
+  ],
+  "people": [
+    {
+      "name": "Louis XVI",
+      "aliases": [
+        "le Roi"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1793,
+        "month": 1,
+        "day": 21,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": {
+        "start": {
+          "year": 1774,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1792,
+          "month": 8,
+          "day": 10,
+          "circa": false,
+          "era": "CE",
+          "precision": "exact"
+        }
+      },
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Marie-Antoinette"
+        },
+        {
+          "type": "frère",
+          "person": "Louis XVIII"
+        }
+      ],
+      "source_lines": [
+        41,
+        52,
+        233,
+        298,
+        315,
+        322,
+        328,
+        378,
+        534,
+        540,
+        608,
+        667,
+        708,
+        716,
+        725,
+        762,
+        767,
+        787,
+        802,
+        929,
+        947,
+        987,
+        1138,
+        1316
+      ],
+      "id": "per_louis_xvi"
+    },
+    {
+      "name": "Marie-Antoinette",
+      "aliases": [
+        "l'Autrichienne",
+        "la Reine"
+      ],
+      "dynasty": "Habsbourg-Lorraine",
+      "titles": [
+        "Reine de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1793,
+        "month": 10,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Louis XVI"
+        },
+        {
+          "type": "frère",
+          "person": "Léopold II"
+        }
+      ],
+      "source_lines": [
+        232,
+        459,
+        464,
+        660,
+        706,
+        748,
+        1125
+      ],
+      "id": "per_marie_antoinette"
+    },
+    {
+      "name": "Mirabeau",
+      "aliases": [
+        "Honoré Gabriel Riqueti, comte de Mirabeau"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Comte",
+        "Député"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1791,
+        "month": 4,
+        "day": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        225,
+        230,
+        248,
+        282,
+        285,
+        292,
+        302,
+        307,
+        313,
+        316,
+        555,
+        564
+      ],
+      "id": "per_mirabeau"
+    },
+    {
+      "name": "Danton",
+      "aliases": [
+        "Georges Jacques Danton"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Ministre de la Justice"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1794,
+        "month": 4,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        79,
+        220,
+        318,
+        788,
+        792,
+        804,
+        829,
+        835,
+        847,
+        854,
+        860,
+        1022,
+        1033,
+        1037,
+        1077,
+        1091,
+        1114,
+        1195,
+        1211
+      ],
+      "id": "per_danton"
+    },
+    {
+      "name": "Robespierre",
+      "aliases": [
+        "Maximilien de Robespierre",
+        "l'Incorruptible",
+        "Monsieur de Robespierre"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": {
+        "year": 1794,
+        "month": 7,
+        "day": 28,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        597,
+        754,
+        788,
+        798,
+        836,
+        860,
+        909,
+        928,
+        1043,
+        1062,
+        1069,
+        1113,
+        1131,
+        1143,
+        1180,
+        1192,
+        1197,
+        1206,
+        1215,
+        1217,
+        1222,
+        1227,
+        1240,
+        1244,
+        1265
+      ],
+      "id": "per_robespierre"
+    },
+    {
+      "name": "La Fayette",
+      "aliases": [
+        "Gilbert du Motier, marquis de La Fayette"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Marquis",
+        "Commandant de la Garde nationale"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        216,
+        225,
+        252,
+        296,
+        319,
+        357,
+        642,
+        766,
+        1088
+      ],
+      "id": "per_la_fayette"
+    },
+    {
+      "name": "Marat",
+      "aliases": [
+        "Jean-Paul Marat",
+        "l'Ami du Peuple"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": {
+        "year": 1793,
+        "month": 7,
+        "day": 13,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        205,
+        246,
+        312,
+        860,
+        1053,
+        1056,
+        1067,
+        1079,
+        1082,
+        1097,
+        1217
+      ],
+      "id": "per_marat"
+    },
+    {
+      "name": "Camille Desmoulins",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": {
+        "year": 1794,
+        "month": 4,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Lucile Desmoulins"
+        }
+      ],
+      "source_lines": [
+        60,
+        205,
+        246,
+        312,
+        1066,
+        1212
+      ],
+      "id": "per_camille_desmoulins"
+    },
+    {
+      "name": "Lucile Desmoulins",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": {
+        "year": 1794,
+        "month": 4,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Camille Desmoulins"
+        }
+      ],
+      "source_lines": [
+        1212
+      ],
+      "id": "per_lucile_desmoulins"
+    },
+    {
+      "name": "Napoléon Bonaparte",
+      "aliases": [
+        "Bonaparte",
+        "le général Bonaparte"
+      ],
+      "dynasty": "Bonaparte",
+      "titles": [
+        "Général",
+        "Premier Consul"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1158,
+        1174,
+        1295,
+        1307,
+        1360,
+        1363,
+        1365,
+        1367,
+        1374,
+        1414,
+        1428,
+        1437,
+        1439,
+        1442,
+        1446,
+        1451,
+        1459,
+        1464,
+        1467,
+        1489,
+        1492,
+        1495
+      ],
+      "id": "per_napol_on_bonaparte"
+    },
+    {
+      "name": "Necker",
+      "aliases": [
+        "Jacques Necker"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Directeur général des Finances"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        109,
+        284
+      ],
+      "id": "per_necker"
+    },
+    {
+      "name": "Brissot",
+      "aliases": [
+        "Jacques Pierre Brissot"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        564,
+        598,
+        607,
+        664,
+        697,
+        1151
+      ],
+      "id": "per_brissot"
+    },
+    {
+      "name": "Dumouriez",
+      "aliases": [
+        "Charles François Dumouriez"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        669,
+        718,
+        894,
+        967,
+        971,
+        1086,
+        1092,
+        1450
+      ],
+      "id": "per_dumouriez"
+    },
+    {
+      "name": "Bouillé",
+      "aliases": [
+        "François Claude Amour, marquis de Bouillé"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Marquis",
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        265,
+        268,
+        276,
+        297,
+        315,
+        323,
+        326,
+        677
+      ],
+      "id": "per_bouill_"
+    },
+    {
+      "name": "Charlotte Corday",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": {
+        "year": 1793,
+        "month": 7,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1068
+      ],
+      "id": "per_charlotte_corday"
+    },
+    {
+      "name": "Philippe-Égalité",
+      "aliases": [
+        "Louis Philippe d'Orléans",
+        "Duc d'Orléans"
+      ],
+      "dynasty": "Orléans",
+      "titles": [
+        "Duc d'Orléans"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1793,
+        "month": 10,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        940,
+        1126
+      ],
+      "id": "per_philippe__galit_"
+    },
+    {
+      "name": "Madame Roland",
+      "aliases": [
+        "Manon Roland",
+        "Mme Roland"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": {
+        "year": 1793,
+        "month": 10,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1126
+      ],
+      "id": "per_madame_roland"
+    },
+    {
+      "name": "Bailly",
+      "aliases": [
+        "Jean Sylvain Bailly"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Maire de Paris"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1793,
+        "month": 11,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        244,
+        1126
+      ],
+      "id": "per_bailly"
+    },
+    {
+      "name": "Vergniaud",
+      "aliases": [
+        "Pierre Victurnien Vergniaud"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        697,
+        721,
+        739
+      ],
+      "id": "per_vergniaud"
+    },
+    {
+      "name": "Carnot",
+      "aliases": [
+        "Lazare Carnot"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1167,
+        1393
+      ],
+      "id": "per_carnot"
+    },
+    {
+      "name": "Barras",
+      "aliases": [
+        "Paul Barras"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Directeur"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1242,
+        1395
+      ],
+      "id": "per_barras"
+    },
+    {
+      "name": "Tallien",
+      "aliases": [
+        "Jean-Lambert Tallien"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1242
+      ],
+      "id": "per_tallien"
+    },
+    {
+      "name": "Mounier",
+      "aliases": [
+        "Jean Joseph Mounier"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        10,
+        27
+      ],
+      "id": "per_mounier"
+    },
+    {
+      "name": "Sieyès",
+      "aliases": [
+        "Emmanuel Joseph Sieyès"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Abbé"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        419,
+        1214
+      ],
+      "id": "per_siey_s"
+    },
+    {
+      "name": "Louis XVIII",
+      "aliases": [
+        "Monsieur",
+        "Comte de Provence"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Comte de Provence",
+        "futur Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Louis XVI"
+        }
+      ],
+      "source_lines": [
+        329
+      ],
+      "id": "per_louis_xviii"
+    },
+    {
+      "name": "Léopold II",
+      "aliases": [
+        "l'Empereur"
+      ],
+      "dynasty": "Habsbourg-Lorraine",
+      "titles": [
+        "Empereur du Saint-Empire"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Marie-Antoinette"
+        }
+      ],
+      "source_lines": [
+        457,
+        513
+      ],
+      "id": "per_l_opold_ii"
+    },
+    {
+      "name": "Frédéric-Guillaume II",
+      "aliases": [
+        "Frédéric-Guillaume"
+      ],
+      "dynasty": "Hohenzollern",
+      "titles": [
+        "Roi de Prusse"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        450,
+        513
+      ],
+      "id": "per_fr_d_ric_guillaume_i"
+    },
+    {
+      "name": "Pitt",
+      "aliases": [
+        "William Pitt le Jeune"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Premier ministre britannique"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        446,
+        1387,
+        1402
+      ],
+      "id": "per_pitt"
+    },
+    {
+      "name": "Catherine II",
+      "aliases": [
+        "Catherine la Grande"
+      ],
+      "dynasty": "Romanov",
+      "titles": [
+        "Impératrice de Russie"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        447
+      ],
+      "id": "per_catherine_ii"
+    },
+    {
+      "name": "Brunswick",
+      "aliases": [
+        "Charles-Guillaume-Ferdinand, duc de Brunswick"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Duc",
+        "Général prussien"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        777,
+        886,
+        895
+      ],
+      "id": "per_brunswick"
+    },
+    {
+      "name": "Hébert",
+      "aliases": [
+        "Jacques-René Hébert"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": {
+        "year": 1794,
+        "month": 3,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1071,
+        1194
+      ],
+      "id": "per_h_bert"
+    },
+    {
+      "name": "Henriot",
+      "aliases": [
+        "François Hanriot"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1794,
+        "month": 7,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1110,
+        1238
+      ],
+      "id": "per_henriot"
+    },
+    {
+      "name": "Santerre",
+      "aliases": [
+        "Antoine Joseph Santerre"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        220,
+        1238,
+        1415
+      ],
+      "id": "per_santerre"
+    },
+    {
+      "name": "Masséna",
+      "aliases": [
+        "André Masséna"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1485
+      ],
+      "id": "per_mass_na"
+    },
+    {
+      "name": "Pichegru",
+      "aliases": [
+        "Jean-Charles Pichegru"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1293,
+        1450
+      ],
+      "id": "per_pichegru"
+    },
+    {
+      "name": "Nelson",
+      "aliases": [
+        "Horatio Nelson"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Amiral"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1465
+      ],
+      "id": "per_nelson"
+    },
+    {
+      "name": "Augereau",
+      "aliases": [
+        "Pierre François Charles Augereau"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1297,
+        1414
+      ],
+      "id": "per_augereau"
+    },
+    {
+      "name": "Barthélemy",
+      "aliases": [
+        "François Barthélemy"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Directeur"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1392,
+        1422
+      ],
+      "id": "per_barth_lemy"
+    },
+    {
+      "name": "Fouquier-Tinville",
+      "aliases": [
+        "Antoine Quentin Fouquier-Tinville"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Accusateur public"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1080
+      ],
+      "id": "per_fouquier_tinville"
+    },
+    {
+      "name": "Maury",
+      "aliases": [
+        "Jean-Sifrein Maury"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Abbé",
+        "Cardinal"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        202
+      ],
+      "id": "per_maury"
+    },
+    {
+      "name": "Cazalès",
+      "aliases": [
+        "Jacques de Cazalès"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        202
+      ],
+      "id": "per_cazal_s"
+    },
+    {
+      "name": "Pétion",
+      "aliases": [
+        "Jérôme Pétion de Villeneuve"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Maire de Paris"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        645
+      ],
+      "id": "per_p_tion"
+    },
+    {
+      "name": "Louvet",
+      "aliases": [
+        "Jean-Baptiste Louvet de Couvray"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        909
+      ],
+      "id": "per_louvet"
+    },
+    {
+      "name": "Souvarof",
+      "aliases": [
+        "Alexandre Souvorov"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Général russe"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1479
+      ],
+      "id": "per_souvarof"
+    },
+    {
+      "name": "Anacharsis Clootz",
+      "aliases": [
+        "Jean-Baptiste du Val-de-Grâce, baron de Clootz"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Baron"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1794,
+        "month": 3,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1201
+      ],
+      "id": "per_anacharsis_clootz"
+    },
+    {
+      "name": "Louis XVII",
+      "aliases": [
+        "le Dauphin"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Dauphin de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis XVI"
+        },
+        {
+          "type": "mère",
+          "person": "Marie-Antoinette"
+        }
+      ],
+      "source_lines": [
+        823
+      ],
+      "id": "per_louis_xvii"
+    },
+    {
+      "name": "Babeuf",
+      "aliases": [
+        "Gracchus Babeuf",
+        "François-Noël Babeuf"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1356
+      ],
+      "id": "per_babeuf"
+    },
+    {
+      "name": "Hoche",
+      "aliases": [
+        "Lazare Hoche"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1456
+      ],
+      "id": "per_hoche"
+    },
+    {
+      "name": "Brune",
+      "aliases": [
+        "Guillaume Marie Anne Brune"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1486
+      ],
+      "id": "per_brune"
+    },
+    {
+      "name": "Cambon",
+      "aliases": [
+        "Pierre Joseph Cambon"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        973
+      ],
+      "id": "per_cambon"
+    },
+    {
+      "name": "Custine",
+      "aliases": [
+        "Adam Philippe, comte de Custine"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Comte",
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        981,
+        982
+      ],
+      "id": "per_custine"
+    },
+    {
+      "name": "de Lessart",
+      "aliases": [
+        "Claude Antoine de Valdec de Lessart"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Ministre des affaires étrangères"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        653,
+        665
+      ],
+      "id": "per_de_lessart"
+    },
+    {
+      "name": "Thouret",
+      "aliases": [
+        "Jacques Guillaume Thouret"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Président de l'Assemblée"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        386
+      ],
+      "id": "per_thouret"
+    },
+    {
+      "name": "Barnave",
+      "aliases": [
+        "Antoine Barnave"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        383
+      ],
+      "id": "per_barnave"
+    },
+    {
+      "name": "Féraud",
+      "aliases": [
+        "Jean Féraud"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Député"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1795,
+        "month": 5,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1287
+      ],
+      "id": "per_f_raud"
+    },
+    {
+      "name": "Mandat",
+      "aliases": [
+        "Antoine Jean Galiot Mandat de Grancey"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Commandant de la Garde nationale"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1792,
+        "month": 8,
+        "day": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        791
+      ],
+      "id": "per_mandat"
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_bourbons",
+      "name": "Bourbons",
+      "period_start": {
+        "year": 1589,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1792,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_premiere_republique",
+      "name": "Première République",
+      "period_start": {
+        "year": 1792,
+        "month": 9,
+        "day": 21,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "period_end": {
+        "year": 1799,
+        "month": 11,
+        "day": 9,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      }
+    },
+    {
+      "id": "dyn_consulat",
+      "name": "Consulat",
+      "period_start": {
+        "year": 1799,
+        "month": 11,
+        "day": 9,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "period_end": {
+        "year": 1804,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}

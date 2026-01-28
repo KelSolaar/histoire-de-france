@@ -1,0 +1,13 @@
+{
+  "chapter_number": 21,
+  "chapter_title": "LA TROISIÈME RÉPUBLIQUE",
+  "line_start": 13867,
+  "line_end": 14979,
+  "validation_status": "error",
+  "entries": [],
+  "people": [],
+  "dynasties": [],
+  "errors": [
+    "CLI process 'claude -p' timed out after 600.0 seconds"
+  ]
+}

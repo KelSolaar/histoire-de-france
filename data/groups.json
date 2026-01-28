@@ -1,0 +1,251 @@
+{
+  "dynasty": [
+    {
+      "id": "grp_dyn_0",
+      "label": "Bourbons",
+      "type": "dynasty",
+      "order": 0,
+      "color": "#808080"
+    },
+    {
+      "id": "grp_dyn_1",
+      "label": "Capétiens",
+      "type": "dynasty",
+      "order": 1,
+      "color": "#4682B4"
+    },
+    {
+      "id": "grp_dyn_2",
+      "label": "Carolingiens",
+      "type": "dynasty",
+      "order": 2,
+      "color": "#DAA520"
+    },
+    {
+      "id": "grp_dyn_3",
+      "label": "Consulat",
+      "type": "dynasty",
+      "order": 3,
+      "color": "#808080"
+    },
+    {
+      "id": "grp_dyn_4",
+      "label": "Deuxième République",
+      "type": "dynasty",
+      "order": 4,
+      "color": "#808080"
+    },
+    {
+      "id": "grp_dyn_5",
+      "label": "Gallo-Romains",
+      "type": "dynasty",
+      "order": 5,
+      "color": "#CD853F"
+    },
+    {
+      "id": "grp_dyn_6",
+      "label": "Gaulois",
+      "type": "dynasty",
+      "order": 6,
+      "color": "#8B4513"
+    },
+    {
+      "id": "grp_dyn_7",
+      "label": "Monarchie de Juillet",
+      "type": "dynasty",
+      "order": 7,
+      "color": "#808080"
+    },
+    {
+      "id": "grp_dyn_8",
+      "label": "Mérovingiens",
+      "type": "dynasty",
+      "order": 8,
+      "color": "#4169E1"
+    },
+    {
+      "id": "grp_dyn_9",
+      "label": "Premier Empire",
+      "type": "dynasty",
+      "order": 9,
+      "color": "#808080"
+    },
+    {
+      "id": "grp_dyn_10",
+      "label": "Première République",
+      "type": "dynasty",
+      "order": 10,
+      "color": "#808080"
+    },
+    {
+      "id": "grp_dyn_11",
+      "label": "Restauration",
+      "type": "dynasty",
+      "order": 11,
+      "color": "#808080"
+    },
+    {
+      "id": "grp_dyn_12",
+      "label": "Second Empire",
+      "type": "dynasty",
+      "order": 12,
+      "color": "#808080"
+    },
+    {
+      "id": "grp_dyn_13",
+      "label": "Troisième République",
+      "type": "dynasty",
+      "order": 13,
+      "color": "#808080"
+    },
+    {
+      "id": "grp_dyn_14",
+      "label": "Valois",
+      "type": "dynasty",
+      "order": 14,
+      "color": "#9370DB"
+    }
+  ],
+  "era": [
+    {
+      "id": "grp_era_0",
+      "label": "PENDANT 500 ANS LA GAULE PARTAGE LA VIE DE ROME",
+      "type": "era",
+      "order": 0,
+      "chapter": 1
+    },
+    {
+      "id": "grp_era_1",
+      "label": "L'ESSAI MÉROVINGIEN",
+      "type": "era",
+      "order": 1,
+      "chapter": 2
+    },
+    {
+      "id": "grp_era_2",
+      "label": "GRANDEUR ET DÉCADENCE DES CAROLINGIENS",
+      "type": "era",
+      "order": 2,
+      "chapter": 3
+    },
+    {
+      "id": "grp_era_3",
+      "label": "LA RÉVOLUTION DE 987 ET L'AVÈNEMENT DES CAPÉTIENS",
+      "type": "era",
+      "order": 3,
+      "chapter": 4
+    },
+    {
+      "id": "grp_era_4",
+      "label": "PENDANT 340 ANS, L'HONORABLE MAISON CAPÉTIENNE RÈGNE DE PÈRE EN FILS",
+      "type": "era",
+      "order": 4,
+      "chapter": 5
+    },
+    {
+      "id": "grp_era_5",
+      "label": "LA GUERRE DE CENT ANS ET LES RÉVOLUTIONS DE PARIS",
+      "type": "era",
+      "order": 5,
+      "chapter": 6
+    },
+    {
+      "id": "grp_era_6",
+      "label": "Chapter 7",
+      "type": "era",
+      "order": 6,
+      "chapter": 7
+    },
+    {
+      "id": "grp_era_7",
+      "label": "Chapter 8",
+      "type": "era",
+      "order": 7,
+      "chapter": 8
+    },
+    {
+      "id": "grp_era_8",
+      "label": "Chapter 9",
+      "type": "era",
+      "order": 8,
+      "chapter": 9
+    },
+    {
+      "id": "grp_era_9",
+      "label": "HENRI IV RESTAURE LA MONARCHIE ET RELÈVE L'ÉTAT",
+      "type": "era",
+      "order": 9,
+      "chapter": 10
+    },
+    {
+      "id": "grp_era_10",
+      "label": "LOUIS XIII ET RICHELIEU: LA LUTTE NATIONALE CONTRE LA MAISON D'AUTRICHE",
+      "type": "era",
+      "order": 10,
+      "chapter": 11
+    },
+    {
+      "id": "grp_era_11",
+      "label": "LA LEÇON DE LA FRONDE",
+      "type": "era",
+      "order": 11,
+      "chapter": 12
+    },
+    {
+      "id": "grp_era_12",
+      "label": "LOUIS XIV",
+      "type": "era",
+      "order": 12,
+      "chapter": 13
+    },
+    {
+      "id": "grp_era_13",
+      "label": "LA RÉGENCE ET LOUIS XV",
+      "type": "era",
+      "order": 13,
+      "chapter": 14
+    },
+    {
+      "id": "grp_era_14",
+      "label": "LOUIS XVI ET LA NAISSANCE DE LA RÉVOLUTION",
+      "type": "era",
+      "order": 14,
+      "chapter": 15
+    },
+    {
+      "id": "grp_era_15",
+      "label": "LA RÉVOLUTION",
+      "type": "era",
+      "order": 15,
+      "chapter": 16
+    },
+    {
+      "id": "grp_era_16",
+      "label": "LE CONSULAT ET L'EMPIRE",
+      "type": "era",
+      "order": 16,
+      "chapter": 17
+    },
+    {
+      "id": "grp_era_17",
+      "label": "LA RESTAURATION",
+      "type": "era",
+      "order": 17,
+      "chapter": 18
+    },
+    {
+      "id": "grp_era_18",
+      "label": "LA MONARCHIE DE JUILLET",
+      "type": "era",
+      "order": 18,
+      "chapter": 19
+    },
+    {
+      "id": "grp_era_19",
+      "label": "LA GUERRE ET LA PAIX, LES TRAVAUX ET LES JOURS",
+      "type": "era",
+      "order": 19,
+      "chapter": 22
+    }
+  ]
+}

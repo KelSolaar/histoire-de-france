@@ -1,0 +1,1961 @@
+{
+  "chapter_number": 18,
+  "chapter_title": "LA RESTAURATION",
+  "line_start": 11736,
+  "line_end": 12466,
+  "validation_status": "success",
+  "entries": [
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1814,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Première Restauration des Bourbons",
+      "description": "Après la chute de Napoléon, Louis XVIII est rappelé sur le trône. Talleyrand est l'un des principaux artisans de cette restauration, seule solution viable pour éviter le partage ou l'asservissement de la France.",
+      "importance": 5,
+      "people": [
+        "Louis XVIII",
+        "Talleyrand",
+        "Napoléon"
+      ],
+      "locations": [
+        "France",
+        "Paris"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 1,
+        "line_end": 30,
+        "excerpt": "La seule possible, et bien rares furent ceux qui ne s'y rallièrent pas, était de rappeler les Bourbons."
+      },
+      "id": "evt_18_001"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1814,
+        "month": 4,
+        "day": 29,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Convention du 29 avril 1814",
+      "description": "Le comte d'Artois reçoit la promesse d'une évacuation immédiate des troupes alliées en échange de la reddition des troupes françaises isolées en Italie, Allemagne et Hollande.",
+      "importance": 3,
+      "people": [
+        "Comte d'Artois"
+      ],
+      "locations": [
+        "France",
+        "Italie",
+        "Allemagne",
+        "Hollande"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 107,
+        "line_end": 112,
+        "excerpt": "Par la convention du 29 avril, le comte d'Artois avait reçu la promesse d'une évacuation immédiate"
+      },
+      "id": "evt_18_002"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1814,
+        "month": 5,
+        "day": 30,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Premier traité de Paris",
+      "description": "Traité de paix accordant à la France une légère rectification de frontières avec Philippeville et Marienbourg. Landau est rattaché au royaume avec la limite de la Queich. La France perd la Belgique.",
+      "importance": 4,
+      "people": [
+        "Louis XVIII"
+      ],
+      "locations": [
+        "Paris",
+        "Philippeville",
+        "Marienbourg",
+        "Landau",
+        "Belgique",
+        "Luxembourg",
+        "Dixmude"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 113,
+        "line_end": 125,
+        "excerpt": "Le traité de Paris du 30 mai 1814 ne nous accorda qu'une légère rectification de frontières"
+      },
+      "id": "evt_18_003"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1814,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Octroi de la Charte constitutionnelle",
+      "description": "Louis XVIII accepte une constitution avec deux Chambres, l'égalité civile et la garantie des propriétés, mais refuse qu'elle soit imposée. Il en fait une Charte 'octroyée' pour préserver le principe monarchique.",
+      "importance": 4,
+      "people": [
+        "Louis XVIII"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 77,
+        "line_end": 100,
+        "excerpt": "D'une Charte imposée, qui l'eût diminué... il fit une Charte accordée, 'octroyée'."
+      },
+      "id": "evt_18_004"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1814,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Réunion de la Belgique à la Hollande",
+      "description": "L'Angleterre impose la réunion de la Belgique à la Hollande pour créer une barrière entre la France et l'embouchure de l'Escaut, continuant sa politique depuis 1713.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Belgique",
+        "Hollande",
+        "Escaut"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 126,
+        "line_end": 132,
+        "excerpt": "La Belgique... fut réunie à la Hollande sans être consultée."
+      },
+      "id": "evt_18_005"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1814,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 1815,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Congrès de Vienne",
+      "description": "Tous les États européens se réunissent pour construire un nouveau système d'équilibre européen. Talleyrand, représentant la France, défend les souverainetés légitimes et s'oppose aux conquêtes prussiennes et russes.",
+      "importance": 5,
+      "people": [
+        "Talleyrand",
+        "Louis XVIII"
+      ],
+      "locations": [
+        "Vienne",
+        "Saxe",
+        "Allemagne"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 155,
+        "line_end": 195,
+        "excerpt": "A peine le Congrès était-il réuni que déjà on parlait de guerre. Les Alliés se disputaient les dépouilles de l'Empire napoléonien."
+      },
+      "id": "evt_18_006"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1815,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Attribution des provinces rhénanes à la Prusse",
+      "description": "Au lieu de la Saxe qu'elle convoitait, la Prusse reçoit les provinces rhénanes catholiques, éloignées de son centre protestant. Talleyrand préférait cette solution qui permettrait de les reprendre facilement.",
+      "importance": 4,
+      "people": [
+        "Talleyrand",
+        "Roi de Prusse",
+        "Roi de Saxe"
+      ],
+      "locations": [
+        "Saxe",
+        "Provinces rhénanes",
+        "Prusse"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 185,
+        "line_end": 198,
+        "excerpt": "En échange de la Saxe... le roi de Prusse reçut les provinces rhénanes dont il ne voulait pas"
+      },
+      "id": "evt_18_007"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1815,
+        "month": 3,
+        "day": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Débarquement de Napoléon au Golfe-Juan",
+      "description": "Napoléon débarque de l'île d'Elbe au Golfe-Juan avec une poignée d'hommes, commençant son retour vers Paris qui durera vingt jours.",
+      "importance": 5,
+      "people": [
+        "Napoléon"
+      ],
+      "locations": [
+        "Golfe-Juan",
+        "Île d'Elbe"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 239,
+        "line_end": 241,
+        "excerpt": "Débarqué au Golfe Juan avec une poignée d'hommes, le 1er mars 1815"
+      },
+      "id": "evt_18_008"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1815,
+        "month": 3,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ralliement du maréchal Ney à Napoléon",
+      "description": "Le maréchal Ney, qui avait promis de ramener Napoléon 'dans une cage', fléchit et se rallie à l'empereur après l'ouverture de Grenoble et Lyon.",
+      "importance": 3,
+      "people": [
+        "Maréchal Ney",
+        "Napoléon"
+      ],
+      "locations": [
+        "Grenoble",
+        "Lyon"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 233,
+        "line_end": 238,
+        "excerpt": "Le maréchal Ney, qui avait promis de l'arrêter et de le ramener au besoin dans une cage, fléchit à son tour"
+      },
+      "id": "evt_18_009"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1815,
+        "month": 3,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Napoléon aux Tuileries - Début des Cent-Jours",
+      "description": "Napoléon arrive aux Tuileries tandis que Louis XVIII se retire à Gand. Commence la période des Cent-Jours.",
+      "importance": 5,
+      "people": [
+        "Napoléon",
+        "Louis XVIII"
+      ],
+      "locations": [
+        "Tuileries",
+        "Paris",
+        "Gand"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 241,
+        "line_end": 243,
+        "excerpt": "Napoléon, le 20, était aux Tuileries, tandis que Louis XVIII se retirait à Gand."
+      },
+      "id": "evt_18_010"
+    },
+    {
+      "type": "period",
+      "date_start": {
+        "year": 1815,
+        "month": 3,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "date_end": {
+        "year": 1815,
+        "month": 6,
+        "day": 28,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Les Cent-Jours",
+      "description": "Période de cent jours durant laquelle Napoléon reprend le pouvoir, causant des dégâts incalculables et rendant plus difficile la réconciliation des Français.",
+      "importance": 5,
+      "people": [
+        "Napoléon"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 244,
+        "line_end": 246,
+        "excerpt": "Cent jours: l'aventure ne dura pas davantage et ce fut assez pour causer des dégâts incalculables."
+      },
+      "id": "evt_18_011"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1815,
+        "month": 3,
+        "day": 13,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Napoléon mis hors la loi des nations",
+      "description": "Les Alliés, informés du retour de Napoléon, le mettent 'hors la loi des nations' et renouvellent le pacte de Chaumont.",
+      "importance": 4,
+      "people": [
+        "Napoléon",
+        "Talleyrand"
+      ],
+      "locations": [
+        "Vienne"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 288,
+        "line_end": 292,
+        "excerpt": "Les Alliés en furent informés à Vienne le 13 mars. Aussitôt ils mirent l'empereur 'hors la loi des nations'."
+      },
+      "id": "evt_18_012"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1815,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Rédaction de l'Acte additionnel aux constitutions de l'Empire",
+      "description": "Benjamin Constant rédige l'Acte additionnel pour Napoléon, malgré avoir qualifié ce dernier d'usurpateur quelques jours auparavant.",
+      "importance": 3,
+      "people": [
+        "Benjamin Constant",
+        "Napoléon",
+        "Madame de Staël"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 271,
+        "line_end": 280,
+        "excerpt": "Benjamin Constant, quelques jours après qu'il avait appelé Napoléon l''usurpateur', rédigea l'acte additionnel"
+      },
+      "id": "evt_18_013"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1815,
+        "month": 6,
+        "day": 12,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Départ de Napoléon pour la campagne de Belgique",
+      "description": "Napoléon part pour la Belgique dans le dessein de séparer Wellington et Blücher, qui disposent de cent mille hommes de plus que lui.",
+      "importance": 3,
+      "people": [
+        "Napoléon",
+        "Wellington",
+        "Blücher"
+      ],
+      "locations": [
+        "Belgique"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 307,
+        "line_end": 311,
+        "excerpt": "L'empereur partit le 12 juin pour la Belgique, dans le dessein de séparer Wellington et Blücher"
+      },
+      "id": "evt_18_014"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1815,
+        "month": 6,
+        "day": 16,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Ligny",
+      "description": "Napoléon remporte un succès à Ligny mais ne peut empêcher les Anglais et les Prussiens de se joindre.",
+      "importance": 3,
+      "people": [
+        "Napoléon",
+        "Blücher"
+      ],
+      "locations": [
+        "Ligny"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 311,
+        "line_end": 313,
+        "excerpt": "Malgré un succès à Ligny, il ne put empêcher les Anglais et les Prussiens de se joindre."
+      },
+      "id": "evt_18_015"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1815,
+        "month": 6,
+        "day": 18,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Waterloo",
+      "description": "Désastre militaire majeur. Grouchy reste inutile pendant la bataille. Défaite comparable à Trafalgar, marquant la fin définitive de l'Empire napoléonien.",
+      "importance": 5,
+      "people": [
+        "Napoléon",
+        "Grouchy",
+        "Wellington",
+        "Blücher"
+      ],
+      "locations": [
+        "Waterloo"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 313,
+        "line_end": 320,
+        "excerpt": "la grande bataille s'engageait le 18 juin à Waterloo, nom retentissant d'un désastre qui n'avait eu d'égal que celui de Trafalgar."
+      },
+      "id": "evt_18_016"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1815,
+        "month": 6,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Seconde abdication de Napoléon",
+      "description": "Revenu à Paris le 20 juin après Waterloo, Napoléon abdique pour la seconde fois après un vote de la Chambre qu'il avait fait élire.",
+      "importance": 4,
+      "people": [
+        "Napoléon"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 320,
+        "line_end": 323,
+        "excerpt": "Revenu à Paris dès le 20, Napoléon n'avait plus qu'à abdiquer pour la seconde fois."
+      },
+      "id": "evt_18_017"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1815,
+        "month": 11,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Second traité de Paris",
+      "description": "La France perd plus de 500 000 âmes: Philippeville, Marienbourg, Bouillon, Sarrelouis et Landau. Occupation de 5 ans et indemnité de 700 millions imposées.",
+      "importance": 5,
+      "people": [
+        "Louis XVIII"
+      ],
+      "locations": [
+        "Paris",
+        "Philippeville",
+        "Marienbourg",
+        "Bouillon",
+        "Sarrelouis",
+        "Landau",
+        "Chambéry",
+        "Annecy"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 330,
+        "line_end": 345,
+        "excerpt": "Le prix de Waterloo, ce fut, au second traité de Paris, du 20 novembre 1815, plus de cinq cent mille âmes."
+      },
+      "id": "evt_18_018"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1815,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Terreur blanche dans le Midi",
+      "description": "Violentes émeutes populaires dans le Midi antinapoléonien, coûtant la vie au maréchal Brune à Avignon. Le gouvernement de Louis XVIII les réprime par la force.",
+      "importance": 3,
+      "people": [
+        "Louis XVIII",
+        "Maréchal Brune"
+      ],
+      "locations": [
+        "Midi",
+        "Avignon"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 362,
+        "line_end": 368,
+        "excerpt": "Dans le Midi surtout, très antinapoléonien, il y eut de violentes émeutes populaires qui, à Avignon, coûtèrent la vie au maréchal Brune."
+      },
+      "id": "evt_18_019"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1815,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Exécution du maréchal Ney",
+      "description": "Procès et exécution du maréchal Ney pour s'être rallié à Napoléon. Considéré comme une 'cruelle nécessité', Ney devient un martyr de l'opposition.",
+      "importance": 4,
+      "people": [
+        "Maréchal Ney"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 368,
+        "line_end": 378,
+        "excerpt": "Le procès et l'exécution de Ney furent une de ces 'cruelles nécessités' qui s'imposent aux gouvernements"
+      },
+      "id": "evt_18_020"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1815,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Élection de la Chambre introuvable",
+      "description": "Assemblée ardemment royaliste élue après Waterloo, si royaliste que Louis XVIII lui-même ne croyait pas qu'on pût en trouver une pareille. Ses membres sont appelés 'les ultras'.",
+      "importance": 3,
+      "people": [
+        "Louis XVIII"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 385,
+        "line_end": 395,
+        "excerpt": "L'Assemblée qui fut élue après celle des Cent Jours était ardemment royaliste, si royaliste que Louis XVIII lui-même ne croyait pas qu'on pût en trouver une pareille"
+      },
+      "id": "evt_18_021"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1816,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Dissolution de la Chambre introuvable",
+      "description": "Louis XVIII dissout la Chambre trop royaliste qui voulait dicter sa politique, plutôt que de reconnaître le règne des majorités. Rupture entre la couronne et l'extrême-droite.",
+      "importance": 3,
+      "people": [
+        "Louis XVIII",
+        "Decazes",
+        "Duc de Richelieu"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 427,
+        "line_end": 445,
+        "excerpt": "En 1816, la Chambre s'obstinant à combattre le ministère Richelieu... il prit le parti de la dissoudre"
+      },
+      "id": "evt_18_022"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1816,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Publication de 'La Monarchie selon la Charte' par Chateaubriand",
+      "description": "Chateaubriand publie une brochure retentissante réclamant le régime parlementaire complet, avec le droit de renverser les ministères.",
+      "importance": 2,
+      "people": [
+        "Chateaubriand"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 418,
+        "line_end": 424,
+        "excerpt": "Chateaubriand, royaliste frondeur, publia une brochure retentissante, la Monarchie selon la Charte"
+      },
+      "id": "evt_18_023"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1820,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Assassinat du duc de Berry",
+      "description": "Le neveu de Louis XVIII est assassiné par Louvel, révélant un véritable danger révolutionnaire et conduisant le gouvernement à se réconcilier avec la droite.",
+      "importance": 4,
+      "people": [
+        "Duc de Berry",
+        "Louvel",
+        "Louis XVIII"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 455,
+        "line_end": 460,
+        "excerpt": "Cette agitation... eut pour conséquence, en 1820, l'assassinat, par Louvel, du neveu de Louis XVIII, le duc de Berry."
+      },
+      "id": "evt_18_024"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1820,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Développement de la Charbonnerie et des sociétés secrètes",
+      "description": "Les libéraux répondent au rapprochement du gouvernement avec la droite par des sociétés secrètes, émeutes et complots militaires, incluant l'affaire des quatre sergents de La Rochelle.",
+      "importance": 3,
+      "people": [
+        "La Fayette"
+      ],
+      "locations": [
+        "La Rochelle",
+        "France"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 460,
+        "line_end": 472,
+        "excerpt": "les libéraux répondirent par une nouvelle forme d'opposition, les Sociétés secrètes et la 'Charbonnerie'"
+      },
+      "id": "evt_18_025"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1821,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Napoléon à Sainte-Hélène",
+      "description": "Mort de Napoléon en exil à Sainte-Hélène. Cet événement contribue à fondre républicains et bonapartistes et à faire de l'empereur un personnage légendaire.",
+      "importance": 4,
+      "people": [
+        "Napoléon"
+      ],
+      "locations": [
+        "Sainte-Hélène"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 472,
+        "line_end": 478,
+        "excerpt": "La mort de Napoléon, à Sainte-Hélène, en 1821, servit d'ailleurs à fondre encore plus intimement les républicains et les bonapartistes."
+      },
+      "id": "evt_18_026"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1818,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Congrès d'Aix-la-Chapelle - France dans la Sainte-Alliance",
+      "description": "La France entre dans la Sainte-Alliance. Trois ans après Waterloo, le territoire est évacué et l'indemnité réduite de plus de 400 millions.",
+      "importance": 4,
+      "people": [
+        "Louis XVIII"
+      ],
+      "locations": [
+        "Aix-la-Chapelle"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 489,
+        "line_end": 495,
+        "excerpt": "En 1818, au Congrès d'Aix-la-Chapelle, la France était entrée dans la Sainte-Alliance"
+      },
+      "id": "evt_18_027"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1823,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Expédition d'Espagne - Prise du Trocadéro",
+      "description": "Louis XVIII intervient en Espagne pour rétablir Ferdinand VII, continuant la politique d'influence française en Espagne. La prise du Trocadéro est un succès qui réconcilie l'armée avec le drapeau blanc.",
+      "importance": 3,
+      "people": [
+        "Louis XVIII",
+        "Ferdinand VII"
+      ],
+      "locations": [
+        "Espagne",
+        "Trocadéro"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 502,
+        "line_end": 515,
+        "excerpt": "Cette expédition, conduite avec assez d'adresse... rendit confiance et courage à la nation et à l'armée réconciliée avec le drapeau blanc."
+      },
+      "id": "evt_18_028"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1824,
+        "month": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Louis XVIII",
+      "description": "Louis XVIII meurt en août 1824 après avoir empêché le démembrement de la France et l'avoir rétablie à son rang européen.",
+      "importance": 4,
+      "people": [
+        "Louis XVIII"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 483,
+        "line_end": 485,
+        "excerpt": "Louis XVIII mourut au mois d'août 1824."
+      },
+      "id": "evt_18_029"
+    },
+    {
+      "type": "reign_start",
+      "date_start": {
+        "year": 1824,
+        "month": 9,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Charles X",
+      "description": "Le comte d'Artois devient roi sous le nom de Charles X. Plus séduisant mais moins prudent que Louis XVIII, il souhaite effacer les traités de 1815 et donner gloire à la France.",
+      "importance": 4,
+      "people": [
+        "Charles X",
+        "Louis XVIII"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 520,
+        "line_end": 530,
+        "excerpt": "Plus séduisant que Louis XVIII, moins prudent aussi, son frère, le comte d'Artois, Charles X, ne savait pas comme lui attendre."
+      },
+      "id": "evt_18_030"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1824,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ministère Villèle",
+      "description": "Villèle devient premier ministre après une victoire de la droite aux élections. Administrateur sage et prudent, il est le véritable ministre du relèvement de la France.",
+      "importance": 3,
+      "people": [
+        "Villèle",
+        "Chateaubriand"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 550,
+        "line_end": 558,
+        "excerpt": "Villèle, devenu premier ministre, était un homme sage, expérimenté, excellent administrateur, le véritable ministre du relèvement."
+      },
+      "id": "evt_18_031"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1825,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Loi d'indemnisation des émigrés (Milliard des émigrés)",
+      "description": "Indemnisation de 625 millions (et non un milliard) pour les Français dont les biens avaient été confisqués pour émigration, mesure de paix sociale combattue par la gauche et jugée insuffisante par l'extrême-droite.",
+      "importance": 3,
+      "people": [
+        "Villèle"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 575,
+        "line_end": 585,
+        "excerpt": "L'idée... d'indemniser les Français dont les biens avaient été confisqués pour crime d'émigration, fut combattue avec passion sous le nom de 'milliard des émigrés'"
+      },
+      "id": "evt_18_032"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1827,
+        "month": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Navarin",
+      "description": "Destruction de la flotte turque contre les instructions de Villèle, qui avait envoyé une escadre pour contenir la Russie. Cette victoire de l'opinion publique entraîne la chute de Villèle.",
+      "importance": 3,
+      "people": [
+        "Villèle",
+        "Nicolas Ier"
+      ],
+      "locations": [
+        "Navarin",
+        "Grèce"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 603,
+        "line_end": 615,
+        "excerpt": "La bataille de Navarin (1827) où la flotte turque fut détruite, s'engagea contre son gré, contre ses instructions."
+      },
+      "id": "evt_18_033"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1827,
+        "month": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Chute du ministère Villèle",
+      "description": "Villèle est battu aux élections après la bataille de Navarin. Les libéraux et certains royalistes se réjouissent de la chute de ce ministre jugé trop raisonnable.",
+      "importance": 3,
+      "people": [
+        "Villèle",
+        "Chateaubriand"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 615,
+        "line_end": 622,
+        "excerpt": "En novembre, Villèle était battu aux élections et les libéraux ne furent pas seuls à triompher de sa chute."
+      },
+      "id": "evt_18_034"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1828,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 1829,
+        "month": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ministère Martignac",
+      "description": "Martignac reprend la politique du juste milieu mais est combattu par l'extrême-droite et la gauche. Il finit par partir en août 1829.",
+      "importance": 2,
+      "people": [
+        "Martignac",
+        "Charles X"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 623,
+        "line_end": 632,
+        "excerpt": "Martignac reprenait la politique de la ligne moyenne... Martignac finit par s'en aller en août 1829"
+      },
+      "id": "evt_18_035"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1829,
+        "month": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Formation du ministère Polignac",
+      "description": "Charles X confie à Polignac l'exécution de son dessein d'effacer les traités de 1815 et de retrouver les frontières naturelles par une entente avec la Russie.",
+      "importance": 3,
+      "people": [
+        "Charles X",
+        "Polignac",
+        "Nicolas Ier"
+      ],
+      "locations": [
+        "France",
+        "Belgique",
+        "Rhin"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 640,
+        "line_end": 655,
+        "excerpt": "L'exécution de ce dessein, c'est à Polignac que le roi la confia."
+      },
+      "id": "evt_18_036"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1830,
+        "month": 3,
+        "day": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Adresse de la Chambre demandant le renvoi du Cabinet Polignac",
+      "description": "La Chambre demande le renvoi du Cabinet par son adresse au roi, réclamant le gouvernement de la majorité comme l'avait fait la Chambre introuvable.",
+      "importance": 3,
+      "people": [
+        "Charles X",
+        "Polignac"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 672,
+        "line_end": 678,
+        "excerpt": "Quand, le 2 mars 1830, la session s'ouvrit, la Chambre demanda clairement, par son adresse au roi, le renvoi du Cabinet"
+      },
+      "id": "evt_18_037"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1830,
+        "month": 7,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Prise d'Alger",
+      "description": "Les troupes françaises prennent Alger malgré les remontrances de l'Angleterre. Préface de la conquête de l'Algérie, ce succès laisse les électeurs insensibles.",
+      "importance": 4,
+      "people": [
+        "Charles X"
+      ],
+      "locations": [
+        "Alger",
+        "Algérie"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 683,
+        "line_end": 688,
+        "excerpt": "Le 5 juillet, nos troupes étaient maîtresses d'Alger: les électeurs avaient été insensibles à cette nouvelle."
+      },
+      "id": "evt_18_038"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1830,
+        "month": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ordonnances de Juillet (Ordonnances de Saint-Cloud)",
+      "description": "Charles X et Polignac cassent la nouvelle Chambre et gouvernent par ordonnances selon l'article 14 de la Charte, prenant des mesures contre la presse.",
+      "importance": 4,
+      "people": [
+        "Charles X",
+        "Polignac"
+      ],
+      "locations": [
+        "Paris",
+        "Saint-Cloud"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 688,
+        "line_end": 695,
+        "excerpt": "Charles X et Polignac se crurent assez forts... pour casser la nouvelle Chambre et gouverner, selon l'article 14 de la Charte, par 'des ordonnances pour le salut de l'Etat'."
+      },
+      "id": "evt_18_039"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1830,
+        "month": 7,
+        "day": 27,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "date_end": {
+        "year": 1830,
+        "month": 7,
+        "day": 29,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Les Trois Glorieuses - Révolution de Juillet",
+      "description": "Insurrection à Paris les 27, 28, 29 juillet. Les insurgés dressent des barricades et arborent les trois couleurs tandis que la bourgeoisie laisse faire. La garnison de Paris n'est que de 14 000 hommes.",
+      "importance": 5,
+      "people": [
+        "Charles X"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 700,
+        "line_end": 710,
+        "excerpt": "Les 27, 28, 29 juillet, les insurgés, venus des faubourgs et du quartier des écoles, s'emparèrent de Paris, dressant des barricades, arborant les trois couleurs"
+      },
+      "id": "evt_18_040"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1830,
+        "month": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Abdication de Charles X à Rambouillet",
+      "description": "Charles X abdique en faveur de son petit-fils le duc de Bordeaux et nomme le duc d'Orléans lieutenant général du royaume.",
+      "importance": 4,
+      "people": [
+        "Charles X",
+        "Duc de Bordeaux",
+        "Duc d'Orléans"
+      ],
+      "locations": [
+        "Rambouillet"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 719,
+        "line_end": 724,
+        "excerpt": "Le roi, retiré à Rambouillet, abdiqua en faveur de son petit-fils, le duc de Bordeaux, et nomma le duc d'Orléans lieutenant général du royaume."
+      },
+      "id": "evt_18_041"
+    },
+    {
+      "type": "reign_start",
+      "date_start": {
+        "year": 1830,
+        "month": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Louis-Philippe devient roi des Français",
+      "description": "Le duc d'Orléans reçoit la couronne offerte par Thiers et les constitutionnels, écartant le régime républicain qui aurait signifié la guerre avec l'Europe.",
+      "importance": 5,
+      "people": [
+        "Louis-Philippe",
+        "Thiers",
+        "Guizot"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 727,
+        "line_end": 738,
+        "excerpt": "Ce furent eux qui offrirent la couronne à Louis-Philippe, duc d'Orléans."
+      },
+      "id": "evt_18_042"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1815,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Déportation de Napoléon à Sainte-Hélène",
+      "description": "Après Waterloo, Napoléon est déporté à Sainte-Hélène par les Anglais, où il continuera d'agir sur les imaginations et deviendra un martyr.",
+      "importance": 4,
+      "people": [
+        "Napoléon"
+      ],
+      "locations": [
+        "Sainte-Hélène"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 348,
+        "line_end": 355,
+        "excerpt": "Déporté à Sainte-Hélène par les Anglais, Napoléon continua d'agir sur les imaginations. Le héros devint un martyr."
+      },
+      "id": "evt_18_043"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1814,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Rétablissement des finances par le baron Louis",
+      "description": "Le baron Louis prépare le rétablissement des finances en fondant le crédit sur le respect des engagements pris par les régimes antérieurs.",
+      "importance": 3,
+      "people": [
+        "Baron Louis"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 402,
+        "line_end": 407,
+        "excerpt": "le baron Louis, après 1814, avait préparé le rétablissement en fondant le crédit sur le respect des engagements pris par les régimes antérieurs."
+      },
+      "id": "evt_18_044"
+    }
+  ],
+  "people": [
+    {
+      "name": "Louis XVIII",
+      "aliases": [
+        "Frère de Louis XVI"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1824,
+        "month": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1814,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1824,
+          "month": 8,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Louis XVI"
+        },
+        {
+          "type": "frère",
+          "person": "Charles X"
+        },
+        {
+          "type": "neveu",
+          "person": "Duc de Berry"
+        }
+      ],
+      "source_lines": [
+        1,
+        21,
+        65,
+        77,
+        107,
+        241,
+        385,
+        427,
+        483,
+        489
+      ],
+      "id": "per_louis_xviii"
+    },
+    {
+      "name": "Charles X",
+      "aliases": [
+        "Comte d'Artois"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France",
+        "Comte d'Artois"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1824,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1830,
+          "month": 7,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Louis XVIII"
+        },
+        {
+          "type": "petit-fils",
+          "person": "Duc de Bordeaux"
+        }
+      ],
+      "source_lines": [
+        107,
+        520,
+        632,
+        672,
+        683,
+        700,
+        719
+      ],
+      "id": "per_charles_x"
+    },
+    {
+      "name": "Napoléon",
+      "aliases": [
+        "Napoléon Bonaparte",
+        "L'Empereur"
+      ],
+      "dynasty": "Bonaparte",
+      "titles": [
+        "Empereur des Français"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1821,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "beau-père",
+          "person": "Empereur d'Autriche"
+        }
+      ],
+      "source_lines": [
+        1,
+        21,
+        215,
+        239,
+        288,
+        307,
+        320,
+        348,
+        472
+      ],
+      "id": "per_napol_on"
+    },
+    {
+      "name": "Talleyrand",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Ministre",
+        "Diplomate"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        16,
+        105,
+        155,
+        185,
+        288,
+        330
+      ],
+      "id": "per_talleyrand"
+    },
+    {
+      "name": "Duc de Berry",
+      "aliases": [],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Duc"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1820,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "oncle",
+          "person": "Louis XVIII"
+        }
+      ],
+      "source_lines": [
+        455
+      ],
+      "id": "per_duc_de_berry"
+    },
+    {
+      "name": "Maréchal Ney",
+      "aliases": [
+        "Ney"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Maréchal de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1815,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        233,
+        368
+      ],
+      "id": "per_mar_chal_ney"
+    },
+    {
+      "name": "Wellington",
+      "aliases": [
+        "Duc de Wellington"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Duc",
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        307,
+        313
+      ],
+      "id": "per_wellington"
+    },
+    {
+      "name": "Blücher",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Maréchal prussien"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        307,
+        313
+      ],
+      "id": "per_bl_cher"
+    },
+    {
+      "name": "Grouchy",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Maréchal"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        313
+      ],
+      "id": "per_grouchy"
+    },
+    {
+      "name": "Benjamin Constant",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Écrivain",
+        "Homme politique"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        271
+      ],
+      "id": "per_benjamin_constant"
+    },
+    {
+      "name": "Madame de Staël",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Écrivain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        268
+      ],
+      "id": "per_madame_de_sta_l"
+    },
+    {
+      "name": "Decazes",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        437,
+        625
+      ],
+      "id": "per_decazes"
+    },
+    {
+      "name": "Duc de Richelieu",
+      "aliases": [
+        "Richelieu"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Duc",
+        "Premier ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        427,
+        625
+      ],
+      "id": "per_duc_de_richelieu"
+    },
+    {
+      "name": "Chateaubriand",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Vicomte",
+        "Écrivain",
+        "Homme politique"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        418,
+        500,
+        540,
+        550,
+        622
+      ],
+      "id": "per_chateaubriand"
+    },
+    {
+      "name": "La Fayette",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Général",
+        "Marquis"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        467
+      ],
+      "id": "per_la_fayette"
+    },
+    {
+      "name": "Thiers",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Homme politique",
+        "Historien"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        212,
+        535,
+        665,
+        727
+      ],
+      "id": "per_thiers"
+    },
+    {
+      "name": "Villèle",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Premier ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        550,
+        590,
+        603,
+        615
+      ],
+      "id": "per_vill_le"
+    },
+    {
+      "name": "Polignac",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Prince",
+        "Premier ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        640,
+        655,
+        672,
+        688
+      ],
+      "id": "per_polignac"
+    },
+    {
+      "name": "Martignac",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        623
+      ],
+      "id": "per_martignac"
+    },
+    {
+      "name": "Louis-Philippe",
+      "aliases": [
+        "Duc d'Orléans"
+      ],
+      "dynasty": "Orléans",
+      "titles": [
+        "Duc d'Orléans",
+        "Roi des Français"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1830,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": null
+      },
+      "relations": [],
+      "source_lines": [
+        359,
+        719,
+        727
+      ],
+      "id": "per_louis_philippe"
+    },
+    {
+      "name": "Duc de Bordeaux",
+      "aliases": [],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Duc"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "grand-père",
+          "person": "Charles X"
+        }
+      ],
+      "source_lines": [
+        719
+      ],
+      "id": "per_duc_de_bordeaux"
+    },
+    {
+      "name": "Baron Louis",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Baron",
+        "Ministre des finances"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        402
+      ],
+      "id": "per_baron_louis"
+    },
+    {
+      "name": "Maréchal Brune",
+      "aliases": [
+        "Brune"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Maréchal"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1815,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        365
+      ],
+      "id": "per_mar_chal_brune"
+    },
+    {
+      "name": "Louvel",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        455
+      ],
+      "id": "per_louvel"
+    },
+    {
+      "name": "Nicolas Ier",
+      "aliases": [
+        "Tsar Nicolas Ier"
+      ],
+      "dynasty": "Romanov",
+      "titles": [
+        "Tsar de Russie"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        597,
+        640
+      ],
+      "id": "per_nicolas_ier"
+    },
+    {
+      "name": "Ferdinand VII",
+      "aliases": [],
+      "dynasty": "Bourbons d'Espagne",
+      "titles": [
+        "Roi d'Espagne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        502
+      ],
+      "id": "per_ferdinand_vii"
+    },
+    {
+      "name": "Alexandre",
+      "aliases": [
+        "Tsar Alexandre"
+      ],
+      "dynasty": "Romanov",
+      "titles": [
+        "Tsar de Russie"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        99,
+        498
+      ],
+      "id": "per_alexandre"
+    },
+    {
+      "name": "Guizot",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Homme politique"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        722
+      ],
+      "id": "per_guizot"
+    },
+    {
+      "name": "M. de Serre",
+      "aliases": [
+        "Serre"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        450,
+        625
+      ],
+      "id": "per_m__de_serre"
+    },
+    {
+      "name": "Lamennais",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Abbé",
+        "Écrivain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        563
+      ],
+      "id": "per_lamennais"
+    },
+    {
+      "name": "Laffitte",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Financier",
+        "Banquier"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        482
+      ],
+      "id": "per_laffitte"
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_restauration",
+      "name": "Restauration",
+      "period_start": {
+        "year": 1814,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1830,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_monarchie_juillet",
+      "name": "Monarchie de Juillet",
+      "period_start": {
+        "year": 1830,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1848,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}

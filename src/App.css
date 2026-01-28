@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+/* Design tokens */
+:root {
+  --color-bg-primary: #0a0a0a;
+  --color-bg-secondary: #171717;
+  --color-bg-tertiary: #262626;
+  --color-bg-hover: #404040;
+
+  --color-border-primary: #262626;
+  --color-border-secondary: #404040;
+
+  --color-text-primary: #fafafa;
+  --color-text-secondary: #a3a3a3;
+  --color-text-muted: #737373;
+
+  --color-accent: #a78bfa;
+  --color-accent-muted: #8b5cf6;
+
+  /* Grid/border color */
+  --color-grid: rgba(255, 255, 255, 0.06);
+  --color-grid-strong: rgba(255, 255, 255, 0.1);
+
+  /* Importance colors - muted gold to blue gradient */
+  --color-importance-5: #8b7355;
+  --color-importance-4: #6d6d6d;
+  --color-importance-3: #5a6370;
+  --color-importance-2: #4a5568;
+  --color-importance-1: #3d4a5c;
+}
+
+@theme {
+  --color-surface: #0a0a0a;
+  --color-surface-secondary: #171717;
+  --color-surface-tertiary: #262626;
+  --color-surface-hover: #404040;
+  --color-border: #262626;
+  --color-border-secondary: #404040;
+  --color-foreground: #fafafa;
+  --color-foreground-secondary: #a3a3a3;
+  --color-foreground-muted: #737373;
+  --color-accent: #a78bfa;
+  --color-accent-muted: #8b5cf6;
+}
+

@@ -1,0 +1,3027 @@
+{
+  "chapter_number": 17,
+  "chapter_title": "LE CONSULAT ET L'EMPIRE",
+  "line_start": 10630,
+  "line_end": 11735,
+  "validation_status": "success",
+  "entries": [
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1799,
+        "month": 11,
+        "day": 9,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Coup d'État du 18 brumaire",
+      "description": "Bonaparte, revenu d'Égypte, renverse le Directoire avec l'aide de Sieyès et Roger-Ducos. Le Corps législatif est transféré à Saint-Cloud sous prétexte d'une menace jacobine.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte",
+        "Sieyès",
+        "Roger-Ducos",
+        "Lucien Bonaparte"
+      ],
+      "locations": [
+        "Paris",
+        "Saint-Cloud",
+        "Fréjus"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 8,
+        "line_end": 27,
+        "excerpt": "Le coup d'Etat de brumaire, loin d'être dirigé contre la Révolution, était destiné à la sauver."
+      },
+      "id": "evt_17_001"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1799,
+        "month": 11,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Mort de Baudin des Ardennes",
+      "description": "Baudin, député des Ardennes et auteur de la Constitution de l'an III, meurt de joie en apprenant le retour de Bonaparte.",
+      "importance": 1,
+      "people": [
+        "Baudin"
+      ],
+      "locations": [],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 11,
+        "line_end": 16,
+        "excerpt": "Un républicain ardent, Baudin, député des Ardennes, mourut de joie en apprenant son retour."
+      },
+      "id": "evt_17_002"
+    },
+    {
+      "type": "period",
+      "date_start": {
+        "year": 1799,
+        "month": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "date_end": {
+        "year": 1799,
+        "month": 12,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Passage du Directoire au Consulat",
+      "description": "De cinq Directeurs, on passe à trois Consuls. Bonaparte devient rapidement le Premier Consul, le seul maître effectif du pouvoir.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte",
+        "Sieyès",
+        "Roger-Ducos"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 90,
+        "line_end": 94,
+        "excerpt": "De cinq Directeurs, on passait à trois Consuls. Tout de suite, le général Bonaparte fut le premier, le seul."
+      },
+      "id": "evt_17_003"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1799,
+        "month": 11,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Réformes initiales de Bonaparte",
+      "description": "Bonaparte abolit l'impôt forcé progressif et la loi des otages, rend les églises au culte et pacifie la Vendée en arrêtant les persécutions religieuses.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Vendée"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 96,
+        "line_end": 99,
+        "excerpt": "Il effaçait les restes du jacobinisme, l'impôt forcé progressif et l'odieuse loi des otages."
+      },
+      "id": "evt_17_004"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1799,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Nomination de Gaudin aux finances",
+      "description": "Bonaparte appelle l'ancien fonctionnaire royal Gaudin qui fonde les contributions directes et rétablit les impôts indirects abolis par la Révolution.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte",
+        "Gaudin"
+      ],
+      "locations": [],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 109,
+        "line_end": 112,
+        "excerpt": "Bonaparte, sans tarder, appela auprès de lui un ancien fonctionnaire de la monarchie, Gaudin, plus tard duc de Gaëte."
+      },
+      "id": "evt_17_005"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1799,
+        "month": 12,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Constitution de l'an VIII",
+      "description": "Sieyès conçoit un système constitutionnel complexe que Bonaparte modifie pour établir un Premier Consul nommé pour dix ans, créant de fait une dictature.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte",
+        "Sieyès",
+        "Cambacérès",
+        "Lebrun"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 116,
+        "line_end": 143,
+        "excerpt": "Sieyès médita. Il conçut un système où l'élection passait par une suite de tamis..."
+      },
+      "id": "evt_17_006"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1799,
+        "month": 12,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Approbation de la Constitution par plébiscite",
+      "description": "La Constitution de l'an VIII est approuvée par trois millions de voix, la plus forte majorité jamais obtenue pour un projet de gouvernement.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 144,
+        "line_end": 147,
+        "excerpt": "La Constitution de l'an VIII, ainsi remaniée par le Premier Consul, fut approuvée par trois millions de voix."
+      },
+      "id": "evt_17_007"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1800,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Création des préfets et sous-préfets",
+      "description": "Bonaparte remplace les comités élus par des préfets et sous-préfets, rétablissant les intendants de l'ancien régime avec un pouvoir centralisé accru.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 160,
+        "line_end": 166,
+        "excerpt": "Bonaparte mit des préfets et des sous-préfets à la place des comités élus, c'est-à-dire qu'il rétablit et multiplia les intendants de l'ancien régime."
+      },
+      "id": "evt_17_008"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1800,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Retrait de la Russie de la coalition",
+      "description": "L'empereur de Russie Paul Ier, mécontent de ses alliés, se retire de la lutte contre la France.",
+      "importance": 3,
+      "people": [
+        "Paul Ier"
+      ],
+      "locations": [
+        "Russie"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 181,
+        "line_end": 182,
+        "excerpt": "L'empereur de Russie, Paul Ier, mécontent de ses alliés, s'était retiré de la lutte."
+      },
+      "id": "evt_17_009"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1800,
+        "month": 6,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Marengo",
+      "description": "Bonaparte franchit les Alpes au Grand-Saint-Bernard et bat le général autrichien Mélas à Marengo. Le général Desaix périt dans cette victoire disputée.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte",
+        "Mélas",
+        "Desaix",
+        "Moreau"
+      ],
+      "locations": [
+        "Marengo",
+        "Grand-Saint-Bernard",
+        "Italie"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 203,
+        "line_end": 207,
+        "excerpt": "il franchit hardiment les Alpes au passage du Grand-Saint-Bernard, battit Mélas à Marengo, victoire disputée où périt Desaix (14 juin 1800)"
+      },
+      "id": "evt_17_010"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1800,
+        "month": 6,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort du général Desaix à Marengo",
+      "description": "Le général Desaix périt lors de la bataille de Marengo.",
+      "importance": 3,
+      "people": [
+        "Desaix"
+      ],
+      "locations": [
+        "Marengo"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 206,
+        "line_end": 207,
+        "excerpt": "battit Mélas à Marengo, victoire disputée où périt Desaix (14 juin 1800)"
+      },
+      "id": "evt_17_011"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1800,
+        "month": 12,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Bataille de Hohenlinden",
+      "description": "Victoire de Moreau sur les Autrichiens qui force l'empereur François II à céder.",
+      "importance": 4,
+      "people": [
+        "Moreau",
+        "François II"
+      ],
+      "locations": [
+        "Hohenlinden",
+        "Allemagne"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 207,
+        "line_end": 209,
+        "excerpt": "il fallut encore, en décembre, une autre victoire, celle de Moreau à Hohenlinden, pour que l'empereur François II cédât."
+      },
+      "id": "evt_17_012"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1801,
+        "month": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Traité de Lunéville",
+      "description": "L'Autriche renonce à l'Italie, reconnaît les conquêtes françaises et les quatre Républiques vassales (Batave, Helvétique, Cisalpine, Ligurienne). La rive gauche du Rhin devient française.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte",
+        "François II"
+      ],
+      "locations": [
+        "Lunéville"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 209,
+        "line_end": 217,
+        "excerpt": "En février 1801 fut signé le traité de Lunéville. L'Autriche renonçait à l'Italie, reconnaissait toutes les conquêtes de la France révolutionnaire..."
+      },
+      "id": "evt_17_013"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1801,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Assassinat de Paul Ier de Russie",
+      "description": "L'empereur Paul Ier de Russie est mystérieusement assassiné, ce qui fait perdre à la France un allié potentiel.",
+      "importance": 3,
+      "people": [
+        "Paul Ier"
+      ],
+      "locations": [
+        "Russie"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 259,
+        "line_end": 260,
+        "excerpt": "la Russie nous échappait après l'assassinat mystérieux de Paul Ier"
+      },
+      "id": "evt_17_014"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1801,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bombardement de Copenhague",
+      "description": "Les Anglais bombardent Copenhague, dispersant la ligue des neutres qui fermait la Baltique au commerce anglais.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Copenhague",
+        "Danemark"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 260,
+        "line_end": 261,
+        "excerpt": "le bombardement de Copenhague dispersait la ligue des neutres."
+      },
+      "id": "evt_17_015"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1802,
+        "month": 3,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Traité d'Amiens",
+      "description": "Paix conclue avec l'Angleterre. La France renonce à l'Égypte, Ceylan est enlevé à la Hollande, la Trinité à l'Espagne. La suprématie maritime anglaise sort accrue.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Amiens"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 261,
+        "line_end": 275,
+        "excerpt": "Le traité d'Amiens (mars 1802) «lui fut, dans une large mesure, une revanche du traité de Versailles», celui de 1783."
+      },
+      "id": "evt_17_016"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1800,
+        "month": 12,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Attentat de la rue Saint-Nicaise",
+      "description": "Bonaparte échappe à l'explosion d'une machine infernale rue Saint-Nicaise. Les auteurs sont des royalistes agents de Georges Cadoudal.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte",
+        "Georges Cadoudal",
+        "Fouché"
+      ],
+      "locations": [
+        "Paris",
+        "rue Saint-Nicaise"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 304,
+        "line_end": 311,
+        "excerpt": "Peu de temps après, en décembre 1800, il avait échappé à l'explosion d'une machine infernale rue Saint-Nicaise."
+      },
+      "id": "evt_17_017"
+    },
+    {
+      "type": "religious",
+      "date_start": {
+        "year": 1801,
+        "month": 7,
+        "day": 15,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Signature du Concordat",
+      "description": "Bonaparte signe un Concordat avec le pape Pie VII et le cardinal Consalvi, rétablissant officiellement la religion catholique en France.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte",
+        "Pie VII",
+        "Consalvi"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 315,
+        "line_end": 317,
+        "excerpt": "Le 15 juillet 1801, il avait réussi à signer un Concordat avec Pie VII et le cardinal Consalvi."
+      },
+      "id": "evt_17_018"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1802,
+        "month": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Consulat à vie",
+      "description": "Par plébiscite, trois millions et demi de voix approuvent la nomination de Napoléon Bonaparte comme Premier Consul à vie avec le droit de choisir son successeur.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte",
+        "Cambacérès"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 356,
+        "line_end": 363,
+        "excerpt": "trois millions et demi de voix, contre moins de dix mille, répondirent par l'affirmative. La Constitution fut remaniée dans ce sens, et le Premier Consul reçut en outre le droit de choisir lui-même son successeur (août 1802)."
+      },
+      "id": "evt_17_019"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1802,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bonaparte président de la République cisalpine",
+      "description": "Bonaparte se fait proclamer président de la République cisalpine ou italienne, dont le centre est Milan.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Milan",
+        "Italie"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 387,
+        "line_end": 391,
+        "excerpt": "Lorsqu'il se fait proclamer président de la République cisalpine ou italienne, dont le centre est Milan..."
+      },
+      "id": "evt_17_020"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1802,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Annexion du Piémont à la France",
+      "description": "Le Piémont est annexé à la France sans protestation internationale.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Piémont"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 391,
+        "line_end": 392,
+        "excerpt": "lorsqu'il annexe le Piémont à la France, personne ne proteste"
+      },
+      "id": "evt_17_021"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1803,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Remaniement territorial allemand de 1803",
+      "description": "Suppression de nombreuses principautés ecclésiastiques et villes libres en Allemagne, préparant la concentration et l'unité allemande.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Allemagne"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 394,
+        "line_end": 403,
+        "excerpt": "le remaniement de 1803, en supprimant un grand nombre de principautés ecclésiastiques et de villes libres, préparait la concentration et l'unité de l'Allemagne."
+      },
+      "id": "evt_17_022"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1800,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Rétrocession de la Louisiane à la France",
+      "description": "Napoléon oblige l'Espagne à rétrocéder la Louisiane en échange de l'Étrurie constituée en royaume pour un infant espagnol.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Louisiane",
+        "Espagne"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 409,
+        "line_end": 411,
+        "excerpt": "Il avait obligé notre alliée l'Espagne à lui rétrocéder la Louisiane en échange de l'Etrurie constituée en royaume pour un infant."
+      },
+      "id": "evt_17_023"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1803,
+        "month": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Rupture de la paix d'Amiens",
+      "description": "L'Angleterre refuse d'évacuer Malte comme prévu par le traité. Les négociations échouent et la guerre reprend entre la France et l'Angleterre.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte",
+        "Talleyrand"
+      ],
+      "locations": [
+        "Malte"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 434,
+        "line_end": 444,
+        "excerpt": "l'empêchèrent d'évacuer Malte, comme il s'y était engagé par le traité d'Amiens... Au mois de mai 1803, la rupture était consommée."
+      },
+      "id": "evt_17_024"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1803,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Camp de Boulogne",
+      "description": "Le Premier Consul forme un camp à Boulogne pour préparer l'invasion de l'Angleterre avec des flottilles de bateaux plats.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Boulogne"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 449,
+        "line_end": 452,
+        "excerpt": "Le Premier Consul, reprenant le projet... d'envahir l'Angleterre et d'y transporter une armée sur des flottilles de bateaux plats, formait un camp à Boulogne."
+      },
+      "id": "evt_17_025"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1804,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Conspiration de Cadoudal et Pichegru",
+      "description": "Georges Cadoudal débarque en France et complote avec le général Pichegru pour tuer le Premier Consul. Le général Moreau est compromis.",
+      "importance": 4,
+      "people": [
+        "Georges Cadoudal",
+        "Pichegru",
+        "Moreau",
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Consulat",
+      "source": {
+        "line_start": 454,
+        "line_end": 458,
+        "excerpt": "Georges Cadoudal débarqua en France et, d'accord avec le général Pichegru, complota de tuer le Premier Consul. Il réussit même à compromettre un autre général jaloux de Bonaparte, l'illustre Moreau."
+      },
+      "id": "evt_17_026"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1804,
+        "month": 3,
+        "day": 21,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Exécution du duc d'Enghien",
+      "description": "Le duc d'Enghien, jeune prince de Condé, est enlevé de force à Ettenheim en territoire badois et exécuté après un simulacre de jugement.",
+      "importance": 4,
+      "people": [
+        "Duc d'Enghien",
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Ettenheim",
+        "Vincennes"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 468,
+        "line_end": 472,
+        "excerpt": "Il fit enlever de force le jeune prince de Condé, duc d'Enghien, qui se trouvait à Ettenheim, en territoire badois, et qui fut passé par les armes après un simulacre de jugement."
+      },
+      "id": "evt_17_027"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1804,
+        "month": 5,
+        "day": 18,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Proclamation de l'Empire",
+      "description": "L'Empire est proclamé après un plébiscite approuvé par des millions de voix. Le titre d'empereur est choisi car celui de roi est inséparable des Bourbons.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte",
+        "Curée",
+        "Carnot"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 511,
+        "line_end": 534,
+        "excerpt": "Un ancien révolutionnaire, connu par l'ardeur de ses opinions, le tribun Curée, fut chargé de proposer l'établissement de l'Empire... L'Empire fut proclamé le 18 mai 1804"
+      },
+      "id": "evt_17_028"
+    },
+    {
+      "type": "reign_start",
+      "date_start": {
+        "year": 1804,
+        "month": 5,
+        "day": 18,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Début du règne de Napoléon Ier",
+      "description": "Napoléon Bonaparte devient Empereur des Français sous le nom de Napoléon Ier.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 534,
+        "line_end": 541,
+        "excerpt": "L'Empire fut proclamé le 18 mai 1804 et le nom d'empereur fut choisi, parce que celui de roi était inséparable des Bourbons."
+      },
+      "id": "evt_17_029"
+    },
+    {
+      "type": "religious",
+      "date_start": {
+        "year": 1804,
+        "month": 12,
+        "day": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Sacre de Napoléon à Notre-Dame",
+      "description": "Napoléon est couronné empereur par le pape Pie VII à Notre-Dame de Paris. Il prend lui-même la couronne des mains du pape pour la placer sur sa tête.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte",
+        "Pie VII"
+      ],
+      "locations": [
+        "Paris",
+        "Notre-Dame"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 542,
+        "line_end": 554,
+        "excerpt": "Comme Charlemagne lui-même, Napoléon voulut être couronné par le pape, et non pas à Rome, mais à Paris. Pie VII... se rendit à son désir et, le 2 décembre, à Notre-Dame, on eut le spectacle extraordinaire du sacre."
+      },
+      "id": "evt_17_030"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1805,
+        "month": 10,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Capitulation des Autrichiens à Ulm",
+      "description": "Les Autrichiens capitulent à Ulm face à Napoléon, première victoire majeure de la campagne de 1805.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Ulm"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 619,
+        "line_end": 620,
+        "excerpt": "Le lendemain de la capitulation des Autrichiens à Ulm..."
+      },
+      "id": "evt_17_031"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1805,
+        "month": 10,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Trafalgar",
+      "description": "La flotte anglaise de Nelson détruit la flotte franco-espagnole de Villeneuve au cap Trafalgar. Désastre naval qui met fin aux projets d'invasion de l'Angleterre.",
+      "importance": 5,
+      "people": [
+        "Villeneuve",
+        "Nelson"
+      ],
+      "locations": [
+        "Trafalgar",
+        "Cadix"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 619,
+        "line_end": 627,
+        "excerpt": "La flotte anglaise, bien qu'elle fût inférieure en nombre, détruisit la flotte franco-espagnole, après un terrible combat, en vue du cap Trafalgar (20 octobre 1805)."
+      },
+      "id": "evt_17_032"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1805,
+        "month": 12,
+        "day": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille d'Austerlitz",
+      "description": "Napoléon remporte la plus éblouissante de ses victoires sur les Russes et les Autrichiens. La troisième coalition est écrasée.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Austerlitz",
+        "Vienne"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 631,
+        "line_end": 638,
+        "excerpt": "il remporta encore sur eux et sur une autre armée autrichienne, la plus éblouissante de ses victoires, celle d'Austerlitz (2 décembre). En quelques semaines, la troisième coalition avait été écrasée."
+      },
+      "id": "evt_17_033"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1805,
+        "month": 12,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Paix de Presbourg",
+      "description": "L'Autriche accablée signe la paix, marquant une extension considérable de l'Empire napoléonien vers l'Est. Napoléon prend la couronne de Lombardie et reprend Venise.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Presbourg"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 653,
+        "line_end": 662,
+        "excerpt": "La paix de Presbourg, signée par l'Autriche accablée, marquait une extension considérable de l'Empire napoléonien vers l'Est."
+      },
+      "id": "evt_17_034"
+    },
+    {
+      "type": "reign_start",
+      "date_start": {
+        "year": 1806,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Joseph Bonaparte roi de Naples",
+      "description": "Napoléon installe son frère Joseph à Naples à la place des Bourbons.",
+      "importance": 3,
+      "people": [
+        "Joseph Bonaparte",
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Naples"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 657,
+        "line_end": 658,
+        "excerpt": "A la place des Bourbons de Naples, il installait son frère Joseph."
+      },
+      "id": "evt_17_035"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1806,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Création de la Confédération du Rhin",
+      "description": "Napoléon crée la Confédération du Rhin réunissant Bavière, Wurtemberg, Bade et Hesse-Darmstadt sous sa présidence.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Bavière",
+        "Wurtemberg",
+        "Bade",
+        "Hesse-Darmstadt"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 675,
+        "line_end": 678,
+        "excerpt": "Bavière, Wurtemberg, Bade, Hesse-Darmstadt formaient une Confédération du Rhin sous sa présidence."
+      },
+      "id": "evt_17_036"
+    },
+    {
+      "type": "reign_start",
+      "date_start": {
+        "year": 1806,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Louis Bonaparte roi de Hollande",
+      "description": "Napoléon met son frère Louis sur le trône de Hollande.",
+      "importance": 3,
+      "people": [
+        "Louis Bonaparte",
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Hollande"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 674,
+        "line_end": 675,
+        "excerpt": "comme il mettait son frère Joseph à Naples et son frère Louis en Hollande."
+      },
+      "id": "evt_17_037"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1806,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Pitt",
+      "description": "Mort de William Pitt, le premier ministre britannique irréconciliable ennemi de la France.",
+      "importance": 3,
+      "people": [
+        "Pitt"
+      ],
+      "locations": [
+        "Angleterre"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 684,
+        "line_end": 685,
+        "excerpt": "Pitt l'irréconciliable mourait, mais Fox le pacifique mourait à son tour."
+      },
+      "id": "evt_17_038"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1806,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Fox",
+      "description": "Mort de Charles James Fox, le ministre britannique pacifique.",
+      "importance": 2,
+      "people": [
+        "Fox"
+      ],
+      "locations": [
+        "Angleterre"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 684,
+        "line_end": 685,
+        "excerpt": "Pitt l'irréconciliable mourait, mais Fox le pacifique mourait à son tour."
+      },
+      "id": "evt_17_039"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1806,
+        "month": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Bataille d'Iéna",
+      "description": "Napoléon écrase l'armée prussienne à Iéna. En quelques semaines, il devient maître de la plus grande partie de la Prusse.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte",
+        "Frédéric-Guillaume III"
+      ],
+      "locations": [
+        "Iéna",
+        "Berlin",
+        "Koenigsberg"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 707,
+        "line_end": 713,
+        "excerpt": "l'armée prussienne, qui vivait encore sur la réputation de Frédéric, fut écrasée à Iéna (octobre 1806)... En quelques semaines, Napoléon fut maître de la plus grande partie de la Prusse."
+      },
+      "id": "evt_17_040"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1806,
+        "month": 11,
+        "day": 21,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Décret de Berlin - Blocus continental",
+      "description": "Napoléon instaure le blocus continental depuis Berlin pour fermer toute l'Europe au commerce anglais.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Berlin"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 713,
+        "line_end": 719,
+        "excerpt": "c'est de Berlin que fut daté le blocus continental, destiné à venir à bout de l'Angleterre et qui ne conduirait la France qu'à des efforts démesurés sans que rien fût jamais résolu."
+      },
+      "id": "evt_17_041"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1807,
+        "month": 2,
+        "day": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille d'Eylau",
+      "description": "Journée sanglante et disputée contre les Russes sous la neige, à trois cents lieues de France. La bataille n'apporte pas encore la paix.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Eylau"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 721,
+        "line_end": 724,
+        "excerpt": "A Eylau, à trois cents lieues de France, sous la neige, une journée sanglante et disputée (8 février 1807), n'apporte pas encore la paix."
+      },
+      "id": "evt_17_042"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1807,
+        "month": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Bataille de Friedland",
+      "description": "Victoire de la Grande Armée sur les Russes. Koenigsberg et le reste de la Prusse tombent aux mains de Napoléon.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Friedland",
+        "Koenigsberg"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 731,
+        "line_end": 734,
+        "excerpt": "A Friedland (juin 1807), la Grande Armée est encore victorieuse. Koenigsberg et le reste de la Prusse tombent entre ses mains."
+      },
+      "id": "evt_17_043"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1807,
+        "month": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Entrevue et traité de Tilsit",
+      "description": "Napoléon et le tsar Alexandre Ier concluent un pacte d'amitié. Les deux empereurs envisagent le partage de l'Empire ottoman.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte",
+        "Alexandre Ier"
+      ],
+      "locations": [
+        "Tilsit",
+        "Niémen"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 736,
+        "line_end": 748,
+        "excerpt": "En 1807, l'entrevue de Tilsit, le pacte d'amitié conclu entre l'empereur d'Occident et l'empereur d'Orient, parut le prix des victoires coûteuses qui avaient conduit les soldats français jusqu'au Niémen."
+      },
+      "id": "evt_17_044"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1807,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Second bombardement de Copenhague",
+      "description": "L'Angleterre bombarde à nouveau Copenhague pour terroriser les neutres et contrôler la Baltique après l'alliance franco-russe.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Copenhague",
+        "Danemark"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 755,
+        "line_end": 758,
+        "excerpt": "il ne craignit pas de traiter le Danemark plus durement encore qu'en 1801. Le bombardement de Copenhague causa une grande indignation en Europe."
+      },
+      "id": "evt_17_045"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1807,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Expédition de Junot au Portugal",
+      "description": "Napoléon envoie Junot avec une armée au Portugal qui refuse de se fermer aux marchandises anglaises.",
+      "importance": 3,
+      "people": [
+        "Junot",
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Portugal"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 769,
+        "line_end": 771,
+        "excerpt": "Il y avait un pays qui ne mettait aucun empressement à se fermer aux marchandises anglaises. C'était le Portugal. Napoléon se vit obligé d'y envoyer Junot avec une armée."
+      },
+      "id": "evt_17_046"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1808,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Abdication des Bourbons d'Espagne à Bayonne",
+      "description": "Charles IV et Ferdinand VII, attirés à Bayonne, abdiquent. Le trône d'Espagne est donné à Joseph Bonaparte, Naples passant à Murat.",
+      "importance": 4,
+      "people": [
+        "Charles IV d'Espagne",
+        "Ferdinand VII d'Espagne",
+        "Joseph Bonaparte",
+        "Murat",
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Bayonne",
+        "Madrid",
+        "Naples"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 798,
+        "line_end": 802,
+        "excerpt": "Attiré à Bayonne dans un piège, Charles IV abdiqua et son fils Ferdinand renonça au trône qui fut donné à Joseph Bonaparte qui céderait Naples à Murat."
+      },
+      "id": "evt_17_047"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1808,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Soulèvement espagnol contre Napoléon",
+      "description": "Une insurrection générale éclate en Espagne contre l'occupation française, rapidement soutenue par les Anglais.",
+      "importance": 5,
+      "people": [
+        "Joseph Bonaparte"
+      ],
+      "locations": [
+        "Espagne",
+        "Madrid"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 804,
+        "line_end": 806,
+        "excerpt": "A cette opération, l'essentiel manqua: le consentement du peuple espagnol. Une insurrection générale éclata, rapidement soutenue par les Anglais."
+      },
+      "id": "evt_17_048"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1808,
+        "month": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Capitulation de Baylen",
+      "description": "Le général Dupont capitule à Baylen. Joseph évacue Madrid et se replie vers les Pyrénées.",
+      "importance": 4,
+      "people": [
+        "Dupont",
+        "Joseph Bonaparte"
+      ],
+      "locations": [
+        "Baylen",
+        "Madrid"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 806,
+        "line_end": 810,
+        "excerpt": "En juillet 1808, une faute grave, commise par le général Dupont, entraîna la retentissante capitulation de Baylen."
+      },
+      "id": "evt_17_049"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1808,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Occupation de Rome par Miollis",
+      "description": "Le général Miollis occupe Rome pour fermer les États pontificaux au commerce anglais et forcer Pie VII à devenir belligérant.",
+      "importance": 3,
+      "people": [
+        "Miollis",
+        "Pie VII",
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Rome"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 787,
+        "line_end": 791,
+        "excerpt": "Le général Miollis occupait Rome pour fermer les Etats pontificaux, comme le reste de l'Europe, au commerce anglais et forcer Pie VII à devenir belligérant."
+      },
+      "id": "evt_17_050"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1808,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Entrevue d'Erfurt",
+      "description": "Napoléon et Alexandre Ier se rencontrent à Erfurt devant un 'parterre de rois'. Napoléon permet à Alexandre de s'emparer de la Valachie et de la Moravie.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte",
+        "Alexandre Ier"
+      ],
+      "locations": [
+        "Erfurt"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 829,
+        "line_end": 843,
+        "excerpt": "En 1808, à l'entrevue d'Erfurt, renouvelant celle de Tilsit, les deux empereurs, devant un «parterre de rois», se prodiguèrent les marques d'amitié."
+      },
+      "id": "evt_17_051"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1809,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille d'Essling",
+      "description": "Journée pénible pour Napoléon contre l'Autriche qui a repris courage et préparé sérieusement la guerre.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Essling",
+        "Danube"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 851,
+        "line_end": 853,
+        "excerpt": "Les préparatifs de l'Autriche avaient été sérieux. Ce n'était pas un adversaire négligeable. La journée d'Essling fut pénible."
+      },
+      "id": "evt_17_052"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1809,
+        "month": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Bataille de Wagram",
+      "description": "Victoire coûteuse de Napoléon sur l'Autriche. Poniatowski et les Polonais y participent.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte",
+        "Poniatowski"
+      ],
+      "locations": [
+        "Wagram"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 853,
+        "line_end": 856,
+        "excerpt": "la victoire de Wagram coûteuse (juillet 1809). Mais une autre complication sortait de cette victoire. Pour frapper plus sûrement l'Autriche, Napoléon s'était servi contre elle de Poniatowski et des Polonais."
+      },
+      "id": "evt_17_053"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1810,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Divorce de Napoléon et Joséphine",
+      "description": "Napoléon divorce de Joséphine qui ne lui a pas donné d'enfant.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte",
+        "Joséphine de Beauharnais"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 890,
+        "line_end": 892,
+        "excerpt": "l'Empire ne parut jamais si grand, l'avenir si sûr qu'en 1810 lorsque Napoléon eut divorcé, renvoyé Joséphine qui ne lui avait pas donné d'enfant."
+      },
+      "id": "evt_17_054"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1810,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mariage de Napoléon et Marie-Louise",
+      "description": "Napoléon épouse l'archiduchesse Marie-Louise d'Autriche, copiant le contrat de Marie-Antoinette et Louis XVI.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte",
+        "Marie-Louise d'Autriche"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 891,
+        "line_end": 893,
+        "excerpt": "épousé une archiduchesse en copiant le contrat de Marie-Antoinette et de Louis XVI dans la famille desquels il entrait."
+      },
+      "id": "evt_17_055"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1810,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Annexion de la Hollande",
+      "description": "Napoléon reprend la Hollande à son frère Louis qui avait épousé la cause de ses sujets face au blocus continental. Elle est divisée en départements.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte",
+        "Louis Bonaparte"
+      ],
+      "locations": [
+        "Hollande"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 875,
+        "line_end": 878,
+        "excerpt": "La Hollande ne s'y soumettait pas et Napoléon dut la reprendre à son frère Louis, qui avait épousé la cause de ses nouveaux sujets. Il l'annexa et la divisa en départements."
+      },
+      "id": "evt_17_056"
+    },
+    {
+      "type": "birth",
+      "date_start": {
+        "year": 1811,
+        "month": 3,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Naissance du Roi de Rome",
+      "description": "Marie-Louise donne un fils à Napoléon, nommé roi de Rome. L'Empire héréditaire a un héritier.",
+      "importance": 4,
+      "people": [
+        "Roi de Rome",
+        "Napoléon Bonaparte",
+        "Marie-Louise d'Autriche"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 893,
+        "line_end": 896,
+        "excerpt": "L'an d'après, Marie-Louise lui donnait un fils, l'Empire héréditaire avait un héritier et cet héritier, il était nommé roi de Rome."
+      },
+      "id": "evt_17_057"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1811,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Annexion des villes de la Hanse",
+      "description": "L'Empire français annexe les villes de la Hanse, Brême et Hambourg, devenant chefs-lieux de départements. La France compte 130 départements et s'étend jusqu'à la Baltique.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Brême",
+        "Hambourg"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 909,
+        "line_end": 912,
+        "excerpt": "l'Empire français... avait fini par annexer les villes de la Hanse, Brême et Hambourg, devenus chefs-lieux de deux de nos 130 départements."
+      },
+      "id": "evt_17_058"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1812,
+        "month": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Début de la campagne de Russie",
+      "description": "La Grande Armée de 'vingt nations' franchit le Niémen. Les Russes évitent la bataille et se retirent.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte",
+        "Alexandre Ier"
+      ],
+      "locations": [
+        "Niémen",
+        "Russie"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 944,
+        "line_end": 948,
+        "excerpt": "En juin 1812, la Grande Armée franchit le Niémen, et les Russes évitèrent encore de lui offrir la bataille."
+      },
+      "id": "evt_17_059"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1812,
+        "month": 9,
+        "circa": true,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Incendie de Moscou",
+      "description": "Napoléon entre à Moscou mais les Russes brûlent la ville et refusent de faire la paix.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Moscou"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 946,
+        "line_end": 948,
+        "excerpt": "Napoléon se figurait que, de Moscou, il dicterait la paix à la Russie. Les Russes brûlèrent la ville et ne firent pas la paix."
+      },
+      "id": "evt_17_060"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1812,
+        "month": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Passage de la Bérézina",
+      "description": "La retraite de Russie tourne en débâcle après le passage de la Bérézina. La Grande Armée a fondu.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte",
+        "Ney",
+        "Gérard"
+      ],
+      "locations": [
+        "Bérézina",
+        "Koenigsberg"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 948,
+        "line_end": 951,
+        "excerpt": "Alors commença une retraite qui, après le passage de la Bérézina, tourna en débâcle. Au mois de décembre, Ney et Gérard arrivaient presque seuls à Koenigsberg. La Grande Armée avait fondu."
+      },
+      "id": "evt_17_061"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1812,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Conspiration du général Malet",
+      "description": "Tentative de coup d'État du général Malet en France pendant que Napoléon est en Russie, révélant la précarité de son pouvoir.",
+      "importance": 3,
+      "people": [
+        "Malet",
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 953,
+        "line_end": 955,
+        "excerpt": "la conspiration du général Malet, dont la nouvelle lui était parvenue en Russie, lui avait appris combien son pouvoir était précaire."
+      },
+      "id": "evt_17_062"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1813,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Défection du général d'York",
+      "description": "Un corps prussien commandé par le général d'York passe aux Russes, première défection majeure qui hâte le repli français sur l'Elbe.",
+      "importance": 4,
+      "people": [
+        "York"
+      ],
+      "locations": [
+        "Allemagne"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 980,
+        "line_end": 984,
+        "excerpt": "Un corps prussien mêlé à nos troupes et commandé par le général d'York passa aux Russes. Cette défection causa une sensation immense en Allemagne."
+      },
+      "id": "evt_17_063"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1813,
+        "month": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Batailles de Lützen et Bautzen",
+      "description": "Napoléon bat les Prussiens et les Russes à Lützen et à Bautzen avec une armée nouvelle.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Lützen",
+        "Bautzen"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 989,
+        "line_end": 991,
+        "excerpt": "Ayant levé et organisé une armée nouvelle, il les battit en effet à Lützen et à Bautzen."
+      },
+      "id": "evt_17_064"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1813,
+        "month": 8,
+        "day": 27,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Dresde",
+      "description": "Victoire de Napoléon à Dresde contre la coalition austro-prusso-russe.",
+      "importance": 3,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Dresde"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 996,
+        "line_end": 997,
+        "excerpt": "La victoire de Dresde, le 27 août, parut encore lui donner raison."
+      },
+      "id": "evt_17_065"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1813,
+        "month": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Bataille de Leipzig",
+      "description": "Bataille de trois jours où les auxiliaires saxons passent à l'ennemi. Défaite majeure qui coûte toute l'Allemagne à Napoléon.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Leipzig"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 1000,
+        "line_end": 1006,
+        "excerpt": "Revenu sur Leipzig... Napoléon y livra une bataille de trois jours, au cours de laquelle nos auxiliaires saxons passèrent à l'ennemi. Cette immense bataille perdue, et toute l'Allemagne avec elle, il fallut se replier sur le Rhin."
+      },
+      "id": "evt_17_066"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1813,
+        "month": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Combat de Hanau",
+      "description": "La Grande Armée doit s'ouvrir un passage à Hanau contre les Bavarois qui ont trahi.",
+      "importance": 2,
+      "people": [],
+      "locations": [
+        "Hanau",
+        "Mayence"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 1004,
+        "line_end": 1006,
+        "excerpt": "En novembre, ce qui avait été la Grande Armée entrait à Mayence après avoir dû s'ouvrir un passage à Hanau sur les Bavarois qui avaient trahi à leur tour."
+      },
+      "id": "evt_17_067"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1814,
+        "month": 3,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Pacte de Chaumont",
+      "description": "Les quatre puissances alliées (Angleterre, Russie, Prusse, Autriche) concluent le pacte de Chaumont et reprennent l'offensive.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Chaumont"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 1075,
+        "line_end": 1077,
+        "excerpt": "Après avoir conclu entre elles le pacte de Chaumont, les quatre puissances reprirent l'offensive, résolues à dicter la paix."
+      },
+      "id": "evt_17_068"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1814,
+        "month": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Campagne de France - Victoires de Napoléon",
+      "description": "Napoléon remporte plusieurs victoires (Brienne, Champaubert, Montmirail, Montereau) avec des soldats improvisés face aux Alliés.",
+      "importance": 4,
+      "people": [
+        "Napoléon Bonaparte",
+        "Carnot"
+      ],
+      "locations": [
+        "Brienne",
+        "Champaubert",
+        "Montmirail",
+        "Montereau"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 1061,
+        "line_end": 1067,
+        "excerpt": "La campagne de France, la plus admirée de toutes celles de Napoléon... Ses victoires, Brienne, Champaubert, Montmirail, Montereau, Albert Sorel les compare à celle de Valmy."
+      },
+      "id": "evt_17_069"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1814,
+        "month": 3,
+        "day": 30,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Chute de Paris",
+      "description": "Les Alliés sont maîtres de Paris. Un Allemand écrit de Montmartre qu'il y avait neuf siècles et demi que l'empereur Othon avait planté ses aigles sur ces collines.",
+      "importance": 5,
+      "people": [],
+      "locations": [
+        "Paris",
+        "Montmartre"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 1082,
+        "line_end": 1085,
+        "excerpt": "Le 30 mars, les Alliés étaient maîtres de Paris et, de Montmartre, un Allemand écrivait: «Il y avait neuf siècles et demi que notre empereur Othon avait planté ses aigles sur ces collines.»"
+      },
+      "id": "evt_17_070"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1814,
+        "month": 4,
+        "day": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Abdication de Napoléon à Fontainebleau",
+      "description": "Napoléon abdique à Fontainebleau. Son Sénat et ses maréchaux l'ont pressé de renoncer au pouvoir.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Fontainebleau"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 1087,
+        "line_end": 1091,
+        "excerpt": "Le 11 avril 1814, à Fontainebleau, Napoléon abdique. Non seulement son Sénat... l'a abandonné et demande les Bourbons, mais ses maréchaux... l'ont pressé de renoncer au pouvoir."
+      },
+      "id": "evt_17_071"
+    },
+    {
+      "type": "reign_end",
+      "date_start": {
+        "year": 1814,
+        "month": 4,
+        "day": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Fin du règne de Napoléon Ier",
+      "description": "Napoléon abdique et est exilé à l'île d'Elbe.",
+      "importance": 5,
+      "people": [
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Fontainebleau",
+        "Île d'Elbe"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 1087,
+        "line_end": 1096,
+        "excerpt": "Le 11 avril 1814, à Fontainebleau, Napoléon abdique... l'empereur déchu débarquait à l'île d'Elbe."
+      },
+      "id": "evt_17_072"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1814,
+        "month": 5,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Entrée de Louis XVIII à Paris",
+      "description": "Louis XVIII entre à Paris tandis que Napoléon débarque à l'île d'Elbe.",
+      "importance": 5,
+      "people": [
+        "Louis XVIII",
+        "Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Paris",
+        "Île d'Elbe"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 1095,
+        "line_end": 1096,
+        "excerpt": "Le 5 mai, Louis XVIII entrait à Paris tandis que l'empereur déchu débarquait à l'île d'Elbe."
+      },
+      "id": "evt_17_073"
+    },
+    {
+      "type": "reign_start",
+      "date_start": {
+        "year": 1814,
+        "month": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Début du règne de Louis XVIII",
+      "description": "Louis XVIII commence son règne après l'abdication de Napoléon, restaurant la monarchie bourbonienne.",
+      "importance": 5,
+      "people": [
+        "Louis XVIII"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Restauration",
+      "source": {
+        "line_start": 1095,
+        "line_end": 1096,
+        "excerpt": "Le 5 mai, Louis XVIII entrait à Paris."
+      },
+      "id": "evt_17_074"
+    }
+  ],
+  "people": [
+    {
+      "name": "Napoléon Bonaparte",
+      "aliases": [
+        "Bonaparte",
+        "Premier Consul",
+        "Napoléon Ier",
+        "l'empereur"
+      ],
+      "dynasty": "Bonaparte",
+      "titles": [
+        "Premier Consul",
+        "Consul à vie",
+        "Empereur des Français"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1804,
+          "month": 5,
+          "day": 18,
+          "circa": false,
+          "era": "CE"
+        },
+        "end": {
+          "year": 1814,
+          "month": 4,
+          "day": 11,
+          "circa": false,
+          "era": "CE"
+        }
+      },
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Joséphine de Beauharnais"
+        },
+        {
+          "type": "épouse",
+          "person": "Marie-Louise d'Autriche"
+        },
+        {
+          "type": "frère",
+          "person": "Joseph Bonaparte"
+        },
+        {
+          "type": "frère",
+          "person": "Louis Bonaparte"
+        },
+        {
+          "type": "frère",
+          "person": "Lucien Bonaparte"
+        },
+        {
+          "type": "fils",
+          "person": "Roi de Rome"
+        }
+      ],
+      "source_lines": [
+        8,
+        57,
+        78,
+        94,
+        149,
+        206,
+        534,
+        567,
+        890,
+        1087
+      ],
+      "id": "per_napol_on_bonaparte"
+    },
+    {
+      "name": "Sieyès",
+      "aliases": [
+        "abbé Sieyès"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Directeur"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        18,
+        31,
+        92,
+        119,
+        338,
+        517
+      ],
+      "id": "per_siey_s"
+    },
+    {
+      "name": "Roger-Ducos",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Directeur"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        18,
+        92
+      ],
+      "id": "per_roger_ducos"
+    },
+    {
+      "name": "Lucien Bonaparte",
+      "aliases": [],
+      "dynasty": "Bonaparte",
+      "titles": [
+        "Président du Conseil des Cinq-Cents"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Napoléon Bonaparte"
+        }
+      ],
+      "source_lines": [
+        20
+      ],
+      "id": "per_lucien_bonaparte"
+    },
+    {
+      "name": "Joseph Bonaparte",
+      "aliases": [],
+      "dynasty": "Bonaparte",
+      "titles": [
+        "Roi de Naples",
+        "Roi d'Espagne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Napoléon Bonaparte"
+        }
+      ],
+      "source_lines": [
+        657,
+        675,
+        800,
+        808
+      ],
+      "id": "per_joseph_bonaparte"
+    },
+    {
+      "name": "Louis Bonaparte",
+      "aliases": [],
+      "dynasty": "Bonaparte",
+      "titles": [
+        "Roi de Hollande"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Napoléon Bonaparte"
+        }
+      ],
+      "source_lines": [
+        675,
+        876
+      ],
+      "id": "per_louis_bonaparte"
+    },
+    {
+      "name": "Cambacérès",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Consul"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        138,
+        356
+      ],
+      "id": "per_cambac_r_s"
+    },
+    {
+      "name": "Lebrun",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Consul",
+        "Duc de Plaisance"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        138,
+        168
+      ],
+      "id": "per_lebrun"
+    },
+    {
+      "name": "Gaudin",
+      "aliases": [
+        "Duc de Gaëte"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Ministre des Finances"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        110
+      ],
+      "id": "per_gaudin"
+    },
+    {
+      "name": "Paul Ier",
+      "aliases": [],
+      "dynasty": "Romanov",
+      "titles": [
+        "Empereur de Russie"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1801,
+        "circa": true,
+        "era": "CE"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        181,
+        260
+      ],
+      "id": "per_paul_ier"
+    },
+    {
+      "name": "François II",
+      "aliases": [],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Empereur du Saint-Empire",
+        "Empereur d'Autriche"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        209
+      ],
+      "id": "per_fran_ois_ii"
+    },
+    {
+      "name": "Desaix",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1800,
+        "month": 6,
+        "day": 14,
+        "circa": false,
+        "era": "CE"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        206
+      ],
+      "id": "per_desaix"
+    },
+    {
+      "name": "Moreau",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        204,
+        208,
+        457
+      ],
+      "id": "per_moreau"
+    },
+    {
+      "name": "Pitt",
+      "aliases": [
+        "William Pitt"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Premier ministre britannique"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1806,
+        "circa": true,
+        "era": "CE"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        187,
+        278,
+        431,
+        684
+      ],
+      "id": "per_pitt"
+    },
+    {
+      "name": "Fox",
+      "aliases": [
+        "Charles James Fox"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Ministre britannique"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1806,
+        "circa": true,
+        "era": "CE"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        684
+      ],
+      "id": "per_fox"
+    },
+    {
+      "name": "Pie VII",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Pape"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        316,
+        543,
+        790,
+        897
+      ],
+      "id": "per_pie_vii"
+    },
+    {
+      "name": "Consalvi",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Cardinal"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        316
+      ],
+      "id": "per_consalvi"
+    },
+    {
+      "name": "Georges Cadoudal",
+      "aliases": [
+        "Georges"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        310,
+        454,
+        478
+      ],
+      "id": "per_georges_cadoudal"
+    },
+    {
+      "name": "Fouché",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Ministre de la Police"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        308,
+        888
+      ],
+      "id": "per_fouch_"
+    },
+    {
+      "name": "Louis XVIII",
+      "aliases": [],
+      "dynasty": "Bourbon",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1814,
+          "month": 5,
+          "circa": false,
+          "era": "CE"
+        },
+        "end": null
+      },
+      "relations": [],
+      "source_lines": [
+        300,
+        1095
+      ],
+      "id": "per_louis_xviii"
+    },
+    {
+      "name": "Duc d'Enghien",
+      "aliases": [
+        "Louis-Antoine de Bourbon-Condé"
+      ],
+      "dynasty": "Condé",
+      "titles": [
+        "Duc",
+        "Prince de Condé"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1804,
+        "month": 3,
+        "circa": false,
+        "era": "CE"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        470,
+        505
+      ],
+      "id": "per_duc_d_enghien"
+    },
+    {
+      "name": "Talleyrand",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Ministre des Affaires étrangères"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        439,
+        641,
+        888
+      ],
+      "id": "per_talleyrand"
+    },
+    {
+      "name": "Pichegru",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        455,
+        478
+      ],
+      "id": "per_pichegru"
+    },
+    {
+      "name": "Carnot",
+      "aliases": [
+        "Lazare Carnot"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Tribun",
+        "Organisateur de la Victoire"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        513,
+        1071
+      ],
+      "id": "per_carnot"
+    },
+    {
+      "name": "Curée",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Tribun"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        511
+      ],
+      "id": "per_cur_e"
+    },
+    {
+      "name": "Villeneuve",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Amiral"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        591,
+        595,
+        601,
+        619,
+        623
+      ],
+      "id": "per_villeneuve"
+    },
+    {
+      "name": "Nelson",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Amiral"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        620
+      ],
+      "id": "per_nelson"
+    },
+    {
+      "name": "Decrès",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Ministre de la Marine"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        578,
+        597
+      ],
+      "id": "per_decr_s"
+    },
+    {
+      "name": "Alexandre Ier",
+      "aliases": [
+        "tsar Alexandre"
+      ],
+      "dynasty": "Romanov",
+      "titles": [
+        "Empereur de Russie",
+        "Tsar"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        681,
+        689,
+        831,
+        906,
+        929,
+        945
+      ],
+      "id": "per_alexandre_ier"
+    },
+    {
+      "name": "Murat",
+      "aliases": [
+        "Joachim Murat"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Roi de Naples",
+        "Maréchal"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        801
+      ],
+      "id": "per_murat"
+    },
+    {
+      "name": "Frédéric-Guillaume III",
+      "aliases": [
+        "Frédéric-Guillaume"
+      ],
+      "dynasty": "Hohenzollern",
+      "titles": [
+        "Roi de Prusse"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        699,
+        712
+      ],
+      "id": "per_fr_d_ric_guillaume_i"
+    },
+    {
+      "name": "Junot",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Général",
+        "Duc d'Abrantès"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        770,
+        775,
+        803,
+        812
+      ],
+      "id": "per_junot"
+    },
+    {
+      "name": "Charles IV d'Espagne",
+      "aliases": [
+        "Charles IV"
+      ],
+      "dynasty": "Bourbon",
+      "titles": [
+        "Roi d'Espagne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Ferdinand VII d'Espagne"
+        }
+      ],
+      "source_lines": [
+        799
+      ],
+      "id": "per_charles_iv_d_espagne"
+    },
+    {
+      "name": "Ferdinand VII d'Espagne",
+      "aliases": [
+        "Ferdinand"
+      ],
+      "dynasty": "Bourbon",
+      "titles": [
+        "Roi d'Espagne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Charles IV d'Espagne"
+        }
+      ],
+      "source_lines": [
+        799
+      ],
+      "id": "per_ferdinand_vii_d_espa"
+    },
+    {
+      "name": "Dupont",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        807
+      ],
+      "id": "per_dupont"
+    },
+    {
+      "name": "Miollis",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        788
+      ],
+      "id": "per_miollis"
+    },
+    {
+      "name": "Poniatowski",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Prince",
+        "Maréchal"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        855
+      ],
+      "id": "per_poniatowski"
+    },
+    {
+      "name": "Joséphine de Beauharnais",
+      "aliases": [
+        "Joséphine"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Impératrice des Français"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Napoléon Bonaparte"
+        }
+      ],
+      "source_lines": [
+        891
+      ],
+      "id": "per_jos_phine_de_beauhar"
+    },
+    {
+      "name": "Marie-Louise d'Autriche",
+      "aliases": [
+        "Marie-Louise"
+      ],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Impératrice des Français",
+        "Archiduchesse d'Autriche"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Napoléon Bonaparte"
+        },
+        {
+          "type": "fils",
+          "person": "Roi de Rome"
+        }
+      ],
+      "source_lines": [
+        892,
+        893,
+        1044
+      ],
+      "id": "per_marie_louise_d_autri"
+    },
+    {
+      "name": "Roi de Rome",
+      "aliases": [
+        "Napoléon II",
+        "L'Aiglon"
+      ],
+      "dynasty": "Bonaparte",
+      "titles": [
+        "Roi de Rome"
+      ],
+      "birth": {
+        "year": 1811,
+        "month": 3,
+        "day": 20,
+        "circa": false,
+        "era": "CE"
+      },
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Napoléon Bonaparte"
+        },
+        {
+          "type": "mère",
+          "person": "Marie-Louise d'Autriche"
+        }
+      ],
+      "source_lines": [
+        894
+      ],
+      "id": "per_roi_de_rome"
+    },
+    {
+      "name": "Malet",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        953
+      ],
+      "id": "per_malet"
+    },
+    {
+      "name": "York",
+      "aliases": [
+        "d'York"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Général prussien"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        981
+      ],
+      "id": "per_york"
+    },
+    {
+      "name": "Ney",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Maréchal"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        949
+      ],
+      "id": "per_ney"
+    },
+    {
+      "name": "Gérard",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        950
+      ],
+      "id": "per_g_rard"
+    },
+    {
+      "name": "Bernadotte",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Prince royal de Suède",
+        "Maréchal"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1045
+      ],
+      "id": "per_bernadotte"
+    },
+    {
+      "name": "Castlereagh",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Ministre britannique des Affaires étrangères"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        1050
+      ],
+      "id": "per_castlereagh"
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_consulat",
+      "name": "Consulat",
+      "period_start": {
+        "year": 1799,
+        "month": 11,
+        "day": 9,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "period_end": {
+        "year": 1804,
+        "month": 5,
+        "day": 18,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      }
+    },
+    {
+      "id": "dyn_premier_empire",
+      "name": "Premier Empire",
+      "period_start": {
+        "year": 1804,
+        "month": 5,
+        "day": 18,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "period_end": {
+        "year": 1814,
+        "month": 4,
+        "day": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      }
+    },
+    {
+      "id": "dyn_restauration",
+      "name": "Restauration",
+      "period_start": {
+        "year": 1814,
+        "month": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "period_end": null
+    }
+  ],
+  "errors": []
+}

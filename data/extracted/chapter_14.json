@@ -1,0 +1,2560 @@
+{
+  "chapter_number": 14,
+  "chapter_title": "LA RÉGENCE ET LOUIS XV",
+  "line_start": 7022,
+  "line_end": 8169,
+  "validation_status": "success",
+  "entries": [
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1714,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Légitimation des fils de Louis XIV et Mme de Montespan",
+      "description": "Louis XIV déclare légitimes et aptes à succéder ses deux fils naturels, le duc du Maine et le comte de Toulouse, pour renforcer la dynastie face aux risques d'extinction.",
+      "importance": 3,
+      "people": [
+        "Louis XIV",
+        "Duc du Maine",
+        "Comte de Toulouse",
+        "Madame de Montespan"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 30,
+        "line_end": 37,
+        "excerpt": "Les deux fils qu'il avait eus de Mme de Montespan, le duc du Maine et le comte de Toulouse, furent déclarés légitimes et aptes à succéder."
+      },
+      "id": "evt_14_001"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1715,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Louis XIV",
+      "description": "Mort de Louis XIV après 72 ans de règne, laissant comme héritier son arrière-petit-fils Louis XV, âgé de 5 ans.",
+      "importance": 5,
+      "people": [
+        "Louis XIV",
+        "Louis XV"
+      ],
+      "locations": [
+        "Versailles",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 13,
+        "line_end": 17,
+        "excerpt": "Louis XIV, avant de mourir, avait vu disparaître son fils, le Grand Dauphin, ses petits-fils, le duc de Bourgogne et le duc de Berry"
+      },
+      "id": "evt_14_002"
+    },
+    {
+      "type": "reign_start",
+      "date_start": {
+        "year": 1715,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Début de la Régence de Philippe d'Orléans",
+      "description": "Philippe d'Orléans devient régent de France après avoir fait annuler le testament de Louis XIV par le Parlement, obtenant les pleins pouvoirs.",
+      "importance": 4,
+      "people": [
+        "Philippe d'Orléans",
+        "Louis XV"
+      ],
+      "locations": [
+        "Paris",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 49,
+        "line_end": 60,
+        "excerpt": "Le premier soin de Philippe d'Orléans fut d'annuler le testament de Louis XIV et de se débarrasser du conseil de régence."
+      },
+      "id": "evt_14_003"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1715,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Restauration du droit de remontrances des Parlements",
+      "description": "En échange de l'annulation du testament de Louis XIV, le droit de remontrances est reconnu aux Parlements, leur rendant un rôle politique perdu depuis 50 ans.",
+      "importance": 4,
+      "people": [
+        "Philippe d'Orléans"
+      ],
+      "locations": [
+        "Paris",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 59,
+        "line_end": 60,
+        "excerpt": "En échange, le droit de remontrances fut reconnu aux Parlements. Ils ne tarderont pas à abuser de l'importance qui leur était rendue."
+      },
+      "id": "evt_14_004"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1715,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Création des sept conseils de la Polysynodie",
+      "description": "Le Régent crée sept conseils de dix membres chacun pour remplacer les secrétaires d'État, système inspiré par Saint-Simon et Fénelon.",
+      "importance": 2,
+      "people": [
+        "Philippe d'Orléans",
+        "Saint-Simon",
+        "Fénelon",
+        "Duc de Bourgogne"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 65,
+        "line_end": 76,
+        "excerpt": "Il créa sept conseils de dix membres chacun chargés de ce qui correspond aux affaires d'un département ministériel."
+      },
+      "id": "evt_14_005"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1718,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Retrait de la qualité de princes du sang aux Légitimés",
+      "description": "Le Régent, avec l'aide du Parlement, retire aux fils légitimés de Louis XIV leur qualité de princes du sang et leur droit à la succession.",
+      "importance": 3,
+      "people": [
+        "Philippe d'Orléans",
+        "Duc du Maine",
+        "Comte de Toulouse"
+      ],
+      "locations": [
+        "Paris",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 90,
+        "line_end": 94,
+        "excerpt": "le coup de force par lequel, en 1718, le Régent, toujours avec l'aide des hauts magistrats, retira aux Légitimés la qualité de princes du sang"
+      },
+      "id": "evt_14_006"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1717,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Triple Alliance anglo-franco-hollandaise",
+      "description": "Alliance secrète entre la France, l'Angleterre et la Hollande, par laquelle le Régent et Dubois se lient à l'Angleterre contre leurs intérêts naturels.",
+      "importance": 3,
+      "people": [
+        "Philippe d'Orléans",
+        "Dubois",
+        "George Ier d'Angleterre",
+        "Stair"
+      ],
+      "locations": [
+        "France",
+        "Angleterre",
+        "Hollande"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 120,
+        "line_end": 128,
+        "excerpt": "Telle fut la raison secrète de la triple alliance anglo-franco-hollandaise, du pacte par lequel le Régent et son ministre Dubois se lièrent, se livrèrent même à l'Angleterre."
+      },
+      "id": "evt_14_007"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1718,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Conspiration de Cellamare",
+      "description": "Intrigue entre l'ambassadeur d'Espagne Cellamare et la duchesse du Maine, servant de prétexte à la guerre contre l'Espagne.",
+      "importance": 2,
+      "people": [
+        "Cellamare",
+        "Duchesse du Maine",
+        "Philippe V d'Espagne"
+      ],
+      "locations": [
+        "Paris",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 131,
+        "line_end": 134,
+        "excerpt": "on a beaucoup exagéré la «conspiration» de son ambassadeur Cellamare avec la duchesse du Maine, et cette intrigue, plus mondaine que politique"
+      },
+      "id": "evt_14_008"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1718,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Guerre contre l'Espagne",
+      "description": "La France entre en guerre contre l'Espagne, envahit le pays et détruit les arsenaux et vaisseaux en chantier, au seul profit de l'Angleterre.",
+      "importance": 3,
+      "people": [
+        "Philippe d'Orléans",
+        "Philippe V d'Espagne",
+        "Amiral Byng",
+        "Alberoni"
+      ],
+      "locations": [
+        "Espagne",
+        "Sicile"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 127,
+        "line_end": 153,
+        "excerpt": "Ce n'était pas une raison non plus pour envahir l'Espagne avec une armée française et pour y détruire de nos propres mains les vaisseaux en chantier et les arsenaux"
+      },
+      "id": "evt_14_009"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1716,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Début du Système de Law",
+      "description": "Le banquier écossais John Law obtient la confiance du Régent pour son système de papier-monnaie et la création de la Compagnie des Indes (Mississippi).",
+      "importance": 4,
+      "people": [
+        "John Law",
+        "Philippe d'Orléans"
+      ],
+      "locations": [
+        "Paris",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 162,
+        "line_end": 191,
+        "excerpt": "Le nom de Law et celui de son Système sont restés fameux... Il fut conquis par le Système de Law, très séduisant en apparence"
+      },
+      "id": "evt_14_010"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1719,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Fondation du port de Lorient",
+      "description": "Création du port de Lorient dans le cadre du développement du commerce colonial sous le Système de Law.",
+      "importance": 2,
+      "people": [
+        "John Law"
+      ],
+      "locations": [
+        "Lorient",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 197,
+        "line_end": 199,
+        "excerpt": "un coup de fouet donné au commerce, à l'industrie, à la colonisation (la fondation du port de Lorient date de là)"
+      },
+      "id": "evt_14_011"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1720,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Effondrement du Système de Law",
+      "description": "La banqueroute du Système de Law provoque des ruines massives, un déplacement des fortunes et un ébranlement social profond en France.",
+      "importance": 4,
+      "people": [
+        "John Law",
+        "Philippe d'Orléans"
+      ],
+      "locations": [
+        "Paris",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 200,
+        "line_end": 209,
+        "excerpt": "Tout à coup, l'échafaudage de Law vacilla... ce fut un effondrement. Il y eut des ruines subites, un vaste déplacement des fortunes"
+      },
+      "id": "evt_14_012"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1721,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Publication des Lettres persanes",
+      "description": "Montesquieu publie les Lettres persanes, marquant le début de l'esprit critique et de l'irrespect envers l'autorité caractéristique du XVIIIe siècle.",
+      "importance": 3,
+      "people": [
+        "Montesquieu"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 211,
+        "line_end": 214,
+        "excerpt": "Il est très significatif que la chute du Système soit de 1720 et la publication des _Lettres persanes_ de l'année suivante."
+      },
+      "id": "evt_14_013"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1723,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort du cardinal Dubois et du Régent",
+      "description": "Le cardinal Dubois puis le Régent Philippe d'Orléans meurent à quelques mois d'intervalle, mettant fin à la Régence.",
+      "importance": 4,
+      "people": [
+        "Cardinal Dubois",
+        "Philippe d'Orléans",
+        "Louis XV"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 224,
+        "line_end": 228,
+        "excerpt": "Le jeune roi avait quatorze ans, il avait atteint l'âge de la majorité légale, lorsque Dubois, puis le Régent, disparurent, en 1723, à quelques mois de distance."
+      },
+      "id": "evt_14_014"
+    },
+    {
+      "type": "reign_start",
+      "date_start": {
+        "year": 1723,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Majorité de Louis XV",
+      "description": "Louis XV atteint l'âge de 14 ans et sa majorité légale, mettant fin à la période de Régence.",
+      "importance": 4,
+      "people": [
+        "Louis XV"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 224,
+        "line_end": 225,
+        "excerpt": "Le jeune roi avait quatorze ans, il avait atteint l'âge de la majorité légale"
+      },
+      "id": "evt_14_015"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1723,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Le duc de Bourbon devient premier ministre",
+      "description": "Après la mort du Régent, le duc de Bourbon devient premier ministre et renvoie l'infante d'Espagne promise à Louis XV.",
+      "importance": 2,
+      "people": [
+        "Duc de Bourbon",
+        "Louis XV",
+        "Madame de Prie"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 285,
+        "line_end": 287,
+        "excerpt": "le duc de Bourbon qui, devenu premier ministre après la mort du Régent, défit ce que celui-ci avait fait, renvoya à Madrid la jeune infante"
+      },
+      "id": "evt_14_016"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1725,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mariage de Louis XV et Marie Leczinska",
+      "description": "Louis XV épouse Marie Leczinska, fille du roi détrôné de Pologne Stanislas, assurant rapidement la succession au trône.",
+      "importance": 3,
+      "people": [
+        "Louis XV",
+        "Marie Leczinska",
+        "Stanislas Leszczynski",
+        "Duc de Bourbon",
+        "Madame de Prie"
+      ],
+      "locations": [
+        "France",
+        "Pologne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 291,
+        "line_end": 299,
+        "excerpt": "en lui donnant pour femme Marie Leczinska, fille du roi détrôné de Pologne... Marie Leczinska avait vingt-deux ans et elle ne devait pas tarder à être mère"
+      },
+      "id": "evt_14_017"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1726,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Renvoi du duc de Bourbon par Louis XV",
+      "description": "Louis XV, à 16 ans, renvoie le duc de Bourbon et donne sa confiance à son précepteur Fleury, évêque de Fréjus.",
+      "importance": 3,
+      "people": [
+        "Louis XV",
+        "Duc de Bourbon",
+        "Cardinal de Fleury"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 325,
+        "line_end": 329,
+        "excerpt": "C'est cependant par un acte d'autorité que débuta Louis XV, à seize ans, lorsqu'il renvoya le duc de Bourbon... Le jeune roi avait donné sa confiance à son précepteur Fleury, évêque de Fréjus."
+      },
+      "id": "evt_14_018"
+    },
+    {
+      "type": "period",
+      "date_start": {
+        "year": 1726,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 1743,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ministère du cardinal de Fleury",
+      "description": "Période de 15 ans d'administration prudente et économe sous Fleury, qui rétablit les finances et la prospérité du royaume.",
+      "importance": 4,
+      "people": [
+        "Cardinal de Fleury",
+        "Louis XV",
+        "Orry",
+        "D'Aguesseau"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 328,
+        "line_end": 344,
+        "excerpt": "ce sage vieillard dirigea les affaires avec prudence. Il y eut, pendant quinze ans, une administration intelligente, économe, qui remit les finances à flot et rétablit la prospérité dans le royaume"
+      },
+      "id": "evt_14_019"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1733,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Début de la guerre de Succession de Pologne",
+      "description": "La France intervient en Pologne pour soutenir Stanislas contre Auguste III, soutenu par l'Empire et la Russie.",
+      "importance": 3,
+      "people": [
+        "Cardinal de Fleury",
+        "Stanislas Leszczynski",
+        "Auguste III de Saxe",
+        "Villars",
+        "Belle-Isle",
+        "Plélo"
+      ],
+      "locations": [
+        "Pologne",
+        "Dantzig",
+        "Rhin",
+        "Italie"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 369,
+        "line_end": 392,
+        "excerpt": "Fleury... se vit, bien malgré lui, obligé d'intervenir en 1733, lorsque l'indépendance de la Pologne fut en danger."
+      },
+      "id": "evt_14_020"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1733,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Plélo à Dantzig",
+      "description": "L'ambassadeur Plélo périt dans sa vaine tentative pour délivrer Dantzig assiégée par les Russes et les Allemands.",
+      "importance": 2,
+      "people": [
+        "Plélo"
+      ],
+      "locations": [
+        "Dantzig",
+        "Pologne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 386,
+        "line_end": 386,
+        "excerpt": "Plélo périt dans sa vaine tentative pour délivrer Dantzig."
+      },
+      "id": "evt_14_021"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1738,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de Vienne",
+      "description": "Traité par lequel Stanislas reçoit la Lorraine (qui reviendra à la France à sa mort), tandis que François de Lorraine épouse Marie-Thérèse d'Autriche.",
+      "importance": 5,
+      "people": [
+        "Cardinal de Fleury",
+        "Stanislas Leszczynski",
+        "François de Lorraine",
+        "Marie-Thérèse d'Autriche",
+        "Charles VI"
+      ],
+      "locations": [
+        "Vienne",
+        "Lorraine",
+        "France",
+        "Autriche"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 395,
+        "line_end": 406,
+        "excerpt": "il négocia le traité de Vienne (1738), par lequel il garantissait la Pragmatique. En échange... Stanislas, évincé de Pologne, recevait la Lorraine qui, à sa mort, retournerait à la couronne de France"
+      },
+      "id": "evt_14_022"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1738,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Disgrâce de Chauvelin",
+      "description": "Le ministre des affaires étrangères Chauvelin, chef du parti antiautrichien, est renvoyé par Louis XV à la demande de Fleury.",
+      "importance": 2,
+      "people": [
+        "Chauvelin",
+        "Cardinal de Fleury",
+        "Louis XV"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 414,
+        "line_end": 418,
+        "excerpt": "Le ministre des affaires étrangères Chauvelin était le plus belliqueux des austrophobes. Fleury, pour pouvoir signer la paix de Vienne, avait obtenu de Louis XV la disgrâce et le renvoi de Chauvelin."
+      },
+      "id": "evt_14_023"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1740,
+        "month": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de l'empereur Charles VI",
+      "description": "L'empereur Charles VI meurt en octobre 1740, ouvrant la crise de la succession d'Autriche et laissant sa fille Marie-Thérèse comme héritière.",
+      "importance": 4,
+      "people": [
+        "Charles VI",
+        "Marie-Thérèse d'Autriche"
+      ],
+      "locations": [
+        "Autriche",
+        "Vienne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 434,
+        "line_end": 437,
+        "excerpt": "l'empereur Charles VI mourut au mois d'octobre 1740. Il avait eu, lui aussi, une illusion... Il avait cru que des actes notariés suffiraient à garantir l'héritage de sa fille et la paix."
+      },
+      "id": "evt_14_024"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1740,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Invasion de la Silésie par Frédéric II",
+      "description": "Le roi de Prusse Frédéric II envahit sans avertissement la Silésie autrichienne, déclenchant la guerre de Succession d'Autriche.",
+      "importance": 4,
+      "people": [
+        "Frédéric II de Prusse",
+        "Marie-Thérèse d'Autriche"
+      ],
+      "locations": [
+        "Silésie",
+        "Prusse",
+        "Autriche"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 438,
+        "line_end": 441,
+        "excerpt": "sans avertissement, violant toutes les règles de la morale publique, le roi de Prusse envahit une province autrichienne, la Silésie."
+      },
+      "id": "evt_14_025"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1741,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Entrée de la France dans la guerre de Succession d'Autriche",
+      "description": "La France entre en guerre contre l'Autriche aux côtés de la Prusse et de la Bavière, sur pression du parti antiautrichien.",
+      "importance": 4,
+      "people": [
+        "Louis XV",
+        "Cardinal de Fleury",
+        "Belle-Isle",
+        "Frédéric II de Prusse"
+      ],
+      "locations": [
+        "France",
+        "Allemagne",
+        "Autriche"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 478,
+        "line_end": 487,
+        "excerpt": "On entra ainsi, en 1741, dans une guerre continentale dont le premier effet fut de nous détourner de la guerre maritime"
+      },
+      "id": "evt_14_026"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1741,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Prise de Prague par Belle-Isle",
+      "description": "Le maréchal de Belle-Isle conduit ses troupes jusqu'aux murs de Vienne puis s'empare de Prague par une escalade hardie.",
+      "importance": 3,
+      "people": [
+        "Belle-Isle"
+      ],
+      "locations": [
+        "Prague",
+        "Vienne",
+        "Bohême"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 492,
+        "line_end": 494,
+        "excerpt": "tout réussit au maréchal de Belle-Isle, qui conduisit ses troupes jusque sous les murs de Vienne, remonta en Bohême et s'empara de Prague par une escalade hardie."
+      },
+      "id": "evt_14_027"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1742,
+        "month": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Élection de Charles VII de Bavière comme empereur",
+      "description": "L'électeur de Bavière, allié de la France, est élu empereur à Francfort, enlevant la couronne impériale à la maison d'Autriche.",
+      "importance": 3,
+      "people": [
+        "Charles VII de Bavière",
+        "Belle-Isle"
+      ],
+      "locations": [
+        "Francfort",
+        "Bavière"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 494,
+        "line_end": 497,
+        "excerpt": "En janvier 1742, notre allié l'électeur de Bavière fut élu empereur à Francfort et ce fut en France un cri de triomphe: enfin la couronne impériale était enlevée à la maison d'Autriche!"
+      },
+      "id": "evt_14_028"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1742,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Première défection de Frédéric II",
+      "description": "Frédéric II trahit la France et s'arrange avec Marie-Thérèse, recevant la Silésie en échange de sa sortie de guerre.",
+      "importance": 3,
+      "people": [
+        "Frédéric II de Prusse",
+        "Marie-Thérèse d'Autriche"
+      ],
+      "locations": [
+        "Silésie",
+        "Prusse",
+        "Autriche"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 506,
+        "line_end": 509,
+        "excerpt": "le roi de Prusse, peu soucieux d'encourir leur inimitié, se hâta d'accepter le marché que lui offrait Marie-Thérèse, c'est-à-dire presque toute la Silésie pour prix de sa défection."
+      },
+      "id": "evt_14_029"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1742,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Retraite de Belle-Isle de Bohême",
+      "description": "Belle-Isle, isolé en Bohême après la trahison prussienne, doit ramener son armée en plein hiver avec de lourdes pertes. Chevert capitule à Prague.",
+      "importance": 3,
+      "people": [
+        "Belle-Isle",
+        "Chevert"
+      ],
+      "locations": [
+        "Bohême",
+        "Prague"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 522,
+        "line_end": 526,
+        "excerpt": "Belle-Isle, isolé en Bohême, dut ramener son armée en plein hiver avec de lourdes pertes. Chevert, bloqué à Prague, capitula."
+      },
+      "id": "evt_14_030"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1743,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Dettingen",
+      "description": "Les Anglo-Hanovriens battent les Français et donnent la main aux Autrichiens, forçant les troupes françaises à évacuer l'Allemagne.",
+      "importance": 3,
+      "people": [
+        "George II d'Angleterre"
+      ],
+      "locations": [
+        "Dettingen",
+        "Allemagne",
+        "Rhin"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 531,
+        "line_end": 536,
+        "excerpt": "L'Angleterre avait en Allemagne une armée... Les Anglo-Hanovriens réussirent à donner la main aux Autrichiens après la bataille de Dettingen. Nos troupes durent évacuer l'Allemagne, repasser le Rhin"
+      },
+      "id": "evt_14_031"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1743,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort du cardinal de Fleury",
+      "description": "Le cardinal de Fleury meurt au début de 1743, accablé de chagrin devant les revers militaires de la France.",
+      "importance": 3,
+      "people": [
+        "Cardinal de Fleury"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 530,
+        "line_end": 531,
+        "excerpt": "Au commencement de 1743, lorsque Fleury mourut, accablé de chagrin et d'années, nos affaires allaient mal."
+      },
+      "id": "evt_14_032"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1744,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Prise d'Ypres et Furnes par Louis XV",
+      "description": "Louis XV, accompagnant l'armée, envahit la Flandre maritime et s'empare d'Ypres et de Furnes.",
+      "importance": 2,
+      "people": [
+        "Louis XV",
+        "Noailles"
+      ],
+      "locations": [
+        "Ypres",
+        "Furnes",
+        "Flandre"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 554,
+        "line_end": 557,
+        "excerpt": "au printemps, une forte armée, accompagnée par le roi, envahit la Flandre maritime et s'empara d'Ypres et de Furnes."
+      },
+      "id": "evt_14_033"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1744,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Maladie de Louis XV à Metz",
+      "description": "Louis XV tombe dangereusement malade à Metz. Sa guérison provoque un enthousiasme extraordinaire et des manifestations de loyalisme.",
+      "importance": 3,
+      "people": [
+        "Louis XV",
+        "Noailles"
+      ],
+      "locations": [
+        "Metz",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 563,
+        "line_end": 570,
+        "excerpt": "Louis XV, ayant suivi Noailles à Metz, y tomba dangereusement malade. Sa guérison causa en France un enthousiasme extraordinaire"
+      },
+      "id": "evt_14_034"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1745,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de l'empereur Charles VII",
+      "description": "L'empereur Charles VII de Bavière meurt, libérant la couronne impériale pour l'archiduc François de Lorraine, époux de Marie-Thérèse.",
+      "importance": 3,
+      "people": [
+        "Charles VII de Bavière",
+        "François de Lorraine",
+        "Marie-Thérèse d'Autriche"
+      ],
+      "locations": [
+        "Bavière"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 574,
+        "line_end": 576,
+        "excerpt": "Charles VII, l'empereur bavarois, mourut. La couronne impériale était libre pour l'archiduc lorrain, époux de Marie-Thérèse, et une transaction devenait possible."
+      },
+      "id": "evt_14_035"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1745,
+        "month": 5,
+        "day": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Fontenoy",
+      "description": "Victoire française majeure de Maurice de Saxe sur les Anglais en présence de Louis XV, ouvrant la conquête de la Belgique.",
+      "importance": 5,
+      "people": [
+        "Maurice de Saxe",
+        "Louis XV"
+      ],
+      "locations": [
+        "Fontenoy",
+        "Tournai",
+        "Belgique"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 578,
+        "line_end": 586,
+        "excerpt": "Maurice de Saxe, capitaine expérimenté... marcha hardiment sur Tournai... furent battus à Fontenoy, en présence de Louis XV (1745). Cette victoire fameuse, presque légendaire («Messieurs les Anglais, tirez les premiers»)"
+      },
+      "id": "evt_14_036"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1745,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Seconde défection de Frédéric II",
+      "description": "Frédéric II trahit à nouveau la France, bat les Saxons, entre à Dresde et s'arrange avec l'Autriche qui lui laisse la Silésie.",
+      "importance": 3,
+      "people": [
+        "Frédéric II de Prusse",
+        "François de Lorraine"
+      ],
+      "locations": [
+        "Dresde",
+        "Saxe",
+        "Silésie"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 592,
+        "line_end": 596,
+        "excerpt": "Frédéric II achevait ce qu'il avait à faire en Allemagne, battait les Saxons, entrait à Dresde, puis, nous trahissant de nouveau, s'arrangeait avec l'Autriche"
+      },
+      "id": "evt_14_037"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1746,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Prise de Berg-op-Zoom",
+      "description": "Les Français prennent Berg-op-Zoom en Hollande, forçant les Hollandais à rétablir le stathoudérat.",
+      "importance": 2,
+      "people": [
+        "Louis XV"
+      ],
+      "locations": [
+        "Berg-op-Zoom",
+        "Anvers",
+        "Belgique",
+        "Hollande"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 586,
+        "line_end": 589,
+        "excerpt": "Louis XV entrait triomphalement à Anvers. Les Hollandais... étaient mis à la raison par la prise de Berg-op-Zoom."
+      },
+      "id": "evt_14_038"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1748,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité d'Aix-la-Chapelle",
+      "description": "Paix blanche mettant fin à la guerre de Succession d'Autriche, considérée comme absurde (\"Bête comme la paix\") car la France renonce à ses conquêtes.",
+      "importance": 4,
+      "people": [
+        "Louis XV",
+        "Marie-Thérèse d'Autriche",
+        "Frédéric II de Prusse"
+      ],
+      "locations": [
+        "Aix-la-Chapelle",
+        "Pays-Bas"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 605,
+        "line_end": 614,
+        "excerpt": "cette première guerre de Sept Ans s'acheva par une paix blanche (1748). Le traité d'Aix-la-Chapelle a passé pour un monument d'absurdité. C'est de lui qu'il devint proverbial de dire: «Bête comme la paix.»"
+      },
+      "id": "evt_14_039"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1750,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Institution de l'impôt du vingtième",
+      "description": "Le contrôleur général Machault institue le vingtième, impôt permanent devant atteindre tous sans privilèges, provoquant l'opposition des Parlements.",
+      "importance": 3,
+      "people": [
+        "Machault"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 657,
+        "line_end": 665,
+        "excerpt": "c'est, après le «dixième» provisoire, le «vingtième» permanent institué par le contrôleur général Machault et qui doit atteindre tout le monde, comme Louis XIV l'avait déjà voulu, sans connaître ni privilèges ni privilégiés."
+      },
+      "id": "evt_14_040"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1753,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Conflits avec les Parlements pour les impôts",
+      "description": "Le gouvernement doit exiler et emprisonner des parlementaires qui refusent d'enregistrer les impôts.",
+      "importance": 2,
+      "people": [
+        "Louis XV"
+      ],
+      "locations": [
+        "Paris",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 660,
+        "line_end": 665,
+        "excerpt": "A deux reprises, en 1753 et en 1756, il faudra exiler, emprisonner, briser les parlementaires qui ne cèdent pas"
+      },
+      "id": "evt_14_041"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1756,
+        "month": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Déclaration de guerre à l'Angleterre - Début de la guerre de Sept Ans",
+      "description": "La France déclare la guerre à l'Angleterre après la saisie de ses navires envoyant des renforts au Canada.",
+      "importance": 4,
+      "people": [
+        "Louis XV"
+      ],
+      "locations": [
+        "France",
+        "Angleterre",
+        "Canada"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 749,
+        "line_end": 756,
+        "excerpt": "Lorsque le gouvernement français alarmé voulut envoyer des renforts au Canada, nos navires furent arrêtés et saisis par la flotte anglaise... En mai 1756, la déclaration de guerre de la France devint la carte forcée"
+      },
+      "id": "evt_14_042"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1756,
+        "month": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de Westminster entre Prusse et Angleterre",
+      "description": "Frédéric II signe avec George II un traité garantissant ses conquêtes, se déclarant ennemi de la France.",
+      "importance": 3,
+      "people": [
+        "Frédéric II de Prusse",
+        "George II d'Angleterre"
+      ],
+      "locations": [
+        "Hanovre",
+        "Prusse",
+        "Angleterre"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 762,
+        "line_end": 766,
+        "excerpt": "Dès le mois de janvier 1756, Frédéric avait signé avec George II, électeur de Hanovre, en même temps que roi d'Angleterre, un traité qui lui garantissait ses conquêtes."
+      },
+      "id": "evt_14_043"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1756,
+        "month": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Premier traité de Versailles - Renversement des alliances",
+      "description": "Alliance défensive entre la France (Bourbons) et l'Autriche (Habsbourg), renversant les alliances traditionnelles.",
+      "importance": 5,
+      "people": [
+        "Louis XV",
+        "Marie-Thérèse d'Autriche",
+        "Abbé de Bernis",
+        "Madame de Pompadour",
+        "Kaunitz",
+        "Stahremberg"
+      ],
+      "locations": [
+        "Versailles",
+        "France",
+        "Autriche"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 767,
+        "line_end": 772,
+        "excerpt": "Par le premier traité de Versailles, le mois même de notre rupture avec les Anglais, une alliance défensive était conclue entre Bourbons et Habsbourg."
+      },
+      "id": "evt_14_044"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1756,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Invasion de la Saxe par Frédéric II",
+      "description": "Frédéric II envahit la Saxe, dévoilant l'ambition prussienne de dominer le corps germanique.",
+      "importance": 3,
+      "people": [
+        "Frédéric II de Prusse"
+      ],
+      "locations": [
+        "Saxe",
+        "Allemagne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 770,
+        "line_end": 772,
+        "excerpt": "Frédéric ayant envahi la Saxe comme il avait envahi la Silésie et dévoilé l'ambition de la Prusse qui était de mettre sous sa dépendance tout le corps germanique."
+      },
+      "id": "evt_14_045"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1756,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Prise de Port-Mahon par Richelieu",
+      "description": "Le maréchal de Richelieu débarque à Minorque et prend Port-Mahon, libérant la Méditerranée et préparant l'installation en Corse.",
+      "importance": 3,
+      "people": [
+        "Maréchal de Richelieu",
+        "Amiral Byng"
+      ],
+      "locations": [
+        "Minorque",
+        "Port-Mahon",
+        "Méditerranée"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 837,
+        "line_end": 845,
+        "excerpt": "Le maréchal de Richelieu avait débarqué à Minorque, pris Port-Mahon, et ce succès, qui libérait la Méditerranée, et permit notre installation en Corse"
+      },
+      "id": "evt_14_046"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1757,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Exécution de l'amiral Byng",
+      "description": "L'amiral anglais Byng est condamné et exécuté après l'échec de Minorque, montrant l'impitoyable détermination anglaise.",
+      "importance": 2,
+      "people": [
+        "Amiral Byng"
+      ],
+      "locations": [
+        "Angleterre"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 842,
+        "line_end": 845,
+        "excerpt": "Rien ne montre le caractère impitoyable de la lutte qu'elle avait entreprise contre nous comme la fureur avec laquelle la foule anglaise exigea la condamnation et l'exécution de l'amiral Byng."
+      },
+      "id": "evt_14_047"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1757,
+        "month": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Attentat de Damiens contre Louis XV",
+      "description": "Robert François Damiens tente d'assassiner Louis XV, symptôme de l'agitation politique et religieuse du royaume.",
+      "importance": 3,
+      "people": [
+        "Damiens",
+        "Louis XV"
+      ],
+      "locations": [
+        "Versailles",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 859,
+        "line_end": 865,
+        "excerpt": "Le Parlement de Paris répondit par des démissions en masse qui causèrent une grande agitation: l'attentat de Damiens, quelques jours après, en fut le symptôme (janvier 1757)."
+      },
+      "id": "evt_14_048"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1757,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Capitulation de Closterseven",
+      "description": "Les Anglo-Hanovriens capitulent à Closterseven face aux Français, perdant leurs moyens d'agir sur le continent.",
+      "importance": 2,
+      "people": [],
+      "locations": [
+        "Closterseven",
+        "Hanovre"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 897,
+        "line_end": 899,
+        "excerpt": "Nous avions mis hors de combat les Anglo-Hanovriens qui avaient capitulé à Closterseven."
+      },
+      "id": "evt_14_049"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1757,
+        "month": 11,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Rosbach",
+      "description": "Défaite humiliante des Français face à Frédéric II, qui génère paradoxalement l'admiration française pour le roi de Prusse.",
+      "importance": 4,
+      "people": [
+        "Frédéric II de Prusse",
+        "Soubise"
+      ],
+      "locations": [
+        "Rosbach",
+        "Saxe"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 902,
+        "line_end": 920,
+        "excerpt": "Frédéric, à Rosbach, bouscula les vingt mille hommes de troupes auxiliaires allemandes qui se débandèrent et battit Soubise... Il n'en est pas qui aient été ressenties avec plus d'humiliation que celle de Rosbach."
+      },
+      "id": "evt_14_050"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1758,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Choiseul succède à Bernis",
+      "description": "Choiseul quitte son ambassade à Vienne pour succéder à Bernis, découragé, comme ministre des Affaires étrangères.",
+      "importance": 3,
+      "people": [
+        "Choiseul",
+        "Abbé de Bernis"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 928,
+        "line_end": 930,
+        "excerpt": "Ce fut la thèse que soutint Choiseul, partisan de l'alliance autrichienne, et il quitta son ambassade pour succéder à Bernis découragé."
+      },
+      "id": "evt_14_051"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1759,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Batailles de Lagos et des Cardinaux",
+      "description": "La flotte anglaise bat l'escadre de Toulon à Lagos et défait Conflans dans le Morbihan, désastre égal à la Hougue.",
+      "importance": 3,
+      "people": [
+        "Conflans"
+      ],
+      "locations": [
+        "Lagos",
+        "Morbihan",
+        "Brest",
+        "Toulon"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 943,
+        "line_end": 947,
+        "excerpt": "la flotte anglaise, qui bloquait nos côtes depuis longtemps, battit à Lagos l'escadre de Toulon... et, dans le Morbihan, la «journée de M. de Conflans» fut un désastre égal à celui de la Hougue."
+      },
+      "id": "evt_14_052"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1759,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Montcalm au Canada",
+      "description": "Le général Montcalm succombe au Canada après une glorieuse résistance face aux Anglais.",
+      "importance": 3,
+      "people": [
+        "Montcalm"
+      ],
+      "locations": [
+        "Canada",
+        "Québec"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 880,
+        "line_end": 882,
+        "excerpt": "Malgré une glorieuse résistance, Montcalm succomba au Canada, Lally-Tollendal aux Indes."
+      },
+      "id": "evt_14_053"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1761,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Pacte de Famille bourbon",
+      "description": "Alliance entre les Bourbons de France, d'Espagne et de Naples pour lutter contre l'Angleterre, mais qui vient trop tard.",
+      "importance": 4,
+      "people": [
+        "Choiseul",
+        "Charles III d'Espagne"
+      ],
+      "locations": [
+        "France",
+        "Espagne",
+        "Naples"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 936,
+        "line_end": 952,
+        "excerpt": "L'Espagne, quoique déchue, comptait encore, Naples était une bonne position dans la Méditerranée... Le _pacte de famille_ ajouté à l'alliance autrichienne, ce fut la politique de Choiseul... le pacte de famille lui-même, signé en 1761"
+      },
+      "id": "evt_14_054"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1762,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de l'impératrice Elisabeth de Russie",
+      "description": "La mort d'Elisabeth de Russie sauve Frédéric II : Pierre III fait défection à la coalition et se rapproche de la Prusse.",
+      "importance": 4,
+      "people": [
+        "Elisabeth de Russie",
+        "Pierre III de Russie",
+        "Frédéric II de Prusse"
+      ],
+      "locations": [
+        "Russie",
+        "Prusse"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 954,
+        "line_end": 958,
+        "excerpt": "Elisabeth étant morte en 1762, la Russie de Pierre III fit défection à ses alliés, se rapprocha de la Prusse"
+      },
+      "id": "evt_14_055"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1763,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de Hubertsbourg",
+      "description": "Paix entre l'Autriche et la Prusse par laquelle l'Autriche abandonne définitivement la Silésie à Frédéric II.",
+      "importance": 3,
+      "people": [
+        "Marie-Thérèse d'Autriche",
+        "Frédéric II de Prusse"
+      ],
+      "locations": [
+        "Hubertsbourg",
+        "Silésie"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 957,
+        "line_end": 959,
+        "excerpt": "l'Autriche, renonçant à la lutte, conclut à Hubertsbourg une paix par laquelle elle abandonnait la Silésie à Frédéric."
+      },
+      "id": "evt_14_056"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1763,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de Paris",
+      "description": "La France perd le Canada, la rive gauche du Mississippi, le Sénégal (sauf Gorée) et l'Inde (sauf quelques comptoirs), jetant les bases de l'Empire britannique.",
+      "importance": 5,
+      "people": [
+        "Louis XV",
+        "Choiseul"
+      ],
+      "locations": [
+        "Paris",
+        "Canada",
+        "Mississippi",
+        "Sénégal",
+        "Inde"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 959,
+        "line_end": 971,
+        "excerpt": "par le traité de Paris, la France s'était résignée elle-même à signer la paix que l'Angleterre avait voulue (1763)... Le Canada, la rive gauche du Mississippi, le Sénégal sauf Gorée, l'Inde sauf les quelques comptoirs"
+      },
+      "id": "evt_14_057"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1768,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Acquisition de la Corse",
+      "description": "Choiseul acquiert la Corse pour la France, poste avancé en Méditerranée qui annule la présence anglaise à Minorque.",
+      "importance": 3,
+      "people": [
+        "Choiseul"
+      ],
+      "locations": [
+        "Corse",
+        "Méditerranée"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 983,
+        "line_end": 985,
+        "excerpt": "acquisition de la Corse, poste avancé dans la Méditerranée qui annulait la présence des Anglais à Minorque, ce fut l'oeuvre de Choiseul."
+      },
+      "id": "evt_14_058"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1764,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Expulsion des jésuites de France",
+      "description": "Choiseul obtient l'expulsion des jésuites pour gagner le soutien des Parlements jansénistes à l'enregistrement des impôts.",
+      "importance": 3,
+      "people": [
+        "Choiseul",
+        "Louis XV"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 989,
+        "line_end": 998,
+        "excerpt": "Choiseul obtint de Louis XV que l'Ordre des jésuites leur fût sacrifié. La condamnation de l'Ordre, qui avait en France de nombreux collèges et auquel il fut interdit d'enseigner, fut en même temps une victoire pour le parti de l'Encyclopédie"
+      },
+      "id": "evt_14_059"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1770,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mariage du dauphin Louis et Marie-Antoinette",
+      "description": "Choiseul arrange le mariage du futur Louis XVI avec Marie-Antoinette d'Autriche, consolidant l'alliance autrichienne.",
+      "importance": 4,
+      "people": [
+        "Louis XVI",
+        "Marie-Antoinette",
+        "Choiseul"
+      ],
+      "locations": [
+        "Versailles",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 1015,
+        "line_end": 1017,
+        "excerpt": "l'homme qui venait encore de donner pour femme au dauphin, au futur Louis XVI, Marie-Antoinette d'Autriche."
+      },
+      "id": "evt_14_060"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1770,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Chute de Choiseul",
+      "description": "Choiseul est renvoyé par Louis XV, provoquant des manifestations populaires en son honneur malgré l'impopularité de l'alliance autrichienne.",
+      "importance": 3,
+      "people": [
+        "Choiseul",
+        "Louis XV",
+        "Maupeou"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 1006,
+        "line_end": 1017,
+        "excerpt": "La chute de Choiseul fut encore un des événements retentissants du règne. Le jour où il fut renvoyé dans ses terres, il y eut des manifestations en son honneur"
+      },
+      "id": "evt_14_061"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1771,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Coup d'État de Maupeou - Suppression des Parlements",
+      "description": "Maupeou supprime les Parlements et la cour des aides, abolit la vénalité des charges et rend la justice gratuite, ouvrant la voie aux réformes.",
+      "importance": 5,
+      "people": [
+        "Maupeou",
+        "Louis XV"
+      ],
+      "locations": [
+        "Paris",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 1064,
+        "line_end": 1080,
+        "excerpt": "En 1771, Maupeou, chargé de l'opération, supprima les Parlements et la cour des aides. A leur place furent institués des «conseils supérieurs». La vénalité des charges était abolie, la justice devenait gratuite."
+      },
+      "id": "evt_14_062"
+    },
+    {
+      "type": "period",
+      "date_start": {
+        "year": 1771,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 1774,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Administration réformatrice de Terray",
+      "description": "Terray, sous Maupeou, commence à corriger les abus fiscaux, adoucit les impositions vexatoires et crée la contribution mobilière.",
+      "importance": 3,
+      "people": [
+        "Terray",
+        "Maupeou"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 1073,
+        "line_end": 1080,
+        "excerpt": "De 1771 à 1774, l'administration de Terray, injustement décriée par l'histoire, mieux jugée de nos jours, commença de corriger les abus."
+      },
+      "id": "evt_14_063"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1772,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Premier partage de la Pologne",
+      "description": "La Pologne, alliée de la France, subit son premier partage entre la Prusse, l'Autriche et la Russie.",
+      "importance": 4,
+      "people": [
+        "Frédéric II de Prusse",
+        "Marie-Thérèse d'Autriche",
+        "Catherine II de Russie"
+      ],
+      "locations": [
+        "Pologne"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 1137,
+        "line_end": 1139,
+        "excerpt": "la Pologne notre alliée nécessaire, était menacée de ruine (le premier partage est de 1772)."
+      },
+      "id": "evt_14_064"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1774,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Louis XV",
+      "description": "Louis XV meurt, laissant une France agrandie de la Lorraine et de la Corse, mais devant faire face à des questions complexes de politique extérieure.",
+      "importance": 5,
+      "people": [
+        "Louis XV",
+        "Louis XVI"
+      ],
+      "locations": [
+        "Versailles",
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 1096,
+        "line_end": 1131,
+        "excerpt": "Lorsque Louis XV mourut, s'il y avait du mécontentement, il n'était pas incurable... Louis XV avait encore accru le royaume de la Lorraine et de la Corse."
+      },
+      "id": "evt_14_065"
+    }
+  ],
+  "people": [
+    {
+      "name": "Louis XIV",
+      "aliases": [
+        "Le Roi-Soleil"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "death": {
+        "year": 1715,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Grand Dauphin"
+        },
+        {
+          "type": "petit-fils",
+          "person": "Duc de Bourgogne"
+        },
+        {
+          "type": "petit-fils",
+          "person": "Duc de Berry"
+        },
+        {
+          "type": "petit-fils",
+          "person": "Philippe V d'Espagne"
+        },
+        {
+          "type": "arrière-petit-fils",
+          "person": "Louis XV"
+        },
+        {
+          "type": "neveu",
+          "person": "Philippe d'Orléans"
+        }
+      ],
+      "source_lines": [
+        13,
+        18,
+        25,
+        31,
+        35,
+        46,
+        58,
+        77,
+        93,
+        97,
+        110,
+        158,
+        168,
+        218,
+        303,
+        568,
+        659,
+        670,
+        700,
+        703,
+        1034
+      ],
+      "id": "per_louis_xiv"
+    },
+    {
+      "name": "Louis XV",
+      "aliases": [
+        "Le Bien-Aimé"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "reign": {
+        "start": {
+          "year": 1715,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1774,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "death": {
+        "year": 1774,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [
+        {
+          "type": "arrière-grand-père",
+          "person": "Louis XIV"
+        },
+        {
+          "type": "épouse",
+          "person": "Marie Leczinska"
+        },
+        {
+          "type": "beau-père",
+          "person": "Stanislas Leszczynski"
+        }
+      ],
+      "source_lines": [
+        21,
+        43,
+        130,
+        222,
+        224,
+        282,
+        291,
+        296,
+        309,
+        325,
+        380,
+        415,
+        470,
+        555,
+        563,
+        583,
+        586,
+        659,
+        674,
+        802,
+        862,
+        991,
+        1009,
+        1048,
+        1083,
+        1096,
+        1107,
+        1130
+      ],
+      "id": "per_louis_xv"
+    },
+    {
+      "name": "Philippe d'Orléans",
+      "aliases": [
+        "Le Régent"
+      ],
+      "dynasty": "Bourbons (branche d'Orléans)",
+      "titles": [
+        "Duc d'Orléans",
+        "Régent de France"
+      ],
+      "death": {
+        "year": 1723,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [
+        {
+          "type": "oncle",
+          "person": "Louis XIV"
+        }
+      ],
+      "source_lines": [
+        18,
+        40,
+        49,
+        57,
+        64,
+        82,
+        91,
+        111,
+        116,
+        121,
+        165,
+        183,
+        188,
+        225,
+        268,
+        282,
+        285
+      ],
+      "id": "per_philippe_d_orl_ans"
+    },
+    {
+      "name": "Philippe V d'Espagne",
+      "aliases": [
+        "Duc d'Anjou"
+      ],
+      "dynasty": "Bourbons d'Espagne",
+      "titles": [
+        "Roi d'Espagne"
+      ],
+      "relations": [
+        {
+          "type": "grand-père",
+          "person": "Louis XIV"
+        }
+      ],
+      "source_lines": [
+        15,
+        19,
+        42,
+        127,
+        129,
+        134,
+        137,
+        148,
+        156,
+        186,
+        287
+      ],
+      "id": "per_philippe_v_d_espagne"
+    },
+    {
+      "name": "Cardinal Dubois",
+      "aliases": [
+        "Abbé Dubois"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Cardinal",
+        "Premier ministre"
+      ],
+      "death": {
+        "year": 1723,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "source_lines": [
+        122,
+        126,
+        195,
+        225,
+        268,
+        282
+      ],
+      "id": "per_cardinal_dubois"
+    },
+    {
+      "name": "John Law",
+      "aliases": [
+        "Law"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Banquier",
+        "Contrôleur général des finances"
+      ],
+      "source_lines": [
+        162,
+        166,
+        189,
+        193,
+        198,
+        201,
+        203,
+        255,
+        332
+      ],
+      "id": "per_john_law"
+    },
+    {
+      "name": "Cardinal de Fleury",
+      "aliases": [
+        "André-Hercule de Fleury",
+        "Évêque de Fréjus"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Cardinal",
+        "Principal ministre"
+      ],
+      "death": {
+        "year": 1743,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "source_lines": [
+        328,
+        346,
+        363,
+        367,
+        380,
+        390,
+        392,
+        409,
+        414,
+        420,
+        435,
+        458,
+        468,
+        484,
+        489,
+        511,
+        518,
+        530
+      ],
+      "id": "per_cardinal_de_fleury"
+    },
+    {
+      "name": "Marie-Thérèse d'Autriche",
+      "aliases": [
+        "L'Impératrice-Reine"
+      ],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Archiduchesse d'Autriche",
+        "Reine de Hongrie",
+        "Impératrice"
+      ],
+      "relations": [
+        {
+          "type": "époux",
+          "person": "François de Lorraine"
+        },
+        {
+          "type": "père",
+          "person": "Charles VI"
+        }
+      ],
+      "source_lines": [
+        352,
+        400,
+        498,
+        508,
+        514,
+        517,
+        521,
+        576,
+        786,
+        790
+      ],
+      "id": "per_marie_th_r_se_d_autr"
+    },
+    {
+      "name": "Frédéric II de Prusse",
+      "aliases": [
+        "Le Grand Frédéric",
+        "Roi de Prusse"
+      ],
+      "dynasty": "Hohenzollern",
+      "titles": [
+        "Roi de Prusse"
+      ],
+      "relations": [
+        {
+          "type": "père",
+          "person": "Frédéric-Guillaume Ier"
+        }
+      ],
+      "source_lines": [
+        446,
+        451,
+        464,
+        490,
+        501,
+        558,
+        592,
+        604,
+        615,
+        762,
+        785,
+        822,
+        889,
+        904,
+        914,
+        925,
+        954
+      ],
+      "id": "per_fr_d_ric_ii_de_pruss"
+    },
+    {
+      "name": "Maurice de Saxe",
+      "aliases": [
+        "Maréchal de Saxe"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Maréchal de France"
+      ],
+      "source_lines": [
+        578
+      ],
+      "id": "per_maurice_de_saxe"
+    },
+    {
+      "name": "Choiseul",
+      "aliases": [
+        "Duc de Choiseul",
+        "Étienne-François de Choiseul"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Duc",
+        "Ministre des Affaires étrangères",
+        "Secrétaire d'État à la Guerre"
+      ],
+      "source_lines": [
+        739,
+        804,
+        928,
+        932,
+        940,
+        942,
+        981,
+        985,
+        991,
+        996,
+        998,
+        1006,
+        1010,
+        1012,
+        1015,
+        1060,
+        1115
+      ],
+      "id": "per_choiseul"
+    },
+    {
+      "name": "Maupeou",
+      "aliases": [
+        "René Nicolas de Maupeou"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Chancelier de France"
+      ],
+      "source_lines": [
+        740,
+        1008,
+        1019,
+        1064,
+        1088,
+        1119
+      ],
+      "id": "per_maupeou"
+    },
+    {
+      "name": "Madame de Pompadour",
+      "aliases": [
+        "Marquise de Pompadour",
+        "Jeanne-Antoinette Poisson"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Favorite du roi"
+      ],
+      "source_lines": [
+        693,
+        787,
+        793,
+        1122
+      ],
+      "id": "per_madame_de_pompadour"
+    },
+    {
+      "name": "Marie Leczinska",
+      "aliases": [
+        "Marie Leszczynska"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Reine de France"
+      ],
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Louis XV"
+        },
+        {
+          "type": "père",
+          "person": "Stanislas Leszczynski"
+        }
+      ],
+      "source_lines": [
+        292,
+        296
+      ],
+      "id": "per_marie_leczinska"
+    },
+    {
+      "name": "Stanislas Leszczynski",
+      "aliases": [
+        "Stanislas Ier"
+      ],
+      "dynasty": "Leszczynski",
+      "titles": [
+        "Roi de Pologne",
+        "Duc de Lorraine"
+      ],
+      "relations": [
+        {
+          "type": "fille",
+          "person": "Marie Leczinska"
+        },
+        {
+          "type": "gendre",
+          "person": "Louis XV"
+        }
+      ],
+      "source_lines": [
+        292,
+        380,
+        391,
+        397
+      ],
+      "id": "per_stanislas_leszczynsk"
+    },
+    {
+      "name": "Belle-Isle",
+      "aliases": [
+        "Maréchal de Belle-Isle",
+        "Charles Louis Auguste Fouquet"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Maréchal de France"
+      ],
+      "relations": [
+        {
+          "type": "grand-père",
+          "person": "Nicolas Fouquet"
+        }
+      ],
+      "source_lines": [
+        389,
+        460,
+        492,
+        522,
+        626
+      ],
+      "id": "per_belle_isle"
+    },
+    {
+      "name": "Marie-Antoinette",
+      "aliases": [
+        "Marie-Antoinette d'Autriche"
+      ],
+      "dynasty": "Habsbourg-Lorraine / Bourbons",
+      "titles": [
+        "Dauphine de France",
+        "Reine de France"
+      ],
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Louis XVI"
+        },
+        {
+          "type": "mère",
+          "person": "Marie-Thérèse d'Autriche"
+        }
+      ],
+      "source_lines": [
+        1017
+      ],
+      "id": "per_marie_antoinette"
+    },
+    {
+      "name": "Louis XVI",
+      "aliases": [
+        "Le Dauphin"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Dauphin de France",
+        "Roi de France"
+      ],
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Marie-Antoinette"
+        },
+        {
+          "type": "grand-père",
+          "person": "Louis XV"
+        }
+      ],
+      "source_lines": [
+        22,
+        312,
+        781,
+        1016,
+        1093,
+        1144
+      ],
+      "id": "per_louis_xvi"
+    },
+    {
+      "name": "Montcalm",
+      "aliases": [
+        "Louis-Joseph de Montcalm",
+        "Marquis de Montcalm"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Lieutenant-général"
+      ],
+      "death": {
+        "year": 1759,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "source_lines": [
+        881
+      ],
+      "id": "per_montcalm"
+    },
+    {
+      "name": "Dupleix",
+      "aliases": [
+        "Joseph François Dupleix"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Gouverneur des Indes françaises"
+      ],
+      "source_lines": [
+        599,
+        745
+      ],
+      "id": "per_dupleix"
+    },
+    {
+      "name": "Abbé de Bernis",
+      "aliases": [
+        "Cardinal de Bernis",
+        "François-Joachim de Pierre de Bernis"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Cardinal",
+        "Ministre des Affaires étrangères"
+      ],
+      "source_lines": [
+        793,
+        803,
+        806,
+        819,
+        922,
+        930
+      ],
+      "id": "per_abb__de_bernis"
+    },
+    {
+      "name": "Voltaire",
+      "aliases": [
+        "François-Marie Arouet"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Philosophe",
+        "Écrivain"
+      ],
+      "source_lines": [
+        256,
+        320,
+        451,
+        1028,
+        1112
+      ],
+      "id": "per_voltaire"
+    },
+    {
+      "name": "Montesquieu",
+      "aliases": [
+        "Charles de Secondat, baron de Montesquieu"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Philosophe",
+        "Magistrat"
+      ],
+      "source_lines": [
+        214,
+        320
+      ],
+      "id": "per_montesquieu"
+    },
+    {
+      "name": "Jean-Jacques Rousseau",
+      "aliases": [
+        "Rousseau"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Philosophe",
+        "Écrivain"
+      ],
+      "source_lines": [
+        1103
+      ],
+      "id": "per_jean_jacques_roussea"
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_bourbons",
+      "name": "Bourbons",
+      "period_start": {
+        "year": 1589,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1792,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_bourbons_espagne",
+      "name": "Bourbons d'Espagne",
+      "period_start": {
+        "year": 1700,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_habsbourg",
+      "name": "Habsbourg",
+      "period_start": {
+        "year": 1273,
+        "circa": true,
+        "era": "CE",
+        "precision": "century"
+      }
+    },
+    {
+      "id": "dyn_hohenzollern",
+      "name": "Hohenzollern",
+      "period_start": {
+        "year": 1415,
+        "circa": true,
+        "era": "CE",
+        "precision": "century"
+      }
+    }
+  ],
+  "errors": []
+}

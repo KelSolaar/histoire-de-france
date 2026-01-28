@@ -1,0 +1,1616 @@
+{
+  "chapter_number": 10,
+  "chapter_title": "HENRI IV RESTAURE LA MONARCHIE ET RELÈVE L'ÉTAT",
+  "line_start": 4917,
+  "line_end": 5296,
+  "validation_status": "success",
+  "entries": [
+    {
+      "id": "evt_ch10_001",
+      "type": "death",
+      "date_start": {
+        "year": 1589,
+        "month": 8,
+        "day": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort d'Henri III",
+      "description": "La mort d'Henri III laisse la France aspirant au retour de l'ordre après trente ans de guerres civiles qui ont coûté peut-être quatre millions d'hommes.",
+      "importance": 5,
+      "people": [
+        "Henri III",
+        "Henri IV"
+      ],
+      "locations": [
+        "France",
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 13,
+        "line_end": 25,
+        "excerpt": "A la mort d'Henri III, la France, au fond d'elle-même, aspirait au retour de l'ordre. On se représente ce que trente ans de guerres civiles avaient déjà coûté."
+      }
+    },
+    {
+      "id": "evt_ch10_002",
+      "type": "political",
+      "date_start": {
+        "year": 1589,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Reconnaissance d'Henri IV par Venise",
+      "description": "Le Sénat de la République de Venise fut la première puissance en Europe à reconnaître Henri IV comme roi légitime.",
+      "importance": 3,
+      "people": [
+        "Henri IV"
+      ],
+      "locations": [
+        "Venise"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 23,
+        "line_end": 25,
+        "excerpt": "le Sénat de la République de Venise, qui fut la première puissance en Europe à reconnaître Henri IV"
+      }
+    },
+    {
+      "id": "evt_ch10_003",
+      "type": "political",
+      "date_start": {
+        "year": 1589,
+        "month": 8,
+        "day": 4,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Déclaration d'Henri IV du 4 août",
+      "description": "Henri IV jure que la religion catholique serait respectée et qu'un concile déciderait de la conduite à tenir dans les six mois.",
+      "importance": 3,
+      "people": [
+        "Henri IV"
+      ],
+      "locations": [],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 39,
+        "line_end": 41,
+        "excerpt": "Dans sa déclaration du 4 août, il se contenta de jurer que la religion catholique serait respectée et que, dans les six mois, un concile déciderait"
+      }
+    },
+    {
+      "id": "evt_ch10_004",
+      "type": "battle",
+      "date_start": {
+        "year": 1589,
+        "month": 9,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille d'Arques",
+      "description": "Henri IV bat l'armée de la Ligue commandée par Mayenne près de Dieppe.",
+      "importance": 3,
+      "people": [
+        "Henri IV",
+        "Duc de Mayenne",
+        "Henri de Guise"
+      ],
+      "locations": [
+        "Arques",
+        "Dieppe"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 57,
+        "line_end": 58,
+        "excerpt": "Mayenne, le frère d'Henri de Guise, qui commandait, d'ailleurs mal, l'armée de la Ligue, se fit battre à Arques, près de Dieppe"
+      }
+    },
+    {
+      "id": "evt_ch10_005",
+      "type": "battle",
+      "date_start": {
+        "year": 1590,
+        "month": 3,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille d'Ivry",
+      "description": "Henri IV remporte une victoire décisive contre la Ligue, jour célèbre du «panache blanc».",
+      "importance": 4,
+      "people": [
+        "Henri IV"
+      ],
+      "locations": [
+        "Ivry"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 58,
+        "line_end": 60,
+        "excerpt": "A Ivry (1590), le jour du «panache blanc», Henri IV remporta un autre succès. Victoires infiniment utiles à sa cause"
+      }
+    },
+    {
+      "id": "evt_ch10_006",
+      "type": "period",
+      "date_start": {
+        "year": 1590,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 1594,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Siège de Paris par Henri IV",
+      "description": "Paris fut investi pendant près de quatre ans. Le duc de Parme, envoyé par Philippe II, obligea Henri IV à s'éloigner à plusieurs reprises.",
+      "importance": 4,
+      "people": [
+        "Henri IV",
+        "Duc de Parme",
+        "Philippe II"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 63,
+        "line_end": 75,
+        "excerpt": "Tantôt bloqué, tantôt débloqué, Paris, de plus ou moins près, fut investi pendant près de quatre ans"
+      }
+    },
+    {
+      "id": "evt_ch10_007",
+      "type": "death",
+      "date_start": {
+        "year": 1590,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Charles X (cardinal de Bourbon)",
+      "description": "Le roi de la Ligue, Charles X cardinal de Bourbon, meurt en captivité, excitant de nombreuses ambitions pour le trône.",
+      "importance": 3,
+      "people": [
+        "Charles X",
+        "Henri IV",
+        "Henri III"
+      ],
+      "locations": [],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 77,
+        "line_end": 84,
+        "excerpt": "le prétendu Charles X, cardinal de Bourbon, n'était qu'une figure décorative... Le roi de la Ligue ne devait pas tarder à mourir"
+      }
+    },
+    {
+      "id": "evt_ch10_008",
+      "type": "political",
+      "date_start": {
+        "year": 1591,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Terreur des Seize à Paris",
+      "description": "Le comité des Seize règne par la terreur à Paris, appliquant la loi des suspects et faisant pendre le premier président du Parlement et deux conseillers.",
+      "importance": 3,
+      "people": [
+        "Duc de Mayenne"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 93,
+        "line_end": 105,
+        "excerpt": "les Seize, et ce comité de salut catholique régnait par la terreur, appliquait à ses adversaires... les mesures classiques des révolutions"
+      }
+    },
+    {
+      "id": "evt_ch10_009",
+      "type": "political",
+      "date_start": {
+        "year": 1591,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mayenne brise la faction des Seize",
+      "description": "Le duc de Mayenne, encouragé par les ligueurs politiques, fait pendre quelques-uns des Seize et emprisonner les autres, affaiblissant la Ligue.",
+      "importance": 3,
+      "people": [
+        "Duc de Mayenne"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 100,
+        "line_end": 105,
+        "excerpt": "Le duc de Mayenne... brisa la faction des Seize dont quelques-uns furent pendus à leur tour"
+      }
+    },
+    {
+      "id": "evt_ch10_010",
+      "type": "political",
+      "date_start": {
+        "year": 1593,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "États généraux de 1593",
+      "description": "Les états généraux convoqués par la Ligue pour élire un roi échouent complètement, aucun candidat ne s'imposant face aux rivalités.",
+      "importance": 4,
+      "people": [
+        "Henri IV",
+        "Duc de Mayenne",
+        "Philippe II",
+        "Infante Isabelle"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 126,
+        "line_end": 150,
+        "excerpt": "Les états généraux de 1593, convoqués pour l'élection d'un roi, aboutirent à un échec complet"
+      }
+    },
+    {
+      "id": "evt_ch10_011",
+      "type": "political",
+      "date_start": {
+        "year": 1593,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Arrêt du Parlement contre les étrangers",
+      "description": "Le Parlement déclare par un arrêt retentissant que le royaume ne peut être occupé par des étrangers, écrasant l'intrigue espagnole.",
+      "importance": 4,
+      "people": [
+        "Duc de Mayenne"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 146,
+        "line_end": 150,
+        "excerpt": "le Parlement... déclara que le royaume ne pouvait être occupé par des étrangers. L'intrigue espagnole... fut écrasée du coup"
+      }
+    },
+    {
+      "id": "evt_ch10_012",
+      "type": "political",
+      "date_start": {
+        "year": 1593,
+        "month": 4,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Conférences de Suresnes",
+      "description": "Des conférences se tiennent à Suresnes entre ligueurs modérés et royalistes catholiques à la recherche d'une solution pacifique.",
+      "importance": 3,
+      "people": [
+        "Henri IV"
+      ],
+      "locations": [
+        "Suresnes"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 154,
+        "line_end": 159,
+        "excerpt": "Depuis la fin d'avril, des conférences duraient à Suresnes entre ligueurs modérés et royalistes catholiques"
+      }
+    },
+    {
+      "id": "evt_ch10_013",
+      "type": "religious",
+      "date_start": {
+        "year": 1593,
+        "month": 7,
+        "day": 25,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Abjuration d'Henri IV à Saint-Denis",
+      "description": "Henri IV abjure le protestantisme en l'église Saint-Denis, se convertissant au catholicisme pour être accepté comme roi de France.",
+      "importance": 5,
+      "people": [
+        "Henri IV"
+      ],
+      "locations": [
+        "Saint-Denis",
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 170,
+        "line_end": 171,
+        "excerpt": "Le 25 juillet 1593, Henri IV abjura en l'église Saint-Denis, à deux pas de Paris"
+      }
+    },
+    {
+      "id": "evt_ch10_014",
+      "type": "political",
+      "date_start": {
+        "year": 1594,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Sacre d'Henri IV à Chartres",
+      "description": "Ne pouvant aller à Reims encore aux mains des Guise, Henri IV est sacré à Chartres.",
+      "importance": 4,
+      "people": [
+        "Henri IV"
+      ],
+      "locations": [
+        "Chartres",
+        "Reims"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 199,
+        "line_end": 200,
+        "excerpt": "Ne pouvant aller à Reims, encore aux mains des Guise, il fut sacré à Chartres"
+      }
+    },
+    {
+      "id": "evt_ch10_015",
+      "type": "political",
+      "date_start": {
+        "year": 1594,
+        "month": 3,
+        "day": 22,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Entrée d'Henri IV dans Paris",
+      "description": "Henri IV fait son entrée dans Paris presque sans résistance. Le gouvernement de la Ligue s'évanouit et la garnison espagnole sort librement.",
+      "importance": 5,
+      "people": [
+        "Henri IV",
+        "Duc de Mayenne"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 207,
+        "line_end": 210,
+        "excerpt": "Le 22 mars 1594, le roi fit son entrée dans la ville, presque sans résistance. Le gouvernement de la Ligue s'évanouit"
+      }
+    },
+    {
+      "id": "evt_ch10_016",
+      "type": "political",
+      "date_start": {
+        "year": 1594,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Tentative de régicide par Jean Châtel",
+      "description": "Jean Châtel tente d'assassiner Henri IV, l'un des nombreux complots auxquels le roi dut faire face.",
+      "importance": 2,
+      "people": [
+        "Henri IV",
+        "Jean Châtel"
+      ],
+      "locations": [],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 219,
+        "line_end": 221,
+        "excerpt": "il échappera à d'obscurs régicides comme Jean Châtel"
+      }
+    },
+    {
+      "id": "evt_ch10_017",
+      "type": "death",
+      "date_start": {
+        "year": 1602,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Condamnation à mort de Biron",
+      "description": "Henri IV doit condamner à mort le duc de Biron, haut conspirateur contre la monarchie.",
+      "importance": 3,
+      "people": [
+        "Henri IV",
+        "Biron"
+      ],
+      "locations": [],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 220,
+        "line_end": 221,
+        "excerpt": "il devra condamner à mort un haut conspirateur comme Biron"
+      }
+    },
+    {
+      "id": "evt_ch10_018",
+      "type": "battle",
+      "date_start": {
+        "year": 1595,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Fontaine-Française",
+      "description": "Malgré un succès d'Henri IV à Fontaine-Française, la France épuisée subit de sérieux revers contre l'Espagne.",
+      "importance": 3,
+      "people": [
+        "Henri IV"
+      ],
+      "locations": [
+        "Fontaine-Française"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 242,
+        "line_end": 243,
+        "excerpt": "malgré un succès à Fontaine-Française, nous éprouvâmes de sérieux revers"
+      }
+    },
+    {
+      "id": "evt_ch10_019",
+      "type": "battle",
+      "date_start": {
+        "year": 1595,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Prise d'Amiens par les Espagnols",
+      "description": "Amiens est pris par les Espagnols, menaçant Paris et obligeant à solliciter le secours de l'Angleterre.",
+      "importance": 3,
+      "people": [
+        "Henri IV"
+      ],
+      "locations": [
+        "Amiens",
+        "Paris",
+        "Calais"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 243,
+        "line_end": 247,
+        "excerpt": "En 1595, Amiens fut pris, Paris menacé et il fallut solliciter le secours de l'Angleterre"
+      }
+    },
+    {
+      "id": "evt_ch10_020",
+      "type": "treaty",
+      "date_start": {
+        "year": 1598,
+        "month": 5,
+        "day": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Paix de Vervins",
+      "description": "Philippe II, épuisé, signe la paix de Vervins avec la France. Il a perdu la partie en France et à moitié aux Pays-Bas.",
+      "importance": 4,
+      "people": [
+        "Henri IV",
+        "Philippe II"
+      ],
+      "locations": [
+        "Vervins",
+        "Pays-Bas",
+        "Hollande"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 249,
+        "line_end": 253,
+        "excerpt": "Il fallut qu'elle fût épuisée elle-même pour que Philippe II consentît à signer la paix de Vervins"
+      }
+    },
+    {
+      "id": "evt_ch10_021",
+      "type": "treaty",
+      "date_start": {
+        "year": 1598,
+        "month": 4,
+        "day": 13,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Édit de Nantes",
+      "description": "L'Édit de Nantes accorde aux protestants la liberté de conscience et plus de cent villes de sûreté dont La Rochelle, Saumur, Montauban et Montpellier.",
+      "importance": 5,
+      "people": [
+        "Henri IV"
+      ],
+      "locations": [
+        "Nantes",
+        "La Rochelle",
+        "Saumur",
+        "Montauban",
+        "Montpellier"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 255,
+        "line_end": 289,
+        "excerpt": "Presque en même temps que la paix de Vervins fut signé l'Edit de Nantes (13 avril 1598)"
+      }
+    },
+    {
+      "id": "evt_ch10_022",
+      "type": "political",
+      "date_start": {
+        "year": 1609,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Enregistrement de l'Édit de Nantes par Rouen",
+      "description": "Le Parlement de Rouen est le dernier à enregistrer l'Édit de Nantes, témoignant des résistances à cette mesure.",
+      "importance": 2,
+      "people": [
+        "Henri IV"
+      ],
+      "locations": [
+        "Rouen"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 293,
+        "line_end": 294,
+        "excerpt": "Celui de Rouen ne s'inclina tout à fait qu'en 1609"
+      }
+    },
+    {
+      "id": "evt_ch10_023",
+      "type": "political",
+      "date_start": {
+        "year": 1600,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Soumission du duc de Bouillon",
+      "description": "Henri IV donne une sévère leçon au duc de Bouillon, protecteur des protestants, qui par sa principauté de Sedan pouvait être redoutable.",
+      "importance": 2,
+      "people": [
+        "Henri IV",
+        "Duc de Bouillon"
+      ],
+      "locations": [
+        "Sedan"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 296,
+        "line_end": 299,
+        "excerpt": "Henri IV... ne fut tranquille que quand il eut donné une sévère leçon à leur protecteur, le duc de Bouillon"
+      }
+    },
+    {
+      "id": "evt_ch10_024",
+      "type": "treaty",
+      "date_start": {
+        "year": 1601,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Acquisition de la Bresse, du Bugey et de Gex",
+      "description": "Une brillante campagne contre le duc de Savoie vaut à la France la Bresse, le Bugey et Gex, en renonçant au marquisat de Saluces.",
+      "importance": 4,
+      "people": [
+        "Henri IV",
+        "Duc de Savoie"
+      ],
+      "locations": [
+        "Bresse",
+        "Bugey",
+        "Gex",
+        "Saluces"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 299,
+        "line_end": 306,
+        "excerpt": "Une brillante campagne nous valut la Bresse, le Bugey et Gex, tandis que la France, en renonçant au marquisat des Saluces"
+      }
+    },
+    {
+      "id": "evt_ch10_025",
+      "type": "event",
+      "date_start": {
+        "year": 1600,
+        "month": 12,
+        "day": 17,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mariage d'Henri IV et Marie de Médicis",
+      "description": "Henri IV épouse Marie de Médicis, apparentée à la maison d'Autriche et au pape Clément VIII, consolidant sa position européenne.",
+      "importance": 4,
+      "people": [
+        "Henri IV",
+        "Marie de Médicis",
+        "Clément VIII"
+      ],
+      "locations": [
+        "Florence"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 306,
+        "line_end": 311,
+        "excerpt": "Le roi améliora encore sa position européenne en épousant Marie de Médicis, apparentée à la maison d'Autriche et au pape Clément VIII"
+      }
+    },
+    {
+      "id": "evt_ch10_026",
+      "type": "political",
+      "date_start": {
+        "year": 1601,
+        "month": 9,
+        "day": 27,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Naissance d'un héritier au trône",
+      "description": "Marie de Médicis donne un héritier au trône (futur Louis XIII), abolissant la crainte d'une autre succession protestante.",
+      "importance": 4,
+      "people": [
+        "Marie de Médicis",
+        "Henri IV",
+        "Louis XIII"
+      ],
+      "locations": [
+        "Fontainebleau"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 308,
+        "line_end": 311,
+        "excerpt": "la reine, en donnant un héritier au trône, abolissait la crainte d'une autre succession protestante"
+      }
+    },
+    {
+      "id": "evt_ch10_027",
+      "type": "period",
+      "date_start": {
+        "year": 1598,
+        "circa": false,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "date_end": {
+        "year": 1610,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Relèvement économique sous Henri IV et Sully",
+      "description": "Avec Sully, Henri IV travaille à rétablir la fortune de la France par l'agriculture, l'industrie et l'esprit d'entreprise. Les Dieppois commencent les colonies françaises.",
+      "importance": 4,
+      "people": [
+        "Henri IV",
+        "Sully"
+      ],
+      "locations": [
+        "France",
+        "Dieppe"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 316,
+        "line_end": 329,
+        "excerpt": "Avec Sully, type nouveau de l'homme d'affaires protestant, Henri IV travailla à rétablir la fortune de la France"
+      }
+    },
+    {
+      "id": "evt_ch10_028",
+      "type": "political",
+      "date_start": {
+        "year": 1609,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Affaire de la succession de Juliers",
+      "description": "La maison d'Autriche revendique l'héritage de Juliers pour s'installer sur la rive gauche du Rhin, menaçant les Pays-Bas et la France.",
+      "importance": 3,
+      "people": [
+        "Henri IV"
+      ],
+      "locations": [
+        "Juliers",
+        "Rhin",
+        "Pays-Bas"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 355,
+        "line_end": 364,
+        "excerpt": "lorsque se présenta l'affaire de la succession de Juliers. En revendiquant cet héritage, la maison d'Autriche cherchait à s'installer sur la rive gauche du Rhin"
+      }
+    },
+    {
+      "id": "evt_ch10_029",
+      "type": "death",
+      "date_start": {
+        "year": 1610,
+        "month": 5,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Assassinat d'Henri IV par Ravaillac",
+      "description": "Henri IV est assassiné par Ravaillac rue de la Ferronnerie à Paris. Le régicide, esprit faible et exalté, crut faire œuvre sainte comme Jacques Clément contre Henri III.",
+      "importance": 5,
+      "people": [
+        "Henri IV",
+        "Ravaillac",
+        "Jacques Clément"
+      ],
+      "locations": [
+        "Paris",
+        "Rue de la Ferronnerie"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 374,
+        "line_end": 378,
+        "excerpt": "En assassinant Henri IV, le 14 mai 1610, Ravaillac crut faire oeuvre sainte. Son crime reproduit celui de Jacques Clément"
+      }
+    },
+    {
+      "id": "evt_ch10_030",
+      "type": "event",
+      "date_start": {
+        "year": 1588,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Désastre de l'Armada espagnole",
+      "description": "L'Espagne ne s'est jamais remise du désastre naval de l'Armada, affaiblissant durablement sa puissance maritime.",
+      "importance": 4,
+      "people": [
+        "Philippe II"
+      ],
+      "locations": [
+        "Espagne",
+        "Angleterre"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 248,
+        "line_end": 249,
+        "excerpt": "L'Espagne ne s'était jamais remise du désastre naval de l'_Armada_"
+      }
+    },
+    {
+      "id": "evt_ch10_031",
+      "type": "political",
+      "date_start": {
+        "year": 1581,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Indépendance des Provinces-Unies",
+      "description": "La Hollande s'affranchit de l'Espagne et forme les Provinces-Unies, nouvel État actif dans la politique européenne.",
+      "importance": 4,
+      "people": [
+        "Philippe II"
+      ],
+      "locations": [
+        "Hollande",
+        "Pays-Bas"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 251,
+        "line_end": 253,
+        "excerpt": "La Hollande s'était affranchie et le nouvel Etat, les «Provinces-Unies», formé par de durs combats pour sa liberté"
+      }
+    },
+    {
+      "id": "evt_ch10_032",
+      "type": "political",
+      "date_start": {
+        "year": 1593,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Publication de la Satire Ménippée",
+      "description": "La célèbre Satire Ménippée, pamphlet des ligueurs politiques, ridiculise les intransigeants et rend odieux leurs alliés espagnols.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 138,
+        "line_end": 141,
+        "excerpt": "la célèbre _Satire Ménippée_, ridiculisait les intransigeants et rendait odieux leurs alliés espagnols"
+      }
+    }
+  ],
+  "people": [
+    {
+      "id": "pers_ch10_001",
+      "name": "Henri IV",
+      "aliases": [
+        "Henri de Bourbon",
+        "Henri de Navarre",
+        "roi de Navarre",
+        "Vert-Galant"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France",
+        "Roi de Navarre"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1610,
+        "month": 5,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": {
+        "start": {
+          "year": 1589,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1610,
+          "month": 5,
+          "day": 14,
+          "circa": false,
+          "era": "CE",
+          "precision": "exact"
+        }
+      },
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Marie de Médicis"
+        }
+      ],
+      "source_lines": [
+        13,
+        16,
+        25,
+        27,
+        30,
+        48,
+        54,
+        56,
+        58,
+        66,
+        70,
+        72,
+        80,
+        83,
+        91,
+        108,
+        111,
+        117,
+        130,
+        134,
+        152,
+        159,
+        170,
+        182,
+        197,
+        207,
+        217,
+        227,
+        237,
+        242,
+        266,
+        284,
+        296,
+        306,
+        317,
+        346,
+        359,
+        364,
+        374,
+        376
+      ]
+    },
+    {
+      "id": "pers_ch10_002",
+      "name": "Henri III",
+      "aliases": [],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1589,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        13,
+        32,
+        49,
+        80,
+        377
+      ]
+    },
+    {
+      "id": "pers_ch10_003",
+      "name": "Duc de Mayenne",
+      "aliases": [
+        "Mayenne"
+      ],
+      "dynasty": "Guise",
+      "titles": [
+        "Duc de Mayenne",
+        "Chef de la Ligue"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Henri de Guise"
+        }
+      ],
+      "source_lines": [
+        57,
+        89,
+        100,
+        102,
+        108,
+        130,
+        132,
+        144,
+        148,
+        205,
+        231
+      ]
+    },
+    {
+      "id": "pers_ch10_004",
+      "name": "Philippe II",
+      "aliases": [
+        "roi d'Espagne"
+      ],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Roi d'Espagne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "fille",
+          "person": "Infante Isabelle"
+        }
+      ],
+      "source_lines": [
+        54,
+        69,
+        85,
+        102,
+        132,
+        143,
+        238,
+        249
+      ]
+    },
+    {
+      "id": "pers_ch10_005",
+      "name": "Henri de Guise",
+      "aliases": [],
+      "dynasty": "Guise",
+      "titles": [
+        "Duc de Guise"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Duc de Mayenne"
+        }
+      ],
+      "source_lines": [
+        57
+      ]
+    },
+    {
+      "id": "pers_ch10_006",
+      "name": "Duc de Parme",
+      "aliases": [],
+      "dynasty": "Farnèse",
+      "titles": [
+        "Duc de Parme"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        69
+      ]
+    },
+    {
+      "id": "pers_ch10_007",
+      "name": "Charles X",
+      "aliases": [
+        "Cardinal de Bourbon",
+        "roi de la Ligue"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Cardinal de Bourbon",
+        "Roi (prétendant)"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1590,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "neveu",
+          "person": "Henri IV"
+        }
+      ],
+      "source_lines": [
+        78,
+        82
+      ]
+    },
+    {
+      "id": "pers_ch10_008",
+      "name": "Infante Isabelle",
+      "aliases": [],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Infante d'Espagne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Philippe II"
+        },
+        {
+          "type": "grand-père",
+          "person": "Henri II"
+        }
+      ],
+      "source_lines": [
+        86,
+        143
+      ]
+    },
+    {
+      "id": "pers_ch10_009",
+      "name": "Duc de Savoie",
+      "aliases": [],
+      "dynasty": "Savoie",
+      "titles": [
+        "Duc de Savoie"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "grand-père",
+          "person": "François Ier"
+        }
+      ],
+      "source_lines": [
+        86,
+        300
+      ]
+    },
+    {
+      "id": "pers_ch10_010",
+      "name": "Duc de Lorraine",
+      "aliases": [],
+      "dynasty": "Lorraine",
+      "titles": [
+        "Duc de Lorraine"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        89
+      ]
+    },
+    {
+      "id": "pers_ch10_011",
+      "name": "Élisabeth Ire",
+      "aliases": [
+        "reine d'Angleterre"
+      ],
+      "dynasty": "Tudor",
+      "titles": [
+        "Reine d'Angleterre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        54
+      ]
+    },
+    {
+      "id": "pers_ch10_012",
+      "name": "Ravaillac",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        173,
+        375
+      ]
+    },
+    {
+      "id": "pers_ch10_013",
+      "name": "Jean Châtel",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        220
+      ]
+    },
+    {
+      "id": "pers_ch10_014",
+      "name": "Biron",
+      "aliases": [
+        "Duc de Biron"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Duc de Biron"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1602,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        221
+      ]
+    },
+    {
+      "id": "pers_ch10_015",
+      "name": "Gabrielle d'Estrées",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Favorite d'Henri IV"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        191
+      ]
+    },
+    {
+      "id": "pers_ch10_016",
+      "name": "Henriette d'Entraigues",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Favorite d'Henri IV"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        191
+      ]
+    },
+    {
+      "id": "pers_ch10_017",
+      "name": "Marie de Médicis",
+      "aliases": [],
+      "dynasty": "Médicis",
+      "titles": [
+        "Reine de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Henri IV"
+        }
+      ],
+      "source_lines": [
+        307
+      ]
+    },
+    {
+      "id": "pers_ch10_018",
+      "name": "Sully",
+      "aliases": [
+        "Duc de Sully"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Ministre",
+        "Surintendant des finances"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        316,
+        321,
+        362
+      ]
+    },
+    {
+      "id": "pers_ch10_019",
+      "name": "Duc de Bouillon",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Duc de Bouillon",
+        "Prince de Sedan"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        298
+      ]
+    },
+    {
+      "id": "pers_ch10_020",
+      "name": "Clément VIII",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Pape"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        308
+      ]
+    },
+    {
+      "id": "pers_ch10_021",
+      "name": "Charles Quint",
+      "aliases": [],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Empereur"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        335,
+        346
+      ]
+    },
+    {
+      "id": "pers_ch10_022",
+      "name": "Philippe III",
+      "aliases": [],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Roi d'Espagne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        345
+      ]
+    },
+    {
+      "id": "pers_ch10_023",
+      "name": "François Ier",
+      "aliases": [],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        87,
+        360
+      ]
+    },
+    {
+      "id": "pers_ch10_024",
+      "name": "Henri II",
+      "aliases": [],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        86,
+        348,
+        360
+      ]
+    },
+    {
+      "id": "pers_ch10_025",
+      "name": "Jacques Clément",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Moine"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        376
+      ]
+    },
+    {
+      "id": "pers_ch10_026",
+      "name": "Richelieu",
+      "aliases": [
+        "Cardinal de Richelieu"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Cardinal",
+        "Ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        217,
+        305
+      ]
+    },
+    {
+      "id": "pers_ch10_027",
+      "name": "Charles VII",
+      "aliases": [],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        183
+      ]
+    },
+    {
+      "id": "pers_ch10_028",
+      "name": "Louis XIV",
+      "aliases": [],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        193
+      ]
+    },
+    {
+      "id": "pers_ch10_029",
+      "name": "Louis XV",
+      "aliases": [],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        194
+      ]
+    },
+    {
+      "id": "pers_ch10_030",
+      "name": "Louis XVI",
+      "aliases": [],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        194
+      ]
+    },
+    {
+      "id": "pers_ch10_031",
+      "name": "Michelet",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Historien"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        8
+      ]
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_bourbons",
+      "name": "Bourbons",
+      "period_start": {
+        "year": 1589,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1792,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_valois",
+      "name": "Valois",
+      "period_start": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1589,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_guise",
+      "name": "Guise",
+      "period_start": {
+        "year": 1528,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "period_end": {
+        "year": 1688,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      }
+    },
+    {
+      "id": "dyn_habsbourg",
+      "name": "Habsbourg",
+      "period_start": {
+        "year": 1273,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1918,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}

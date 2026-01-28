@@ -1,0 +1,2062 @@
+{
+  "chapter_number": 8,
+  "chapter_title": "Chapter 8",
+  "line_start": 3728,
+  "line_end": 4243,
+  "validation_status": "success",
+  "entries": [
+    {
+      "id": "evt_001",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1515,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de François Ier",
+      "description": "François Ier, neveu de Louis XII, lui succède sur le trône de France, inaugurant un règne marqué par la Renaissance et les guerres d'Italie.",
+      "importance": 4,
+      "people": [
+        "François Ier",
+        "Louis XII"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 9,
+        "line_end": 21,
+        "excerpt": "La date de 1515, amie de la mémoire, a quelque chose de joyeux et de pimpant. Ce règne qui commence, François Ier..."
+      }
+    },
+    {
+      "id": "evt_002",
+      "type": "battle",
+      "date_start": {
+        "year": 1515,
+        "month": 9,
+        "day": 13,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Marignan",
+      "description": "François Ier remporte une victoire décisive contre les Suisses après deux jours de combat, lui permettant de conquérir Milan.",
+      "importance": 4,
+      "people": [
+        "François Ier"
+      ],
+      "locations": [
+        "Marignan",
+        "Milan",
+        "Lombardie",
+        "Alpes"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 31,
+        "line_end": 37,
+        "excerpt": "François Ier put être fier de les avoir mis en fuite à Marignan après une bataille de deux jours. Il y gagna Milan..."
+      }
+    },
+    {
+      "id": "evt_003",
+      "type": "treaty",
+      "date_start": {
+        "year": 1516,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Premier Concordat de Bologne",
+      "description": "Accord entre François Ier et le pape donnant au roi la nomination aux bénéfices ecclésiastiques. Ce concordat durera jusqu'à la Révolution.",
+      "importance": 4,
+      "people": [
+        "François Ier",
+        "Léon X"
+      ],
+      "locations": [
+        "Bologne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 32,
+        "line_end": 34,
+        "excerpt": "Il y gagna Milan et une réconciliation avec le pape: le premier Concordat, qui durera jusqu'à la Révolution, date de là."
+      }
+    },
+    {
+      "id": "evt_004",
+      "type": "treaty",
+      "date_start": {
+        "year": 1516,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Paix perpétuelle de Fribourg",
+      "description": "Traité de paix signé entre la France et les cantons suisses, remarquable par sa longévité et son respect mutuel.",
+      "importance": 3,
+      "people": [
+        "François Ier"
+      ],
+      "locations": [
+        "Fribourg",
+        "Suisse"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 35,
+        "line_end": 37,
+        "excerpt": "Une paix perpétuelle fut signée à Fribourg avec les cantons suisses: de part et d'autre, exemple presque unique dans l'histoire, le pacte a été observé."
+      }
+    },
+    {
+      "id": "evt_005",
+      "type": "death",
+      "date_start": {
+        "year": 1519,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Maximilien Ier",
+      "description": "Mort de l'empereur Maximilien Ier, ouvrant la succession impériale à laquelle François Ier et Charles d'Autriche se disputent.",
+      "importance": 3,
+      "people": [
+        "Maximilien Ier"
+      ],
+      "locations": [
+        "Saint-Empire"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 50,
+        "line_end": 51,
+        "excerpt": "Maximilien mourut en 1519. Contre Charles d'Autriche, pour empêcher cette formidable concentration..."
+      }
+    },
+    {
+      "id": "evt_006",
+      "type": "political",
+      "date_start": {
+        "year": 1519,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Élection impériale de Charles Quint",
+      "description": "Charles d'Autriche est élu empereur contre François Ier, grâce au soutien financier des banquiers Fugger d'Augsbourg.",
+      "importance": 5,
+      "people": [
+        "Charles Quint",
+        "François Ier",
+        "Fugger"
+      ],
+      "locations": [
+        "Allemagne",
+        "Augsbourg",
+        "Anvers"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 50,
+        "line_end": 68,
+        "excerpt": "La lutte électorale entre les deux rois fut la même que si l'enjeu avait été un clocher... Au vote, Charles l'emporta."
+      }
+    },
+    {
+      "id": "evt_007",
+      "type": "religious",
+      "date_start": {
+        "year": 1520,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Luther brûle la bulle papale",
+      "description": "Martin Luther brûle publiquement à Wittenberg la bulle du pape l'excommuniant, marquant le début de la Réforme protestante en Allemagne.",
+      "importance": 5,
+      "people": [
+        "Martin Luther"
+      ],
+      "locations": [
+        "Wittenberg",
+        "Allemagne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 64,
+        "line_end": 66,
+        "excerpt": "Mais, quelques mois plus tard, Luther brûlait à Wittenberg la bulle du pape. L'Allemagne aurait sa guerre religieuse, et avant nous."
+      }
+    },
+    {
+      "id": "evt_008",
+      "type": "event",
+      "date_start": {
+        "year": 1520,
+        "month": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Camp du Drap d'or",
+      "description": "Entrevue diplomatique célèbre entre François Ier et Henri VIII d'Angleterre, tentative française de gagner l'alliance anglaise.",
+      "importance": 3,
+      "people": [
+        "François Ier",
+        "Henri VIII",
+        "Wolsey"
+      ],
+      "locations": [
+        "Camp du Drap d'or",
+        "Calais"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 96,
+        "line_end": 98,
+        "excerpt": "Henri VIII se laissa courtiser par François Ier qui essaya de gagner son ministre Wolsey, de l'éblouir et de le séduire lui-même à l'entrevue célèbre du Camp du Drap d'or."
+      }
+    },
+    {
+      "id": "evt_009",
+      "type": "period",
+      "date_start": {
+        "year": 1521,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Début de la lutte France-Maison d'Autriche",
+      "description": "Début du conflit séculaire entre la France et la maison d'Autriche (Habsbourg), soutenu par l'alliance anglaise.",
+      "importance": 5,
+      "people": [
+        "François Ier",
+        "Charles Quint",
+        "Henri VIII"
+      ],
+      "locations": [
+        "France",
+        "Allemagne",
+        "Angleterre"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 103,
+        "line_end": 106,
+        "excerpt": "En l'année 1521 commence cette lutte entre la France et la maison d'Autriche, c'est-à-dire entre la France et l'Allemagne, qui, sous des formes diverses, s'est perpétuée jusqu'à nos jours."
+      }
+    },
+    {
+      "id": "evt_010",
+      "type": "political",
+      "date_start": {
+        "year": 1523,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Trahison du connétable de Bourbon",
+      "description": "Le duc-connétable de Bourbon, prince du sang, conspire avec l'étranger contre la France. François Ier fait arrêter ses complices, mais le duc s'enfuit.",
+      "importance": 4,
+      "people": [
+        "Charles de Bourbon",
+        "François Ier"
+      ],
+      "locations": [
+        "France",
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 111,
+        "line_end": 123,
+        "excerpt": "Le duc-connétable de Bourbon, un ambitieux aigri, osa, quoique prince du sang, conspirer avec l'étranger contre la sûreté de l'Etat."
+      }
+    },
+    {
+      "id": "evt_011",
+      "type": "battle",
+      "date_start": {
+        "year": 1524,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Siège de Marseille",
+      "description": "Les Impériaux, menés par le duc de Bourbon, assiègent Marseille. La résistance de la ville permet à François Ier d'accourir et de repousser l'ennemi.",
+      "importance": 3,
+      "people": [
+        "Charles de Bourbon",
+        "François Ier"
+      ],
+      "locations": [
+        "Marseille",
+        "Provence"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 140,
+        "line_end": 144,
+        "excerpt": "Les Impériaux entrèrent en Provence, le duc de Bourbon à leur tête, et vinrent assiéger Marseille dont la résistance permit au roi d'accourir avec une armée."
+      }
+    },
+    {
+      "id": "evt_012",
+      "type": "battle",
+      "date_start": {
+        "year": 1525,
+        "month": 2,
+        "day": 24,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Pavie",
+      "description": "Désastre militaire français où François Ier est capturé par les troupes impériales, comme Jean le Bon l'avait été à Poitiers.",
+      "importance": 5,
+      "people": [
+        "François Ier",
+        "Charles Quint"
+      ],
+      "locations": [
+        "Pavie",
+        "Italie"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 144,
+        "line_end": 147,
+        "excerpt": "Le sort tourna devant Pavie (1525) et le roi tomba prisonnier aux mains de l'ennemi, comme jadis à Poitiers Jean le Bon."
+      }
+    },
+    {
+      "id": "evt_013",
+      "type": "political",
+      "date_start": {
+        "year": 1525,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Régence de Louise de Savoie",
+      "description": "Pendant la captivité de François Ier, sa mère Louise de Savoie assure la régence avec habileté, maintenant l'ordre et obtenant le retournement de l'alliance anglaise.",
+      "importance": 3,
+      "people": [
+        "Louise de Savoie",
+        "François Ier",
+        "Henri VIII"
+      ],
+      "locations": [
+        "France",
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 152,
+        "line_end": 202,
+        "excerpt": "On vit bien un essai de complot, qui avorta, pour enlever la régence à la mère du roi, Louise de Savoie... La régente eut l'habileté d'en offrir: la France se trouvait bien d'être riche."
+      }
+    },
+    {
+      "id": "evt_014",
+      "type": "political",
+      "date_start": {
+        "year": 1525,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Alliance secrète France-Empire ottoman",
+      "description": "Le soir même de Pavie, François Ier envoie sa bague à Soliman le Magnifique, initiant une alliance franco-turque contre Charles Quint.",
+      "importance": 4,
+      "people": [
+        "François Ier",
+        "Soliman le Magnifique",
+        "Ibrahim Pacha"
+      ],
+      "locations": [
+        "France",
+        "Empire ottoman"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 229,
+        "line_end": 237,
+        "excerpt": "Le soir même de Pavie, François Ier, en secret, avait envoyé sa bague à Soliman. Le sultan et son ministre Ibrahim comprirent ce signe."
+      }
+    },
+    {
+      "id": "evt_015",
+      "type": "treaty",
+      "date_start": {
+        "year": 1526,
+        "month": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de Madrid",
+      "description": "Traité imposé à François Ier prisonnier par Charles Quint, que le roi accepte sous contrainte en donnant ses fils en otages.",
+      "importance": 4,
+      "people": [
+        "François Ier",
+        "Charles Quint"
+      ],
+      "locations": [
+        "Madrid",
+        "Espagne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 204,
+        "line_end": 212,
+        "excerpt": "François Ier accepta le traité de Madrid, donnant ses deux fils en otages à son ennemi, mais non sans avoir averti que, signé par contrainte, ce traité serait nul."
+      }
+    },
+    {
+      "id": "evt_016",
+      "type": "political",
+      "date_start": {
+        "year": 1526,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Assemblée de Cognac - Refus de céder la Bourgogne",
+      "description": "Une assemblée réunie à Cognac déclare que le roi ne peut aliéner une province du royaume, les Bourguignons affirmant vouloir rester Français.",
+      "importance": 3,
+      "people": [
+        "François Ier"
+      ],
+      "locations": [
+        "Cognac",
+        "Bourgogne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 209,
+        "line_end": 212,
+        "excerpt": "Le roi, rentré en France, reçut des députés bourguignons la déclaration qu'ils voulaient rester Français, et une assemblée spéciale, réunie à Cognac, déclara qu'il n'était pas au pouvoir du roi d'aliéner une province du royaume (1526)."
+      }
+    },
+    {
+      "id": "evt_017",
+      "type": "event",
+      "date_start": {
+        "year": 1527,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Sac de Rome",
+      "description": "Les troupes de Charles Quint pillent Rome. Le connétable de Bourbon y trouve la mort, événement qui effraie l'Europe.",
+      "importance": 4,
+      "people": [
+        "Charles Quint",
+        "Charles de Bourbon"
+      ],
+      "locations": [
+        "Rome"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 248,
+        "line_end": 251,
+        "excerpt": "Charles-Quint, Majesté Catholique, livrait Rome à ses troupes bigarrées, à ses Vandales et à ses Goths. Le sac de la Ville Eternelle, où le connétable de Bourbon... trouva la mort, effraya l'Europe comme un présage (1527)."
+      }
+    },
+    {
+      "id": "evt_018",
+      "type": "death",
+      "date_start": {
+        "year": 1527,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort du connétable de Bourbon",
+      "description": "Charles de Bourbon, connétable traître, meurt lors du sac de Rome qu'il menait pour Charles Quint.",
+      "importance": 2,
+      "people": [
+        "Charles de Bourbon"
+      ],
+      "locations": [
+        "Rome"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 250,
+        "line_end": 251,
+        "excerpt": "Le sac de la Ville Eternelle, où le connétable de Bourbon, inoubliable figure du renégat de son pays, trouva la mort, effraya l'Europe comme un présage (1527)."
+      }
+    },
+    {
+      "id": "evt_019",
+      "type": "treaty",
+      "date_start": {
+        "year": 1529,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de Cambrai (Paix des Dames)",
+      "description": "Premier traité de réconciliation entre François Ier et Charles Quint, permettant au roi de récupérer ses fils otages.",
+      "importance": 3,
+      "people": [
+        "François Ier",
+        "Charles Quint"
+      ],
+      "locations": [
+        "Cambrai"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 257,
+        "line_end": 259,
+        "excerpt": "Comment François Ier finit-il par se réconcilier deux fois avec Charles-Quint, la première au traité de Cambrai qui rendit au roi ses fils otages..."
+      }
+    },
+    {
+      "id": "evt_020",
+      "type": "political",
+      "date_start": {
+        "year": 1531,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ligue de Smalkalde",
+      "description": "Les princes protestants d'Allemagne se confédèrent à Smalkalde contre l'empereur Charles Quint, devenant des alliés potentiels de la France.",
+      "importance": 3,
+      "people": [
+        "Charles Quint"
+      ],
+      "locations": [
+        "Smalkalde",
+        "Allemagne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 267,
+        "line_end": 270,
+        "excerpt": "Quant aux princes protestants d'Allemagne, confédérés à Smalkalde contre l'empereur, il leur arrivait de se souvenir qu'ils étaient Allemands..."
+      }
+    },
+    {
+      "id": "evt_021",
+      "type": "religious",
+      "date_start": {
+        "year": 1534,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Affaire des Placards",
+      "description": "Des protestants clouent un placard contre la messe jusque sur la porte de la chambre du roi, provoquant un durcissement de l'attitude royale.",
+      "importance": 3,
+      "people": [
+        "François Ier"
+      ],
+      "locations": [
+        "Paris",
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 284,
+        "line_end": 292,
+        "excerpt": "Des statues de la Vierge furent brisées, un placard contre la messe cloué jusque sur la porte de la chambre du roi... Il vit que les réformés, avec maladresse, essayaient de mettre la main sur lui. Il se dégagea sans brutalité."
+      }
+    },
+    {
+      "id": "evt_022",
+      "type": "battle",
+      "date_start": {
+        "year": 1544,
+        "month": 4,
+        "day": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Cérisoles",
+      "description": "Victoire française contre les Impériaux en Italie, mais insuffisante pour empêcher l'invasion du nord de la France.",
+      "importance": 3,
+      "people": [
+        "François Ier"
+      ],
+      "locations": [
+        "Cérisoles",
+        "Italie"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 310,
+        "line_end": 312,
+        "excerpt": "Les Impériaux, pourtant battus en Italie à Cérisoles, avaient envahi la France par le Nord..."
+      }
+    },
+    {
+      "id": "evt_023",
+      "type": "treaty",
+      "date_start": {
+        "year": 1544,
+        "month": 9,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de Crépy-en-Laonnois",
+      "description": "Paix signée entre François Ier et Charles Quint à trente lieues de Paris, jugée humiliante par l'opinion publique.",
+      "importance": 3,
+      "people": [
+        "François Ier",
+        "Charles Quint"
+      ],
+      "locations": [
+        "Crépy-en-Laonnois",
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 311,
+        "line_end": 317,
+        "excerpt": "...la paix avait dû être signée à trente lieues de Paris, à Crépy-en-Laonnois (1544). Non pas une paix: une trêve précaire, pareille aux autres, qui ne résolvait rien et que l'opinion publique trouva humiliante."
+      }
+    },
+    {
+      "id": "evt_024",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1547,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement d'Henri II",
+      "description": "Henri II devient roi de France à la mort de François Ier, poursuivant la lutte contre la maison d'Autriche avec une politique centrée sur les frontières de l'Est.",
+      "importance": 4,
+      "people": [
+        "Henri II",
+        "François Ier"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 317,
+        "line_end": 332,
+        "excerpt": "A la mort de François Ier, de nouvelles hostilités se préparaient entre la France et l'empereur. Ce qui s'est élaboré, construit, à cette date de 1547 où Henri II devient roi, c'est une politique."
+      }
+    },
+    {
+      "id": "evt_025",
+      "type": "death",
+      "date_start": {
+        "year": 1547,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de François Ier",
+      "description": "Mort de François Ier après un règne marqué par les guerres d'Italie, la lutte contre Charles Quint et la Renaissance française.",
+      "importance": 4,
+      "people": [
+        "François Ier"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 317,
+        "line_end": 318,
+        "excerpt": "A la mort de François Ier, de nouvelles hostilités se préparaient entre la France et l'empereur."
+      }
+    },
+    {
+      "id": "evt_026",
+      "type": "battle",
+      "date_start": {
+        "year": 1547,
+        "month": 4,
+        "day": 24,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Mühlberg",
+      "description": "Charles Quint bat l'électeur de Saxe, menaçant de centraliser l'Allemagne sous son autorité.",
+      "importance": 3,
+      "people": [
+        "Charles Quint",
+        "Jean-Frédéric de Saxe"
+      ],
+      "locations": [
+        "Mühlberg",
+        "Allemagne",
+        "Saxe"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 341,
+        "line_end": 344,
+        "excerpt": "L'année même de l'avènement de Henri II, l'électeur de Saxe fut battu à Muhlberg. Sans un secours du dehors, les princes allemands succombaient..."
+      }
+    },
+    {
+      "id": "evt_027",
+      "type": "event",
+      "date_start": {
+        "year": 1550,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Reprise de Boulogne",
+      "description": "La France reprend Boulogne aux Anglais, perdue à la fin du règne de François Ier.",
+      "importance": 2,
+      "people": [
+        "Henri II"
+      ],
+      "locations": [
+        "Boulogne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 364,
+        "line_end": 365,
+        "excerpt": "Boulogne, perdue à la fin du dernier règne, fut reprise en attendant que Calais le fût."
+      }
+    },
+    {
+      "id": "evt_028",
+      "type": "treaty",
+      "date_start": {
+        "year": 1552,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité secret de Chambord",
+      "description": "Alliance secrète entre Henri II et les princes protestants allemands qui reconnaissent les droits du roi sur Metz, Toul et Verdun.",
+      "importance": 4,
+      "people": [
+        "Henri II",
+        "Marillac"
+      ],
+      "locations": [
+        "Chambord",
+        "Metz",
+        "Toul",
+        "Verdun",
+        "Cambrai"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 372,
+        "line_end": 379,
+        "excerpt": "Bien travaillés par nos agents, ils conclurent le traité secret de Chambord qui les rendait nos alliés... les princes protestants avaient reconnu les droits du roi sur Cambrai, Metz, Toul et Verdun."
+      }
+    },
+    {
+      "id": "evt_029",
+      "type": "event",
+      "date_start": {
+        "year": 1552,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Prise de Metz, Toul et Verdun",
+      "description": "Henri II conquiert les Trois-Évêchés (Metz, Toul, Verdun) et l'armée française atteint le Rhin.",
+      "importance": 5,
+      "people": [
+        "Henri II"
+      ],
+      "locations": [
+        "Metz",
+        "Toul",
+        "Verdun",
+        "Rhin"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 381,
+        "line_end": 385,
+        "excerpt": "Le roi de France y préluda par un manifeste en français et en allemand... Toul ouvrit ses portes, Metz et Verdun furent pris, et l'armée française parut jusqu'au Rhin où burent ses chevaux."
+      }
+    },
+    {
+      "id": "evt_030",
+      "type": "treaty",
+      "date_start": {
+        "year": 1552,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Transaction de Passau",
+      "description": "Charles Quint, battu par les princes protestants, signe un accord reconnaissant les libertés germaniques.",
+      "importance": 3,
+      "people": [
+        "Charles Quint"
+      ],
+      "locations": [
+        "Passau",
+        "Allemagne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 387,
+        "line_end": 389,
+        "excerpt": "Il se hâta de signer avec les protestants la transaction de Passau par laquelle il reconnaissait les libertés germaniques."
+      }
+    },
+    {
+      "id": "evt_031",
+      "type": "battle",
+      "date_start": {
+        "year": 1552,
+        "month": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 1553,
+        "month": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Siège de Metz - Défense par le duc de Guise",
+      "description": "François de Guise défend victorieusement Metz assiégée par Charles Quint pendant deux mois, contraignant l'empereur à se retirer.",
+      "importance": 4,
+      "people": [
+        "François de Guise",
+        "Charles Quint"
+      ],
+      "locations": [
+        "Metz"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 390,
+        "line_end": 392,
+        "excerpt": "Le duc de Guise courut s'y enfermer, mit la ville en état de défense et, après deux mois de siège, contraignit Charles-Quint à se retirer (1553)."
+      }
+    },
+    {
+      "id": "evt_032",
+      "type": "political",
+      "date_start": {
+        "year": 1556,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Abdication de Charles Quint",
+      "description": "Charles Quint, découragé par ses échecs, abdique et se retire. Son fils Philippe II hérite de l'Espagne et des Pays-Bas, mais pas de l'Empire.",
+      "importance": 5,
+      "people": [
+        "Charles Quint",
+        "Philippe II",
+        "Ferdinand Ier"
+      ],
+      "locations": [
+        "Espagne",
+        "Pays-Bas"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 406,
+        "line_end": 415,
+        "excerpt": "C'est alors que Charles-Quint, découragé, obligé de renoncer à son rêve, n'ayant même pu transmettre à son fils la couronne impériale, résolut d'abdiquer (1556)."
+      }
+    },
+    {
+      "id": "evt_033",
+      "type": "battle",
+      "date_start": {
+        "year": 1557,
+        "month": 8,
+        "day": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Saint-Quentin",
+      "description": "Défaite française catastrophique face aux Espagnols et Anglais. Le connétable de Montmorency est capturé et Coligny défait.",
+      "importance": 4,
+      "people": [
+        "Philippe II",
+        "Emmanuel-Philibert de Savoie",
+        "Gaspard de Coligny",
+        "Anne de Montmorency"
+      ],
+      "locations": [
+        "Saint-Quentin",
+        "Pays-Bas"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 417,
+        "line_end": 426,
+        "excerpt": "Le duc de Savoie, par une marche rapide, arriva jusqu'à Saint-Quentin que défendait Coligny. Une tentative du connétable de Montmorency pour débloquer la ville fut malheureuse: l'armée française fut écrasée, la route de Paris était ouverte."
+      }
+    },
+    {
+      "id": "evt_034",
+      "type": "battle",
+      "date_start": {
+        "year": 1558,
+        "month": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Prise de Calais par le duc de Guise",
+      "description": "François de Guise reprend Calais aux Anglais par un coup de main audacieux, mettant fin à plus de deux siècles de présence anglaise.",
+      "importance": 5,
+      "people": [
+        "François de Guise"
+      ],
+      "locations": [
+        "Calais"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 430,
+        "line_end": 434,
+        "excerpt": "François de Guise pensa à Calais, précieuse possession de l'Angleterre, sa dernière enclave sur notre sol. La ville fut reconquise en quelques jours (1558), avec une hardiesse, un bonheur extraordinaires."
+      }
+    },
+    {
+      "id": "evt_035",
+      "type": "death",
+      "date_start": {
+        "year": 1558,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Marie Tudor",
+      "description": "Mort de Marie Tudor, reine d'Angleterre et épouse de Philippe II, mettant fin à l'alliance anglo-espagnole.",
+      "importance": 3,
+      "people": [
+        "Marie Tudor",
+        "Philippe II",
+        "Élisabeth Ire"
+      ],
+      "locations": [
+        "Angleterre"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 442,
+        "line_end": 444,
+        "excerpt": "Marie Tudor était morte. Avec elle Philippe II perdait l'alliance anglaise, et la reine Elisabeth, se décidant pour le protestantisme, fondait l'église anglicane."
+      }
+    },
+    {
+      "id": "evt_036",
+      "type": "religious",
+      "date_start": {
+        "year": 1558,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Fondation de l'Église anglicane",
+      "description": "La reine Élisabeth Ire opte pour le protestantisme et fonde l'Église anglicane.",
+      "importance": 4,
+      "people": [
+        "Élisabeth Ire"
+      ],
+      "locations": [
+        "Angleterre"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 443,
+        "line_end": 444,
+        "excerpt": "...la reine Elisabeth, se décidant pour le protestantisme, fondait l'église anglicane."
+      }
+    },
+    {
+      "id": "evt_037",
+      "type": "treaty",
+      "date_start": {
+        "year": 1559,
+        "month": 4,
+        "day": 3,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de Cateau-Cambrésis",
+      "description": "Traité de paix mettant fin aux guerres d'Italie. La France conserve Metz, Toul, Verdun et Calais mais renonce à l'Italie sauf Turin.",
+      "importance": 5,
+      "people": [
+        "Henri II",
+        "Philippe II"
+      ],
+      "locations": [
+        "Cateau-Cambrésis",
+        "Metz",
+        "Toul",
+        "Verdun",
+        "Calais",
+        "Turin",
+        "Italie"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 447,
+        "line_end": 452,
+        "excerpt": "La France retrouvait Saint-Quentin, gardait Metz, Toul, Verdun et Calais. Mais, sauf Turin, elle renonçait à l'Italie. C'est ce qui fait que le traité de Cateau-Cambrésis n'a pas été plus glorieux."
+      }
+    },
+    {
+      "id": "evt_038",
+      "type": "death",
+      "date_start": {
+        "year": 1559,
+        "month": 7,
+        "day": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort d'Henri II",
+      "description": "Henri II meurt lors d'un tournoi célébrant la paix, blessé à l'œil par la lance de Montgomery. Il ne laisse que de jeunes fils.",
+      "importance": 4,
+      "people": [
+        "Henri II",
+        "Gabriel de Montgomery"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 459,
+        "line_end": 462,
+        "excerpt": "Henri II mourut d'accident sur ces entrefaites (1559). Aux fêtes données pour la paix, le roi prit part à un tournoi où la lance de Montgomery lui entra dans l'oeil."
+      }
+    },
+    {
+      "id": "evt_039",
+      "type": "political",
+      "date_start": {
+        "year": 1548,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Révolte contre la gabelle dans le Sud-Ouest",
+      "description": "Soulèvement des provinces du Sud-Ouest contre la gabelle au début du règne d'Henri II, prenant un caractère révolutionnaire.",
+      "importance": 2,
+      "people": [
+        "Henri II",
+        "Étienne de La Boétie",
+        "Michel de Montaigne"
+      ],
+      "locations": [
+        "Sud-Ouest de la France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 467,
+        "line_end": 471,
+        "excerpt": "Déjà, au début du règne d'Henri II, les provinces du Sud-Ouest s'étaient soulevées contre la gabelle et l'insurrection avait pris un caractère révolutionnaire, dont témoigne un célèbre pamphlet contre les tyrans, le _Contre un_ de La Boëtie."
+      }
+    },
+    {
+      "id": "evt_040",
+      "type": "religious",
+      "date_start": {
+        "year": 1555,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Incident du Pré-aux-Clercs",
+      "description": "À Paris, la foule catholique assaille une réunion de protestants au Pré-aux-Clercs, signe des tensions religieuses croissantes.",
+      "importance": 2,
+      "people": [],
+      "locations": [
+        "Paris",
+        "Pré-aux-Clercs"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 493,
+        "line_end": 495,
+        "excerpt": "Sous Henri II, les incidents se multiplièrent. Il y en eut de graves à Paris, où la foule assaillit une réunion que les réformés tenaient au Pré-aux-Clercs."
+      }
+    },
+    {
+      "id": "evt_041",
+      "type": "political",
+      "date_start": {
+        "year": 1559,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Affaire Dubourg au Parlement",
+      "description": "Le conseiller Dubourg, nouveau protestant, défie Henri II au Parlement, le comparant au tyran Achab. Le roi fait arrêter plusieurs magistrats.",
+      "importance": 3,
+      "people": [
+        "Henri II",
+        "Anne Dubourg"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 509,
+        "line_end": 514,
+        "excerpt": "Un des conseillers, Dubourg, nouveau converti, défia le roi, le compara bibliquement au tyran Achab. Séance tenante, Henri II fit arrêter par sa garde quelques-uns des hauts magistrats."
+      }
+    },
+    {
+      "id": "evt_042",
+      "type": "event",
+      "date_start": {
+        "year": 1548,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Mariage de Marie Stuart et du dauphin François",
+      "description": "Marie Stuart, reine d'Écosse et fille de Marie de Guise, épouse le dauphin François, futur François II.",
+      "importance": 3,
+      "people": [
+        "Marie Stuart",
+        "François II",
+        "Marie de Guise"
+      ],
+      "locations": [
+        "France",
+        "Écosse"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 357,
+        "line_end": 360,
+        "excerpt": "Une soeur des Guise, de la maison de Lorraine... avait épousé le roi d'Ecosse. Sa fille, Marie Stuart... Conduite en France, elle épousa le dauphin."
+      }
+    }
+  ],
+  "people": [
+    {
+      "id": "pers_001",
+      "name": "François Ier",
+      "aliases": [
+        "le Roi-Chevalier"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1547,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1515,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1547,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Henri II"
+        },
+        {
+          "type": "mère",
+          "person": "Louise de Savoie"
+        },
+        {
+          "type": "soeur",
+          "person": "Marguerite de Navarre"
+        }
+      ],
+      "source_lines": [
+        9,
+        10,
+        23,
+        31,
+        51,
+        96,
+        116,
+        145,
+        146,
+        192,
+        206,
+        229,
+        235,
+        246,
+        257,
+        265,
+        272,
+        276,
+        279,
+        287,
+        298,
+        305,
+        317,
+        492
+      ]
+    },
+    {
+      "id": "pers_002",
+      "name": "Henri II",
+      "aliases": [],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1559,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1547,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1559,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "François Ier"
+        }
+      ],
+      "source_lines": [
+        320,
+        332,
+        342,
+        367,
+        373,
+        376,
+        459,
+        467,
+        493,
+        509,
+        512
+      ]
+    },
+    {
+      "id": "pers_003",
+      "name": "Charles Quint",
+      "aliases": [
+        "Charles d'Autriche",
+        "Charles V"
+      ],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Empereur du Saint-Empire",
+        "Roi d'Espagne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1519,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1556,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "grand-père",
+          "person": "Maximilien Ier"
+        },
+        {
+          "type": "grand-mère",
+          "person": "Marie de Bourgogne"
+        },
+        {
+          "type": "fils",
+          "person": "Philippe II"
+        }
+      ],
+      "source_lines": [
+        15,
+        50,
+        62,
+        67,
+        74,
+        81,
+        99,
+        102,
+        137,
+        149,
+        192,
+        196,
+        204,
+        209,
+        214,
+        248,
+        261,
+        264,
+        266,
+        268,
+        335,
+        340,
+        344,
+        368,
+        386,
+        392,
+        406
+      ]
+    },
+    {
+      "id": "pers_004",
+      "name": "Henri VIII",
+      "aliases": [],
+      "dynasty": "Tudor",
+      "titles": [
+        "Roi d'Angleterre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        93,
+        96,
+        132,
+        194,
+        202,
+        296
+      ]
+    },
+    {
+      "id": "pers_005",
+      "name": "Charles de Bourbon",
+      "aliases": [
+        "Duc de Bourbon",
+        "Connétable de Bourbon"
+      ],
+      "dynasty": "Bourbon",
+      "titles": [
+        "Duc de Bourbon",
+        "Connétable de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1527,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        112,
+        140,
+        155,
+        160,
+        194,
+        250
+      ]
+    },
+    {
+      "id": "pers_006",
+      "name": "Louise de Savoie",
+      "aliases": [],
+      "dynasty": "Savoie",
+      "titles": [
+        "Régente de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "fils",
+          "person": "François Ier"
+        }
+      ],
+      "source_lines": [
+        153,
+        200
+      ]
+    },
+    {
+      "id": "pers_007",
+      "name": "François de Guise",
+      "aliases": [
+        "Duc de Guise"
+      ],
+      "dynasty": "Guise",
+      "titles": [
+        "Duc de Guise",
+        "Lieutenant général du royaume"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        390,
+        393,
+        395,
+        426,
+        430,
+        433
+      ]
+    },
+    {
+      "id": "pers_008",
+      "name": "Gaspard de Coligny",
+      "aliases": [
+        "Amiral de Coligny"
+      ],
+      "dynasty": "Châtillon",
+      "titles": [
+        "Amiral de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Dandelot"
+        }
+      ],
+      "source_lines": [
+        422,
+        434,
+        506
+      ]
+    },
+    {
+      "id": "pers_009",
+      "name": "Philippe II",
+      "aliases": [],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Roi d'Espagne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Charles Quint"
+        },
+        {
+          "type": "épouse",
+          "person": "Marie Tudor"
+        }
+      ],
+      "source_lines": [
+        360,
+        370,
+        410,
+        417,
+        424,
+        442
+      ]
+    },
+    {
+      "id": "pers_010",
+      "name": "Martin Luther",
+      "aliases": [
+        "Luther"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Réformateur"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        64,
+        220,
+        473
+      ]
+    },
+    {
+      "id": "pers_011",
+      "name": "Soliman le Magnifique",
+      "aliases": [
+        "Soliman"
+      ],
+      "dynasty": "Ottoman",
+      "titles": [
+        "Sultan de l'Empire ottoman"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        230,
+        246,
+        261
+      ]
+    },
+    {
+      "id": "pers_012",
+      "name": "Marguerite de Navarre",
+      "aliases": [
+        "Marguerite d'Angoulême"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Reine de Navarre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "frère",
+          "person": "François Ier"
+        }
+      ],
+      "source_lines": [
+        278
+      ]
+    },
+    {
+      "id": "pers_013",
+      "name": "Marie Tudor",
+      "aliases": [
+        "Marie Ire d'Angleterre",
+        "Bloody Mary"
+      ],
+      "dynasty": "Tudor",
+      "titles": [
+        "Reine d'Angleterre"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1558,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Philippe II"
+        }
+      ],
+      "source_lines": [
+        360,
+        411,
+        418,
+        442
+      ]
+    },
+    {
+      "id": "pers_014",
+      "name": "Élisabeth Ire",
+      "aliases": [
+        "Elizabeth I"
+      ],
+      "dynasty": "Tudor",
+      "titles": [
+        "Reine d'Angleterre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        443
+      ]
+    },
+    {
+      "id": "pers_015",
+      "name": "Marie Stuart",
+      "aliases": [
+        "Marie Ire d'Écosse"
+      ],
+      "dynasty": "Stuart",
+      "titles": [
+        "Reine d'Écosse"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "mère",
+          "person": "Marie de Guise"
+        },
+        {
+          "type": "époux",
+          "person": "François II"
+        }
+      ],
+      "source_lines": [
+        359
+      ]
+    },
+    {
+      "id": "pers_016",
+      "name": "Anne de Montmorency",
+      "aliases": [
+        "Connétable de Montmorency"
+      ],
+      "dynasty": "Montmorency",
+      "titles": [
+        "Connétable de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        422
+      ]
+    },
+    {
+      "id": "pers_017",
+      "name": "Emmanuel-Philibert de Savoie",
+      "aliases": [
+        "Duc de Savoie"
+      ],
+      "dynasty": "Savoie",
+      "titles": [
+        "Duc de Savoie"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        419,
+        420
+      ]
+    },
+    {
+      "id": "pers_018",
+      "name": "Maximilien Ier",
+      "aliases": [
+        "Maximilien Ier de Habsbourg"
+      ],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Empereur du Saint-Empire"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1519,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Marie de Bourgogne"
+        },
+        {
+          "type": "petit-fils",
+          "person": "Charles Quint"
+        }
+      ],
+      "source_lines": [
+        43,
+        50
+      ]
+    },
+    {
+      "id": "pers_019",
+      "name": "Gabriel de Montgomery",
+      "aliases": [
+        "Montgomery"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Capitaine de la Garde écossaise"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        460
+      ]
+    },
+    {
+      "id": "pers_020",
+      "name": "Duprat",
+      "aliases": [
+        "Antoine Duprat",
+        "Chancelier Duprat"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Chancelier de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        173
+      ]
+    },
+    {
+      "id": "pers_021",
+      "name": "Étienne de La Boétie",
+      "aliases": [
+        "La Boëtie"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        470
+      ]
+    },
+    {
+      "id": "pers_022",
+      "name": "Michel de Montaigne",
+      "aliases": [
+        "Montaigne"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        471
+      ]
+    },
+    {
+      "id": "pers_023",
+      "name": "Jean Calvin",
+      "aliases": [
+        "Calvin"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Réformateur"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        473,
+        496
+      ]
+    },
+    {
+      "id": "pers_024",
+      "name": "Anne Dubourg",
+      "aliases": [
+        "Dubourg"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Conseiller au Parlement de Paris"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        511
+      ]
+    },
+    {
+      "id": "pers_025",
+      "name": "Wolsey",
+      "aliases": [
+        "Thomas Wolsey",
+        "Cardinal Wolsey"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Cardinal",
+        "Lord Chancelier d'Angleterre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        97
+      ]
+    },
+    {
+      "id": "pers_026",
+      "name": "Louis XII",
+      "aliases": [],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1515,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        20,
+        22
+      ]
+    },
+    {
+      "id": "pers_027",
+      "name": "Clément Marot",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Poète"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        278
+      ]
+    },
+    {
+      "id": "pers_028",
+      "name": "Ibrahim Pacha",
+      "aliases": [
+        "Ibrahim"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Grand vizir de l'Empire ottoman"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        230
+      ]
+    },
+    {
+      "id": "pers_029",
+      "name": "Montluc",
+      "aliases": [
+        "Blaise de Montluc"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Maréchal de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        453
+      ]
+    },
+    {
+      "id": "pers_030",
+      "name": "Ferdinand Ier",
+      "aliases": [],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Empereur du Saint-Empire"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Charles Quint"
+        }
+      ],
+      "source_lines": [
+        446
+      ]
+    },
+    {
+      "id": "pers_031",
+      "name": "Dandelot",
+      "aliases": [
+        "François de Coligny"
+      ],
+      "dynasty": "Châtillon",
+      "titles": [
+        "Colonel général de l'infanterie"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Gaspard de Coligny"
+        }
+      ],
+      "source_lines": [
+        435
+      ]
+    },
+    {
+      "id": "pers_032",
+      "name": "Marillac",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Diplomate"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        374
+      ]
+    },
+    {
+      "id": "pers_033",
+      "name": "Marie de Guise",
+      "aliases": [],
+      "dynasty": "Guise",
+      "titles": [
+        "Reine d'Écosse"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "fille",
+          "person": "Marie Stuart"
+        }
+      ],
+      "source_lines": [
+        357,
+        358
+      ]
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_valois",
+      "name": "Valois",
+      "period_start": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1589,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_habsbourg",
+      "name": "Habsbourg",
+      "period_start": {
+        "year": 1273,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": null
+    },
+    {
+      "id": "dyn_tudor",
+      "name": "Tudor",
+      "period_start": {
+        "year": 1485,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1603,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_guise",
+      "name": "Maison de Guise",
+      "period_start": {
+        "year": 1528,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1688,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}

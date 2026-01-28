@@ -1,0 +1,2562 @@
+{
+  "chapter_number": 9,
+  "chapter_title": "Chapter 9",
+  "line_start": 4244,
+  "line_end": 4916,
+  "validation_status": "success",
+  "entries": [
+    {
+      "id": "evt_001",
+      "type": "death",
+      "date_start": {
+        "year": 1559,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort d'Henri II",
+      "description": "La mort d'Henri II précipite les guerres de religion en France. Son fils François II, âgé de seize ans et maladif, lui succède.",
+      "importance": 4,
+      "people": [
+        "Henri II",
+        "François II"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 9,
+        "line_end": 18,
+        "excerpt": "La mort d'Henri II précipita les choses: le «grabuge», comme il disait, passait d'Allemagne en France."
+      }
+    },
+    {
+      "id": "evt_002",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1559,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de François II",
+      "description": "François II, âgé de seize ans et maladif, devient roi. Son règne d'une année voit les catholiques et protestants prendre position.",
+      "importance": 3,
+      "people": [
+        "François II",
+        "Catherine de Médicis",
+        "Michel de L'Hospital"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 9,
+        "line_end": 18,
+        "excerpt": "Son fils François II n'avait que seize ans et il était maladif. Son règne d'une année fut celui où les catholiques et les protestants prirent position"
+      }
+    },
+    {
+      "id": "evt_003",
+      "type": "political",
+      "date_start": {
+        "year": 1560,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Conspiration d'Amboise",
+      "description": "La Renaudie organise une conspiration pour enlever les Guise et le roi, convoquer les États Généraux et proclamer les Bourbons. Elle est découverte par le cardinal de Lorraine et La Renaudie est tué.",
+      "importance": 4,
+      "people": [
+        "La Renaudie",
+        "François de Guise",
+        "Cardinal de Lorraine",
+        "Antoine de Bourbon",
+        "Louis de Condé"
+      ],
+      "locations": [
+        "Amboise"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 46,
+        "line_end": 61,
+        "excerpt": "Ce fut la conspiration d'Amboise (1560). Elle fut éventée par le cardinal de Lorraine, et le duc de Guise devança La Renaudie qui fut tué"
+      }
+    },
+    {
+      "id": "evt_004",
+      "type": "political",
+      "date_start": {
+        "year": 1560,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Rébellion protestante après Amboise",
+      "description": "Après l'échec de la conspiration d'Amboise, le parti protestant prend les armes à Lyon, en Dauphiné et en Provence.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Lyon",
+        "Dauphiné",
+        "Provence"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 58,
+        "line_end": 61,
+        "excerpt": "Il prit les armes sur divers points, à Lyon, en Dauphiné, en Provence."
+      }
+    },
+    {
+      "id": "evt_005",
+      "type": "political",
+      "date_start": {
+        "year": 1560,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "États Généraux d'Orléans",
+      "description": "Les États Généraux sont convoqués à Orléans. Le roi de Navarre et Condé s'y rendent. Condé est arrêté, jugé et condamné pour trahison.",
+      "importance": 3,
+      "people": [
+        "Antoine de Bourbon",
+        "Louis de Condé",
+        "François de Guise"
+      ],
+      "locations": [
+        "Orléans"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 71,
+        "line_end": 83,
+        "excerpt": "Les Etats convoqués à Orléans, le roi de Navarre et Condé furent invités à s'y rendre... Condé, sommé par le roi d'expliquer sa conduite... fut condamné pour trahison."
+      }
+    },
+    {
+      "id": "evt_006",
+      "type": "death",
+      "date_start": {
+        "year": 1560,
+        "month": 12,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort de François II",
+      "description": "La mort de François II, après un règne d'une année, change la situation politique. Charles IX, mineur, lui succède et la reine mère Catherine de Médicis prend le pouvoir.",
+      "importance": 4,
+      "people": [
+        "François II",
+        "Charles IX",
+        "Catherine de Médicis",
+        "Michel de L'Hospital"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 85,
+        "line_end": 92,
+        "excerpt": "La mort de François II, dans la même année 1560, atteignit les Guise au milieu de ce succès. Cette mort changeait tout"
+      }
+    },
+    {
+      "id": "evt_007",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1560,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Charles IX",
+      "description": "Charles IX devient roi mais étant mineur, la régence est assurée par Catherine de Médicis et le chancelier L'Hospital qui prônent l'apaisement.",
+      "importance": 3,
+      "people": [
+        "Charles IX",
+        "Catherine de Médicis",
+        "Michel de L'Hospital"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 85,
+        "line_end": 92,
+        "excerpt": "le nouveau roi, Charles IX, étant mineur, la reine mère et L'Hospital prenaient la haute main"
+      }
+    },
+    {
+      "id": "evt_008",
+      "type": "religious",
+      "date_start": {
+        "year": 1561,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Colloque de Poissy",
+      "description": "L'Hospital convoque à Poissy un colloque d'évêques et de ministres protestants pour rapprocher les deux religions. Il s'achève par une violente querelle.",
+      "importance": 3,
+      "people": [
+        "Michel de L'Hospital"
+      ],
+      "locations": [
+        "Poissy"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 129,
+        "line_end": 132,
+        "excerpt": "La singulière idée qu'eut L'Hospital de convoquer à Poissy un colloque d'évêques et de ministres pour rapprocher les deux religions s'acheva par une violente querelle"
+      }
+    },
+    {
+      "id": "evt_009",
+      "type": "political",
+      "date_start": {
+        "year": 1561,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Formation du Triumvirat catholique",
+      "description": "Le duc de Guise, le connétable de Montmorency et le maréchal de Saint-André forment le triumvirat, une sorte de gouvernement parallèle catholique.",
+      "importance": 3,
+      "people": [
+        "François de Guise",
+        "Anne de Montmorency",
+        "Jacques d'Albon de Saint-André"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 133,
+        "line_end": 136,
+        "excerpt": "le duc de Guise, le vieux connétable de Montmorency et le maréchal de Saint-André avaient formé une sorte de gouvernement à côté du gouvernement, le triumvirat"
+      }
+    },
+    {
+      "id": "evt_010",
+      "type": "event",
+      "date_start": {
+        "year": 1562,
+        "month": 3,
+        "day": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Massacre de Vassy",
+      "description": "Échauffourée sanglante où le duc de Guise est personnellement impliqué. Les protestants crient à la persécution et prennent les armes, déclenchant la première guerre de religion.",
+      "importance": 5,
+      "people": [
+        "François de Guise"
+      ],
+      "locations": [
+        "Vassy"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 136,
+        "line_end": 142,
+        "excerpt": "la sanglante échauffourée qu'on a appelée le massacre de Vassy... On était en mars 1562: la véritable guerre civile commençait"
+      }
+    },
+    {
+      "id": "evt_011",
+      "type": "period",
+      "date_start": {
+        "year": 1562,
+        "month": 3,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "date_end": {
+        "year": 1598,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Début des guerres de religion",
+      "description": "La véritable guerre civile commence avec un manifeste du prince de Condé. Les guerres de religion déchireront la France pendant plus de trente ans.",
+      "importance": 5,
+      "people": [
+        "Louis de Condé"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 140,
+        "line_end": 142,
+        "excerpt": "On était en mars 1562: la véritable guerre civile commençait et un manifeste du prince de Condé l'ouvrit."
+      }
+    },
+    {
+      "id": "evt_012",
+      "type": "political",
+      "date_start": {
+        "year": 1562,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Coup d'État de Fontainebleau",
+      "description": "François de Guise s'empare de la reine mère et du jeune roi Charles IX à Fontainebleau, les conduit à Paris et reprend le pouvoir.",
+      "importance": 3,
+      "people": [
+        "François de Guise",
+        "Catherine de Médicis",
+        "Charles IX"
+      ],
+      "locations": [
+        "Fontainebleau",
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 148,
+        "line_end": 151,
+        "excerpt": "il s'empara, à Fontainebleau, de la reine mère et du jeune roi, les conduisit à Paris, et reprit le pouvoir"
+      }
+    },
+    {
+      "id": "evt_013",
+      "type": "treaty",
+      "date_start": {
+        "year": 1562,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité protestant avec l'Angleterre",
+      "description": "Condé et Coligny signent une convention avec l'Angleterre d'Elisabeth, livrant Le Havre et promettant la restitution de Calais en échange d'un soutien contre les catholiques.",
+      "importance": 3,
+      "people": [
+        "Louis de Condé",
+        "Gaspard de Coligny",
+        "Élisabeth Ire d'Angleterre"
+      ],
+      "locations": [
+        "Le Havre",
+        "Calais",
+        "Angleterre"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 182,
+        "line_end": 185,
+        "excerpt": "Elisabeth lui donna son appui moyennant des gages: la remise du Havre d'abord et plus tard la restitution de Calais. Condé et Coligny qui signèrent cette convention"
+      }
+    },
+    {
+      "id": "evt_014",
+      "type": "battle",
+      "date_start": {
+        "year": 1562,
+        "month": 12,
+        "day": 19,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Dreux",
+      "description": "Le duc de Guise rencontre Condé et Coligny près de Dreux et remporte une victoire difficile mais décisive pour le camp catholique.",
+      "importance": 4,
+      "people": [
+        "François de Guise",
+        "Louis de Condé",
+        "Gaspard de Coligny"
+      ],
+      "locations": [
+        "Dreux",
+        "Normandie"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 197,
+        "line_end": 202,
+        "excerpt": "Guise rencontra Condé et Coligny près de Dreux et remporta une victoire difficile, mais une victoire"
+      }
+    },
+    {
+      "id": "evt_015",
+      "type": "death",
+      "date_start": {
+        "year": 1562,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort d'Antoine de Bourbon au siège de Rouen",
+      "description": "Antoine de Bourbon, roi de Navarre, est tué lors du siège de Rouen pendant les guerres de religion.",
+      "importance": 3,
+      "people": [
+        "Antoine de Bourbon"
+      ],
+      "locations": [
+        "Rouen"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 207,
+        "line_end": 210,
+        "excerpt": "l'incertain roi de Navarre, tué au siège de Rouen, étaient morts"
+      }
+    },
+    {
+      "id": "evt_016",
+      "type": "death",
+      "date_start": {
+        "year": 1563,
+        "month": 2,
+        "day": 24,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Assassinat de François de Guise",
+      "description": "François de Guise est assassiné par Poltrot de Méré alors qu'il assiège Orléans. Ce crime engendre une vendetta que son fils Henri de Guise accomplira lors de la Saint-Barthélemy.",
+      "importance": 4,
+      "people": [
+        "François de Guise",
+        "Jean de Poltrot de Méré",
+        "Henri de Guise"
+      ],
+      "locations": [
+        "Orléans"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 201,
+        "line_end": 205,
+        "excerpt": "il fut assassiné par Poltrot de Méré (1563). A ce guet-apens, le fils de François de Guise répondra dans la nuit de la Saint-Barthélemy"
+      }
+    },
+    {
+      "id": "evt_017",
+      "type": "treaty",
+      "date_start": {
+        "year": 1563,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Paix d'Amboise (fin de la première guerre de religion)",
+      "description": "Catherine de Médicis offre la paix à Condé et aux gentilshommes protestants, leur accordant la liberté du culte en privé. Le parti protestant est divisé.",
+      "importance": 3,
+      "people": [
+        "Catherine de Médicis",
+        "Louis de Condé"
+      ],
+      "locations": [
+        "Amboise"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 211,
+        "line_end": 218,
+        "excerpt": "Elle offrit la paix à Condé et aux gentilshommes protestants, leur accordant la liberté du culte qui était refusée à quiconque ne pouvait célébrer la Cène en privé"
+      }
+    },
+    {
+      "id": "evt_018",
+      "type": "political",
+      "date_start": {
+        "year": 1567,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Surprise de Meaux",
+      "description": "Coligny tente de s'emparer de la personne du roi Charles IX à Meaux. Le coup échoue et le roi se réfugie à Paris. L'Hospital quitte le pouvoir.",
+      "importance": 3,
+      "people": [
+        "Gaspard de Coligny",
+        "Charles IX",
+        "Michel de L'Hospital"
+      ],
+      "locations": [
+        "Meaux",
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 234,
+        "line_end": 248,
+        "excerpt": "le coup de Coligny fut manqué et Charles IX, après avoir failli être pris à Meaux, put se réfugier à Paris... L'Hospital, rendu responsable de ce qui avait failli arriver, dut quitter le pouvoir"
+      }
+    },
+    {
+      "id": "evt_019",
+      "type": "battle",
+      "date_start": {
+        "year": 1569,
+        "month": 3,
+        "day": 13,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Jarnac",
+      "description": "L'armée royale remporte une victoire à Jarnac où le prince de Condé est tué. Malgré ce succès, la sédition protestante n'est pas écrasée.",
+      "importance": 4,
+      "people": [
+        "Louis de Condé"
+      ],
+      "locations": [
+        "Jarnac"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 249,
+        "line_end": 252,
+        "excerpt": "malgré des succès (à Jarnac, où le prince de Condé fut tué, et à Moncontour), elle ne parvint pas à écraser la sédition"
+      }
+    },
+    {
+      "id": "evt_020",
+      "type": "death",
+      "date_start": {
+        "year": 1569,
+        "month": 3,
+        "day": 13,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort du prince de Condé à Jarnac",
+      "description": "Louis de Bourbon, prince de Condé, chef du parti protestant, est tué à la bataille de Jarnac.",
+      "importance": 3,
+      "people": [
+        "Louis de Condé"
+      ],
+      "locations": [
+        "Jarnac"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 250,
+        "line_end": 251,
+        "excerpt": "à Jarnac, où le prince de Condé fut tué"
+      }
+    },
+    {
+      "id": "evt_021",
+      "type": "battle",
+      "date_start": {
+        "year": 1569,
+        "month": 10,
+        "day": 3,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Moncontour",
+      "description": "Victoire de l'armée royale catholique contre les protestants, mais insuffisante pour écraser la rébellion huguenote.",
+      "importance": 3,
+      "people": [
+        "Gaspard de Coligny"
+      ],
+      "locations": [
+        "Moncontour"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 250,
+        "line_end": 252,
+        "excerpt": "malgré des succès (à Jarnac... et à Moncontour), elle ne parvint pas à écraser la sédition"
+      }
+    },
+    {
+      "id": "evt_022",
+      "type": "treaty",
+      "date_start": {
+        "year": 1570,
+        "month": 8,
+        "day": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Paix de Saint-Germain",
+      "description": "Charles IX accorde aux protestants la liberté de conscience, la liberté du culte avec quelques restrictions, et quatre places de sûreté: La Rochelle, Cognac, La Charité et Montauban.",
+      "importance": 4,
+      "people": [
+        "Charles IX"
+      ],
+      "locations": [
+        "Saint-Germain-en-Laye",
+        "La Rochelle",
+        "Cognac",
+        "La Charité",
+        "Montauban"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 268,
+        "line_end": 271,
+        "excerpt": "Par la paix de 1570, il leur donna encore la liberté du culte, sauf quelques restrictions en vue de l'ordre public, et quatre «places de sûreté», La Rochelle, Cognac, La Charité et Montauban"
+      }
+    },
+    {
+      "id": "evt_023",
+      "type": "political",
+      "date_start": {
+        "year": 1571,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Coligny à la cour de Blois",
+      "description": "Coligny, chef des rebelles protestants, est accueilli à la cour à Blois et devient conseiller du roi Charles IX. C'est un renversement complet de la situation politique.",
+      "importance": 3,
+      "people": [
+        "Gaspard de Coligny",
+        "Charles IX",
+        "Catherine de Médicis"
+      ],
+      "locations": [
+        "Blois"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 292,
+        "line_end": 296,
+        "excerpt": "«Nous avons ici l'amiral à Blois.» Coligny à la cour, c'était un renversement complet de la situation. Le chef des rebelles... entra dans la ville à la droite du roi"
+      }
+    },
+    {
+      "id": "evt_024",
+      "type": "event",
+      "date_start": {
+        "year": 1572,
+        "month": 8,
+        "day": 18,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mariage d'Henri de Bourbon et Marguerite de Valois",
+      "description": "Charles IX donne sa sœur Marguerite en mariage à Henri de Bourbon (futur Henri IV), premier \"mariage mixte\" sans dispense du pape, destiné à rapprocher les deux branches de la famille royale.",
+      "importance": 4,
+      "people": [
+        "Henri de Bourbon",
+        "Marguerite de Valois",
+        "Charles IX"
+      ],
+      "locations": [
+        "Paris",
+        "Notre-Dame de Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 287,
+        "line_end": 321,
+        "excerpt": "le mariage de Marguerite de Valois et d'Henri de Bourbon, le premier «mariage mixte» et sans dispense du pape, faisait scandale"
+      }
+    },
+    {
+      "id": "evt_025",
+      "type": "event",
+      "date_start": {
+        "year": 1572,
+        "month": 8,
+        "day": 22,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Attentat de Maurevel contre Coligny",
+      "description": "Coligny est blessé dans un attentat inspiré par Henri de Guise, en représailles du meurtre de son père. Cet événement déclenche la chaîne d'événements menant à la Saint-Barthélemy.",
+      "importance": 3,
+      "people": [
+        "Gaspard de Coligny",
+        "Henri de Guise",
+        "Charles de Louviers de Maurevert"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 325,
+        "line_end": 334,
+        "excerpt": "un premier attentat dirigé contre Coligny, qui fut seulement blessé, fut inspiré par Henri de Guise en représailles du meurtre de son père"
+      }
+    },
+    {
+      "id": "evt_026",
+      "type": "event",
+      "date_start": {
+        "year": 1572,
+        "month": 8,
+        "day": 24,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Massacre de la Saint-Barthélemy",
+      "description": "Dans la nuit du 24 août 1572, les protestants sont massacrés à Paris avec une fureur enthousiaste. Coligny et les chefs sont tués. Le massacre s'étend aux provinces. Henri de Bourbon se convertit pour sauver sa vie.",
+      "importance": 5,
+      "people": [
+        "Charles IX",
+        "Catherine de Médicis",
+        "Henri de Guise",
+        "Gaspard de Coligny",
+        "Henri de Bourbon"
+      ],
+      "locations": [
+        "Paris",
+        "Le Louvre"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 356,
+        "line_end": 398,
+        "excerpt": "Les deux journées qui précédèrent le 24 août 1572 furent remplies par des conseils orageux... Non seulement Coligny et les chefs, mais tous les protestants furent massacrés avec une fureur enthousiaste"
+      }
+    },
+    {
+      "id": "evt_027",
+      "type": "death",
+      "date_start": {
+        "year": 1572,
+        "month": 8,
+        "day": 24,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort de Gaspard de Coligny",
+      "description": "L'amiral de Coligny, chef du parti protestant, est assassiné lors du massacre de la Saint-Barthélemy.",
+      "importance": 4,
+      "people": [
+        "Gaspard de Coligny"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 386,
+        "line_end": 388,
+        "excerpt": "Non seulement Coligny et les chefs, mais tous les protestants furent massacrés avec une fureur enthousiaste"
+      }
+    },
+    {
+      "id": "evt_028",
+      "type": "political",
+      "date_start": {
+        "year": 1573,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Élection du duc d'Anjou comme roi de Pologne",
+      "description": "Avec l'assentiment des puissances protestantes, le duc d'Anjou (futur Henri III), troisième fils de Catherine de Médicis, est élu roi de Pologne.",
+      "importance": 3,
+      "people": [
+        "Henri d'Anjou",
+        "Catherine de Médicis"
+      ],
+      "locations": [
+        "Pologne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 427,
+        "line_end": 430,
+        "excerpt": "le troisième fils de Catherine de Médicis, le duc d'Anjou, fut élu roi de Pologne"
+      }
+    },
+    {
+      "id": "evt_029",
+      "type": "death",
+      "date_start": {
+        "year": 1574,
+        "month": 5,
+        "day": 30,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort de Charles IX",
+      "description": "Charles IX meurt d'une pleurésie à 24 ans. Henri III, roi de Pologne, lui succède. La monarchie héréditaire est confrontée à la question de la succession par Henri de Bourbon, protestant.",
+      "importance": 4,
+      "people": [
+        "Charles IX",
+        "Henri III"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 432,
+        "line_end": 436,
+        "excerpt": "Le roi, très jeune encore, allait d'ailleurs mourir dès 1574... sa mort--une pleurésie--fut troublée par autre chose que des souvenirs"
+      }
+    },
+    {
+      "id": "evt_030",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1574,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement d'Henri III",
+      "description": "Henri III, qui était en Pologne à la mort de son frère Charles IX, rentre en France pour trouver un royaume divisé et un trône chancelant.",
+      "importance": 3,
+      "people": [
+        "Henri III"
+      ],
+      "locations": [
+        "France",
+        "Pologne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 464,
+        "line_end": 467,
+        "excerpt": "Il était en Pologne à la mort de son frère et il ne rentra en France que pour trouver un royaume divisé, un trône chancelant"
+      }
+    },
+    {
+      "id": "evt_031",
+      "type": "treaty",
+      "date_start": {
+        "year": 1576,
+        "month": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Édit de Beaulieu (Paix de Monsieur)",
+      "description": "Henri III capitule devant la coalition des mécontents et huguenots. Les protestants obtiennent le libre exercice du culte, des places de sûreté et des sièges aux Parlements, avec un désaveu de la Saint-Barthélemy.",
+      "importance": 4,
+      "people": [
+        "Henri III",
+        "François d'Alençon"
+      ],
+      "locations": [
+        "Beaulieu"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 471,
+        "line_end": 479,
+        "excerpt": "Les protestants obtinrent le libre exercice de leur culte, sans restriction d'aucune sorte, des places de sûreté, des sièges dans les Parlements... plus un désavoeu de la Saint-Barthélemy"
+      }
+    },
+    {
+      "id": "evt_032",
+      "type": "political",
+      "date_start": {
+        "year": 1576,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Naissance de la Sainte Ligue",
+      "description": "En réponse aux concessions faites aux protestants, les catholiques constituent la Ligue. Le mouvement part de Picardie. Henri de Guise lance le manifeste de la \"Sainte-Union\".",
+      "importance": 5,
+      "people": [
+        "Henri de Guise"
+      ],
+      "locations": [
+        "Picardie",
+        "Péronne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 481,
+        "line_end": 494,
+        "excerpt": "C'est alors que naquit la Ligue... Le mouvement partit de Picardie... le manifeste de la «Sainte-Union» fut lancé par Henri de Guise"
+      }
+    },
+    {
+      "id": "evt_033",
+      "type": "political",
+      "date_start": {
+        "year": 1576,
+        "month": 12,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "États généraux de Blois (1576)",
+      "description": "Des états généraux dominés par la Ligue se tiennent à Blois. Ils s'achèvent dans la confusion sur les questions religieuses et financières. Le roi en sort diminué.",
+      "importance": 3,
+      "people": [
+        "Henri III",
+        "Henri de Guise"
+      ],
+      "locations": [
+        "Blois"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 511,
+        "line_end": 516,
+        "excerpt": "des états généraux, où la Ligue ne fit élire que des catholiques, furent tenus à Blois en 1576. Ils s'achevèrent dans la confusion"
+      }
+    },
+    {
+      "id": "evt_034",
+      "type": "political",
+      "date_start": {
+        "year": 1577,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Dissolution des ligues par Henri III",
+      "description": "Henri III tente un coup d'autorité et prononce la dissolution de toutes les ligues, protestantes et catholiques. Cette tentative échoue faute de moyens.",
+      "importance": 2,
+      "people": [
+        "Henri III"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 518,
+        "line_end": 522,
+        "excerpt": "Henri III tenta un coup d'autorité et prononça la dissolution de toutes les ligues, protestantes aussi bien que catholiques. Ce fut en vain"
+      }
+    },
+    {
+      "id": "evt_035",
+      "type": "death",
+      "date_start": {
+        "year": 1584,
+        "month": 6,
+        "day": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort du duc d'Alençon",
+      "description": "Le duc d'Alençon, quatrième fils d'Henri II, meurt après l'échec d'Anvers. Henri de Bourbon devient alors l'héritier certain du trône, relançant la Ligue.",
+      "importance": 4,
+      "people": [
+        "François d'Alençon",
+        "Henri de Bourbon"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 530,
+        "line_end": 536,
+        "excerpt": "c'est après l'échec d'Anvers que mourut le duc d'Alençon, quatrième fils d'Henri II. Dès lors, Henri de Bourbon... devenait, de toute certitude, l'héritier du trône"
+      }
+    },
+    {
+      "id": "evt_036",
+      "type": "battle",
+      "date_start": {
+        "year": 1587,
+        "month": 10,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Coutras",
+      "description": "Henri de Bourbon, roi de Navarre, remporte à Coutras la première victoire des protestants dans les guerres de religion. Il se comporte déjà en futur roi de France.",
+      "importance": 4,
+      "people": [
+        "Henri de Bourbon",
+        "Anne de Joyeuse"
+      ],
+      "locations": [
+        "Coutras"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 549,
+        "line_end": 556,
+        "excerpt": "Le Béarnais vainquit à Coutras (1587). C'était la première victoire que les protestants remportaient"
+      }
+    },
+    {
+      "id": "evt_037",
+      "type": "event",
+      "date_start": {
+        "year": 1588,
+        "month": 5,
+        "day": 12,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Journée des Barricades",
+      "description": "Insurrection parisienne de la Ligue. Henri III fait entrer des troupes dans Paris, les ligueurs dressent des barricades jusqu'autour du Louvre. Le roi s'échappe secrètement vers Chartres.",
+      "importance": 4,
+      "people": [
+        "Henri III",
+        "Henri de Guise"
+      ],
+      "locations": [
+        "Paris",
+        "Le Louvre",
+        "Chartres"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 568,
+        "line_end": 588,
+        "excerpt": "des barricades se dressèrent dans toutes les rues et jusqu'autour du Louvre... Henri III... s'échappa secrètement... Cette «journée des barricades»"
+      }
+    },
+    {
+      "id": "evt_038",
+      "type": "battle",
+      "date_start": {
+        "year": 1588,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Défaite de l'Invincible Armada",
+      "description": "Le désastre de l'Armada espagnole dispersée devant les côtes anglaises enlève à Philippe II les moyens de dominer l'Europe, ce qui préserve indirectement la France.",
+      "importance": 4,
+      "people": [
+        "Philippe II d'Espagne",
+        "Élisabeth Ire d'Angleterre"
+      ],
+      "locations": [
+        "Angleterre",
+        "Espagne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 595,
+        "line_end": 597,
+        "excerpt": "le désastre de l'_Armada_ dispersée devant les côtes anglaises enlevait à Philippe II les moyens de dominer l'Europe"
+      }
+    },
+    {
+      "id": "evt_039",
+      "type": "political",
+      "date_start": {
+        "year": 1588,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Perte du marquisat de Saluces",
+      "description": "Profitant de l'affaiblissement de la France, le duc de Savoie s'empare du marquisat de Saluces.",
+      "importance": 2,
+      "people": [
+        "Charles-Emmanuel Ier de Savoie"
+      ],
+      "locations": [
+        "Saluces",
+        "Savoie"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 597,
+        "line_end": 599,
+        "excerpt": "La France était pourtant si affaiblie que le duc de Savoie pouvait se permettre de lui enlever le marquisat de Saluces"
+      }
+    },
+    {
+      "id": "evt_040",
+      "type": "political",
+      "date_start": {
+        "year": 1588,
+        "month": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "États généraux de Blois (1588)",
+      "description": "Les états généraux de Blois sont un triomphe de la Ligue. Des députés ligueurs demandent un régime parlementaire à l'anglaise. Les impôts sont supprimés par démagogie.",
+      "importance": 3,
+      "people": [
+        "Henri III",
+        "Henri de Guise"
+      ],
+      "locations": [
+        "Blois"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 601,
+        "line_end": 608,
+        "excerpt": "en 1588 les états généraux de Blois, triomphe de la Ligue, donnèrent ce spectacle. Des députés ligueurs demandèrent que la France se gouvernât comme l'Angleterre"
+      }
+    },
+    {
+      "id": "evt_041",
+      "type": "death",
+      "date_start": {
+        "year": 1588,
+        "month": 12,
+        "day": 23,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Assassinat d'Henri de Guise à Blois",
+      "description": "Henri III fait assassiner le duc de Guise par ses gentilshommes gascons (les Quarante-Cinq) dans la chambre du conseil au château de Blois. Le cardinal de Guise est tué le lendemain.",
+      "importance": 5,
+      "people": [
+        "Henri III",
+        "Henri de Guise",
+        "Cardinal de Guise"
+      ],
+      "locations": [
+        "Blois"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 617,
+        "line_end": 633,
+        "excerpt": "les quelques gentilshommes gascons qui tuèrent le duc à coups de poignard et d'épée au moment où il entrait dans la chambre du conseil (23 décembre 1588). Son frère le cardinal fut tué le lendemain"
+      }
+    },
+    {
+      "id": "evt_042",
+      "type": "political",
+      "date_start": {
+        "year": 1589,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "La Ligue proclame Charles X roi",
+      "description": "Après l'assassinat des Guise, la Ligue gouverne Paris par le Conseil des Seize et crée le Conseil Général de l'Union. Le cardinal de Bourbon est proclamé roi sous le nom de Charles X.",
+      "importance": 3,
+      "people": [
+        "Cardinal de Bourbon"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 639,
+        "line_end": 644,
+        "excerpt": "la Ligue... gouvernait Paris par le Conseil des Seize, créait pour la France le Conseil Général de l'Union... le nom de Charles X donné au cardinal de Bourbon"
+      }
+    },
+    {
+      "id": "evt_043",
+      "type": "political",
+      "date_start": {
+        "year": 1589,
+        "month": 4,
+        "day": 30,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Réconciliation d'Henri III et Henri de Bourbon",
+      "description": "Trois mois après l'assassinat du duc de Guise, Henri III et Henri de Bourbon se réconcilient et unissent leurs forces pour sauver la monarchie héréditaire.",
+      "importance": 4,
+      "people": [
+        "Henri III",
+        "Henri de Bourbon"
+      ],
+      "locations": [
+        "Plessis-lès-Tours"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 646,
+        "line_end": 651,
+        "excerpt": "Henri III et Henri de Bourbon réconciliés le comprirent, sautèrent ce grand pas. Ils unirent leurs forces trois mois après le drame de Blois"
+      }
+    },
+    {
+      "id": "evt_044",
+      "type": "death",
+      "date_start": {
+        "year": 1589,
+        "month": 8,
+        "day": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Assassinat d'Henri III par Jacques Clément",
+      "description": "Alors qu'Henri III et Henri de Bourbon assiègent Paris, le moine Jacques Clément assassine le roi d'un coup de couteau à Saint-Cloud. Henri III désigne Henri de Bourbon comme héritier légitime.",
+      "importance": 5,
+      "people": [
+        "Henri III",
+        "Jacques Clément",
+        "Henri de Bourbon"
+      ],
+      "locations": [
+        "Saint-Cloud",
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 657,
+        "line_end": 665,
+        "excerpt": "Un moine fanatisé, Jacques Clément... introduit auprès du roi, le tua d'un coup de couteau. Les dernières paroles d'Henri III furent pour désigner Henri de Bourbon comme son héritier légitime (1er août 1589)"
+      }
+    },
+    {
+      "id": "evt_045",
+      "type": "reign_end",
+      "date_start": {
+        "year": 1589,
+        "month": 8,
+        "day": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Fin de la dynastie des Valois",
+      "description": "La mort d'Henri III met fin à la dynastie des Valois. Henri de Bourbon devient roi sous le nom d'Henri IV, premier roi de la maison de Bourbon.",
+      "importance": 5,
+      "people": [
+        "Henri III",
+        "Henri IV"
+      ],
+      "locations": [
+        "Saint-Cloud"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 667,
+        "line_end": 671,
+        "excerpt": "Henri III était mort pour une idée: celle de l'Etat, de la monarchie, de l'unité nationale... Par Henri IV, l'homme aux deux religions, la France allait retrouver la paix intérieure"
+      }
+    }
+  ],
+  "people": [
+    {
+      "name": "Henri II",
+      "aliases": [],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "death": {
+        "year": 1559,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Catherine de Médicis"
+        },
+        {
+          "type": "fils",
+          "person": "François II"
+        },
+        {
+          "type": "fils",
+          "person": "Charles IX"
+        },
+        {
+          "type": "fils",
+          "person": "Henri III"
+        },
+        {
+          "type": "fils",
+          "person": "François d'Alençon"
+        },
+        {
+          "type": "fille",
+          "person": "Marguerite de Valois"
+        }
+      ],
+      "source_lines": [
+        9,
+        17,
+        531
+      ],
+      "id": "per_henri_ii"
+    },
+    {
+      "name": "François II",
+      "aliases": [],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "reign": {
+        "start": {
+          "year": 1559,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1560,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "death": {
+        "year": 1560,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Henri II"
+        },
+        {
+          "type": "mère",
+          "person": "Catherine de Médicis"
+        },
+        {
+          "type": "épouse",
+          "person": "Marie Stuart"
+        }
+      ],
+      "source_lines": [
+        10,
+        11,
+        41,
+        85
+      ],
+      "id": "per_fran_ois_ii"
+    },
+    {
+      "name": "Charles IX",
+      "aliases": [],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "reign": {
+        "start": {
+          "year": 1560,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1574,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "death": {
+        "year": 1574,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Henri II"
+        },
+        {
+          "type": "mère",
+          "person": "Catherine de Médicis"
+        },
+        {
+          "type": "frère",
+          "person": "François II"
+        },
+        {
+          "type": "frère",
+          "person": "Henri III"
+        },
+        {
+          "type": "frère",
+          "person": "François d'Alençon"
+        },
+        {
+          "type": "sœur",
+          "person": "Marguerite de Valois"
+        }
+      ],
+      "source_lines": [
+        86,
+        154,
+        223,
+        242,
+        257,
+        266,
+        276,
+        288,
+        318,
+        333,
+        368,
+        374,
+        378,
+        392,
+        412,
+        419,
+        430,
+        432,
+        435,
+        452,
+        457,
+        482,
+        528,
+        621
+      ],
+      "id": "per_charles_ix"
+    },
+    {
+      "name": "Henri III",
+      "aliases": [
+        "Duc d'Anjou",
+        "Roi de Pologne"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France",
+        "Roi de Pologne",
+        "Duc d'Anjou"
+      ],
+      "reign": {
+        "start": {
+          "year": 1574,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1589,
+          "month": 8,
+          "day": 1,
+          "circa": false,
+          "era": "CE",
+          "precision": "exact"
+        }
+      },
+      "death": {
+        "year": 1589,
+        "month": 8,
+        "day": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Henri II"
+        },
+        {
+          "type": "mère",
+          "person": "Catherine de Médicis"
+        },
+        {
+          "type": "frère",
+          "person": "Charles IX"
+        }
+      ],
+      "source_lines": [
+        155,
+        300,
+        428,
+        453,
+        457,
+        460,
+        464,
+        472,
+        505,
+        515,
+        519,
+        546,
+        557,
+        562,
+        569,
+        576,
+        580,
+        587,
+        616,
+        621,
+        623,
+        628,
+        638,
+        647,
+        653,
+        663,
+        664,
+        667
+      ],
+      "id": "per_henri_iii"
+    },
+    {
+      "name": "Catherine de Médicis",
+      "aliases": [
+        "La reine mère",
+        "L'Italienne"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Reine de France",
+        "Régente"
+      ],
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Henri II"
+        },
+        {
+          "type": "fils",
+          "person": "François II"
+        },
+        {
+          "type": "fils",
+          "person": "Charles IX"
+        },
+        {
+          "type": "fils",
+          "person": "Henri III"
+        },
+        {
+          "type": "fils",
+          "person": "François d'Alençon"
+        },
+        {
+          "type": "fille",
+          "person": "Marguerite de Valois"
+        }
+      ],
+      "source_lines": [
+        17,
+        66,
+        87,
+        94,
+        96,
+        133,
+        150,
+        154,
+        177,
+        207,
+        211,
+        220,
+        224,
+        227,
+        229,
+        292,
+        336,
+        359,
+        419,
+        428,
+        527
+      ],
+      "id": "per_catherine_de_m_dicis"
+    },
+    {
+      "name": "Michel de L'Hospital",
+      "aliases": [
+        "Le chancelier L'Hospital"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Chancelier de France"
+      ],
+      "relations": [],
+      "source_lines": [
+        16,
+        66,
+        87,
+        94,
+        103,
+        106,
+        109,
+        114,
+        119,
+        120,
+        125,
+        129,
+        240,
+        247
+      ],
+      "id": "per_michel_de_l_hospital"
+    },
+    {
+      "name": "François de Guise",
+      "aliases": [
+        "Duc de Guise",
+        "Le duc François"
+      ],
+      "dynasty": "Guise-Lorraine",
+      "titles": [
+        "Duc de Guise"
+      ],
+      "death": {
+        "year": 1563,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Cardinal de Lorraine"
+        },
+        {
+          "type": "fils",
+          "person": "Henri de Guise"
+        }
+      ],
+      "source_lines": [
+        20,
+        37,
+        42,
+        51,
+        57,
+        63,
+        71,
+        80,
+        82,
+        134,
+        137,
+        144,
+        148,
+        157,
+        161,
+        163,
+        170,
+        200,
+        203,
+        208,
+        235,
+        261,
+        492
+      ],
+      "id": "per_fran_ois_de_guise"
+    },
+    {
+      "name": "Cardinal de Lorraine",
+      "aliases": [
+        "Charles de Lorraine"
+      ],
+      "dynasty": "Guise-Lorraine",
+      "titles": [
+        "Cardinal"
+      ],
+      "relations": [
+        {
+          "type": "frère",
+          "person": "François de Guise"
+        }
+      ],
+      "source_lines": [
+        43,
+        56,
+        165
+      ],
+      "id": "per_cardinal_de_lorraine"
+    },
+    {
+      "name": "Gaspard de Coligny",
+      "aliases": [
+        "L'amiral de Coligny",
+        "Coligny"
+      ],
+      "dynasty": "Châtillon",
+      "titles": [
+        "Amiral de France"
+      ],
+      "death": {
+        "year": 1572,
+        "month": 8,
+        "day": 24,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Dandelot"
+        }
+      ],
+      "source_lines": [
+        23,
+        184,
+        197,
+        200,
+        234,
+        241,
+        252,
+        280,
+        292,
+        293,
+        296,
+        301,
+        308,
+        325,
+        327,
+        334,
+        338,
+        345,
+        348,
+        376,
+        386
+      ],
+      "id": "per_gaspard_de_coligny"
+    },
+    {
+      "name": "Dandelot",
+      "aliases": [
+        "François de Coligny"
+      ],
+      "dynasty": "Châtillon",
+      "titles": [],
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Gaspard de Coligny"
+        }
+      ],
+      "source_lines": [
+        23
+      ],
+      "id": "per_dandelot"
+    },
+    {
+      "name": "Antoine de Bourbon",
+      "aliases": [
+        "Roi de Navarre"
+      ],
+      "dynasty": "Bourbon",
+      "titles": [
+        "Roi de Navarre",
+        "Prince du sang"
+      ],
+      "death": {
+        "year": 1562,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Jeanne d'Albret"
+        },
+        {
+          "type": "fils",
+          "person": "Henri de Bourbon"
+        },
+        {
+          "type": "frère",
+          "person": "Louis de Condé"
+        }
+      ],
+      "source_lines": [
+        26,
+        73,
+        77,
+        178,
+        209,
+        277
+      ],
+      "id": "per_antoine_de_bourbon"
+    },
+    {
+      "name": "Jeanne d'Albret",
+      "aliases": [
+        "Reine de Navarre"
+      ],
+      "dynasty": "Bourbon-Albret",
+      "titles": [
+        "Reine de Navarre"
+      ],
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Antoine de Bourbon"
+        },
+        {
+          "type": "fils",
+          "person": "Henri de Bourbon"
+        }
+      ],
+      "source_lines": [
+        27,
+        280
+      ],
+      "id": "per_jeanne_d_albret"
+    },
+    {
+      "name": "Louis de Condé",
+      "aliases": [
+        "Prince de Condé",
+        "Condé"
+      ],
+      "dynasty": "Bourbon-Condé",
+      "titles": [
+        "Prince de Condé",
+        "Prince du sang"
+      ],
+      "death": {
+        "year": 1569,
+        "month": 3,
+        "day": 13,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Antoine de Bourbon"
+        }
+      ],
+      "source_lines": [
+        28,
+        73,
+        79,
+        80,
+        100,
+        141,
+        184,
+        197,
+        200,
+        210,
+        213,
+        251,
+        393
+      ],
+      "id": "per_louis_de_cond_"
+    },
+    {
+      "name": "Marie Stuart",
+      "aliases": [
+        "Reine d'Écosse"
+      ],
+      "dynasty": "Stuart",
+      "titles": [
+        "Reine d'Écosse",
+        "Reine de France"
+      ],
+      "relations": [
+        {
+          "type": "époux",
+          "person": "François II"
+        }
+      ],
+      "source_lines": [
+        40,
+        299
+      ],
+      "id": "per_marie_stuart"
+    },
+    {
+      "name": "La Renaudie",
+      "aliases": [
+        "Jean du Barry, seigneur de La Renaudie"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "death": {
+        "year": 1560,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [],
+      "source_lines": [
+        48,
+        50,
+        57,
+        235
+      ],
+      "id": "per_la_renaudie"
+    },
+    {
+      "name": "Pasquier",
+      "aliases": [
+        "Étienne Pasquier"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Historien"
+      ],
+      "relations": [],
+      "source_lines": [
+        32
+      ],
+      "id": "per_pasquier"
+    },
+    {
+      "name": "Sainte-Beuve",
+      "aliases": [
+        "Charles-Augustin Sainte-Beuve"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Critique littéraire"
+      ],
+      "relations": [],
+      "source_lines": [
+        104
+      ],
+      "id": "per_sainte_beuve"
+    },
+    {
+      "name": "Michelet",
+      "aliases": [
+        "Jules Michelet"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Historien"
+      ],
+      "relations": [],
+      "source_lines": [
+        120,
+        239,
+        380
+      ],
+      "id": "per_michelet"
+    },
+    {
+      "name": "Anne de Montmorency",
+      "aliases": [
+        "Le vieux connétable de Montmorency"
+      ],
+      "dynasty": "Montmorency",
+      "titles": [
+        "Connétable de France"
+      ],
+      "relations": [],
+      "source_lines": [
+        134
+      ],
+      "id": "per_anne_de_montmorency"
+    },
+    {
+      "name": "Jacques d'Albon de Saint-André",
+      "aliases": [
+        "Maréchal de Saint-André"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Maréchal de France"
+      ],
+      "relations": [],
+      "source_lines": [
+        135
+      ],
+      "id": "per_jacques_d_albon_de_s"
+    },
+    {
+      "name": "Philippe II d'Espagne",
+      "aliases": [
+        "Philippe II",
+        "Roi d'Espagne"
+      ],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Roi d'Espagne"
+      ],
+      "relations": [],
+      "source_lines": [
+        172,
+        228,
+        263,
+        298,
+        311,
+        423,
+        591,
+        596
+      ],
+      "id": "per_philippe_ii_d_espagn"
+    },
+    {
+      "name": "Élisabeth Ire d'Angleterre",
+      "aliases": [
+        "Elisabeth",
+        "Reine d'Angleterre"
+      ],
+      "dynasty": "Tudor",
+      "titles": [
+        "Reine d'Angleterre"
+      ],
+      "relations": [],
+      "source_lines": [
+        173,
+        182,
+        300,
+        426,
+        529,
+        590
+      ],
+      "id": "per__lisabeth_ire_d_angl"
+    },
+    {
+      "name": "Blaise de Montluc",
+      "aliases": [
+        "Montluc"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Maréchal de France"
+      ],
+      "relations": [],
+      "source_lines": [
+        188,
+        195
+      ],
+      "id": "per_blaise_de_montluc"
+    },
+    {
+      "name": "Baron des Adrets",
+      "aliases": [
+        "François de Beaumont"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Baron des Adrets"
+      ],
+      "relations": [],
+      "source_lines": [
+        189,
+        195
+      ],
+      "id": "per_baron_des_adrets"
+    },
+    {
+      "name": "Jean de Poltrot de Méré",
+      "aliases": [
+        "Poltrot de Méré"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "death": {
+        "year": 1563,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [],
+      "source_lines": [
+        202
+      ],
+      "id": "per_jean_de_poltrot_de_m"
+    },
+    {
+      "name": "Blanche de Castille",
+      "aliases": [],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Reine de France",
+        "Régente"
+      ],
+      "relations": [],
+      "source_lines": [
+        220
+      ],
+      "id": "per_blanche_de_castille"
+    },
+    {
+      "name": "Henri de Bourbon",
+      "aliases": [
+        "Henri IV",
+        "Roi de Navarre",
+        "Le Béarnais",
+        "Henri de Navarre"
+      ],
+      "dynasty": "Bourbon",
+      "titles": [
+        "Roi de Navarre",
+        "Roi de France"
+      ],
+      "reign": {
+        "start": {
+          "year": 1589,
+          "month": 8,
+          "day": 2,
+          "circa": false,
+          "era": "CE",
+          "precision": "exact"
+        },
+        "end": null
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Antoine de Bourbon"
+        },
+        {
+          "type": "mère",
+          "person": "Jeanne d'Albret"
+        },
+        {
+          "type": "épouse",
+          "person": "Marguerite de Valois"
+        }
+      ],
+      "source_lines": [
+        277,
+        279,
+        289,
+        316,
+        329,
+        349,
+        392,
+        405,
+        446,
+        454,
+        532,
+        551,
+        553,
+        564,
+        648,
+        651,
+        664,
+        668
+      ],
+      "id": "per_henri_de_bourbon"
+    },
+    {
+      "name": "Marguerite de Valois",
+      "aliases": [
+        "La reine Margot"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Princesse de France",
+        "Reine de Navarre"
+      ],
+      "relations": [
+        {
+          "type": "père",
+          "person": "Henri II"
+        },
+        {
+          "type": "mère",
+          "person": "Catherine de Médicis"
+        },
+        {
+          "type": "frère",
+          "person": "Charles IX"
+        },
+        {
+          "type": "époux",
+          "person": "Henri de Bourbon"
+        }
+      ],
+      "source_lines": [
+        289,
+        315
+      ],
+      "id": "per_marguerite_de_valois"
+    },
+    {
+      "name": "Guillaume d'Orange",
+      "aliases": [
+        "Prince d'Orange"
+      ],
+      "dynasty": "Orange-Nassau",
+      "titles": [
+        "Prince d'Orange"
+      ],
+      "relations": [],
+      "source_lines": [
+        297,
+        426
+      ],
+      "id": "per_guillaume_d_orange"
+    },
+    {
+      "name": "François d'Alençon",
+      "aliases": [
+        "Duc d'Alençon",
+        "Duc d'Anjou"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Duc d'Alençon",
+        "Duc d'Anjou"
+      ],
+      "death": {
+        "year": 1584,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Henri II"
+        },
+        {
+          "type": "mère",
+          "person": "Catherine de Médicis"
+        },
+        {
+          "type": "frère",
+          "person": "Henri III"
+        }
+      ],
+      "source_lines": [
+        300,
+        466,
+        473,
+        531
+      ],
+      "id": "per_fran_ois_d_alen_on"
+    },
+    {
+      "name": "Charles de Louviers de Maurevert",
+      "aliases": [
+        "Maurevel"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "relations": [],
+      "source_lines": [
+        333
+      ],
+      "id": "per_charles_de_louviers_"
+    },
+    {
+      "name": "Gondi",
+      "aliases": [
+        "Albert de Gondi"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Maréchal de France"
+      ],
+      "relations": [],
+      "source_lines": [
+        375
+      ],
+      "id": "per_gondi"
+    },
+    {
+      "name": "Gabriel Naudé",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Bibliothécaire",
+        "Écrivain"
+      ],
+      "relations": [],
+      "source_lines": [
+        396
+      ],
+      "id": "per_gabriel_naud_"
+    },
+    {
+      "name": "Louis de Nassau",
+      "aliases": [],
+      "dynasty": "Orange-Nassau",
+      "titles": [
+        "Comte de Nassau"
+      ],
+      "relations": [],
+      "source_lines": [
+        429
+      ],
+      "id": "per_louis_de_nassau"
+    },
+    {
+      "name": "Henri de Guise",
+      "aliases": [
+        "Le Balafré",
+        "Duc de Guise"
+      ],
+      "dynasty": "Guise-Lorraine",
+      "titles": [
+        "Duc de Guise"
+      ],
+      "death": {
+        "year": 1588,
+        "month": 12,
+        "day": 23,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "François de Guise"
+        }
+      ],
+      "source_lines": [
+        261,
+        327,
+        489,
+        493,
+        496,
+        515,
+        534,
+        571,
+        614,
+        623,
+        629,
+        649,
+        650
+      ],
+      "id": "per_henri_de_guise"
+    },
+    {
+      "name": "Cardinal de Guise",
+      "aliases": [
+        "Louis de Lorraine"
+      ],
+      "dynasty": "Guise-Lorraine",
+      "titles": [
+        "Cardinal"
+      ],
+      "death": {
+        "year": 1588,
+        "month": 12,
+        "day": 24,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Henri de Guise"
+        }
+      ],
+      "source_lines": [
+        631
+      ],
+      "id": "per_cardinal_de_guise"
+    },
+    {
+      "name": "Anne de Joyeuse",
+      "aliases": [
+        "Duc de Joyeuse"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Duc de Joyeuse",
+        "Amiral de France"
+      ],
+      "death": {
+        "year": 1587,
+        "month": 10,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "relations": [],
+      "source_lines": [
+        550
+      ],
+      "id": "per_anne_de_joyeuse"
+    },
+    {
+      "name": "Cardinal de Bourbon",
+      "aliases": [
+        "Charles X"
+      ],
+      "dynasty": "Bourbon",
+      "titles": [
+        "Cardinal",
+        "Roi de France (Ligue)"
+      ],
+      "relations": [],
+      "source_lines": [
+        563,
+        642
+      ],
+      "id": "per_cardinal_de_bourbon"
+    },
+    {
+      "name": "Charles-Emmanuel Ier de Savoie",
+      "aliases": [
+        "Duc de Savoie"
+      ],
+      "dynasty": "Savoie",
+      "titles": [
+        "Duc de Savoie"
+      ],
+      "relations": [],
+      "source_lines": [
+        598
+      ],
+      "id": "per_charles_emmanuel_ier"
+    },
+    {
+      "name": "Jacques Clément",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Moine dominicain"
+      ],
+      "death": {
+        "year": 1589,
+        "month": 8,
+        "day": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "relations": [],
+      "source_lines": [
+        661
+      ],
+      "id": "per_jacques_cl_ment"
+    },
+    {
+      "name": "Clovis",
+      "aliases": [
+        "Clovis Ier",
+        "Premier roi chrétien"
+      ],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Roi des Francs"
+      ],
+      "relations": [],
+      "source_lines": [
+        500
+      ],
+      "id": "per_clovis"
+    },
+    {
+      "name": "Charlemagne",
+      "aliases": [],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Empereur"
+      ],
+      "relations": [],
+      "source_lines": [
+        503
+      ],
+      "id": "per_charlemagne"
+    },
+    {
+      "name": "Charles VII",
+      "aliases": [],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "relations": [],
+      "source_lines": [
+        588
+      ],
+      "id": "per_charles_vii"
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_valois",
+      "name": "Valois",
+      "period_start": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1589,
+        "month": 8,
+        "day": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      }
+    },
+    {
+      "id": "dyn_bourbon",
+      "name": "Bourbons",
+      "period_start": {
+        "year": 1589,
+        "month": 8,
+        "day": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "period_end": {
+        "year": 1792,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_guise",
+      "name": "Guise-Lorraine",
+      "period_start": {
+        "year": 1528,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "period_end": {
+        "year": 1688,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      }
+    },
+    {
+      "id": "dyn_chatillon",
+      "name": "Châtillon",
+      "period_start": {
+        "year": 1500,
+        "circa": true,
+        "era": "CE",
+        "precision": "century"
+      },
+      "period_end": {
+        "year": 1600,
+        "circa": true,
+        "era": "CE",
+        "precision": "century"
+      }
+    },
+    {
+      "id": "dyn_montmorency",
+      "name": "Montmorency",
+      "period_start": {
+        "year": 1000,
+        "circa": true,
+        "era": "CE",
+        "precision": "century"
+      },
+      "period_end": {
+        "year": 1632,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}

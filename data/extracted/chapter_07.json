@@ -1,0 +1,2365 @@
+{
+  "chapter_number": 7,
+  "chapter_title": "Chapter 7",
+  "line_start": 3253,
+  "line_end": 3727,
+  "validation_status": "success",
+  "entries": [
+    {
+      "id": "evt_001",
+      "type": "period",
+      "date_start": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 1461,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Affaiblissement de la monarchie sous les Valois",
+      "description": "Depuis l'avènement des Valois, la monarchie et la France avaient peine à se remettre d'aplomb. Le prestige de la royauté n'était plus ce qu'il avait été.",
+      "importance": 3,
+      "people": [
+        "Philippe le Bon",
+        "Jean sans Peur",
+        "Charles le Téméraire"
+      ],
+      "locations": [
+        "France",
+        "Picardie",
+        "Somme",
+        "Bourgogne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 9,
+        "line_end": 19,
+        "excerpt": "En somme, depuis l'avènement des Valois, la monarchie et la France avaient peine à se remettre d'aplomb."
+      }
+    },
+    {
+      "id": "evt_002",
+      "type": "death",
+      "date_start": {
+        "year": 1461,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Charles VII",
+      "description": "Charles VII mourut d'inquiétude et de chagrin. Son œuvre de restauration était fragile, aussi fragile que l'avait été celle de Charles V.",
+      "importance": 4,
+      "people": [
+        "Charles VII",
+        "Charles V"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 21,
+        "line_end": 23,
+        "excerpt": "En 1461, il mourut, dit-on, d'inquiétude et de chagrin."
+      }
+    },
+    {
+      "id": "evt_003",
+      "type": "political",
+      "date_start": {
+        "year": 1440,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "La Praguerie",
+      "description": "Rébellion de la noblesse et du dauphin Louis contre Charles VII, ainsi nommée par imitation des troubles hussites de Prague. Réaction contre le rétablissement de l'ordre.",
+      "importance": 3,
+      "people": [
+        "Louis XI",
+        "Charles VII"
+      ],
+      "locations": [
+        "France",
+        "Prague"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 27,
+        "line_end": 38,
+        "excerpt": "La «praguerie» (elle fut ainsi nommée par une singulière imitation des troubles hussites de Prague)"
+      }
+    },
+    {
+      "id": "evt_004",
+      "type": "battle",
+      "date_start": {
+        "year": 1346,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Crécy (référence)",
+      "description": "Mention de la noblesse française décimée à Crécy, illustrant le dévouement et les sacrifices de l'aristocratie française.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Crécy"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 33,
+        "line_end": 35,
+        "excerpt": "Tantôt fidèle, dévouée, prête à verser son sang, décimée à Crécy, décimée à Poitiers, décimée à Azincourt"
+      }
+    },
+    {
+      "id": "evt_005",
+      "type": "battle",
+      "date_start": {
+        "year": 1356,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Poitiers (référence)",
+      "description": "Mention de la noblesse française décimée à Poitiers, illustrant les désastres de la guerre de Cent Ans.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Poitiers"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 33,
+        "line_end": 35,
+        "excerpt": "décimée à Crécy, décimée à Poitiers, décimée à Azincourt"
+      }
+    },
+    {
+      "id": "evt_006",
+      "type": "battle",
+      "date_start": {
+        "year": 1415,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille d'Azincourt (référence)",
+      "description": "Mention de la noblesse française décimée à Azincourt, désastre majeur de la guerre de Cent Ans.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Azincourt"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 33,
+        "line_end": 35,
+        "excerpt": "décimée à Crécy, décimée à Poitiers, décimée à Azincourt"
+      }
+    },
+    {
+      "id": "evt_007",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1461,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Louis XI",
+      "description": "Louis XI devient roi de France et continue l'œuvre de son père. Esprit réaliste, il préfère l'argent et la ruse aux armes.",
+      "importance": 5,
+      "people": [
+        "Louis XI"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 62,
+        "line_end": 65,
+        "excerpt": "Et quand celui-ci fut roi, il continua l'oeuvre de son père."
+      }
+    },
+    {
+      "id": "evt_008",
+      "type": "event",
+      "date_start": {
+        "year": 1462,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Première réunion du Roussillon à la couronne",
+      "description": "Louis XI réunit une première fois le Roussillon à la couronne française.",
+      "importance": 3,
+      "people": [
+        "Louis XI"
+      ],
+      "locations": [
+        "Roussillon"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 82,
+        "line_end": 84,
+        "excerpt": "du Roussillon, par exemple, qu'il réunit une première fois à la couronne"
+      }
+    },
+    {
+      "id": "evt_009",
+      "type": "political",
+      "date_start": {
+        "year": 1465,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ligue du Bien Public",
+      "description": "Coalition des grands féodaux contre Louis XI, menée par Charles le Téméraire et incluant le propre frère du roi. Proclamation démagogique dénonçant l'arbitraire monarchique.",
+      "importance": 4,
+      "people": [
+        "Louis XI",
+        "Charles le Téméraire",
+        "Warwick"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 90,
+        "line_end": 101,
+        "excerpt": "Elle prit le nom séduisant de ligue du Bien Public, qui ralliait tous les mécontents."
+      }
+    },
+    {
+      "id": "evt_010",
+      "type": "battle",
+      "date_start": {
+        "year": 1465,
+        "month": 7,
+        "day": 16,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Montlhéry",
+      "description": "Bataille indécise entre Louis XI et les forces de la Ligue du Bien Public. Louis XI put rentrer dans Paris qu'il dispensa d'impôts.",
+      "importance": 4,
+      "people": [
+        "Louis XI",
+        "Charles le Téméraire"
+      ],
+      "locations": [
+        "Montlhéry",
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 105,
+        "line_end": 113,
+        "excerpt": "une bataille, qui eut lieu à Montlhéry (1465), fut indécise et Louis XI put rentrer dans Paris"
+      }
+    },
+    {
+      "id": "evt_011",
+      "type": "treaty",
+      "date_start": {
+        "year": 1465,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de Conflans",
+      "description": "Louis XI cède de nombreuses places fortes, provinces et argent aux coalisés pour écarter le péril. Il n'avait pas l'intention de tenir ses promesses.",
+      "importance": 3,
+      "people": [
+        "Louis XI"
+      ],
+      "locations": [
+        "Conflans",
+        "Normandie",
+        "Guyenne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 124,
+        "line_end": 131,
+        "excerpt": "Peut-on reprocher à Louis XI de n'avoir signé à Conflans qu'avec la pensée de ne pas tenir?"
+      }
+    },
+    {
+      "id": "evt_012",
+      "type": "political",
+      "date_start": {
+        "year": 1466,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Convocation des États Généraux par Louis XI",
+      "description": "Louis XI convoque les États Généraux pour faire déclarer que la cession de la Normandie était nulle.",
+      "importance": 3,
+      "people": [
+        "Louis XI"
+      ],
+      "locations": [
+        "France",
+        "Normandie"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 131,
+        "line_end": 135,
+        "excerpt": "convoquant les Etats Généraux pour leur faire déclarer que la cession de la Normandie était nulle"
+      }
+    },
+    {
+      "id": "evt_013",
+      "type": "political",
+      "date_start": {
+        "year": 1467,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Révoltes de Liège et Dinant encouragées par Louis XI",
+      "description": "Louis XI encourage les révoltes des villes de Liège et de Dinant contre le duc de Bourgogne.",
+      "importance": 2,
+      "people": [
+        "Louis XI",
+        "Charles le Téméraire"
+      ],
+      "locations": [
+        "Liège",
+        "Dinant"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 135,
+        "line_end": 137,
+        "excerpt": "encourageant les révoltes de Liège et de Dinant contre le duc de Bourgogne"
+      }
+    },
+    {
+      "id": "evt_014",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1467,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Charles le Téméraire succède à Philippe le Bon",
+      "description": "Charles le Téméraire succède à son père Philippe le Bon comme duc de Bourgogne. Il nourrissait de vastes desseins pour relier ses domaines.",
+      "importance": 4,
+      "people": [
+        "Charles le Téméraire",
+        "Philippe le Bon"
+      ],
+      "locations": [
+        "Bourgogne",
+        "Pays-Bas",
+        "Champagne",
+        "Lorraine"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 137,
+        "line_end": 143,
+        "excerpt": "Charles le Téméraire, qui venait de succéder à son père, nourrissait de vastes et dangereux desseins."
+      }
+    },
+    {
+      "id": "evt_015",
+      "type": "event",
+      "date_start": {
+        "year": 1468,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Entrevue de Péronne",
+      "description": "Louis XI se rend à Péronne pour rencontrer Charles le Téméraire qui le retient prisonnier. Il dut aller écraser les Liégeois en compagnie du duc.",
+      "importance": 4,
+      "people": [
+        "Louis XI",
+        "Charles le Téméraire"
+      ],
+      "locations": [
+        "Péronne",
+        "Liège",
+        "Champagne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 147,
+        "line_end": 164,
+        "excerpt": "Se fiant à son adresse, il demanda une entrevue à son cousin et, muni d'un sauf-conduit en règle, se rendit à Péronne."
+      }
+    },
+    {
+      "id": "evt_016",
+      "type": "event",
+      "date_start": {
+        "year": 1469,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Emprisonnement du cardinal La Balue",
+      "description": "Le cardinal La Balue, qui avait trempé dans le guet-apens de Péronne, fut enfermé dans une cage de fer selon la méthode italienne.",
+      "importance": 2,
+      "people": [
+        "Louis XI",
+        "Cardinal La Balue"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 172,
+        "line_end": 178,
+        "excerpt": "Le cardinal La Balue avait trempé dans le guet-apens de Péronne. Ce prince de l'Eglise eut la vie sauve, mais il fut enfermé dans une de ces cages de fer"
+      }
+    },
+    {
+      "id": "evt_017",
+      "type": "battle",
+      "date_start": {
+        "year": 1472,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Siège de Beauvais - Jeanne Hachette",
+      "description": "Charles le Téméraire assiège Beauvais. Les habitants, les femmes même, défendirent la ville. Jeanne Hachette s'illustra. L'expédition tourna court.",
+      "importance": 3,
+      "people": [
+        "Charles le Téméraire",
+        "Jeanne Hachette"
+      ],
+      "locations": [
+        "Beauvais"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 186,
+        "line_end": 192,
+        "excerpt": "Il voulut brusquer la partie, envahit le royaume, assiégea Beauvais... Les habitants, les femmes même, défendirent la ville et c'est là que s'illustra Jeanne Hachette (1472)."
+      }
+    },
+    {
+      "id": "evt_018",
+      "type": "event",
+      "date_start": {
+        "year": 1472,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Commines passe au service de Louis XI",
+      "description": "Philippe de Commines, voyant l'échec du duc de Bourgogne à Beauvais, passa au camp de Louis XI.",
+      "importance": 2,
+      "people": [
+        "Commines",
+        "Louis XI",
+        "Charles le Téméraire"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 192,
+        "line_end": 195,
+        "excerpt": "Alors les esprits perspicaces se mirent à douter de lui et c'est à ce moment que Commines passa au camp de Louis XI."
+      }
+    },
+    {
+      "id": "evt_019",
+      "type": "battle",
+      "date_start": {
+        "year": 1476,
+        "month": 3,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Grandson",
+      "description": "Les cantons suisses infligent une grave défaite à Charles le Téméraire à Grandson.",
+      "importance": 3,
+      "people": [
+        "Charles le Téméraire"
+      ],
+      "locations": [
+        "Granson"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 201,
+        "line_end": 204,
+        "excerpt": "Ce côté, c'était celui de Granson et de Morat où les cantons suisses infligèrent deux graves défaites au puissant duc."
+      }
+    },
+    {
+      "id": "evt_020",
+      "type": "battle",
+      "date_start": {
+        "year": 1476,
+        "month": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Morat",
+      "description": "Seconde défaite de Charles le Téméraire face aux Suisses à Morat. Il ne s'en remit pas.",
+      "importance": 3,
+      "people": [
+        "Charles le Téméraire"
+      ],
+      "locations": [
+        "Morat"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 201,
+        "line_end": 204,
+        "excerpt": "Ce côté, c'était celui de Granson et de Morat où les cantons suisses infligèrent deux graves défaites au puissant duc."
+      }
+    },
+    {
+      "id": "evt_021",
+      "type": "death",
+      "date_start": {
+        "year": 1477,
+        "month": 1,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort de Charles le Téméraire devant Nancy",
+      "description": "Charles le Téméraire trouve une mort misérable devant Nancy, dont il voulait faire la capitale de son État, tête d'une nouvelle Lotharingie.",
+      "importance": 5,
+      "people": [
+        "Charles le Téméraire"
+      ],
+      "locations": [
+        "Nancy"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 206,
+        "line_end": 209,
+        "excerpt": "Devant Nancy, dont il voulait faire la capitale de son Etat, la tête d'une Lotharingie nouvelle, il trouva une mort misérable (1477)."
+      }
+    },
+    {
+      "id": "evt_022",
+      "type": "event",
+      "date_start": {
+        "year": 1477,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Retour des apanages bourguignons à la couronne",
+      "description": "Charles le Téméraire n'ayant pas de fils, ses apanages retournent à la couronne. Louis XI met des garnisons en Bourgogne, Picardie et Artois.",
+      "importance": 4,
+      "people": [
+        "Louis XI",
+        "Charles le Téméraire"
+      ],
+      "locations": [
+        "Bourgogne",
+        "Picardie",
+        "Artois"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 210,
+        "line_end": 216,
+        "excerpt": "Charles n'avait pas de fils: ses apanages retournaient donc à la couronne."
+      }
+    },
+    {
+      "id": "evt_023",
+      "type": "event",
+      "date_start": {
+        "year": 1477,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mariage de Marie de Bourgogne avec Maximilien",
+      "description": "Marie de Bourgogne, héritière des Pays-Bas, épouse Maximilien d'Autriche. Ce mariage fut l'origine de trois siècles de guerres selon Louis XV.",
+      "importance": 5,
+      "people": [
+        "Marie de Bourgogne",
+        "Maximilien",
+        "Frédéric III",
+        "Louis XV"
+      ],
+      "locations": [
+        "Pays-Bas",
+        "Autriche"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 216,
+        "line_end": 225,
+        "excerpt": "Elle porta les Pays-Bas dans la maison d'Autriche. Funeste mariage! Trois siècles plus tard, Louis XV disait devant le tombeau de Marie de Bourgogne: «Voilà l'origine de toutes nos guerres.»"
+      }
+    },
+    {
+      "id": "evt_024",
+      "type": "death",
+      "date_start": {
+        "year": 1480,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort du roi René - Héritage de l'Anjou",
+      "description": "Le roi René d'Anjou meurt et laisse l'Anjou à Louis XI. La Provence revient peu après à la France via un héritier sans enfants.",
+      "importance": 3,
+      "people": [
+        "René d'Anjou",
+        "Louis XI"
+      ],
+      "locations": [
+        "Anjou",
+        "Provence",
+        "Aix"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 231,
+        "line_end": 234,
+        "excerpt": "Le bon roi René, le roi d'Aix, mourait bientôt, lui laissait l'Anjou, tandis que la Provence... revenait peu après à la France."
+      }
+    },
+    {
+      "id": "evt_025",
+      "type": "death",
+      "date_start": {
+        "year": 1482,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Marie de Bourgogne",
+      "description": "Un accident de cheval enlève Marie de Bourgogne et met fin aux dernières difficultés de la succession de Bourgogne.",
+      "importance": 3,
+      "people": [
+        "Marie de Bourgogne"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 234,
+        "line_end": 236,
+        "excerpt": "Un accident de cheval enlevait Marie et mettait fin aux dernières difficultés de la succession de Bourgogne."
+      }
+    },
+    {
+      "id": "evt_026",
+      "type": "treaty",
+      "date_start": {
+        "year": 1482,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Paix d'Arras avec Maximilien",
+      "description": "Louis XI conclut la paix d'Arras avec Maximilien, consolidant ses acquisitions territoriales.",
+      "importance": 3,
+      "people": [
+        "Louis XI",
+        "Maximilien"
+      ],
+      "locations": [
+        "Arras"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 236,
+        "line_end": 237,
+        "excerpt": "La paix d'Arras fut conclue avec Maximilien."
+      }
+    },
+    {
+      "id": "evt_027",
+      "type": "event",
+      "date_start": {
+        "year": 1483,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bilan territorial du règne de Louis XI",
+      "description": "Louis XI laisse à la France: Picardie, Bourgogne, Provence, Roussillon, Maine et Anjou. Le royaume se ferme pour la première fois.",
+      "importance": 5,
+      "people": [
+        "Louis XI",
+        "Michelet"
+      ],
+      "locations": [
+        "Picardie",
+        "Bourgogne",
+        "Provence",
+        "Roussillon",
+        "Maine",
+        "Anjou"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 237,
+        "line_end": 247,
+        "excerpt": "Picardie, Bourgogne, Provence et Roussillon, Maine et Anjou: voilà ce qu'il laissait à la France."
+      }
+    },
+    {
+      "id": "evt_028",
+      "type": "death",
+      "date_start": {
+        "year": 1477,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Exécution du duc de Nemours",
+      "description": "Le duc de Nemours fut décapité par Louis XI pour avoir réduit les grands vassaux.",
+      "importance": 2,
+      "people": [
+        "Louis XI",
+        "Duc de Nemours"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 249,
+        "line_end": 250,
+        "excerpt": "Louis XI avait achevé de réduire les grands vassaux: le duc de Nemours fut décapité."
+      }
+    },
+    {
+      "id": "evt_029",
+      "type": "death",
+      "date_start": {
+        "year": 1475,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Exécution du connétable de Saint-Pol",
+      "description": "Le connétable de Saint-Pol fut décapité pour trahison.",
+      "importance": 2,
+      "people": [
+        "Louis XI",
+        "Connétable de Saint-Pol"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 250,
+        "line_end": 251,
+        "excerpt": "Déjà le connétable de Saint-Pol l'avait été pour trahison."
+      }
+    },
+    {
+      "id": "evt_030",
+      "type": "treaty",
+      "date_start": {
+        "year": 1475,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Paix de Picquigny avec l'Angleterre",
+      "description": "Paix définitive signée à Picquigny avec l'Angleterre, qui ferme la guerre de Cent Ans.",
+      "importance": 5,
+      "people": [
+        "Louis XI"
+      ],
+      "locations": [
+        "Picquigny"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 251,
+        "line_end": 253,
+        "excerpt": "dès 1475 il avait été signé à Picquigny, avec l'Angleterre, une paix définitive, qui fermait la guerre de Cent ans."
+      }
+    },
+    {
+      "id": "evt_031",
+      "type": "death",
+      "date_start": {
+        "year": 1483,
+        "month": 8,
+        "day": 30,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort de Louis XI",
+      "description": "Louis XI meurt, laissant un fils de treize ans. Une minorité recommence mais dans de bonnes conditions.",
+      "importance": 4,
+      "people": [
+        "Louis XI",
+        "Charles VIII"
+      ],
+      "locations": [
+        "Plessis-lès-Tours"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 259,
+        "line_end": 262,
+        "excerpt": "En 1483, son fils Charles VIII n'avait que treize ans. Une minorité recommençait"
+      }
+    },
+    {
+      "id": "evt_032",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1483,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Régence d'Anne de Beaujeu",
+      "description": "Louis XI désigne sa fille Anne de Beaujeu pour la régence. Régence aussi heureuse et habile que celle de Blanche de Castille.",
+      "importance": 4,
+      "people": [
+        "Anne de Beaujeu",
+        "Louis XI",
+        "Blanche de Castille"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 264,
+        "line_end": 268,
+        "excerpt": "Louis XI avait désigné pour la régence sa fille Anne de Beaujeu, confidente de sa politique et de ses pensées."
+      }
+    },
+    {
+      "id": "evt_033",
+      "type": "political",
+      "date_start": {
+        "year": 1484,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "États Généraux de 1484 à Tours",
+      "description": "États Généraux convoqués largement, incluant toutes les provinces et classes, même les paysans. Philippe Pot y développe la théorie de la souveraineté du peuple.",
+      "importance": 4,
+      "people": [
+        "Anne de Beaujeu",
+        "Duc d'Orléans",
+        "Philippe Pot"
+      ],
+      "locations": [
+        "Tours",
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 271,
+        "line_end": 283,
+        "excerpt": "La régente les convoqua plus largement qu'ils ne l'avaient jamais été... jusqu'à celle de la souveraineté du peuple que développa Philippe Pot."
+      }
+    },
+    {
+      "id": "evt_034",
+      "type": "political",
+      "date_start": {
+        "year": 1485,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "La Guerre Folle",
+      "description": "Soulèvement des féodaux déçus par les États de 1484. L'opinion publique nomme ce soulèvement 'la guerre folle'. Le duc de Bretagne fut vaincu.",
+      "importance": 3,
+      "people": [
+        "Anne de Beaujeu",
+        "Duc de Bretagne"
+      ],
+      "locations": [
+        "Bretagne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 285,
+        "line_end": 290,
+        "excerpt": "l'opinion publique jugea bien en appelant leur soulèvement «la guerre folle». Elle eut ce résultat que le seul des princes qui restât puissant, le duc de Bretagne, fut vaincu."
+      }
+    },
+    {
+      "id": "evt_035",
+      "type": "event",
+      "date_start": {
+        "year": 1491,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mariage de Charles VIII et Anne de Bretagne",
+      "description": "Charles VIII épouse Anne de Bretagne, duchesse héritière, après annulation de son mariage secret avec Maximilien. La Bretagne deviendra française.",
+      "importance": 5,
+      "people": [
+        "Charles VIII",
+        "Anne de Bretagne",
+        "Maximilien",
+        "Marguerite d'Autriche",
+        "Marie de Bourgogne"
+      ],
+      "locations": [
+        "Bretagne",
+        "Franche-Comté",
+        "Artois"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 291,
+        "line_end": 308,
+        "excerpt": "Le mariage fut déclaré nul avec l'appui du pape et ce fut Charles VIII qui épousa. La Bretagne deviendrait française."
+      }
+    },
+    {
+      "id": "evt_036",
+      "type": "event",
+      "date_start": {
+        "year": 1494,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Début des guerres d'Italie - Expédition de Charles VIII",
+      "description": "Charles VIII franchit les Alpes avec la plus belle armée d'Europe. Entrée à Rome, chevauchée jusqu'à Naples. Guerre de magnificence.",
+      "importance": 5,
+      "people": [
+        "Charles VIII",
+        "Bayard",
+        "La Trémoille",
+        "Savonarole"
+      ],
+      "locations": [
+        "Italie",
+        "Rome",
+        "Naples",
+        "Florence",
+        "Alpes",
+        "Lyon",
+        "Piémont",
+        "Lombardie"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 318,
+        "line_end": 344,
+        "excerpt": "Sagement, Charles VII et Louis XI avaient refusé de soutenir les droits sur Naples qu'ils tenaient de la maison d'Anjou... tout conspirait à nous entraîner en Italie."
+      }
+    },
+    {
+      "id": "evt_037",
+      "type": "battle",
+      "date_start": {
+        "year": 1495,
+        "month": 7,
+        "day": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Fornoue",
+      "description": "Charles VIII bouscule les soldats de la ligue italienne à Fornoue pour sortir d'Italie. Ce fait d'armes sauva la face.",
+      "importance": 3,
+      "people": [
+        "Charles VIII"
+      ],
+      "locations": [
+        "Fornoue"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 359,
+        "line_end": 363,
+        "excerpt": "Il fallut, pour en sortir, bousculer à Fornoue les soldats de la «ligue italienne» (1495). Ce fait d'armes sauvait la face"
+      }
+    },
+    {
+      "id": "evt_038",
+      "type": "death",
+      "date_start": {
+        "year": 1498,
+        "month": 4,
+        "day": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort de Charles VIII",
+      "description": "Charles VIII meurt d'accident après un règne très court, ne laissant que des filles.",
+      "importance": 4,
+      "people": [
+        "Charles VIII"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 367,
+        "line_end": 368,
+        "excerpt": "Charles VIII, après un règne très court, mourut d'accident, ne laissant que des filles."
+      }
+    },
+    {
+      "id": "evt_039",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1498,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Louis XII",
+      "description": "Louis d'Orléans, cousin de Charles VIII et petit-fils de Louis d'Orléans assassiné, succède sans difficultés sous le nom de Louis XII.",
+      "importance": 4,
+      "people": [
+        "Louis XII",
+        "Charles VIII",
+        "Louis d'Orléans"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 368,
+        "line_end": 373,
+        "excerpt": "Louis d'Orléans, Louis XII, cousin de Charles VIII, succéda sans difficultés (1498). C'était le petit-fils de la victime fameuse"
+      }
+    },
+    {
+      "id": "evt_040",
+      "type": "event",
+      "date_start": {
+        "year": 1499,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mariage de Louis XII avec Anne de Bretagne",
+      "description": "Pour conserver le bénéfice du mariage de Charles VIII, Louis XII se hâte d'épouser à son tour Anne de Bretagne, veuve de son cousin.",
+      "importance": 4,
+      "people": [
+        "Louis XII",
+        "Anne de Bretagne",
+        "Charles VIII"
+      ],
+      "locations": [
+        "Bretagne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 381,
+        "line_end": 383,
+        "excerpt": "pour que le bénéfice du mariage de Charles VIII ne fût pas perdu, Louis XII se hâta d'épouser à son tour la Bretagne avec la veuve de son cousin."
+      }
+    },
+    {
+      "id": "evt_041",
+      "type": "political",
+      "date_start": {
+        "year": 1506,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "États Généraux de 1506 - Louis XII 'Père du peuple'",
+      "description": "Les États Généraux de 1506 donnent à Louis XII le nom de 'père du peuple' en reconnaissance de sa bonne administration.",
+      "importance": 4,
+      "people": [
+        "Louis XII"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 384,
+        "line_end": 387,
+        "excerpt": "Louis XII a gardé dans l'histoire le nom de «père du peuple» que les Etats Généraux de 1506 lui ont donné."
+      }
+    },
+    {
+      "id": "evt_042",
+      "type": "battle",
+      "date_start": {
+        "year": 1503,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Défaite de Cérignole",
+      "description": "Après un partage du royaume de Naples avec l'Espagne, la brouille survient et les Français sont vaincus à Cérignole.",
+      "importance": 3,
+      "people": [
+        "Louis XII"
+      ],
+      "locations": [
+        "Cérignole",
+        "Naples"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 410,
+        "line_end": 413,
+        "excerpt": "Louis XII partageait le royaume de Naples avec le roi d'Espagne, puis le partage entraînait la brouille et nous étions vaincus à Cérignole."
+      }
+    },
+    {
+      "id": "evt_043",
+      "type": "political",
+      "date_start": {
+        "year": 1511,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Sainte Ligue contre la France",
+      "description": "Le pape Jules II coalise contre la France: Maximilien, Ferdinand le Catholique, Henri VIII d'Angleterre, les Suisses et Venise.",
+      "importance": 4,
+      "people": [
+        "Louis XII",
+        "Jules II",
+        "Maximilien",
+        "Ferdinand le Catholique",
+        "Henri VIII"
+      ],
+      "locations": [
+        "France",
+        "Venise"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 413,
+        "line_end": 419,
+        "excerpt": "Louis XII entre bientôt en conflit avec Jules II qui coalise contre la France Maximilien, Ferdinand le Catholique, Henri VIII d'Angleterre, les Suisses et la République de Venise."
+      }
+    },
+    {
+      "id": "evt_044",
+      "type": "battle",
+      "date_start": {
+        "year": 1512,
+        "month": 4,
+        "day": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Ravenne - Mort de Gaston de Foix",
+      "description": "Victoire française à Ravenne, mais le jeune capitaine Gaston de Foix périt dans la bataille. Sa campagne fut aussi foudroyante que celle de Bonaparte.",
+      "importance": 4,
+      "people": [
+        "Gaston de Foix",
+        "Bonaparte"
+      ],
+      "locations": [
+        "Ravenne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 419,
+        "line_end": 423,
+        "excerpt": "Malgré des prodiges de valeur militaire, malgré la campagne de Gaston de Foix, aussi foudroyante que celle de Bonaparte, malgré la victoire de Ravenne où le jeune capitaine périt"
+      }
+    },
+    {
+      "id": "evt_045",
+      "type": "battle",
+      "date_start": {
+        "year": 1513,
+        "month": 6,
+        "day": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Novare - Perte de l'Italie",
+      "description": "La France perd l'Italie à la bataille de Novare. Ce fut le signal de l'invasion.",
+      "importance": 4,
+      "people": [
+        "Louis XII"
+      ],
+      "locations": [
+        "Novare"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 423,
+        "line_end": 425,
+        "excerpt": "la France finit par perdre l'Italie à la bataille de Novare (1513). Ce fut le signal de l'invasion."
+      }
+    },
+    {
+      "id": "evt_046",
+      "type": "event",
+      "date_start": {
+        "year": 1513,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Invasion - Henri VIII prend Tournai, siège de Dijon",
+      "description": "Henri VIII débarque à Calais et prend Tournai. Les Allemands et les Suisses assiègent Dijon. La France achète ses ennemis.",
+      "importance": 3,
+      "people": [
+        "Henri VIII",
+        "Louis XII",
+        "Léon X"
+      ],
+      "locations": [
+        "Calais",
+        "Tournai",
+        "Dijon"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 425,
+        "line_end": 436,
+        "excerpt": "Henri VIII débarqua une armée à Calais... et prit Tournai. Les Allemands, les Impériaux, parurent en France pour la première fois depuis longtemps. Ils assiégèrent Dijon"
+      }
+    },
+    {
+      "id": "evt_047",
+      "type": "death",
+      "date_start": {
+        "year": 1515,
+        "month": 1,
+        "day": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort de Louis XII",
+      "description": "Louis XII meurt peu après avoir repoussé l'invasion. La France pleure le 'père du peuple' mais oublie qu'elle peut être envahie.",
+      "importance": 4,
+      "people": [
+        "Louis XII"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 439,
+        "line_end": 444,
+        "excerpt": "Le roi mourut peu après cette alerte... La France brillante et heureuse qui pleura le «père du peuple» oublia de se dire ce qu'elle doit se dire toujours: «Souviens-toi que tu peux être envahie.»"
+      }
+    }
+  ],
+  "people": [
+    {
+      "id": "pers_001",
+      "name": "Louis XI",
+      "aliases": [
+        "le roi",
+        "le roseau"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France",
+        "Dauphin"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1483,
+        "month": 8,
+        "day": 30,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": {
+        "start": {
+          "year": 1461,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1483,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Charles VII"
+        },
+        {
+          "type": "fille",
+          "person": "Anne de Beaujeu"
+        },
+        {
+          "type": "fils",
+          "person": "Charles VIII"
+        }
+      ],
+      "source_lines": [
+        23,
+        44,
+        47,
+        54,
+        62,
+        67,
+        82,
+        96,
+        105,
+        124,
+        147,
+        172,
+        196,
+        237,
+        259,
+        264,
+        272
+      ]
+    },
+    {
+      "id": "pers_002",
+      "name": "Charles VII",
+      "aliases": [
+        "le Victorieux"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1461,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1422,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1461,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Louis XI"
+        }
+      ],
+      "source_lines": [
+        20,
+        21,
+        26,
+        41,
+        55,
+        103,
+        318
+      ]
+    },
+    {
+      "id": "pers_003",
+      "name": "Charles le Téméraire",
+      "aliases": [
+        "le Terrible",
+        "le grand duc d'Occident",
+        "comte de Charolais"
+      ],
+      "dynasty": "Bourgogne",
+      "titles": [
+        "Duc de Bourgogne"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1477,
+        "month": 1,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": {
+        "start": {
+          "year": 1467,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1477,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Philippe le Bon"
+        },
+        {
+          "type": "fille",
+          "person": "Marie de Bourgogne"
+        }
+      ],
+      "source_lines": [
+        18,
+        76,
+        84,
+        93,
+        137,
+        186,
+        206,
+        265
+      ]
+    },
+    {
+      "id": "pers_004",
+      "name": "Philippe le Bon",
+      "aliases": [
+        "le vieux duc Philippe"
+      ],
+      "dynasty": "Bourgogne",
+      "titles": [
+        "Duc de Bourgogne"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1467,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Charles le Téméraire"
+        }
+      ],
+      "source_lines": [
+        15,
+        86,
+        137
+      ]
+    },
+    {
+      "id": "pers_005",
+      "name": "Jean sans Peur",
+      "aliases": [],
+      "dynasty": "Bourgogne",
+      "titles": [
+        "Duc de Bourgogne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        16
+      ]
+    },
+    {
+      "id": "pers_006",
+      "name": "Charles VIII",
+      "aliases": [],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France",
+        "Dauphin"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1498,
+        "month": 4,
+        "day": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": {
+        "start": {
+          "year": 1483,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1498,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis XI"
+        },
+        {
+          "type": "épouse",
+          "person": "Anne de Bretagne"
+        }
+      ],
+      "source_lines": [
+        260,
+        297,
+        303,
+        318,
+        359,
+        367,
+        381
+      ]
+    },
+    {
+      "id": "pers_007",
+      "name": "Anne de Beaujeu",
+      "aliases": [],
+      "dynasty": "Valois",
+      "titles": [
+        "Régente de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis XI"
+        }
+      ],
+      "source_lines": [
+        265,
+        271,
+        291
+      ]
+    },
+    {
+      "id": "pers_008",
+      "name": "Marie de Bourgogne",
+      "aliases": [
+        "l'héritière"
+      ],
+      "dynasty": "Bourgogne",
+      "titles": [
+        "Duchesse de Bourgogne"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1482,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Charles le Téméraire"
+        },
+        {
+          "type": "époux",
+          "person": "Maximilien"
+        }
+      ],
+      "source_lines": [
+        216,
+        220,
+        234,
+        297
+      ]
+    },
+    {
+      "id": "pers_009",
+      "name": "Maximilien",
+      "aliases": [
+        "Maximilien d'Autriche"
+      ],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Empereur germanique",
+        "Archiduc d'Autriche"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Frédéric III"
+        },
+        {
+          "type": "épouse",
+          "person": "Marie de Bourgogne"
+        },
+        {
+          "type": "épouse",
+          "person": "Blanche Sforza"
+        },
+        {
+          "type": "fille",
+          "person": "Marguerite d'Autriche"
+        }
+      ],
+      "source_lines": [
+        218,
+        225,
+        236,
+        297,
+        301,
+        345,
+        357,
+        411,
+        416
+      ]
+    },
+    {
+      "id": "pers_010",
+      "name": "Louis XII",
+      "aliases": [
+        "Louis d'Orléans",
+        "Père du peuple"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France",
+        "Duc d'Orléans"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1515,
+        "month": 1,
+        "day": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": {
+        "start": {
+          "year": 1498,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1515,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Anne de Bretagne"
+        }
+      ],
+      "source_lines": [
+        310,
+        364,
+        369,
+        381,
+        384,
+        410,
+        439
+      ]
+    },
+    {
+      "id": "pers_011",
+      "name": "Anne de Bretagne",
+      "aliases": [
+        "la duchesse Anne",
+        "la jeune duchesse"
+      ],
+      "dynasty": "Bretagne",
+      "titles": [
+        "Duchesse de Bretagne",
+        "Reine de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Charles VIII"
+        },
+        {
+          "type": "époux",
+          "person": "Louis XII"
+        }
+      ],
+      "source_lines": [
+        295,
+        301,
+        381
+      ]
+    },
+    {
+      "id": "pers_012",
+      "name": "Commines",
+      "aliases": [
+        "Philippe de Commines"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Chroniqueur",
+        "Conseiller"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        193,
+        228
+      ]
+    },
+    {
+      "id": "pers_013",
+      "name": "Jeanne Hachette",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Héroïne de Beauvais"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        190
+      ]
+    },
+    {
+      "id": "pers_014",
+      "name": "Cardinal La Balue",
+      "aliases": [
+        "La Balue"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Cardinal",
+        "Prince de l'Église"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        173,
+        269
+      ]
+    },
+    {
+      "id": "pers_015",
+      "name": "Olivier Le Dain",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Barbier du roi"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        254
+      ]
+    },
+    {
+      "id": "pers_016",
+      "name": "Coctier",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Médecin du roi"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        254
+      ]
+    },
+    {
+      "id": "pers_017",
+      "name": "Duc de Nemours",
+      "aliases": [
+        "Jacques d'Armagnac"
+      ],
+      "dynasty": "Armagnac",
+      "titles": [
+        "Duc de Nemours"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1477,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        249,
+        269
+      ]
+    },
+    {
+      "id": "pers_018",
+      "name": "Connétable de Saint-Pol",
+      "aliases": [
+        "Louis de Luxembourg"
+      ],
+      "dynasty": "Luxembourg",
+      "titles": [
+        "Connétable de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1475,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        250,
+        269
+      ]
+    },
+    {
+      "id": "pers_019",
+      "name": "Blanche de Castille",
+      "aliases": [],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Reine de France",
+        "Régente"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        267
+      ]
+    },
+    {
+      "id": "pers_020",
+      "name": "Philippe Pot",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Seigneur de La Roche"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        280
+      ]
+    },
+    {
+      "id": "pers_021",
+      "name": "Étienne Marcel",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Prévôt des marchands de Paris"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        283
+      ]
+    },
+    {
+      "id": "pers_022",
+      "name": "Marguerite d'Autriche",
+      "aliases": [],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Princesse d'Autriche"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Maximilien"
+        },
+        {
+          "type": "mère",
+          "person": "Marie de Bourgogne"
+        }
+      ],
+      "source_lines": [
+        295
+      ]
+    },
+    {
+      "id": "pers_023",
+      "name": "Warwick",
+      "aliases": [
+        "le faiseur de rois"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Comte de Warwick"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        98
+      ]
+    },
+    {
+      "id": "pers_024",
+      "name": "Bayard",
+      "aliases": [
+        "le chevalier sans peur et sans reproche"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Chevalier"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        337
+      ]
+    },
+    {
+      "id": "pers_025",
+      "name": "La Trémoille",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Seigneur"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        337,
+        378
+      ]
+    },
+    {
+      "id": "pers_026",
+      "name": "Savonarole",
+      "aliases": [
+        "Jérôme Savonarole"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Prédicateur dominicain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        350
+      ]
+    },
+    {
+      "id": "pers_027",
+      "name": "Charles-Quint",
+      "aliases": [],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Empereur germanique",
+        "Roi d'Espagne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Philippe le Beau"
+        }
+      ],
+      "source_lines": [
+        355
+      ]
+    },
+    {
+      "id": "pers_028",
+      "name": "Jeanne la Folle",
+      "aliases": [],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Reine de Castille"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        354
+      ]
+    },
+    {
+      "id": "pers_029",
+      "name": "René d'Anjou",
+      "aliases": [
+        "le bon roi René",
+        "le roi d'Aix"
+      ],
+      "dynasty": "Anjou",
+      "titles": [
+        "Roi de Naples",
+        "Duc d'Anjou",
+        "Comte de Provence"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1480,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        231
+      ]
+    },
+    {
+      "id": "pers_030",
+      "name": "Gaston de Foix",
+      "aliases": [
+        "le jeune capitaine"
+      ],
+      "dynasty": "Foix",
+      "titles": [
+        "Duc de Nemours",
+        "Capitaine"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1512,
+        "month": 4,
+        "day": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        420
+      ]
+    },
+    {
+      "id": "pers_031",
+      "name": "Jules II",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Pape"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        411,
+        416
+      ]
+    },
+    {
+      "id": "pers_032",
+      "name": "Ferdinand le Catholique",
+      "aliases": [],
+      "dynasty": "Trastamare",
+      "titles": [
+        "Roi d'Espagne",
+        "Roi d'Aragon"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        416
+      ]
+    },
+    {
+      "id": "pers_033",
+      "name": "Henri VIII",
+      "aliases": [],
+      "dynasty": "Tudor",
+      "titles": [
+        "Roi d'Angleterre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        417,
+        425,
+        433
+      ]
+    },
+    {
+      "id": "pers_034",
+      "name": "Léon X",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Pape"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        435
+      ]
+    },
+    {
+      "id": "pers_035",
+      "name": "Frédéric III",
+      "aliases": [
+        "l'empereur Frédéric"
+      ],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Empereur germanique"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Maximilien"
+        }
+      ],
+      "source_lines": [
+        218
+      ]
+    },
+    {
+      "id": "pers_036",
+      "name": "Blanche Sforza",
+      "aliases": [],
+      "dynasty": "Sforza",
+      "titles": [
+        "Impératrice"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Maximilien"
+        }
+      ],
+      "source_lines": [
+        346
+      ]
+    },
+    {
+      "id": "pers_037",
+      "name": "Machiavel",
+      "aliases": [
+        "Nicolas Machiavel"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Écrivain",
+        "Diplomate"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        429
+      ]
+    },
+    {
+      "id": "pers_038",
+      "name": "Louis XV",
+      "aliases": [],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        222
+      ]
+    },
+    {
+      "id": "pers_039",
+      "name": "Michelet",
+      "aliases": [
+        "Jules Michelet"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Historien"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        243
+      ]
+    },
+    {
+      "id": "pers_040",
+      "name": "Napoléon",
+      "aliases": [
+        "Bonaparte"
+      ],
+      "dynasty": "Bonaparte",
+      "titles": [
+        "Empereur des Français"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        264,
+        420
+      ]
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_001",
+      "name": "Valois",
+      "period_start": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1589,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_002",
+      "name": "Bourgogne",
+      "period_start": {
+        "year": 1363,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1477,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_003",
+      "name": "Habsbourg",
+      "period_start": {
+        "year": 1273,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "period_end": {
+        "year": 1918,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_004",
+      "name": "Bretagne",
+      "period_start": {
+        "year": 939,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "period_end": {
+        "year": 1532,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_005",
+      "name": "Tudor",
+      "period_start": {
+        "year": 1485,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1603,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}

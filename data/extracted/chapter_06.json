@@ -1,0 +1,2929 @@
+{
+  "chapter_number": 6,
+  "chapter_title": "LA GUERRE DE CENT ANS ET LES RÉVOLUTIONS DE PARIS",
+  "line_start": 2295,
+  "line_end": 3252,
+  "validation_status": "success",
+  "entries": [
+    {
+      "id": "evt_001",
+      "type": "period",
+      "date_start": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 1337,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Trois siècles et demi de construction capétienne",
+      "description": "Les Capétiens ont réalisé des résultats considérables avec des moyens d'abord infimes, formant une France qui a déjà grande figure.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 1,
+        "line_end": 10,
+        "excerpt": "En trois siècles et demi, avec des moyens d'abord infimes, les Capétiens sont arrivés à des résultats considérables."
+      }
+    },
+    {
+      "id": "evt_002",
+      "type": "political",
+      "date_start": {
+        "year": 1314,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Révolution fiscale à la fin du règne de Philippe le Bel",
+      "description": "Mécontentement contre les impôts à la fin du règne de Philippe le Bel, provoquant presque une révolution. Ses fils ont dû céder sur la question d'argent.",
+      "importance": 3,
+      "people": [
+        "Philippe IV le Bel"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 36,
+        "line_end": 39,
+        "excerpt": "C'est presque une révolution à la fin du règne de Philippe le Bel. Ses fils ont dû céder sur la question d'argent."
+      }
+    },
+    {
+      "id": "evt_003",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Philippe VI de Valois",
+      "description": "Philippe de Valois trouve une brillante situation européenne avec des alliés sur le continent et des cousins qui règnent à Naples et en Hongrie.",
+      "importance": 4,
+      "people": [
+        "Philippe VI de Valois"
+      ],
+      "locations": [
+        "France",
+        "Naples",
+        "Hongrie"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 39,
+        "line_end": 45,
+        "excerpt": "Philippe de Valois trouve encore une brillante situation européenne, des alliés sur le continent, des cousins qui règnent à Naples et en Hongrie"
+      }
+    },
+    {
+      "id": "evt_004",
+      "type": "event",
+      "date_start": {
+        "year": 1328,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Acquisition de Montpellier et du Dauphiné",
+      "description": "Philippe VI acquiert Montpellier et le Dauphiné, d'où les fils aînés des rois de France prendront le titre de dauphins.",
+      "importance": 4,
+      "people": [
+        "Philippe VI de Valois"
+      ],
+      "locations": [
+        "Montpellier",
+        "Dauphiné"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 47,
+        "line_end": 50,
+        "excerpt": "il trouvera encore le moyen d'acquérir Montpellier et le Dauphiné, d'où les fils aînés des rois de France prendront le titre de dauphins"
+      }
+    },
+    {
+      "id": "evt_005",
+      "type": "battle",
+      "date_start": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Cassel",
+      "description": "Les Flamands insoumis sont battus à Cassel. Le comte de Flandre est bon Français et l'Angleterre n'a pas d'alliés.",
+      "importance": 3,
+      "people": [
+        "Philippe VI de Valois"
+      ],
+      "locations": [
+        "Cassel",
+        "Flandre"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 50,
+        "line_end": 53,
+        "excerpt": "Le comte de Flandre est cette fois bon Français et ses Flamands, insoumis, sont battus à Cassel (1328)."
+      }
+    },
+    {
+      "id": "evt_006",
+      "type": "political",
+      "date_start": {
+        "year": 1337,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Jacques Artevelde maître de Flandre",
+      "description": "La Flandre se range du côté des Anglais. Édouard III y trouve un homme à lui, Jacques Artevelde, un grand brasseur de Gand, qui devient le véritable maître du pays flamand.",
+      "importance": 3,
+      "people": [
+        "Édouard III",
+        "Jacques Artevelde"
+      ],
+      "locations": [
+        "Flandre",
+        "Gand"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 85,
+        "line_end": 90,
+        "excerpt": "Edouard y trouva un homme à lui, un grand brasseur de Gand, Jacques Artevelde, qui devint le véritable maître du pays flamand."
+      }
+    },
+    {
+      "id": "evt_007",
+      "type": "battle",
+      "date_start": {
+        "year": 1340,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de l'Écluse",
+      "description": "La flotte française est détruite à la funeste bataille de l'Écluse. La guerre de Cent ans commence par ce désastre naval, équivalent de Trafalgar. L'Angleterre devient maîtresse des routes maritimes.",
+      "importance": 5,
+      "people": [
+        "Édouard III",
+        "Philippe VI de Valois"
+      ],
+      "locations": [
+        "L'Écluse",
+        "Flandre"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 90,
+        "line_end": 96,
+        "excerpt": "Elle fut détruite en 1340 à la funeste bataille de l'Ecluse: la guerre de Cent ans a commencé par ce désastre, par l'équivalent de Trafalgar."
+      }
+    },
+    {
+      "id": "evt_008",
+      "type": "death",
+      "date_start": {
+        "year": 1345,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Jacques Artevelde",
+      "description": "Un soulèvement populaire en Flandre où Jacques Artevelde périt rend la Flandre moins sûre pour les Anglais.",
+      "importance": 2,
+      "people": [
+        "Jacques Artevelde"
+      ],
+      "locations": [
+        "Flandre"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 97,
+        "line_end": 100,
+        "excerpt": "Un soulèvement populaire, où Jacques Artevelde périt, rendit la Flandre moins sûre pour les Anglais."
+      }
+    },
+    {
+      "id": "evt_009",
+      "type": "political",
+      "date_start": {
+        "year": 1341,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Guerre de succession de Bretagne",
+      "description": "Les Anglais tentent une diversion par la Bretagne où Jean de Montfort revendique son duché contre Charles de Blois soutenu par la France. Le particularisme breton s'y manifeste.",
+      "importance": 3,
+      "people": [
+        "Jean de Montfort",
+        "Charles de Blois",
+        "Édouard III"
+      ],
+      "locations": [
+        "Bretagne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 100,
+        "line_end": 106,
+        "excerpt": "Ils tentèrent alors une diversion par la Bretagne où Jean de Montfort revendiquait son duché contre Charles de Blois, soutenu par la France."
+      }
+    },
+    {
+      "id": "evt_010",
+      "type": "battle",
+      "date_start": {
+        "year": 1346,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Crécy",
+      "description": "Défaite fatale de l'armée française face aux Anglais. Le calcul et l'organisation l'emportent sur l'imprudence d'une vaine bravoure. La principale force militaire française y est détruite.",
+      "importance": 5,
+      "people": [
+        "Édouard III",
+        "Philippe VI de Valois",
+        "Prince Noir"
+      ],
+      "locations": [
+        "Crécy",
+        "Normandie",
+        "Cotentin"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 108,
+        "line_end": 123,
+        "excerpt": "Le calcul et l'organisation l'emportèrent sur l'imprudence d'une vaine bravoure dans la fatale journée de Crécy: notre principale force militaire y fut détruite (1346)."
+      }
+    },
+    {
+      "id": "evt_011",
+      "type": "event",
+      "date_start": {
+        "year": 1347,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Prise de Calais par les Anglais",
+      "description": "Après Crécy, Édouard III assiège et prend Calais. Pendant deux siècles, l'Angleterre gardera cette 'tête de pont'.",
+      "importance": 4,
+      "people": [
+        "Édouard III"
+      ],
+      "locations": [
+        "Calais"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 123,
+        "line_end": 126,
+        "excerpt": "Edouard III put assiéger et prendre Calais. Pendant deux siècles, l'Angleterre gardera cette «tête de pont»."
+      }
+    },
+    {
+      "id": "evt_012",
+      "type": "death",
+      "date_start": {
+        "year": 1350,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Philippe VI de Valois",
+      "description": "Philippe VI meurt en 1350. La défaite de Crécy, première grande défaite de la royauté française, avait eu un effet détestable.",
+      "importance": 3,
+      "people": [
+        "Philippe VI de Valois"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 128,
+        "line_end": 132,
+        "excerpt": "Elle durait encore lorsque Philippe VI mourut en 1350. La défaite de Crécy, la première grande défaite de la royauté française, avait eu un effet détestable."
+      }
+    },
+    {
+      "id": "evt_013",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1350,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Jean II le Bon",
+      "description": "Jean le Bon succède à Philippe VI dans un contexte de trahison généralisée et d'absence d'obéissance. Il crée un ordre de chevalerie pour s'attacher la noblesse.",
+      "importance": 3,
+      "people": [
+        "Jean II le Bon"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 132,
+        "line_end": 143,
+        "excerpt": "A l'avènement de Jean le Bon «la trahison était partout». L'obéissance, nulle part."
+      }
+    },
+    {
+      "id": "evt_014",
+      "type": "death",
+      "date_start": {
+        "year": 1350,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Exécution du comte d'Eu",
+      "description": "Le roi Jean fait décapiter sans jugement le connétable, le comte d'Eu, qui avait vendu aux Anglais la place de Guines.",
+      "importance": 2,
+      "people": [
+        "Jean II le Bon",
+        "Comte d'Eu"
+      ],
+      "locations": [
+        "Guines"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 143,
+        "line_end": 146,
+        "excerpt": "Il n'hésita pas à faire décapiter sans jugement un connétable, le comte d'Eu, qui avait vendu aux Anglais la place de Guines."
+      }
+    },
+    {
+      "id": "evt_015",
+      "type": "political",
+      "date_start": {
+        "year": 1354,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Intrigues de Charles le Mauvais",
+      "description": "Charles le Mauvais, roi de Navarre et petit-fils de Louis Hutin, s'estime injustement évincé du trône de France. Il agite le pays par ses intrigues et fait assassiner le nouveau connétable.",
+      "importance": 3,
+      "people": [
+        "Charles le Mauvais",
+        "Louis X le Hutin",
+        "Jean II le Bon"
+      ],
+      "locations": [
+        "Navarre",
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 146,
+        "line_end": 158,
+        "excerpt": "Charles le Mauvais, roi de Navarre, petit-fils de Louis Hutin, s'estimait injustement évincé du trône de France."
+      }
+    },
+    {
+      "id": "evt_016",
+      "type": "event",
+      "date_start": {
+        "year": 1355,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Reprise des hostilités avec l'Angleterre",
+      "description": "Charles le Mauvais passe ouvertement à l'Angleterre après la séquestration de ses domaines par Jean le Bon. Les troupes anglaises envahissent et ravagent le Midi de la France.",
+      "importance": 3,
+      "people": [
+        "Charles le Mauvais",
+        "Jean II le Bon"
+      ],
+      "locations": [
+        "France",
+        "Midi"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 158,
+        "line_end": 172,
+        "excerpt": "Jean résolut de sévir... qui passa ouvertement à l'Angleterre. Ce fut le signal de la reprise des hostilités avec les Anglais (1355)."
+      }
+    },
+    {
+      "id": "evt_017",
+      "type": "political",
+      "date_start": {
+        "year": 1355,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "États Généraux de 1355 et Étienne Marcel",
+      "description": "Jean II convoque les États Généraux pour obtenir des subsides. Étienne Marcel, prévôt des marchands de Paris, y apparaît. L'assemblée vote des taxes mais exige de les percevoir et d'en contrôler l'emploi.",
+      "importance": 4,
+      "people": [
+        "Jean II le Bon",
+        "Étienne Marcel"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 181,
+        "line_end": 197,
+        "excerpt": "Jean dut s'adresser aux Etats provinciaux pour obtenir des subsides et, en 1355, convoqua des Etats Généraux. Là parut Etienne Marcel, prévôt des marchands de Paris."
+      }
+    },
+    {
+      "id": "evt_018",
+      "type": "battle",
+      "date_start": {
+        "year": 1356,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Poitiers - Capture du roi Jean",
+      "description": "Désastre complet à Poitiers. Le roi Jean, qui s'est battu en personne la hache à la main, est pris et emmené à Londres par les Anglais.",
+      "importance": 5,
+      "people": [
+        "Jean II le Bon"
+      ],
+      "locations": [
+        "Poitiers",
+        "Londres"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 207,
+        "line_end": 214,
+        "excerpt": "A Poitiers, le roi Jean, qui s'était battu en personne, la hache à la main, fut pris et emmené à Londres par les Anglais (1356)."
+      }
+    },
+    {
+      "id": "evt_019",
+      "type": "political",
+      "date_start": {
+        "year": 1356,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Le dauphin Charles lieutenant du royaume",
+      "description": "Après la capture du roi Jean, le dauphin Charles reste seul à Paris comme lieutenant du royaume, dans une situation révolutionnaire.",
+      "importance": 4,
+      "people": [
+        "Charles V",
+        "Jean II le Bon"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 215,
+        "line_end": 225,
+        "excerpt": "Dans un pays où le désordre croissait depuis cinquante ans, la disparition du roi créa une situation révolutionnaire. Le dauphin Charles, nommé lieutenant du royaume, restait seul à Paris."
+      }
+    },
+    {
+      "id": "evt_020",
+      "type": "political",
+      "date_start": {
+        "year": 1357,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Les États Généraux exigent un conseil de surveillance",
+      "description": "L'assemblée des États Généraux exige l'institution d'un conseil de surveillance auprès du dauphin et un comité de l'armée. Tentative de gouvernement parlementaire.",
+      "importance": 4,
+      "people": [
+        "Charles V",
+        "Étienne Marcel"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 225,
+        "line_end": 235,
+        "excerpt": "l'assemblée commença... par nommer une commission d'enquête qui exigea l'institution d'un conseil de surveillance auprès du dauphin"
+      }
+    },
+    {
+      "id": "evt_021",
+      "type": "event",
+      "date_start": {
+        "year": 1358,
+        "month": 2,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Assassinat des maréchaux au Louvre",
+      "description": "Étienne Marcel, à la tête d'une troupe en armes, fait assassiner les deux maréchaux conseillers du dauphin sous ses yeux. Le dauphin est coiffé du chaperon rouge et bleu.",
+      "importance": 4,
+      "people": [
+        "Étienne Marcel",
+        "Charles V",
+        "Charles le Mauvais"
+      ],
+      "locations": [
+        "Paris",
+        "Louvre"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 248,
+        "line_end": 260,
+        "excerpt": "Puis, sur un signe du prévôt, les deux maréchaux, conseillers du jeune prince, qui se tenaient auprès de lui, furent assassinés sous ses yeux."
+      }
+    },
+    {
+      "id": "evt_022",
+      "type": "political",
+      "date_start": {
+        "year": 1358,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Le dauphin s'échappe de Paris et devient régent",
+      "description": "Le dauphin, captif d'Étienne Marcel, réussit à s'échapper de Paris. Ayant atteint l'âge de 18 ans, il prend le titre de régent et obtient l'appui des États de Champagne.",
+      "importance": 4,
+      "people": [
+        "Charles V"
+      ],
+      "locations": [
+        "Paris",
+        "Champagne",
+        "Compiègne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 264,
+        "line_end": 274,
+        "excerpt": "Ayant atteint l'âge de dix-huit ans, il prit le titre de régent et, réfugié en Champagne, il obtint l'appui des Etats de cette province."
+      }
+    },
+    {
+      "id": "evt_023",
+      "type": "event",
+      "date_start": {
+        "year": 1358,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "La Jacquerie",
+      "description": "Terrible révolte paysanne dans la région autour de Paris, dans le pays de Laon, Amiens, Beauvais et Soissons. Étienne Marcel s'entend avec les chefs des Jacques.",
+      "importance": 4,
+      "people": [
+        "Étienne Marcel",
+        "Charles le Mauvais"
+      ],
+      "locations": [
+        "Paris",
+        "Laon",
+        "Amiens",
+        "Beauvais",
+        "Soissons",
+        "Meaux"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 278,
+        "line_end": 290,
+        "excerpt": "Dans toute la région qui entoure la capitale, dans le pays de Laon, d'Amiens, de Beauvais, de Soissons... ce fut une terrible Jacquerie."
+      }
+    },
+    {
+      "id": "evt_024",
+      "type": "battle",
+      "date_start": {
+        "year": 1358,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Défaite des Jacques à Meaux",
+      "description": "Les Jacques sont battus presque par hasard à Meaux. Charles le Mauvais lui-même s'associe à la répression et il y a grand massacre des révoltés.",
+      "importance": 3,
+      "people": [
+        "Charles le Mauvais"
+      ],
+      "locations": [
+        "Meaux"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 290,
+        "line_end": 296,
+        "excerpt": "Mais les Jacques, auxquels il prêtait la main, furent battus, presque par hasard, à Meaux."
+      }
+    },
+    {
+      "id": "evt_025",
+      "type": "death",
+      "date_start": {
+        "year": 1358,
+        "month": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort d'Étienne Marcel",
+      "description": "Étienne Marcel est tué au moment où, selon la légende, il plaçait les gardes pour ouvrir les portes de Paris au roi de Navarre. Il finit comme un traître.",
+      "importance": 4,
+      "people": [
+        "Étienne Marcel",
+        "Charles le Mauvais"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 298,
+        "line_end": 307,
+        "excerpt": "Bientôt Etienne Marcel fut tué au moment où, selon la légende, il plaçait lui-même les gardes qui devaient ouvrir les portes de Paris au roi de Navarre"
+      }
+    },
+    {
+      "id": "evt_026",
+      "type": "political",
+      "date_start": {
+        "year": 1358,
+        "month": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Contre-révolution de Jean Maillart",
+      "description": "Jean Maillart et les bourgeois parisiens mènent une contre-révolution. Le régent reprend possession de Paris après près de deux ans de troubles.",
+      "importance": 3,
+      "people": [
+        "Jean Maillart",
+        "Charles V"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 307,
+        "line_end": 314,
+        "excerpt": "Jean Maillart et les bourgeois parisiens qui avaient mené cette contre-révolution arrêtèrent les amis du prévôt et envoyèrent des députés au régent"
+      }
+    },
+    {
+      "id": "evt_027",
+      "type": "treaty",
+      "date_start": {
+        "year": 1360,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de Brétigny",
+      "description": "Traité signé avec l'Angleterre qui laisse la Normandie à la France mais lui enlève tout le Sud-Ouest jusqu'à la Loire. La rançon du roi Jean est fixée à trois millions d'écus d'or.",
+      "importance": 5,
+      "people": [
+        "Édouard III",
+        "Jean II le Bon"
+      ],
+      "locations": [
+        "Brétigny",
+        "Normandie",
+        "Calais"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 329,
+        "line_end": 337,
+        "excerpt": "On signa en 1360 le traité de Brétigny qui nous laissait la Normandie mais nous enlevait tout le Sud-Ouest jusqu'à la Loire."
+      }
+    },
+    {
+      "id": "evt_028",
+      "type": "death",
+      "date_start": {
+        "year": 1364,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Jean II le Bon",
+      "description": "Le roi Jean, délivré, vécut encore quatre ans qu'il passa à nettoyer le pays des brigands qui l'infestaient.",
+      "importance": 3,
+      "people": [
+        "Jean II le Bon"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 340,
+        "line_end": 344,
+        "excerpt": "Le roi Jean, délivré, vécut encore quatre ans qu'il passa à nettoyer le pays des brigands qui l'infestaient."
+      }
+    },
+    {
+      "id": "evt_029",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1364,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Charles V le Sage",
+      "description": "Charles V succède à son père. Grand règne de réparation et de restauration. Il pansera les plaies de la France et la remettra à son rang en moins de vingt années.",
+      "importance": 5,
+      "people": [
+        "Charles V"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 344,
+        "line_end": 352,
+        "excerpt": "Quand son fils Charles lui succéda (1364)... Un grand règne de réparation et de restauration commençait. Charles V, qui fut surnommé le Sage"
+      }
+    },
+    {
+      "id": "evt_030",
+      "type": "battle",
+      "date_start": {
+        "year": 1364,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Cocherel",
+      "description": "Les Navarrais, poussés en avant par l'Angleterre, sont battus à Cocherel par Duguesclin. Petite victoire aux grandes conséquences: le roi de Navarre comprend que l'ordre revient.",
+      "importance": 3,
+      "people": [
+        "Bertrand du Guesclin",
+        "Charles le Mauvais",
+        "Charles V"
+      ],
+      "locations": [
+        "Cocherel"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 363,
+        "line_end": 369,
+        "excerpt": "Les Navarrais, toujours poussés en avant par l'Angleterre, sont battus à Cocherel: petite victoire, grandes conséquences."
+      }
+    },
+    {
+      "id": "evt_031",
+      "type": "event",
+      "date_start": {
+        "year": 1366,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Duguesclin conduit les Grandes Compagnies en Espagne",
+      "description": "Duguesclin, par un trait de génie, conduit les aventuriers des grandes compagnies en Espagne pour combattre Pierre le Cruel et soutenir Henri de Transtamare.",
+      "importance": 4,
+      "people": [
+        "Bertrand du Guesclin",
+        "Henri de Transtamare",
+        "Pierre le Cruel"
+      ],
+      "locations": [
+        "Espagne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 371,
+        "line_end": 377,
+        "excerpt": "Duguesclin, par un trait de génie, conduit les réfractaires en Espagne, à la solde d'Henri de Transtamare, pour combattre Pierre le Cruel soutenu par les Anglais."
+      }
+    },
+    {
+      "id": "evt_032",
+      "type": "battle",
+      "date_start": {
+        "year": 1372,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Victoire navale espagnole à La Rochelle",
+      "description": "La flotte anglaise est battue et détruite par les Espagnols alliés devant La Rochelle. Les conditions de la lutte changent et des corsaires français inquiètent les convois anglais.",
+      "importance": 4,
+      "people": [
+        "Charles V"
+      ],
+      "locations": [
+        "La Rochelle"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 397,
+        "line_end": 402,
+        "excerpt": "usure qui devint plus rapide quand la flotte anglaise eut été battue et détruite par les Espagnols devant La Rochelle."
+      }
+    },
+    {
+      "id": "evt_033",
+      "type": "political",
+      "date_start": {
+        "year": 1370,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Création de la marine française par Charles V",
+      "description": "Charles V prépare la renaissance maritime de la France. Il menaça et flatta les États Généraux, conduisit les députés visiter les navires pour les intéresser au développement de sa marine.",
+      "importance": 4,
+      "people": [
+        "Charles V",
+        "Jean de Vienne"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 409,
+        "line_end": 419,
+        "excerpt": "Charles V prépara de loin notre renaissance maritime... il menaça, flatta les Etats Généraux, conduisit lui-même les députés visiter les navires"
+      }
+    },
+    {
+      "id": "evt_034",
+      "type": "death",
+      "date_start": {
+        "year": 1377,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort d'Édouard III et du Prince Noir",
+      "description": "Édouard III et le Prince Noir meurent. Richard II a treize ans et sa minorité sera tumultueuse.",
+      "importance": 3,
+      "people": [
+        "Édouard III",
+        "Prince Noir",
+        "Richard II"
+      ],
+      "locations": [
+        "Angleterre"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 423,
+        "line_end": 429,
+        "excerpt": "Edouard III et le prince Noir étaient morts. Richard II avait treize ans et sa minorité devait être tumultueuse"
+      }
+    },
+    {
+      "id": "evt_035",
+      "type": "death",
+      "date_start": {
+        "year": 1380,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Charles V le Sage",
+      "description": "Charles V meurt. À la fin de son règne, les Anglais ne possèdent plus que Bayonne, Bordeaux et Calais. La France retombe dans les faiblesses d'une minorité.",
+      "importance": 4,
+      "people": [
+        "Charles V"
+      ],
+      "locations": [
+        "Bayonne",
+        "Bordeaux",
+        "Calais"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 429,
+        "line_end": 435,
+        "excerpt": "Par la mort de Charles le Sage (1380), nous allions retomber dans les faiblesses d'une minorité"
+      }
+    },
+    {
+      "id": "evt_036",
+      "type": "political",
+      "date_start": {
+        "year": 1360,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Réforme fiscale de Charles V",
+      "description": "Charles V garde les réformes des États Généraux sur l'impôt, les rend permanentes, puis écarte les États Généraux. Le trésor qu'il laisse vaut tous les contrôles.",
+      "importance": 4,
+      "people": [
+        "Charles V"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 437,
+        "line_end": 450,
+        "excerpt": "Charles V garda la réforme, la rendit permanente, espaça puis écarta les Etats Généraux qui auraient pu défaire ce qu'ils avaient fait."
+      }
+    },
+    {
+      "id": "evt_037",
+      "type": "event",
+      "date_start": {
+        "year": 1363,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "La Bourgogne donnée en apanage",
+      "description": "Jean le Bon, ayant acquis la Bourgogne par héritage, la donne en apanage à son fils Philippe. Charles V facilite le mariage du duc avec l'héritière de Flandre.",
+      "importance": 4,
+      "people": [
+        "Jean II le Bon",
+        "Philippe le Hardi",
+        "Charles V"
+      ],
+      "locations": [
+        "Bourgogne",
+        "Flandre",
+        "Lille",
+        "Douai",
+        "Orchies"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 456,
+        "line_end": 471,
+        "excerpt": "Aussi Jean le Bon, ayant acquis la Bourgogne par héritage, l'avait-il donnée en apanage à son fils Philippe."
+      }
+    },
+    {
+      "id": "evt_038",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1380,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Minorité de Charles VI - Régence des ducs",
+      "description": "À la mort de Charles V, les oncles de Charles VI se querellent pour la régence. Un arbitrage donne la tutelle aux quatre ducs: Anjou, Berry, Bourgogne et Bourbon.",
+      "importance": 4,
+      "people": [
+        "Charles VI",
+        "Louis d'Anjou",
+        "Jean de Berry",
+        "Philippe le Hardi",
+        "Louis de Bourbon"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 483,
+        "line_end": 494,
+        "excerpt": "A peine le sage roi eut-il disparu que les oncles de Charles VI se querellèrent pour la régence."
+      }
+    },
+    {
+      "id": "evt_039",
+      "type": "event",
+      "date_start": {
+        "year": 1382,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Sédition des Maillotins à Paris",
+      "description": "Le peuple pille l'Arsenal, s'arme de vingt mille maillets de fer. C'est la sédition des Maillotins. Après la victoire de Rosebecque sur les Flamands, les troupes royales répriment sévèrement.",
+      "importance": 3,
+      "people": [
+        "Charles VI"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 501,
+        "line_end": 516,
+        "excerpt": "Le peuple pillait l'Arsenal, s'armait, enlevait vingt mille maillets de fer: ce fut la sédition des Maillotins."
+      }
+    },
+    {
+      "id": "evt_040",
+      "type": "battle",
+      "date_start": {
+        "year": 1382,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Rosebecque",
+      "description": "Les Flamands sont écrasés à Rosebecque par l'armée française à laquelle participe le jeune roi Charles VI.",
+      "importance": 3,
+      "people": [
+        "Charles VI",
+        "Philippe le Hardi"
+      ],
+      "locations": [
+        "Rosebecque",
+        "Flandre"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 510,
+        "line_end": 513,
+        "excerpt": "Les Flamands furent écrasés à Rosebecque."
+      }
+    },
+    {
+      "id": "evt_041",
+      "type": "event",
+      "date_start": {
+        "year": 1392,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Charles VI frappé de folie",
+      "description": "En allant châtier le parti anglais de Montfort en Bretagne, Charles VI est frappé de folie dans la forêt du Mans. Le roi fou sera gardé par la France avec tendresse.",
+      "importance": 5,
+      "people": [
+        "Charles VI"
+      ],
+      "locations": [
+        "Forêt du Mans",
+        "Bretagne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 525,
+        "line_end": 532,
+        "excerpt": "C'est en allant châtier le parti anglais de Montfort que Charles VI fut frappé de folie dans la forêt du Mans (1392)."
+      }
+    },
+    {
+      "id": "evt_042",
+      "type": "political",
+      "date_start": {
+        "year": 1378,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Le Grand Schisme d'Occident",
+      "description": "Il y a un schisme dans l'Église, deux papes en guerre, l'un à Rome, l'autre à Avignon. L'Université de Paris prend le rôle d'arbitre du conflit.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Rome",
+        "Avignon"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 541,
+        "line_end": 548,
+        "excerpt": "La papauté étant divisée, l'Université prit le rôle d'arbitre du conflit et, pour forcer les deux papes rivaux à céder, décida... qu'il ne convenait plus d'obéir ni à l'un ni à l'autre."
+      }
+    },
+    {
+      "id": "evt_043",
+      "type": "political",
+      "date_start": {
+        "year": 1395,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Opposition entre Louis d'Orléans et Jean sans Peur",
+      "description": "Louis d'Orléans, frère du roi fou, représente l'intérêt de la France. Jean sans Peur, duc de Bourgogne, s'oppose à lui. La Bourgogne est devenue flamande et n'est plus française.",
+      "importance": 4,
+      "people": [
+        "Louis d'Orléans",
+        "Jean sans Peur",
+        "Charles VI"
+      ],
+      "locations": [
+        "France",
+        "Bourgogne",
+        "Flandre",
+        "Pays-Bas"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 553,
+        "line_end": 572,
+        "excerpt": "Ce nouveau duc, Jean sans Peur, cousin germain du roi et du duc d'Orléans, n'était déjà plus des nôtres, il était nationalisé flamand."
+      }
+    },
+    {
+      "id": "evt_044",
+      "type": "death",
+      "date_start": {
+        "year": 1407,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Assassinat de Louis d'Orléans",
+      "description": "Jean sans Peur fait tuer son cousin Louis d'Orléans dans une rue de Paris. Ce crime coupe la France en deux et est le signal de la guerre civile.",
+      "importance": 5,
+      "people": [
+        "Jean sans Peur",
+        "Louis d'Orléans"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 582,
+        "line_end": 588,
+        "excerpt": "Un soir de 1407, il fit tuer son cousin dans une rue de Paris. L'assassinat du duc d'Orléans coupa la France en deux."
+      }
+    },
+    {
+      "id": "evt_045",
+      "type": "political",
+      "date_start": {
+        "year": 1410,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Guerre civile Armagnacs contre Bourguignons",
+      "description": "La France se divise entre le parti d'Orléans (les Armagnacs, du nom du comte d'Armagnac et ses terribles Gascons) et les Bourguignons. Paris se prononce pour les Bourguignons.",
+      "importance": 5,
+      "people": [
+        "Comte d'Armagnac",
+        "Jean sans Peur"
+      ],
+      "locations": [
+        "Paris",
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 588,
+        "line_end": 598,
+        "excerpt": "Le parti d'Orléans amena les terribles Gascons du comte d'Armagnac. Le nom d'Armagnac lui en resta, opposé aux Bourguignons."
+      }
+    },
+    {
+      "id": "evt_046",
+      "type": "event",
+      "date_start": {
+        "year": 1413,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Révolte des Cabochiens à Paris",
+      "description": "Les intellectuels de l'Université s'allient à la corporation des bouchers. Le carme Eustache en compagnie de Caboche mène des scènes révolutionnaires. La Bastille est assiégée par le peuple.",
+      "importance": 4,
+      "people": [
+        "Caboche",
+        "Jean Gerson"
+      ],
+      "locations": [
+        "Paris",
+        "Bastille",
+        "Hôtel Saint-Paul"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 605,
+        "line_end": 625,
+        "excerpt": "Voilà le carme Eustache en compagnie de Caboche, les théologiens avec les écorcheurs... Comme sous Etienne Marcel, Paris vit des scènes révolutionnaires (1413)."
+      }
+    },
+    {
+      "id": "evt_047",
+      "type": "political",
+      "date_start": {
+        "year": 1413,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ordonnance cabochienne",
+      "description": "Pour apaiser la Terreur, le duc de Berry fait promulguer l'ordonnance cabochienne qui met bout à bout les réformes demandées depuis un demi-siècle.",
+      "importance": 3,
+      "people": [
+        "Jean de Berry"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 625,
+        "line_end": 632,
+        "excerpt": "le duc de Berry conseilla de promulguer l'ordonnance qu'on appelle la grande ordonnance cabochienne"
+      }
+    },
+    {
+      "id": "evt_048",
+      "type": "battle",
+      "date_start": {
+        "year": 1415,
+        "month": 9,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Prise de Harfleur par les Anglais",
+      "description": "Henri V débarque et prend Harfleur après un siège d'un mois. Avec Harfleur, l'Angleterre tient le grand arsenal maritime français et l'embouchure de la Seine.",
+      "importance": 3,
+      "people": [
+        "Henri V"
+      ],
+      "locations": [
+        "Harfleur",
+        "Normandie"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 637,
+        "line_end": 643,
+        "excerpt": "son fils Henri V... reprit les desseins d'Edouard III, releva sa marine et débarqua une armée devant Harfleur, qui fut pris après un siège d'un mois"
+      }
+    },
+    {
+      "id": "evt_049",
+      "type": "battle",
+      "date_start": {
+        "year": 1415,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille d'Azincourt",
+      "description": "Désastre français à Azincourt. La noblesse française, seule armée restante, va se faire massacrer. Quelques Bourguignons se mêlent aux Armagnacs qui ont l'honneur de résister.",
+      "importance": 5,
+      "people": [
+        "Henri V"
+      ],
+      "locations": [
+        "Azincourt"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 643,
+        "line_end": 655,
+        "excerpt": "La France fût restée inerte sans sa chevalerie... qui alla, comme à Crécy et à Poitiers, se faire massacrer à Azincourt (1415)."
+      }
+    },
+    {
+      "id": "evt_050",
+      "type": "event",
+      "date_start": {
+        "year": 1418,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Les Bourguignons ouvrent Paris à Jean sans Peur",
+      "description": "Les Bourguignons ouvrent les portes de Paris à Jean sans Peur. Des milliers d'Armagnacs sont arrêtés et des massacres ont lieu dans les prisons, semblables à ceux de septembre 1792.",
+      "importance": 4,
+      "people": [
+        "Jean sans Peur",
+        "Isabeau de Bavière"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 661,
+        "line_end": 674,
+        "excerpt": "Bientôt les Bourguignons ouvrirent à Jean sans Peur les portes de Paris... A deux reprises, des massacres eurent lieu dans les prisons."
+      }
+    },
+    {
+      "id": "evt_051",
+      "type": "death",
+      "date_start": {
+        "year": 1419,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Assassinat de Jean sans Peur à Montereau",
+      "description": "Lors d'une entrevue à Montereau avec le dauphin Charles, Jean sans Peur est assassiné. Ce crime précipite la fin du drame et la livraison de la France aux Anglais.",
+      "importance": 5,
+      "people": [
+        "Jean sans Peur",
+        "Charles VII"
+      ],
+      "locations": [
+        "Montereau"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 680,
+        "line_end": 690,
+        "excerpt": "A la seconde, à Montereau, une altercation éclata. Le duc de Bourgogne fut assassiné, ainsi que lui-même jadis avait fait tuer le duc d'Orléans (1419)."
+      }
+    },
+    {
+      "id": "evt_052",
+      "type": "treaty",
+      "date_start": {
+        "year": 1420,
+        "month": 5,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Traité de Troyes",
+      "description": "Philippe le Bon livre la France à Henri V qui épouse une fille de Charles VI et deviendra roi de France à sa mort. Le dauphin Charles est déchu de ses droits au trône.",
+      "importance": 5,
+      "people": [
+        "Philippe le Bon",
+        "Henri V",
+        "Charles VI",
+        "Charles VII"
+      ],
+      "locations": [
+        "Troyes"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 691,
+        "line_end": 710,
+        "excerpt": "Tel fut le honteux traité de Troyes (20 mai 1420). Plus honteuse l'acceptation de l'Université, du Parlement, de tous les corps constitués de France."
+      }
+    },
+    {
+      "id": "evt_053",
+      "type": "death",
+      "date_start": {
+        "year": 1422,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort d'Henri V et de Charles VI",
+      "description": "Henri V meurt prématurément, deux mois avant Charles VI. L'Anglais n'a pas l'héritage du traité de Troyes, il ne fut pas roi de France ni sacré à Reims.",
+      "importance": 4,
+      "people": [
+        "Henri V",
+        "Charles VI",
+        "Henri VI"
+      ],
+      "locations": [
+        "Reims"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 717,
+        "line_end": 726,
+        "excerpt": "En 1422, Henri V était mort prématurément, deux mois avant Charles VI. C'est-à-dire que l'Anglais n'eut pas l'héritage que lui réservait le traité de Troyes."
+      }
+    },
+    {
+      "id": "evt_054",
+      "type": "period",
+      "date_start": {
+        "year": 1422,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 1429,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Le roi de Bourges",
+      "description": "Charles VII, proscrit et dénué de ressources, erre dans les parties du royaume non occupées par les Anglais. Il est le 'roi de Bourges', un simple prétendant aux droits contestés.",
+      "importance": 4,
+      "people": [
+        "Charles VII"
+      ],
+      "locations": [
+        "Bourges",
+        "France"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 727,
+        "line_end": 745,
+        "excerpt": "De 1422 à 1429, l'héritier de la couronne de France, proscrit, dénué de ressources... erre dans les parties de son royaume qui ne sont pas occupées par les Anglais."
+      }
+    },
+    {
+      "id": "evt_055",
+      "type": "event",
+      "date_start": {
+        "year": 1429,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Siège d'Orléans par les Anglais",
+      "description": "Le régent anglais Bedford entreprend la soumission méthodique de la France. Orléans assiégé est sur le point de succomber après une belle et longue défense.",
+      "importance": 4,
+      "people": [
+        "Duc de Bedford",
+        "Charles d'Orléans"
+      ],
+      "locations": [
+        "Orléans"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 754,
+        "line_end": 765,
+        "excerpt": "Le régent anglais, le duc de Bedford, avait entrepris la soumission méthodique de la France. Orléans assiégé était sur le point de succomber"
+      }
+    },
+    {
+      "id": "evt_056",
+      "type": "event",
+      "date_start": {
+        "year": 1429,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Jeanne d'Arc entend ses voix à Domremy",
+      "description": "Dans le village de Domremy aux limites de Champagne et de Lorraine, Jeanne d'Arc entend ses saintes qui lui disent de délivrer Orléans et de sacrer le dauphin à Reims.",
+      "importance": 5,
+      "people": [
+        "Jeanne d'Arc"
+      ],
+      "locations": [
+        "Domremy",
+        "Vaucouleurs"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 766,
+        "line_end": 780,
+        "excerpt": "Elles allaient jusqu'aux limites de Champagne et de Lorraine, dans ce village de Domremy où Jeanne d'Arc entendait ses saintes."
+      }
+    },
+    {
+      "id": "evt_057",
+      "type": "event",
+      "date_start": {
+        "year": 1429,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Rencontre de Jeanne d'Arc et Charles VII",
+      "description": "Jeanne d'Arc reconnaît le dauphin qui la met à l'épreuve et tombe à ses genoux. La confiance en lui-même est rendue au roi légitime.",
+      "importance": 5,
+      "people": [
+        "Jeanne d'Arc",
+        "Charles VII"
+      ],
+      "locations": [
+        "Chinon"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 800,
+        "line_end": 810,
+        "excerpt": "Le geste de Jeanne, reconnaissant le dauphin qui la met à l'épreuve, et tombant à ses genoux, est décisif."
+      }
+    },
+    {
+      "id": "evt_058",
+      "type": "battle",
+      "date_start": {
+        "year": 1429,
+        "month": 5,
+        "day": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Levée du siège d'Orléans",
+      "description": "Jeanne d'Arc fait lever le siège d'Orléans le 8 mai 1429. Les Anglais qui essaient de barrer le passage sont bousculés.",
+      "importance": 5,
+      "people": [
+        "Jeanne d'Arc"
+      ],
+      "locations": [
+        "Orléans"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 813,
+        "line_end": 816,
+        "excerpt": "Ainsi fut levé le siège d'Orléans (8 mai 1429)."
+      }
+    },
+    {
+      "id": "evt_059",
+      "type": "battle",
+      "date_start": {
+        "year": 1429,
+        "month": 6,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Patay",
+      "description": "D'enthousiasme, les Anglais qui essayaient de barrer le passage sont bousculés à Patay.",
+      "importance": 3,
+      "people": [
+        "Jeanne d'Arc"
+      ],
+      "locations": [
+        "Patay"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 816,
+        "line_end": 819,
+        "excerpt": "D'enthousiasme, les Anglais, qui essayaient de barrer le passage, furent bousculés à Patay."
+      }
+    },
+    {
+      "id": "evt_060",
+      "type": "religious",
+      "date_start": {
+        "year": 1429,
+        "month": 7,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Sacre de Charles VII à Reims",
+      "description": "Jeanne d'Arc conduit le roi à Reims. Troyes est pris, les portes de Châlons et de Reims sont ouvertes. Le dauphin y est sacré solennellement selon les rites.",
+      "importance": 5,
+      "people": [
+        "Jeanne d'Arc",
+        "Charles VII"
+      ],
+      "locations": [
+        "Reims",
+        "Troyes",
+        "Châlons"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 816,
+        "line_end": 825,
+        "excerpt": "Jeanne conduisit le roi à Reims... Le dauphin y fut sacré solennellement, selon les rites. Dès lors, le petit prince anglais ne pouvait plus être en France qu'un faux roi."
+      }
+    },
+    {
+      "id": "evt_061",
+      "type": "event",
+      "date_start": {
+        "year": 1430,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Capture de Jeanne d'Arc à Compiègne",
+      "description": "Jeanne d'Arc échoue devant Paris resté bourguignon, puis devant Compiègne. Tombée aux mains de Jean de Ligny, elle est livrée aux Anglais sur ordre du duc de Bourgogne.",
+      "importance": 4,
+      "people": [
+        "Jeanne d'Arc",
+        "Jean de Ligny",
+        "Philippe le Bon"
+      ],
+      "locations": [
+        "Paris",
+        "Compiègne"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 830,
+        "line_end": 838,
+        "excerpt": "Autre échec devant Compiègne: tombée aux mains de Jean de Ligny, bourguignon, Jeanne, d'ordre du duc de Bourgogne, fut livrée aux Anglais."
+      }
+    },
+    {
+      "id": "evt_062",
+      "type": "death",
+      "date_start": {
+        "year": 1431,
+        "month": 5,
+        "day": 30,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Mort de Jeanne d'Arc sur le bûcher",
+      "description": "Jeanne d'Arc est condamnée au bûcher par l'évêque Cauchon, une des lumières de l'Université bourguignonne de Paris. L'Université la déclare coupable.",
+      "importance": 5,
+      "people": [
+        "Jeanne d'Arc",
+        "Pierre Cauchon",
+        "Bedford",
+        "Winchester"
+      ],
+      "locations": [
+        "Rouen"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 841,
+        "line_end": 854,
+        "excerpt": "Cauchon eut soin de la consulter: l'Université déclara coupable et envoya au feu celle qui représentait le parti d'Orléans (30 mai 1431)."
+      }
+    },
+    {
+      "id": "evt_063",
+      "type": "treaty",
+      "date_start": {
+        "year": 1435,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité d'Arras - Réconciliation avec la Bourgogne",
+      "description": "Quatre ans après la mort de Jeanne d'Arc, au congrès d'Arras, le duc de Bourgogne se réconcilie avec Charles VII qui exprime des regrets pour l'assassinat de Jean sans Peur.",
+      "importance": 4,
+      "people": [
+        "Philippe le Bon",
+        "Charles VII"
+      ],
+      "locations": [
+        "Arras"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 858,
+        "line_end": 866,
+        "excerpt": "Quatre ans après la mort de Jeanne d'Arc, au congrès d'Arras, il se réconciliait avec Charles VII qui n'acheta pas trop cher cet accord"
+      }
+    },
+    {
+      "id": "evt_064",
+      "type": "event",
+      "date_start": {
+        "year": 1436,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Paris ouvre ses portes au roi",
+      "description": "Un an après le traité d'Arras, les Parisiens ouvrent leurs portes aux gens du roi et aident Richemont à chasser la garnison anglaise.",
+      "importance": 4,
+      "people": [
+        "Charles VII",
+        "Arthur de Richemont"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 866,
+        "line_end": 870,
+        "excerpt": "Un an après le traité d'Arras, les Parisiens ouvrent leurs portes aux gens du roi et ils aident Richemont à chasser la garnison anglaise."
+      }
+    },
+    {
+      "id": "evt_065",
+      "type": "political",
+      "date_start": {
+        "year": 1440,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Reconstruction de l'État par Charles VII",
+      "description": "Charles VII refait l'administration, les finances et l'armée avec de faibles moyens, aidé par des bourgeois administrateurs comme l'argentier Jacques Cœur et le maître de l'artillerie Jean Bureau.",
+      "importance": 4,
+      "people": [
+        "Charles VII",
+        "Jacques Cœur",
+        "Jean Bureau"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 871,
+        "line_end": 888,
+        "excerpt": "aidé dans sa besogne par des gens de peu ou de rien, des bourgeois administrateurs, l'argentier Jacques Coeur, le maître de l'artillerie Jean Bureau."
+      }
+    },
+    {
+      "id": "evt_066",
+      "type": "battle",
+      "date_start": {
+        "year": 1450,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Formigny",
+      "description": "La victoire de Formigny efface Crécy, Poitiers et Azincourt. À la mort de Charles VII, l'Angleterre ne tient plus que Calais en France.",
+      "importance": 5,
+      "people": [
+        "Charles VII"
+      ],
+      "locations": [
+        "Formigny",
+        "Calais"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 888,
+        "line_end": 892,
+        "excerpt": "Le résultat fut qu'à la mort du roi, l'Angleterre, en France, ne tenait plus que Calais. La victoire de Formigny (1450) effaça Crécy, Poitiers, Azincourt."
+      }
+    },
+    {
+      "id": "evt_067",
+      "type": "event",
+      "date_start": {
+        "year": 1444,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Le dauphin Louis XI en Suisse",
+      "description": "Charles V avait envoyé les grandes compagnies en Espagne. Le dauphin Louis conduit les routiers en Suisse pour rendre service à l'empereur. En battant les Suisses, il les découvre.",
+      "importance": 3,
+      "people": [
+        "Louis XI",
+        "Sigismond"
+      ],
+      "locations": [
+        "Suisse",
+        "Bâle"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 903,
+        "line_end": 912,
+        "excerpt": "Le dauphin avait conduit à Bâle les routiers encombrants, et le dauphin, c'était le futur Louis XI. En battant les Suisses, il les découvrit"
+      }
+    },
+    {
+      "id": "evt_068",
+      "type": "political",
+      "date_start": {
+        "year": 1450,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Toul et Verdun demandent la protection française",
+      "description": "Des villes d'Empire demandent la protection du roi de France. Ce fut le cas de Toul et de Verdun. Metz s'y joindra plus tard.",
+      "importance": 3,
+      "people": [
+        "Charles VII"
+      ],
+      "locations": [
+        "Toul",
+        "Verdun",
+        "Metz"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 912,
+        "line_end": 918,
+        "excerpt": "des villes d'Empire... demandèrent la protection du roi de France. Ce fut le cas de Toul et de Verdun. Metz s'y joindra plus tard"
+      }
+    },
+    {
+      "id": "evt_069",
+      "type": "event",
+      "date_start": {
+        "year": 1453,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Chute de Constantinople",
+      "description": "Les Turcs s'emparent de Constantinople. Ils deviennent puissance européenne. La chrétienté tremble mais la France trouvera en Turquie un allié contre l'Empire germanique.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Constantinople"
+      ],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 918,
+        "line_end": 926,
+        "excerpt": "En 1453, les Turcs s'emparent de Constantinople... Qui eût dit alors que, dans les luttes de l'avenir, la France trouverait en Turquie un allié inespéré"
+      }
+    }
+  ],
+  "people": [
+    {
+      "name": "Philippe IV le Bel",
+      "aliases": [
+        "Philippe le Bel"
+      ],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "reign": {
+        "start": {
+          "year": 1285,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1314,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "source_lines": [
+        36,
+        54,
+        336
+      ],
+      "id": "per_philippe_iv_le_bel"
+    },
+    {
+      "name": "Philippe VI de Valois",
+      "aliases": [
+        "Philippe VI",
+        "Philippe de Valois"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "reign": {
+        "start": {
+          "year": 1328,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1350,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "source_lines": [
+        39,
+        50,
+        57,
+        67,
+        98,
+        128
+      ],
+      "id": "per_philippe_vi_de_valoi"
+    },
+    {
+      "name": "Édouard III",
+      "aliases": [
+        "Edouard III"
+      ],
+      "dynasty": "Plantagenêts",
+      "titles": [
+        "Roi d'Angleterre"
+      ],
+      "reign": {
+        "start": {
+          "year": 1327,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1377,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "source_lines": [
+        26,
+        53,
+        61,
+        85,
+        90,
+        123,
+        137,
+        323,
+        396,
+        423
+      ],
+      "id": "per__douard_iii"
+    },
+    {
+      "name": "Jacques Artevelde",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Brasseur de Gand",
+        "Maître de Flandre"
+      ],
+      "death": {
+        "year": 1345,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "source_lines": [
+        88,
+        98,
+        476
+      ],
+      "id": "per_jacques_artevelde"
+    },
+    {
+      "name": "Jean II le Bon",
+      "aliases": [
+        "Jean le Bon",
+        "Roi Jean"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "reign": {
+        "start": {
+          "year": 1350,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1364,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "source_lines": [
+        132,
+        143,
+        166,
+        181,
+        207,
+        340,
+        456
+      ],
+      "id": "per_jean_ii_le_bon"
+    },
+    {
+      "name": "Charles le Mauvais",
+      "aliases": [
+        "Charles II de Navarre",
+        "Roi de Navarre"
+      ],
+      "dynasty": "Évreux-Navarre",
+      "titles": [
+        "Roi de Navarre"
+      ],
+      "relations": [
+        {
+          "type": "petit-fils",
+          "person": "Louis X le Hutin"
+        }
+      ],
+      "source_lines": [
+        147,
+        166,
+        236,
+        249,
+        290,
+        325,
+        369
+      ],
+      "id": "per_charles_le_mauvais"
+    },
+    {
+      "name": "Louis X le Hutin",
+      "aliases": [
+        "Louis Hutin"
+      ],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "source_lines": [
+        148
+      ],
+      "id": "per_louis_x_le_hutin"
+    },
+    {
+      "name": "Étienne Marcel",
+      "aliases": [
+        "Prévôt des marchands de Paris"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Prévôt des marchands de Paris"
+      ],
+      "death": {
+        "year": 1358,
+        "month": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "source_lines": [
+        184,
+        243,
+        248,
+        260,
+        280,
+        298,
+        476,
+        612
+      ],
+      "id": "per__tienne_marcel"
+    },
+    {
+      "name": "Charles V",
+      "aliases": [
+        "Charles le Sage",
+        "Le dauphin Charles"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France",
+        "Dauphin",
+        "Régent"
+      ],
+      "reign": {
+        "start": {
+          "year": 1364,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1380,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "source_lines": [
+        217,
+        265,
+        316,
+        344,
+        395,
+        409,
+        429,
+        438,
+        461,
+        475,
+        483,
+        497
+      ],
+      "id": "per_charles_v"
+    },
+    {
+      "name": "Jean Maillart",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [],
+      "source_lines": [
+        307
+      ],
+      "id": "per_jean_maillart"
+    },
+    {
+      "name": "Christine de Pisan",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Écrivain"
+      ],
+      "source_lines": [
+        314
+      ],
+      "id": "per_christine_de_pisan"
+    },
+    {
+      "name": "Bertrand du Guesclin",
+      "aliases": [
+        "Duguesclin"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Connétable de France"
+      ],
+      "source_lines": [
+        359,
+        371,
+        395,
+        420,
+        497
+      ],
+      "id": "per_bertrand_du_guesclin"
+    },
+    {
+      "name": "Henri de Transtamare",
+      "aliases": [],
+      "dynasty": "Transtamare",
+      "titles": [
+        "Roi de Castille"
+      ],
+      "source_lines": [
+        373
+      ],
+      "id": "per_henri_de_transtamare"
+    },
+    {
+      "name": "Pierre le Cruel",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Roi de Castille"
+      ],
+      "source_lines": [
+        374
+      ],
+      "id": "per_pierre_le_cruel"
+    },
+    {
+      "name": "Jean de Vienne",
+      "aliases": [
+        "Amiral Jean de Vienne"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Amiral de France"
+      ],
+      "source_lines": [
+        420,
+        523
+      ],
+      "id": "per_jean_de_vienne"
+    },
+    {
+      "name": "Richard II",
+      "aliases": [],
+      "dynasty": "Plantagenêts",
+      "titles": [
+        "Roi d'Angleterre"
+      ],
+      "reign": {
+        "start": {
+          "year": 1377,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1399,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "source_lines": [
+        425,
+        519,
+        575,
+        581
+      ],
+      "id": "per_richard_ii"
+    },
+    {
+      "name": "Philippe le Hardi",
+      "aliases": [
+        "Duc de Bourgogne"
+      ],
+      "dynasty": "Valois-Bourgogne",
+      "titles": [
+        "Duc de Bourgogne"
+      ],
+      "source_lines": [
+        457,
+        467,
+        489,
+        497,
+        504
+      ],
+      "id": "per_philippe_le_hardi"
+    },
+    {
+      "name": "Charles VI",
+      "aliases": [
+        "Le roi fou"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "reign": {
+        "start": {
+          "year": 1380,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1422,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "source_lines": [
+        475,
+        485,
+        509,
+        519,
+        525,
+        575,
+        693,
+        720
+      ],
+      "id": "per_charles_vi"
+    },
+    {
+      "name": "Louis d'Anjou",
+      "aliases": [
+        "Duc d'Anjou"
+      ],
+      "dynasty": "Valois-Anjou",
+      "titles": [
+        "Duc d'Anjou"
+      ],
+      "source_lines": [
+        490,
+        502
+      ],
+      "id": "per_louis_d_anjou"
+    },
+    {
+      "name": "Jean de Berry",
+      "aliases": [
+        "Duc de Berry"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Duc de Berry"
+      ],
+      "source_lines": [
+        490,
+        620,
+        627
+      ],
+      "id": "per_jean_de_berry"
+    },
+    {
+      "name": "Louis de Bourbon",
+      "aliases": [
+        "Duc de Bourbon"
+      ],
+      "dynasty": "Bourbon",
+      "titles": [
+        "Duc de Bourbon"
+      ],
+      "source_lines": [
+        490
+      ],
+      "id": "per_louis_de_bourbon"
+    },
+    {
+      "name": "Clisson",
+      "aliases": [
+        "Olivier de Clisson"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Connétable de France"
+      ],
+      "source_lines": [
+        523
+      ],
+      "id": "per_clisson"
+    },
+    {
+      "name": "Louis d'Orléans",
+      "aliases": [
+        "Duc d'Orléans"
+      ],
+      "dynasty": "Valois-Orléans",
+      "titles": [
+        "Duc d'Orléans"
+      ],
+      "death": {
+        "year": 1407,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Charles VI"
+        }
+      ],
+      "source_lines": [
+        549,
+        558,
+        573,
+        582,
+        686
+      ],
+      "id": "per_louis_d_orl_ans"
+    },
+    {
+      "name": "Jean sans Peur",
+      "aliases": [
+        "Duc de Bourgogne"
+      ],
+      "dynasty": "Valois-Bourgogne",
+      "titles": [
+        "Duc de Bourgogne"
+      ],
+      "death": {
+        "year": 1419,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [
+        {
+          "type": "cousin",
+          "person": "Charles VI"
+        },
+        {
+          "type": "cousin",
+          "person": "Louis d'Orléans"
+        }
+      ],
+      "source_lines": [
+        469,
+        567,
+        582,
+        593,
+        604,
+        633,
+        661,
+        677,
+        686
+      ],
+      "id": "per_jean_sans_peur"
+    },
+    {
+      "name": "Henri IV de Lancastre",
+      "aliases": [
+        "Henri de Lancastre",
+        "Henri IV"
+      ],
+      "dynasty": "Lancastre",
+      "titles": [
+        "Roi d'Angleterre"
+      ],
+      "source_lines": [
+        580,
+        636
+      ],
+      "id": "per_henri_iv_de_lancastr"
+    },
+    {
+      "name": "Jean Gerson",
+      "aliases": [
+        "Gerson"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Chancelier de l'Université de Paris"
+      ],
+      "source_lines": [
+        609
+      ],
+      "id": "per_jean_gerson"
+    },
+    {
+      "name": "Caboche",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Boucher"
+      ],
+      "source_lines": [
+        607
+      ],
+      "id": "per_caboche"
+    },
+    {
+      "name": "Henri V",
+      "aliases": [],
+      "dynasty": "Lancastre",
+      "titles": [
+        "Roi d'Angleterre"
+      ],
+      "death": {
+        "year": 1422,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Henri IV de Lancastre"
+        }
+      ],
+      "source_lines": [
+        577,
+        638,
+        649,
+        679,
+        691,
+        717
+      ],
+      "id": "per_henri_v"
+    },
+    {
+      "name": "Isabeau de Bavière",
+      "aliases": [
+        "La Bavaroise",
+        "Isabeau"
+      ],
+      "dynasty": "Wittelsbach",
+      "titles": [
+        "Reine de France"
+      ],
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Charles VI"
+        }
+      ],
+      "source_lines": [
+        660,
+        679
+      ],
+      "id": "per_isabeau_de_bavi_re"
+    },
+    {
+      "name": "Philippe le Bon",
+      "aliases": [
+        "Duc de Bourgogne"
+      ],
+      "dynasty": "Valois-Bourgogne",
+      "titles": [
+        "Duc de Bourgogne"
+      ],
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Jean sans Peur"
+        }
+      ],
+      "source_lines": [
+        690,
+        835,
+        861
+      ],
+      "id": "per_philippe_le_bon"
+    },
+    {
+      "name": "Charles VII",
+      "aliases": [
+        "Le roi de Bourges",
+        "Le dauphin Charles",
+        "Charles le Bien Servi"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France",
+        "Dauphin"
+      ],
+      "reign": {
+        "start": {
+          "year": 1422,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1461,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "source_lines": [
+        658,
+        680,
+        699,
+        727,
+        751,
+        802,
+        861,
+        871,
+        888
+      ],
+      "id": "per_charles_vii"
+    },
+    {
+      "name": "Duc de Bedford",
+      "aliases": [
+        "Régent anglais"
+      ],
+      "dynasty": "Lancastre",
+      "titles": [
+        "Duc de Bedford",
+        "Régent de France"
+      ],
+      "source_lines": [
+        754,
+        819,
+        840
+      ],
+      "id": "per_duc_de_bedford"
+    },
+    {
+      "name": "Henri VI",
+      "aliases": [],
+      "dynasty": "Lancastre",
+      "titles": [
+        "Roi d'Angleterre"
+      ],
+      "source_lines": [
+        723,
+        894
+      ],
+      "id": "per_henri_vi"
+    },
+    {
+      "name": "Charles d'Orléans",
+      "aliases": [
+        "Le poète"
+      ],
+      "dynasty": "Valois-Orléans",
+      "titles": [
+        "Duc d'Orléans"
+      ],
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Louis d'Orléans"
+        }
+      ],
+      "source_lines": [
+        759
+      ],
+      "id": "per_charles_d_orl_ans"
+    },
+    {
+      "name": "Jeanne d'Arc",
+      "aliases": [
+        "La Pucelle d'Orléans",
+        "La bonne Lorraine"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": {
+        "year": 1412,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "death": {
+        "year": 1431,
+        "month": 5,
+        "day": 30,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "source_lines": [
+        326,
+        424,
+        726,
+        769,
+        780,
+        802,
+        813,
+        827,
+        835,
+        850,
+        857
+      ],
+      "id": "per_jeanne_d_arc"
+    },
+    {
+      "name": "Pierre Cauchon",
+      "aliases": [
+        "Cauchon"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Évêque de Beauvais"
+      ],
+      "source_lines": [
+        845
+      ],
+      "id": "per_pierre_cauchon"
+    },
+    {
+      "name": "Jean de Ligny",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [],
+      "source_lines": [
+        835
+      ],
+      "id": "per_jean_de_ligny"
+    },
+    {
+      "name": "Arthur de Richemont",
+      "aliases": [
+        "Richemont"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Connétable de France"
+      ],
+      "source_lines": [
+        868
+      ],
+      "id": "per_arthur_de_richemont"
+    },
+    {
+      "name": "Jacques Cœur",
+      "aliases": [
+        "L'argentier"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Argentier du roi"
+      ],
+      "source_lines": [
+        885
+      ],
+      "id": "per_jacques_c_ur"
+    },
+    {
+      "name": "Jean Bureau",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Maître de l'artillerie"
+      ],
+      "source_lines": [
+        886
+      ],
+      "id": "per_jean_bureau"
+    },
+    {
+      "name": "Louis XI",
+      "aliases": [
+        "Le dauphin Louis"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France",
+        "Dauphin"
+      ],
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Charles VII"
+        }
+      ],
+      "source_lines": [
+        349,
+        907
+      ],
+      "id": "per_louis_xi"
+    },
+    {
+      "name": "Sigismond",
+      "aliases": [
+        "Empereur Sigismond"
+      ],
+      "dynasty": "Luxembourg",
+      "titles": [
+        "Empereur du Saint-Empire"
+      ],
+      "source_lines": [
+        902
+      ],
+      "id": "per_sigismond"
+    },
+    {
+      "name": "Jean de Montfort",
+      "aliases": [],
+      "dynasty": "Montfort",
+      "titles": [
+        "Duc de Bretagne"
+      ],
+      "source_lines": [
+        101
+      ],
+      "id": "per_jean_de_montfort"
+    },
+    {
+      "name": "Charles de Blois",
+      "aliases": [],
+      "dynasty": "Blois-Châtillon",
+      "titles": [],
+      "source_lines": [
+        102
+      ],
+      "id": "per_charles_de_blois"
+    },
+    {
+      "name": "Prince Noir",
+      "aliases": [
+        "Édouard de Woodstock"
+      ],
+      "dynasty": "Plantagenêts",
+      "titles": [
+        "Prince de Galles"
+      ],
+      "death": {
+        "year": 1376,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Édouard III"
+        }
+      ],
+      "source_lines": [
+        63,
+        423
+      ],
+      "id": "per_prince_noir"
+    },
+    {
+      "name": "Comte d'Harcourt",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Comte d'Harcourt"
+      ],
+      "source_lines": [
+        137
+      ],
+      "id": "per_comte_d_harcourt"
+    },
+    {
+      "name": "Comte d'Eu",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Connétable de France"
+      ],
+      "death": {
+        "year": 1350,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "source_lines": [
+        143
+      ],
+      "id": "per_comte_d_eu"
+    },
+    {
+      "name": "Comte d'Armagnac",
+      "aliases": [
+        "Bernard VII d'Armagnac"
+      ],
+      "dynasty": "Armagnac",
+      "titles": [
+        "Comte d'Armagnac"
+      ],
+      "source_lines": [
+        589
+      ],
+      "id": "per_comte_d_armagnac"
+    },
+    {
+      "name": "Duc d'Alençon",
+      "aliases": [],
+      "dynasty": "Valois-Alençon",
+      "titles": [
+        "Duc d'Alençon"
+      ],
+      "source_lines": [
+        879
+      ],
+      "id": "per_duc_d_alen_on"
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_capetiens",
+      "name": "Capétiens",
+      "period_start": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_valois",
+      "name": "Valois",
+      "period_start": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1589,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_plantagenets",
+      "name": "Plantagenêts",
+      "period_start": {
+        "year": 1154,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1399,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_lancastre",
+      "name": "Lancastre",
+      "period_start": {
+        "year": 1399,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1471,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_valois_bourgogne",
+      "name": "Valois-Bourgogne",
+      "period_start": {
+        "year": 1363,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1477,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}

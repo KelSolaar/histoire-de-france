@@ -1,0 +1,1280 @@
+{
+  "chapter_number": 1,
+  "chapter_title": "PENDANT 500 ANS LA GAULE PARTAGE LA VIE DE ROME",
+  "line_start": 201,
+  "line_end": 521,
+  "validation_status": "success",
+  "entries": [
+    {
+      "type": "period",
+      "date_start": {
+        "year": -2500,
+        "circa": true,
+        "era": "BCE",
+        "precision": "century"
+      },
+      "title": "Origines préhistoriques de la France",
+      "description": "Au-delà de 2500 ans avant notre ère, les origines de la France se perdent dans les conjectures. Des migrations et conquêtes se succèdent sur le sol français.",
+      "importance": 2,
+      "people": [],
+      "locations": [
+        "France",
+        "Gaule"
+      ],
+      "group_dynasty": "Gaulois",
+      "source": {
+        "line_start": 8,
+        "line_end": 20,
+        "excerpt": "Au delà de 2.500 ans, les origines de la France se perdent dans les conjectures et dans la nuit."
+      },
+      "id": "evt_1_001"
+    },
+    {
+      "type": "period",
+      "date_start": {
+        "year": -500,
+        "circa": true,
+        "era": "BCE",
+        "precision": "century"
+      },
+      "title": "Domination gauloise sur les Ligures et Ibères",
+      "description": "Les Gaëls ou Gaulois deviennent les maîtres du territoire, chassant ou se mêlant aux Ligures et Ibères qui occupaient le sol avant eux.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Gaule"
+      ],
+      "group_dynasty": "Gaulois",
+      "source": {
+        "line_start": 11,
+        "line_end": 16,
+        "excerpt": "les Gaëls ou Gaulois devinrent les maîtres, chassant les occupants qu'ils avaient trouvés ou se mêlant à eux. Ces occupants étaient les Ligures et les Ibères"
+      },
+      "id": "evt_1_002"
+    },
+    {
+      "type": "period",
+      "date_start": {
+        "year": -600,
+        "circa": true,
+        "era": "BCE",
+        "precision": "century"
+      },
+      "title": "Fondation de la colonie grecque de Marseille",
+      "description": "Marseille existe comme colonie grecque avant la conquête romaine, illustrant les différences entre les peuples de la Gaule méridionale et septentrionale.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Marseille"
+      ],
+      "group_dynasty": "Gaulois",
+      "source": {
+        "line_start": 24,
+        "line_end": 27,
+        "excerpt": "avant la conquête romaine, de prodigieuses différences entre la colonie grecque de Marseille et les Cimbres d'entre Seine et Loire"
+      },
+      "id": "evt_1_003"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": -390,
+        "circa": true,
+        "era": "BCE",
+        "precision": "decade"
+      },
+      "title": "Les Gaulois prennent Rome",
+      "description": "Les Gaulois, au cours de leurs expéditions et migrations à travers l'Europe, font trembler Rome et y entrent en vainqueurs.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Rome",
+        "Europe",
+        "Asie-Mineure"
+      ],
+      "group_dynasty": "Gaulois",
+      "source": {
+        "line_start": 86,
+        "line_end": 89,
+        "excerpt": "leurs expéditions et leurs migrations les avaient conduits, à travers l'Europe, jusqu'en Asie-Mineure. Ils avaient fait trembler Rome, où ils étaient entrés en vainqueurs."
+      },
+      "id": "evt_1_004"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": -102,
+        "circa": false,
+        "era": "BCE",
+        "precision": "year"
+      },
+      "title": "Marius repousse les Teutons",
+      "description": "En 102 av. J.-C., les légions de Marius affranchissent la Gaule des Teutons qui avaient descendu jusqu'au Rhône, démontrant le rôle protecteur de Rome.",
+      "importance": 4,
+      "people": [
+        "Marius"
+      ],
+      "locations": [
+        "Gaule",
+        "Rhône"
+      ],
+      "group_dynasty": "Gaulois",
+      "source": {
+        "line_start": 131,
+        "line_end": 133,
+        "excerpt": "en 102 avant Jésus-Christ, il avait fallu les légions de Marius pour affranchir la Gaule des Teutons descendus jusqu'au Rhône."
+      },
+      "id": "evt_1_005"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": -58,
+        "circa": false,
+        "era": "BCE",
+        "precision": "year"
+      },
+      "title": "Première campagne de César en Gaule",
+      "description": "En 58 av. J.-C., César lance sa première campagne en Gaule à l'occasion d'une invasion germanique, se présentant comme protecteur des Gaulois.",
+      "importance": 5,
+      "people": [
+        "Jules César"
+      ],
+      "locations": [
+        "Gaule"
+      ],
+      "group_dynasty": "Gaulois",
+      "source": {
+        "line_start": 135,
+        "line_end": 138,
+        "excerpt": "L'occasion de la première campagne de César, en 58, avait été une invasion germanique. César s'était présenté comme un protecteur."
+      },
+      "id": "evt_1_006"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": -52,
+        "circa": false,
+        "era": "BCE",
+        "precision": "year"
+      },
+      "title": "Soulèvement national de Vercingétorix",
+      "description": "Vercingétorix mène le soulèvement national gaulois contre César. Malgré son héroïsme, la Gaule divisée ne parvient pas à présenter un front uni.",
+      "importance": 5,
+      "people": [
+        "Vercingétorix",
+        "Jules César"
+      ],
+      "locations": [
+        "Gaule",
+        "Reims",
+        "Saône"
+      ],
+      "group_dynasty": "Gaulois",
+      "source": {
+        "line_start": 74,
+        "line_end": 82,
+        "excerpt": "A aucun moment, même sous le noble Vercingétorix, la Gaule ne parvint à présenter un front vraiment uni, mais seulement des coalitions."
+      },
+      "id": "evt_1_007"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": -51,
+        "circa": false,
+        "era": "BCE",
+        "precision": "year"
+      },
+      "title": "Exécution de Vercingétorix",
+      "description": "Le chef gaulois Vercingétorix est mis à mort après le triomphe de César en 51 av. J.-C., marquant la fin de la résistance gauloise organisée.",
+      "importance": 4,
+      "people": [
+        "Vercingétorix",
+        "Jules César"
+      ],
+      "locations": [
+        "Rome"
+      ],
+      "group_dynasty": "Gaulois",
+      "source": {
+        "line_start": 95,
+        "line_end": 97,
+        "excerpt": "le chef gaulois fut mis à mort, après le triomphe de César (51 avant l'ère chrétienne)"
+      },
+      "id": "evt_1_008"
+    },
+    {
+      "type": "period",
+      "date_start": {
+        "year": -51,
+        "circa": false,
+        "era": "BCE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 476,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "La Gaule partage la vie de Rome pendant 500 ans",
+      "description": "Pendant environ cinq siècles, la vie de la Gaule se confond avec celle de Rome. La colonisation romaine en Gaule porte ses fruits avec une fusion remarquable.",
+      "importance": 5,
+      "people": [],
+      "locations": [
+        "Gaule",
+        "Rome"
+      ],
+      "group_dynasty": "Gallo-Romains",
+      "source": {
+        "line_start": 116,
+        "line_end": 124,
+        "excerpt": "Jusqu'en 472, jusqu'à la chute de l'empire d'Occident, la vie de la Gaule s'est confondue avec celle de Rome."
+      },
+      "id": "evt_1_009"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": -27,
+        "circa": true,
+        "era": "BCE",
+        "precision": "decade"
+      },
+      "title": "Administration d'Auguste en Gaule",
+      "description": "L'administration d'Auguste reconnaît pas moins de soixante nations ou cités en Gaule, organisant le territoire conquis.",
+      "importance": 3,
+      "people": [
+        "Auguste"
+      ],
+      "locations": [
+        "Gaule"
+      ],
+      "group_dynasty": "Gallo-Romains",
+      "source": {
+        "line_start": 73,
+        "line_end": 74,
+        "excerpt": "l'administration d'Auguste ne reconnut pas moins de soixante nations ou cités."
+      },
+      "id": "evt_1_010"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 50,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Entrée de Gaulois au Sénat romain",
+      "description": "Cent ans après César, la fusion entre Gaulois et Romains est presque accomplie: des Gaulois entrent au Sénat romain.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Rome",
+        "Gaule"
+      ],
+      "group_dynasty": "Gallo-Romains",
+      "source": {
+        "line_start": 113,
+        "line_end": 114,
+        "excerpt": "Cent ans après César, la fusion était presque accomplie et des Gaulois entraient au Sénat romain."
+      },
+      "id": "evt_1_011"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 70,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Victoire de Cérialis sur les Bataves",
+      "description": "Le général romain Cérialis défait les Bataves et prononce un discours célèbre aux Gaulois sur l'alliance gallo-romaine contre les Germains.",
+      "importance": 3,
+      "people": [
+        "Cérialis",
+        "Arioviste"
+      ],
+      "locations": [
+        "Rhin",
+        "Gaule"
+      ],
+      "group_dynasty": "Gallo-Romains",
+      "source": {
+        "line_start": 143,
+        "line_end": 151,
+        "excerpt": "le célèbre discours aux Gaulois que Tacite prête à Cérialis après sa victoire sur les Bataves"
+      },
+      "id": "evt_1_012"
+    },
+    {
+      "type": "religious",
+      "date_start": {
+        "year": 177,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Martyrs de Lyon (Pothin et Blandine)",
+      "description": "L'Église de Lyon est illustrée par le supplice de l'évêque Pothin et de sainte Blandine. Lyon devient le centre de la propagande chrétienne en Gaule.",
+      "importance": 4,
+      "people": [
+        "Pothin",
+        "Blandine"
+      ],
+      "locations": [
+        "Lyon"
+      ],
+      "group_dynasty": "Gallo-Romains",
+      "source": {
+        "line_start": 231,
+        "line_end": 234,
+        "excerpt": "L'Eglise de Lyon, illustrée par le supplice de Pothin et de Blandine, fut le centre de la propagande."
+      },
+      "id": "evt_1_013"
+    },
+    {
+      "type": "religious",
+      "date_start": {
+        "year": 180,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Saint Irénée défend le dogme contre les gnostiques",
+      "description": "Saint Irénée de Lyon prend la défense du dogme chrétien orthodoxe contre les gnostiques, affirmant le caractère orthodoxe du christianisme gallo-romain.",
+      "importance": 3,
+      "people": [
+        "Irénée"
+      ],
+      "locations": [
+        "Lyon",
+        "Gaule"
+      ],
+      "group_dynasty": "Gallo-Romains",
+      "source": {
+        "line_start": 237,
+        "line_end": 238,
+        "excerpt": "Saint Irénée avait pris la défense du dogme contre les gnostiques."
+      },
+      "id": "evt_1_014"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 275,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Probus repousse les Germains de Gaule",
+      "description": "L'empereur Probus repousse et châtie durement les Germains qui s'étaient avancés fort loin en Gaule, laissant derrière eux ruines et désert.",
+      "importance": 3,
+      "people": [
+        "Probus"
+      ],
+      "locations": [
+        "Gaule"
+      ],
+      "group_dynasty": "Gallo-Romains",
+      "source": {
+        "line_start": 170,
+        "line_end": 173,
+        "excerpt": "En 275, l'empereur Probus repousse et châtie durement les Germains qui s'étaient avancés fort loin en Gaule"
+      },
+      "id": "evt_1_015"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 356,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Julien assiégé à Sens puis chasse les Germains",
+      "description": "Julien est assiégé par les Allemands dans la ville de Sens, puis les chasse au-delà du Rhin et leur impose un tribut pour la réparation des destructions.",
+      "importance": 3,
+      "people": [
+        "Julien"
+      ],
+      "locations": [
+        "Paris",
+        "Sens",
+        "Rhin"
+      ],
+      "group_dynasty": "Gallo-Romains",
+      "source": {
+        "line_start": 174,
+        "line_end": 178,
+        "excerpt": "Julien, celui qui aimait tant le séjour de Paris, est assiégé par les Allemands jusque dans la ville de Sens, puis les chasse au delà du Rhin"
+      },
+      "id": "evt_1_016"
+    },
+    {
+      "type": "religious",
+      "date_start": {
+        "year": 360,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Saint Hilaire lutte contre l'arianisme",
+      "description": "Saint Hilaire combat l'arianisme, hérésie qui avait gagné les Barbares établis en Gaule (Goths, Burgondes). Le christianisme gallo-romain reste attaché à l'orthodoxie.",
+      "importance": 3,
+      "people": [
+        "Hilaire"
+      ],
+      "locations": [
+        "Gaule"
+      ],
+      "group_dynasty": "Gallo-Romains",
+      "source": {
+        "line_start": 238,
+        "line_end": 241,
+        "excerpt": "Saint Hilaire lutte contre une hérésie plus grave et qui faillit l'emporter: l'arianisme. Les Barbares déjà établis en Gaule s'étant convertis, étaient tout de suite devenus ariens."
+      },
+      "id": "evt_1_017"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 451,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille des Champs Catalauniques",
+      "description": "Aétius, allié aux Wisigoths et aux Francs, bat Attila roi des Huns près de Châlons. Victoire mémorable qui sauve la Gaule de la domination hunnique.",
+      "importance": 5,
+      "people": [
+        "Aétius",
+        "Attila"
+      ],
+      "locations": [
+        "Châlons",
+        "Champs Catalauniques"
+      ],
+      "group_dynasty": "Gallo-Romains",
+      "source": {
+        "line_start": 184,
+        "line_end": 191,
+        "excerpt": "Aétius, vainqueur d'Attila aux Champs Catalauniques... Aétius le battit près de Châlons avec l'aide des Wisigoths et des Francs (451)."
+      },
+      "id": "evt_1_018"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 476,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Chute de l'Empire romain d'Occident",
+      "description": "L'Empire romain d'Occident disparaît, laissant une confusion épouvantable. Le pouvoir tombe entre les mains des évêques, défenseurs des cités.",
+      "importance": 5,
+      "people": [],
+      "locations": [
+        "Gaule",
+        "Rome"
+      ],
+      "group_dynasty": "Gallo-Romains",
+      "source": {
+        "line_start": 116,
+        "line_end": 117,
+        "excerpt": "Jusqu'en 472, jusqu'à la chute de l'empire d'Occident"
+      },
+      "id": "evt_1_019"
+    },
+    {
+      "type": "reign_start",
+      "date_start": {
+        "year": 481,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Clovis succède à son père Childéric",
+      "description": "Clovis succède à son père Childéric et met ses guerriers en marche de Tournai vers le centre du pays pour dominer les Gaules.",
+      "importance": 5,
+      "people": [
+        "Clovis",
+        "Childéric"
+      ],
+      "locations": [
+        "Tournai"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 271,
+        "line_end": 273,
+        "excerpt": "A peine Clovis eut-il succédé à son père Childéric qu'il mit ses guerriers en marche de Tournai, sa résidence, vers le centre du pays."
+      },
+      "id": "evt_1_020"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 486,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Clovis défait Syagrius à Soissons",
+      "description": "Clovis marche sur Soissons où gouvernait le patrice Syagrius, dernier représentant du pouvoir romain en Gaule. L'épisode du vase de Soissons illustre son habileté politique.",
+      "importance": 4,
+      "people": [
+        "Clovis",
+        "Syagrius",
+        "Remi"
+      ],
+      "locations": [
+        "Soissons"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 273,
+        "line_end": 290,
+        "excerpt": "A Soissons, gouvernait le «patrice» Syagrius, pâle reflet de l'empire effondré... L'anecdote fameuse du vase de Soissons prouve à quel point il voyait juste."
+      },
+      "id": "evt_1_021"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 486,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Épisode du vase de Soissons",
+      "description": "L'exécution sommaire d'un soldat sacrilège par Clovis lors de l'épisode du vase de Soissons démontre son respect du catholicisme et son habileté politique.",
+      "importance": 3,
+      "people": [
+        "Clovis"
+      ],
+      "locations": [
+        "Soissons"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 287,
+        "line_end": 290,
+        "excerpt": "L'anecdote fameuse du vase de Soissons prouve à quel point il voyait juste. L'exécution sommaire d'un soldat sacrilège fit plus que tout pour le triomphe de Clovis."
+      },
+      "id": "evt_1_022"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 496,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Tolbiac",
+      "description": "À Tolbiac, Clovis fait vœu de recevoir le baptême s'il est vainqueur. Il met en fuite les Alamans et chasse l'envahisseur germanique au-delà du Rhin.",
+      "importance": 5,
+      "people": [
+        "Clovis"
+      ],
+      "locations": [
+        "Tolbiac",
+        "Rhin"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 294,
+        "line_end": 299,
+        "excerpt": "lorsqu'à Tolbiac (496) il fit voeu de recevoir le baptême s'il était vainqueur, l'ennemi était l'Allemand."
+      },
+      "id": "evt_1_023"
+    },
+    {
+      "type": "religious",
+      "date_start": {
+        "year": 496,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Baptême de Clovis",
+      "description": "Clovis se convertit au catholicisme orthodoxe après la bataille de Tolbiac, événement fondateur qui distingue les Francs des autres Barbares ariens et scelle l'alliance avec l'Église.",
+      "importance": 5,
+      "people": [
+        "Clovis",
+        "Remi"
+      ],
+      "locations": [
+        "Reims"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 292,
+        "line_end": 299,
+        "excerpt": "Il fallait encore que Clovis se convertît. Sa conversion fut admirablement amenée... lorsqu'à Tolbiac (496) il fit voeu de recevoir le baptême s'il était vainqueur"
+      },
+      "id": "evt_1_024"
+    },
+    {
+      "type": "period",
+      "date_start": {
+        "year": 481,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 751,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "La monarchie franque préserve les Gaules",
+      "description": "Pendant près de trois cents ans, la monarchie franque mérovingienne préserve les Gaules de la ruine totale qui les menaçait après la chute de l'Empire romain.",
+      "importance": 4,
+      "people": [
+        "Clovis"
+      ],
+      "locations": [
+        "Gaule"
+      ],
+      "group_dynasty": "Mérovingiens",
+      "source": {
+        "line_start": 314,
+        "line_end": 319,
+        "excerpt": "La monarchie franque n'avait été qu'un pis aller dans la pensée des hommes d'Eglise... elle va servir, pendant près de trois cents ans, à préserver les Gaules de la ruine totale"
+      },
+      "id": "evt_1_025"
+    }
+  ],
+  "people": [
+    {
+      "name": "Vercingétorix",
+      "aliases": [
+        "le chef gaulois",
+        "le noble Vercingétorix"
+      ],
+      "dynasty": "Gaulois",
+      "titles": [
+        "Chef gaulois"
+      ],
+      "birth": null,
+      "death": {
+        "year": -51,
+        "circa": false,
+        "era": "BCE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        75,
+        85,
+        91,
+        92,
+        93,
+        95
+      ],
+      "id": "per_vercing_torix"
+    },
+    {
+      "name": "Jules César",
+      "aliases": [
+        "César"
+      ],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Général romain",
+        "Consul"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        71,
+        95,
+        96,
+        100,
+        113,
+        135,
+        136,
+        137
+      ],
+      "id": "per_jules_c_sar"
+    },
+    {
+      "name": "Auguste",
+      "aliases": [],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Empereur romain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        73
+      ],
+      "id": "per_auguste"
+    },
+    {
+      "name": "Marius",
+      "aliases": [],
+      "dynasty": "Gaulois",
+      "titles": [
+        "Général romain",
+        "Consul"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        132
+      ],
+      "id": "per_marius"
+    },
+    {
+      "name": "Cérialis",
+      "aliases": [
+        "le général Cérialis"
+      ],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Général romain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        144,
+        155
+      ],
+      "id": "per_c_rialis"
+    },
+    {
+      "name": "Arioviste",
+      "aliases": [],
+      "dynasty": "Gaulois",
+      "titles": [
+        "Chef germain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        146
+      ],
+      "id": "per_arioviste"
+    },
+    {
+      "name": "Tacite",
+      "aliases": [],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Historien romain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        144,
+        154
+      ],
+      "id": "per_tacite"
+    },
+    {
+      "name": "Probus",
+      "aliases": [
+        "l'empereur Probus"
+      ],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Empereur romain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        170
+      ],
+      "id": "per_probus"
+    },
+    {
+      "name": "Julien",
+      "aliases": [
+        "Julien l'Apostat"
+      ],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Empereur romain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        174
+      ],
+      "id": "per_julien"
+    },
+    {
+      "name": "Aétius",
+      "aliases": [],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Général romain",
+        "Patrice"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        186,
+        189
+      ],
+      "id": "per_a_tius"
+    },
+    {
+      "name": "Attila",
+      "aliases": [
+        "le roi des Huns",
+        "le fléau de Dieu"
+      ],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Roi des Huns"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        186,
+        187
+      ],
+      "id": "per_attila"
+    },
+    {
+      "name": "Alaric",
+      "aliases": [],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Chef des Goths"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        220
+      ],
+      "id": "per_alaric"
+    },
+    {
+      "name": "Ataulphe",
+      "aliases": [],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Chef des Goths"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        221
+      ],
+      "id": "per_ataulphe"
+    },
+    {
+      "name": "Gondioc",
+      "aliases": [
+        "Gondioc le Burgonde"
+      ],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Chef des Burgondes"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Gondebaud"
+        }
+      ],
+      "source_lines": [
+        221
+      ],
+      "id": "per_gondioc"
+    },
+    {
+      "name": "Gondebaud",
+      "aliases": [
+        "le fameux Gondebaud"
+      ],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Chef des Burgondes"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Gondioc"
+        }
+      ],
+      "source_lines": [
+        221
+      ],
+      "id": "per_gondebaud"
+    },
+    {
+      "name": "Clodion",
+      "aliases": [],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Chef de tribu franc"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        216
+      ],
+      "id": "per_clodion"
+    },
+    {
+      "name": "Pharamond",
+      "aliases": [],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Chef de tribu franc"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        216
+      ],
+      "id": "per_pharamond"
+    },
+    {
+      "name": "Mérovée",
+      "aliases": [],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Chef de tribu franc"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        216
+      ],
+      "id": "per_m_rov_e"
+    },
+    {
+      "name": "Pothin",
+      "aliases": [
+        "Saint Pothin"
+      ],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Évêque de Lyon",
+        "Martyr"
+      ],
+      "birth": null,
+      "death": {
+        "year": 177,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        232
+      ],
+      "id": "per_pothin"
+    },
+    {
+      "name": "Blandine",
+      "aliases": [
+        "Sainte Blandine"
+      ],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Martyre"
+      ],
+      "birth": null,
+      "death": {
+        "year": 177,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        233
+      ],
+      "id": "per_blandine"
+    },
+    {
+      "name": "Irénée",
+      "aliases": [
+        "Saint Irénée"
+      ],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Évêque de Lyon",
+        "Père de l'Église"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        237
+      ],
+      "id": "per_ir_n_e"
+    },
+    {
+      "name": "Hilaire",
+      "aliases": [
+        "Saint Hilaire"
+      ],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Évêque de Poitiers",
+        "Docteur de l'Église"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        238
+      ],
+      "id": "per_hilaire"
+    },
+    {
+      "name": "Clovis",
+      "aliases": [
+        "le roi Clovis"
+      ],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Roi des Francs"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 481,
+          "circa": true,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 511,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Childéric"
+        }
+      ],
+      "source_lines": [
+        219,
+        245,
+        257,
+        271,
+        276,
+        282,
+        287,
+        289,
+        292,
+        295,
+        296,
+        298
+      ],
+      "id": "per_clovis"
+    },
+    {
+      "name": "Childéric",
+      "aliases": [],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Roi des Francs"
+      ],
+      "birth": null,
+      "death": {
+        "year": 481,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Clovis"
+        }
+      ],
+      "source_lines": [
+        271
+      ],
+      "id": "per_child_ric"
+    },
+    {
+      "name": "Syagrius",
+      "aliases": [
+        "le patrice Syagrius"
+      ],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Patrice"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        274
+      ],
+      "id": "per_syagrius"
+    },
+    {
+      "name": "Remi",
+      "aliases": [
+        "Saint Remi",
+        "l'archevêque de Reims"
+      ],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Archevêque de Reims",
+        "Saint"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        257,
+        274
+      ],
+      "id": "per_remi"
+    },
+    {
+      "name": "Constantin",
+      "aliases": [
+        "l'empereur Constantin"
+      ],
+      "dynasty": "Gallo-Romains",
+      "titles": [
+        "Empereur romain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        294
+      ],
+      "id": "per_constantin"
+    },
+    {
+      "name": "Louis XII",
+      "aliases": [],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        120
+      ],
+      "id": "per_louis_xii"
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_gaulois",
+      "name": "Gaulois",
+      "period_start": {
+        "year": -600,
+        "circa": true,
+        "era": "BCE",
+        "precision": "century"
+      },
+      "period_end": {
+        "year": -52,
+        "circa": false,
+        "era": "BCE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_galloromains",
+      "name": "Gallo-Romains",
+      "period_start": {
+        "year": -52,
+        "circa": false,
+        "era": "BCE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 481,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_merovingiens",
+      "name": "Mérovingiens",
+      "period_start": {
+        "year": 481,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 751,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}

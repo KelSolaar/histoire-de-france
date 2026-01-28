@@ -1,0 +1,2215 @@
+{
+  "chapter_number": 15,
+  "chapter_title": "LOUIS XVI ET LA NAISSANCE DE LA RÉVOLUTION",
+  "line_start": 8170,
+  "line_end": 9128,
+  "validation_status": "success",
+  "entries": [
+    {
+      "id": "evt_001",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1774,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Louis XVI",
+      "description": "Louis XVI devient roi de France à vingt ans, dans un contexte européen sinistre dominé par les grands carnassiers comme Frédéric de Prusse et Catherine de Russie.",
+      "importance": 5,
+      "people": [
+        "Louis XVI"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 1,
+        "line_end": 8,
+        "excerpt": "Au moment où Louis XVI, à vingt ans, devient roi, il ne faut pas seulement regarder l'état de la France. Il faut regarder l'état de l'Europe."
+      }
+    },
+    {
+      "id": "evt_002",
+      "type": "political",
+      "date_start": {
+        "year": 1772,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Premier partage de la Pologne",
+      "description": "Frédéric de Prusse et Catherine de Russie commencent le partage de la Pologne, auquel ils ont associé l'Autriche.",
+      "importance": 4,
+      "people": [
+        "Frédéric II de Prusse",
+        "Catherine II de Russie"
+      ],
+      "locations": [
+        "Pologne",
+        "Prusse",
+        "Russie",
+        "Autriche"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 4,
+        "line_end": 6,
+        "excerpt": "Frédéric de Prusse et Catherine de Russie, une Allemande, ont commencé le partage de la Pologne auquel ils ont associé l'Autriche."
+      }
+    },
+    {
+      "id": "evt_003",
+      "type": "political",
+      "date_start": {
+        "year": 1771,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Coup d'État de Maupeou",
+      "description": "Maupeou supprime les Parlements dans un coup d'État qualifié de révolution, acte autoritaire qui divise encore les avis en 1774.",
+      "importance": 4,
+      "people": [
+        "René Nicolas de Maupeou",
+        "Louis XV"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 35,
+        "line_end": 39,
+        "excerpt": "Le coup d'Etat de Maupeou,--on disait même sa révolution,--était encore tout frais en 1774 et les avis restaient partagés."
+      }
+    },
+    {
+      "id": "evt_004",
+      "type": "political",
+      "date_start": {
+        "year": 1774,
+        "month": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Rétablissement des Parlements",
+      "description": "Louis XVI rétablit les Parlements supprimés par son grand-père, malgré l'opposition de Turgot. Le Parlement rentre hautain et hargneux, résistant aux réformes.",
+      "importance": 5,
+      "people": [
+        "Louis XVI",
+        "Turgot",
+        "Michelet"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 41,
+        "line_end": 48,
+        "excerpt": "Le Parlement rentra (novembre 1774) hautain, tel qu'il était parti, hargneux, et résistant aux réformes les plus utiles."
+      }
+    },
+    {
+      "id": "evt_005",
+      "type": "political",
+      "date_start": {
+        "year": 1774,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Formation du premier ministère de Louis XVI",
+      "description": "Louis XVI forme un grand ministère composé de compétences: Maurepas, Miromesnil, Vergennes, et surtout Turgot dont Voltaire baisait les mains en pleurant.",
+      "importance": 3,
+      "people": [
+        "Louis XVI",
+        "Maurepas",
+        "Miromesnil",
+        "Vergennes",
+        "Malesherbes",
+        "Turgot",
+        "Voltaire",
+        "Saint-Germain"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 74,
+        "line_end": 83,
+        "excerpt": "Maurepas, homme d'Etat d'une vieille expérience... enfin et surtout Turgot, l'illustre Turgot, dont Voltaire baisait les mains en pleurant"
+      }
+    },
+    {
+      "id": "evt_006",
+      "type": "political",
+      "date_start": {
+        "year": 1776,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Chute de Turgot",
+      "description": "Turgot quitte le ministère après seulement deux ans, face à l'opposition des Parlements, de la Cour, et au désaccord sur la guerre d'Amérique avec Vergennes.",
+      "importance": 4,
+      "people": [
+        "Turgot",
+        "Louis XVI",
+        "Vergennes"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 87,
+        "line_end": 117,
+        "excerpt": "Il ne resta que deux ans ministre... Ce fut l'avis de Vergennes et c'est parce qu'il l'emporta que Turgot préféra se retirer."
+      }
+    },
+    {
+      "id": "evt_007",
+      "type": "event",
+      "date_start": {
+        "year": 1776,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Insurrection des colonies américaines",
+      "description": "Les colonies anglaises de l'Amérique du Nord s'insurgent contre l'Angleterre, offrant à la France l'occasion d'effacer les conséquences du traité de Paris.",
+      "importance": 5,
+      "people": [
+        "Benjamin Franklin",
+        "La Fayette"
+      ],
+      "locations": [
+        "Amérique du Nord",
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 109,
+        "line_end": 115,
+        "excerpt": "En 1776, un événement considérable venait de se produire: les colonies anglaises de l'Amérique du Nord s'étaient insurgées."
+      }
+    },
+    {
+      "id": "evt_008",
+      "type": "event",
+      "date_start": {
+        "year": 1777,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Arrivée de Franklin à Paris",
+      "description": "Le 'bonhomme Franklin' vient à Paris plaider pour l'indépendance américaine, flattant la sensibilité à la mode et accueilli comme un personnage de Rousseau.",
+      "importance": 3,
+      "people": [
+        "Benjamin Franklin",
+        "Jean-Jacques Rousseau"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 133,
+        "line_end": 136,
+        "excerpt": "Le «bonhomme Franklin», au fond un assez faux bonhomme, qui vint à Paris plaider pour son pays, sut flatter la sensibilité à la mode"
+      }
+    },
+    {
+      "id": "evt_009",
+      "type": "event",
+      "date_start": {
+        "year": 1777,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Départ de La Fayette pour l'Amérique",
+      "description": "La Fayette et ses volontaires partent pour l'Amérique, le gouvernement fermant les yeux sur cette expédition en soutien aux insurgés américains.",
+      "importance": 3,
+      "people": [
+        "La Fayette"
+      ],
+      "locations": [
+        "France",
+        "Amérique"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 136,
+        "line_end": 138,
+        "excerpt": "Cet enthousiasme se traduisait par le départ, sur lequel le gouvernement ferma les yeux, de La Fayette et de ses volontaires."
+      }
+    },
+    {
+      "id": "evt_010",
+      "type": "event",
+      "date_start": {
+        "year": 1778,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Envoi de troupes françaises en Amérique sous Rochambeau",
+      "description": "La France envoie des troupes régulières en Amérique sous le commandement de Rochambeau, avec de nombreux subsides, rendant possible la victoire des insurgés.",
+      "importance": 4,
+      "people": [
+        "Rochambeau"
+      ],
+      "locations": [
+        "Amérique"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 138,
+        "line_end": 141,
+        "excerpt": "Un peu plus tard, la France envoya, en Amérique, avec de nombreux subsides, des troupes régulières sous Rochambeau."
+      }
+    },
+    {
+      "id": "evt_011",
+      "type": "treaty",
+      "date_start": {
+        "year": 1779,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Convention de Teschen",
+      "description": "La France impose sa médiation à l'Autriche et à la Prusse par la convention de Teschen, empêchant Joseph II de s'emparer de la Bavière.",
+      "importance": 3,
+      "people": [
+        "Louis XVI",
+        "Vergennes",
+        "Joseph II"
+      ],
+      "locations": [
+        "Teschen",
+        "Bavière",
+        "Autriche",
+        "Prusse"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 148,
+        "line_end": 153,
+        "excerpt": "par la convention de Teschen (1779), imposa sa médiation à l'Autriche et à la Prusse, prêtes à en venir aux mains."
+      }
+    },
+    {
+      "id": "evt_012",
+      "type": "event",
+      "date_start": {
+        "year": 1780,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Formation de la Ligue des neutres",
+      "description": "Sur l'initiative de la Russie, les nations neutres forment une ligue armée pour imposer aux Anglais la liberté de navigation.",
+      "importance": 3,
+      "people": [
+        "Catherine II de Russie"
+      ],
+      "locations": [
+        "Europe"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 159,
+        "line_end": 162,
+        "excerpt": "les autres, sur l'initiative de la Russie, formaient une ligue des neutres, ligue armée, décidée à imposer aux Anglais la liberté de leur navigation."
+      }
+    },
+    {
+      "id": "evt_013",
+      "type": "event",
+      "date_start": {
+        "year": 1778,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Campagnes navales du bailli de Suffren",
+      "description": "Le bailli de Suffren s'illustre comme un des plus grands marins français, tenant les Anglais en échec de l'Océan Atlantique à l'Océan Indien.",
+      "importance": 3,
+      "people": [
+        "Bailli de Suffren"
+      ],
+      "locations": [
+        "Océan Atlantique",
+        "Océan Indien"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 167,
+        "line_end": 170,
+        "excerpt": "partout, de l'Océan Atlantique à l'Océan Indien, nos escadres avaient tenu les Anglais en échec et le bailli de Suffren s'illustra comme un de nos plus grands marins."
+      }
+    },
+    {
+      "id": "evt_014",
+      "type": "treaty",
+      "date_start": {
+        "year": 1783,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de Versailles (1783)",
+      "description": "La France affranchit Dunkerque des servitudes du traité d'Utrecht, retrouve le Sénégal et restaure son prestige en Extrême-Orient, amorçant l'établissement en Indo-Chine.",
+      "importance": 5,
+      "people": [
+        "Louis XVI",
+        "Vergennes"
+      ],
+      "locations": [
+        "Versailles",
+        "Dunkerque",
+        "Sénégal",
+        "Annam",
+        "Indo-Chine",
+        "Gibraltar",
+        "Minorque"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 173,
+        "line_end": 181,
+        "excerpt": "Nous-mêmes, par le traité de Versailles (1783), nous affranchissions Dunkerque des servitudes laissées par le traité d'Utrecht, nous retrouvions le Sénégal"
+      }
+    },
+    {
+      "id": "evt_015",
+      "type": "treaty",
+      "date_start": {
+        "year": 1786,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de commerce franco-anglais",
+      "description": "Un traité de commerce entre la France et l'Angleterre vise à réconcilier les deux pays par les échanges commerciaux, mais sera critiqué aux États Généraux.",
+      "importance": 3,
+      "people": [
+        "Louis XVI",
+        "Vergennes"
+      ],
+      "locations": [
+        "France",
+        "Angleterre"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 189,
+        "line_end": 195,
+        "excerpt": "En 1786, par un traité de commerce... le gouvernement de Louis XVI voulut réconcilier les deux pays, les unir, les associer par les échanges"
+      }
+    },
+    {
+      "id": "evt_016",
+      "type": "political",
+      "date_start": {
+        "year": 1781,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Chute de Necker",
+      "description": "Necker tombe sur la question des assemblées provinciales, ayant voulu soustraire aux Parlements les grands objets de l'administration.",
+      "importance": 4,
+      "people": [
+        "Necker",
+        "Louis XVI",
+        "Maurepas"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 236,
+        "line_end": 252,
+        "excerpt": "Necker était tombé en 1781, deux ans avant la fin de la guerre, sur une question de politique intérieure."
+      }
+    },
+    {
+      "id": "evt_017",
+      "type": "political",
+      "date_start": {
+        "year": 1783,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ministère de Calonne",
+      "description": "Calonne devient contrôleur général des finances, adoptant une méthode d'optimisme apparent pour restaurer le crédit et gagner du temps.",
+      "importance": 3,
+      "people": [
+        "Calonne",
+        "Louis XVI"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 262,
+        "line_end": 292,
+        "excerpt": "Il est resté célèbre parce qu'on l'a regardé comme le fossoyeur de l'ancien régime... C'était un homme adroit, séduisant"
+      }
+    },
+    {
+      "id": "evt_018",
+      "type": "political",
+      "date_start": {
+        "year": 1787,
+        "month": 2,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Convocation de l'Assemblée des Notables",
+      "description": "Calonne suggère à Louis XVI de convoquer une assemblée des notables pour obtenir les réformes que les Parlements refusent. La Révolution est en marche.",
+      "importance": 5,
+      "people": [
+        "Calonne",
+        "Louis XVI",
+        "La Fayette",
+        "Mirabeau",
+        "Talleyrand"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 304,
+        "line_end": 318,
+        "excerpt": "Dès ce moment-là (février 1787) la Révolution est en marche... La Fayette en était, ainsi que de grands seigneurs renommés pour leur «philanthropie»"
+      }
+    },
+    {
+      "id": "evt_019",
+      "type": "political",
+      "date_start": {
+        "year": 1787,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Chute de Calonne",
+      "description": "Les notables profitent de la révélation de la détresse du Trésor pour charger Calonne de tous les péchés. Le roi doit lui signifier son congé.",
+      "importance": 3,
+      "people": [
+        "Calonne",
+        "Louis XVI"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 330,
+        "line_end": 338,
+        "excerpt": "Le scandale fut tel que le roi dut lui signifier son congé. La première assemblée... avait pour ses débuts renversé un ministre"
+      }
+    },
+    {
+      "id": "evt_020",
+      "type": "political",
+      "date_start": {
+        "year": 1787,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ministère de Loménie de Brienne",
+      "description": "Loménie de Brienne, prélat ami des philosophes et qu'on dit même athée, succède à Calonne et reprend ses projets sans plus de succès.",
+      "importance": 3,
+      "people": [
+        "Loménie de Brienne",
+        "Choiseul",
+        "La Fayette"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 340,
+        "line_end": 348,
+        "excerpt": "Loménie de Brienne, un prélat ami de Choiseul et des philosophes et qu'on disait même athée, succéda à Calonne"
+      }
+    },
+    {
+      "id": "evt_021",
+      "type": "political",
+      "date_start": {
+        "year": 1787,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Exil du duc d'Orléans à Villers-Cotterets",
+      "description": "Le duc d'Orléans, entré dans l'opposition, est exilé à Villers-Cotterets pour avoir reproché publiquement à Louis XVI d'agir contre la légalité.",
+      "importance": 2,
+      "people": [
+        "Duc d'Orléans",
+        "Louis XVI"
+      ],
+      "locations": [
+        "Villers-Cotterets"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 367,
+        "line_end": 371,
+        "excerpt": "le duc d'Orléans, entré dans l'opposition, fut exilé à Villers-Cotterets pour avoir publiquement reproché à Louis XVI d'agir contre la légalité"
+      }
+    },
+    {
+      "id": "evt_022",
+      "type": "political",
+      "date_start": {
+        "year": 1788,
+        "month": 7,
+        "day": 21,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Déclaration de Vizille",
+      "description": "L'assemblée des trois ordres du Dauphiné réunie à Vizille proclame un programme clair: pas de réformes ni subsides sans États Généraux, double représentation du tiers, vote par tête.",
+      "importance": 5,
+      "people": [
+        "Mounier"
+      ],
+      "locations": [
+        "Vizille",
+        "Grenoble",
+        "Dauphiné"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 397,
+        "line_end": 412,
+        "excerpt": "siégea à Vizille, d'où partit, le 21 juillet, une déclaration qui retentit à travers la France. Programme clair, complet, dont le juge Mounier était l'auteur"
+      }
+    },
+    {
+      "id": "evt_023",
+      "type": "political",
+      "date_start": {
+        "year": 1788,
+        "month": 7,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Première annonce des États Généraux",
+      "description": "Brienne annonce les États Généraux sans toutefois fixer de date pour les réunir.",
+      "importance": 4,
+      "people": [
+        "Loménie de Brienne"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 418,
+        "line_end": 420,
+        "excerpt": "Lorsque fut lancée la proclamation de Vizille, Brienne avait déjà, le 5 juillet, annoncé les Etats sans toutefois fixer de date"
+      }
+    },
+    {
+      "id": "evt_024",
+      "type": "political",
+      "date_start": {
+        "year": 1788,
+        "month": 8,
+        "day": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Convocation des États Généraux pour le 1er mai 1789",
+      "description": "Brienne convoque décidément les États Généraux pour le 1er mai 1789, face au vide du Trésor.",
+      "importance": 5,
+      "people": [
+        "Loménie de Brienne"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 422,
+        "line_end": 424,
+        "excerpt": "Brienne, le 8 août, convoque décidément les Etats Généraux pour le 1er mai 1789."
+      }
+    },
+    {
+      "id": "evt_025",
+      "type": "political",
+      "date_start": {
+        "year": 1788,
+        "month": 8,
+        "day": 16,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Annonce de la demi-banqueroute",
+      "description": "Brienne annonce que l'État est à bout de ressources, accusant ceux qui auraient dû soutenir la confiance publique de l'avoir altérée.",
+      "importance": 4,
+      "people": [
+        "Loménie de Brienne"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 424,
+        "line_end": 429,
+        "excerpt": "Le 16, il annonce que l'Etat est à bout de ressources... «La confiance publique a été altérée par ceux mêmes qui auraient dû conspirer à la soutenir»"
+      }
+    },
+    {
+      "id": "evt_026",
+      "type": "political",
+      "date_start": {
+        "year": 1788,
+        "month": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Chute de Brienne et rappel de Necker",
+      "description": "Brienne tombe sous le haro général. Louis XVI rappelle Necker, le magicien du crédit, qui prête deux millions de sa fortune personnelle au Trésor.",
+      "importance": 4,
+      "people": [
+        "Loménie de Brienne",
+        "Necker",
+        "Louis XVI"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 429,
+        "line_end": 465,
+        "excerpt": "Alors, sous le haro général, comme naguère Calonne, Brienne tomba... Louis XVI rappela le magicien, le prestidigitateur, Necker"
+      }
+    },
+    {
+      "id": "evt_027",
+      "type": "event",
+      "date_start": {
+        "year": 1789,
+        "month": 5,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Ouverture des États Généraux à Versailles",
+      "description": "Les députés se réunissent à Versailles. Le gouvernement veut obtenir les moyens de contracter des emprunts, sans plans politiques.",
+      "importance": 5,
+      "people": [
+        "Louis XVI",
+        "Necker"
+      ],
+      "locations": [
+        "Versailles"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 500,
+        "line_end": 506,
+        "excerpt": "Les députés qui, le 5 mai 1789, se réuniront à Versailles, ne se doutaient pas des difficultés qui les attendaient."
+      }
+    },
+    {
+      "id": "evt_028",
+      "type": "political",
+      "date_start": {
+        "year": 1789,
+        "month": 6,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Serment du Jeu de Paume",
+      "description": "Six cents députés du tiers jurent de ne pas se séparer avant d'avoir établi la constitution du royaume, craignant une dissolution.",
+      "importance": 5,
+      "people": [
+        "Mirabeau",
+        "Mounier"
+      ],
+      "locations": [
+        "Versailles"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 514,
+        "line_end": 517,
+        "excerpt": "Le 20 mai [sic - juin], par le serment du Jeu de Paume, six cents députés jurent de ne pas se séparer avant d'avoir «établi la constitution du royaume»."
+      }
+    },
+    {
+      "id": "evt_029",
+      "type": "political",
+      "date_start": {
+        "year": 1789,
+        "month": 6,
+        "day": 23,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Séance royale du 23 juin",
+      "description": "Le gouvernement reconnaît que les impôts doivent être votés mais refuse la fusion des ordres. Mirabeau répond: 'Nous ne sortirons que par la force.'",
+      "importance": 4,
+      "people": [
+        "Louis XVI",
+        "Mirabeau",
+        "Marquis de Dreux-Brézé"
+      ],
+      "locations": [
+        "Versailles"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 517,
+        "line_end": 528,
+        "excerpt": "Mirabeau répond par le mot fameux où il oppose à la volonté du roi la volonté du peuple: «Nous ne sortirons que par la force.»"
+      }
+    },
+    {
+      "id": "evt_030",
+      "type": "political",
+      "date_start": {
+        "year": 1789,
+        "month": 7,
+        "day": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Renvoi de Necker",
+      "description": "Necker quitte le ministère après avoir désapprouvé la présence des troupes, provoquant une agitation croissante à Paris.",
+      "importance": 4,
+      "people": [
+        "Necker",
+        "Louis XVI"
+      ],
+      "locations": [
+        "Versailles",
+        "Paris"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 535,
+        "line_end": 538,
+        "excerpt": "l'agitation grandit à Paris et s'accrut encore lorsque Necker, qui désapprouvait la présence des troupes, eut quitté le ministère (11 juillet)."
+      }
+    },
+    {
+      "id": "evt_031",
+      "type": "political",
+      "date_start": {
+        "year": 1789,
+        "month": 7,
+        "day": 12,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Nomination du ministère Breteuil",
+      "description": "Louis XVI choisit pour ministres Breteuil et les hommes du parti de la cour. C'est une velléité de coup d'État qui aggrave la capitulation.",
+      "importance": 3,
+      "people": [
+        "Louis XVI",
+        "Breteuil"
+      ],
+      "locations": [
+        "Versailles"
+      ],
+      "group_dynasty": "Bourbons",
+      "source": {
+        "line_start": 538,
+        "line_end": 542,
+        "excerpt": "Le 12, on apprit que le roi avait choisi pour ministres Breteuil et ceux qu'on appelait déjà les hommes du parti de la cour ou du parti de la reine."
+      }
+    },
+    {
+      "id": "evt_032",
+      "type": "event",
+      "date_start": {
+        "year": 1789,
+        "month": 7,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Prise de la Bastille",
+      "description": "L'insurrection parisienne prend la Bastille, massacre son gouverneur de Launay et le prévôt des marchands Flesselles, dont les têtes sont promenées dans les rues.",
+      "importance": 5,
+      "people": [
+        "De Launay",
+        "Flesselles"
+      ],
+      "locations": [
+        "Paris",
+        "Bastille",
+        "Hôtel des Invalides"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 543,
+        "line_end": 552,
+        "excerpt": "le 14 juillet, avaient pris la Bastille, massacré son gouverneur de Launay et promené sa tête à travers les rues ainsi que celle du prévôt des marchands Flesselles."
+      }
+    },
+    {
+      "id": "evt_033",
+      "type": "event",
+      "date_start": {
+        "year": 1789,
+        "month": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Vaste insurrection en France après le 14 juillet",
+      "description": "Après la prise de la Bastille, une vaste insurrection éclate en France contre le fisc: on démolit les bureaux d'octroi, on brûle les registres, et une jacquerie ravage les campagnes.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Paris",
+        "France"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 563,
+        "line_end": 575,
+        "excerpt": "Après le 14 juillet, une vaste insurrection éclate en France. Contre qui? Contre le vieil objet de la haine générale, contre le fisc."
+      }
+    },
+    {
+      "id": "evt_034",
+      "type": "political",
+      "date_start": {
+        "year": 1789,
+        "month": 8,
+        "day": 4,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Nuit du 4 août - Abolition des privilèges",
+      "description": "Dans une séance du soir, le vicomte de Noailles propose de supprimer les droits féodaux. Dans un vertige, on abolit pêle-mêle privilèges, dîme, franchises provinciales.",
+      "importance": 5,
+      "people": [
+        "Vicomte de Noailles",
+        "Mirabeau",
+        "Rivarol"
+      ],
+      "locations": [
+        "Versailles"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 578,
+        "line_end": 606,
+        "excerpt": "Le 4 août, dans une séance du soir, un député de la noblesse, le vicomte de Noailles, proposa de supprimer les droits féodaux."
+      }
+    },
+    {
+      "id": "evt_035",
+      "type": "political",
+      "date_start": {
+        "year": 1789,
+        "month": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "month"
+      },
+      "title": "Cri de détresse financier de Necker",
+      "description": "Necker lance un cri de détresse devant l'Assemblée: le Trésor est vide, les recettes ne couvrent plus que la moitié des dépenses. Il demande une taxe patriotique d'un quart du revenu.",
+      "importance": 4,
+      "people": [
+        "Necker",
+        "Mirabeau"
+      ],
+      "locations": [
+        "Versailles"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 609,
+        "line_end": 625,
+        "excerpt": "A la fin de ce même mois d'août 1789, Necker, devant l'Assemblée, poussa un cri de détresse... demanda le vote d'une contribution extraordinaire, dite taxe patriotique"
+      }
+    },
+    {
+      "id": "evt_036",
+      "type": "event",
+      "date_start": {
+        "year": 1789,
+        "month": 10,
+        "day": 5,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Journées d'octobre - Marche des femmes sur Versailles",
+      "description": "Le pain manquant dans les boulangeries, une émeute de femmes se dirige vers Versailles. La Fayette cède et la garde nationale suit le cortège.",
+      "importance": 5,
+      "people": [
+        "La Fayette"
+      ],
+      "locations": [
+        "Paris",
+        "Versailles"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 649,
+        "line_end": 660,
+        "excerpt": "Le 5, le pain ayant manqué dans quelques boulangeries de Paris... il y eut une émeute de femmes qui grossit rapidement et le mot d'ordre: «A Versailles!» circula aussitôt."
+      }
+    },
+    {
+      "id": "evt_037",
+      "type": "event",
+      "date_start": {
+        "year": 1789,
+        "month": 10,
+        "day": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Le roi ramené à Paris",
+      "description": "La foule envahit le château, égorge les gardes du corps. Le 6 octobre, La Fayette conduit roi, reine, dauphin et députés à Paris, prisonniers de l'émeute.",
+      "importance": 5,
+      "people": [
+        "Louis XVI",
+        "Marie-Antoinette",
+        "La Fayette"
+      ],
+      "locations": [
+        "Versailles",
+        "Paris"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 660,
+        "line_end": 672,
+        "excerpt": "le 6 octobre, toujours accompagné de l'émeute, ou plutôt son prisonnier, conduisit dans la capitale, roi, reine, dauphin et députés."
+      }
+    }
+  ],
+  "people": [
+    {
+      "id": "pers_001",
+      "name": "Louis XVI",
+      "aliases": [
+        "le roi",
+        "le jeune roi"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": {
+        "year": 1754,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1774,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": null
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis, dauphin de France"
+        },
+        {
+          "type": "épouse",
+          "person": "Marie-Antoinette"
+        }
+      ],
+      "source_lines": [
+        1,
+        17,
+        20,
+        26,
+        40,
+        43,
+        53,
+        74,
+        148,
+        297,
+        301,
+        304,
+        367,
+        465,
+        500,
+        538,
+        672
+      ]
+    },
+    {
+      "id": "pers_002",
+      "name": "Louis XV",
+      "aliases": [
+        "son grand-père"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1774,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Louis, dauphin de France"
+        }
+      ],
+      "source_lines": [
+        33,
+        44,
+        62,
+        100,
+        443
+      ]
+    },
+    {
+      "id": "pers_003",
+      "name": "Frédéric II de Prusse",
+      "aliases": [
+        "Frédéric de Prusse",
+        "Frédéric"
+      ],
+      "dynasty": "Hohenzollern",
+      "titles": [
+        "Roi de Prusse"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        4,
+        38
+      ]
+    },
+    {
+      "id": "pers_004",
+      "name": "Catherine II de Russie",
+      "aliases": [
+        "Catherine de Russie",
+        "une Allemande"
+      ],
+      "dynasty": "Romanov",
+      "titles": [
+        "Impératrice de Russie"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        4,
+        38,
+        217
+      ]
+    },
+    {
+      "id": "pers_005",
+      "name": "Duc de Bourgogne",
+      "aliases": [
+        "l'élève de Fénelon",
+        "l'aïeul"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Duc de Bourgogne",
+        "Dauphin"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        17,
+        299
+      ]
+    },
+    {
+      "id": "pers_006",
+      "name": "Fénelon",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Archevêque de Cambrai"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        17,
+        306
+      ]
+    },
+    {
+      "id": "pers_007",
+      "name": "Choiseul",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Duc",
+        "Ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        34,
+        38,
+        295,
+        340,
+        354
+      ]
+    },
+    {
+      "id": "pers_008",
+      "name": "René Nicolas de Maupeou",
+      "aliases": [
+        "Maupeou"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Chancelier"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        35,
+        38,
+        62,
+        244,
+        296,
+        355
+      ]
+    },
+    {
+      "id": "pers_009",
+      "name": "Turgot",
+      "aliases": [
+        "l'illustre Turgot"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Contrôleur général des finances"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        47,
+        80,
+        85,
+        87,
+        90,
+        93,
+        95,
+        97,
+        100,
+        103,
+        105,
+        107,
+        110,
+        117,
+        244,
+        289,
+        312
+      ]
+    },
+    {
+      "id": "pers_010",
+      "name": "Sainte-Beuve",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Écrivain",
+        "Critique littéraire"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        67,
+        70
+      ]
+    },
+    {
+      "id": "pers_011",
+      "name": "Maurepas",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Comte",
+        "Ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        77,
+        248
+      ]
+    },
+    {
+      "id": "pers_012",
+      "name": "Miromesnil",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Garde des sceaux"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        78
+      ]
+    },
+    {
+      "id": "pers_013",
+      "name": "Vergennes",
+      "aliases": [
+        "notre meilleur diplomate"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Comte",
+        "Ministre des Affaires étrangères"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        79,
+        112,
+        117,
+        133,
+        143,
+        183,
+        186,
+        189
+      ]
+    },
+    {
+      "id": "pers_014",
+      "name": "Malesherbes",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Directeur de la librairie"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        76
+      ]
+    },
+    {
+      "id": "pers_015",
+      "name": "Saint-Germain",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Ministre de la guerre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        79
+      ]
+    },
+    {
+      "id": "pers_016",
+      "name": "Voltaire",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Écrivain",
+        "Philosophe"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        81
+      ]
+    },
+    {
+      "id": "pers_017",
+      "name": "Sully",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Duc",
+        "Surintendant des finances"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        97
+      ]
+    },
+    {
+      "id": "pers_018",
+      "name": "Necker",
+      "aliases": [
+        "un Genevois",
+        "le magicien",
+        "le prestidigitateur"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Contrôleur général des finances",
+        "Directeur général des finances"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        104,
+        126,
+        128,
+        130,
+        131,
+        229,
+        230,
+        235,
+        237,
+        238,
+        244,
+        248,
+        312,
+        465,
+        469,
+        505,
+        535,
+        555,
+        609,
+        619
+      ]
+    },
+    {
+      "id": "pers_019",
+      "name": "Benjamin Franklin",
+      "aliases": [
+        "le bonhomme Franklin"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        133
+      ]
+    },
+    {
+      "id": "pers_020",
+      "name": "Jean-Jacques Rousseau",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Philosophe",
+        "Écrivain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        135
+      ]
+    },
+    {
+      "id": "pers_021",
+      "name": "La Fayette",
+      "aliases": [
+        "Marquis de La Fayette"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Marquis",
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        136,
+        316,
+        346,
+        647,
+        656,
+        658,
+        665,
+        672
+      ]
+    },
+    {
+      "id": "pers_022",
+      "name": "Rochambeau",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Comte",
+        "Général"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        139
+      ]
+    },
+    {
+      "id": "pers_023",
+      "name": "Joseph II",
+      "aliases": [
+        "l'empereur Joseph II"
+      ],
+      "dynasty": "Habsbourg",
+      "titles": [
+        "Empereur du Saint-Empire"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        38,
+        144,
+        146
+      ]
+    },
+    {
+      "id": "pers_024",
+      "name": "Bailli de Suffren",
+      "aliases": [
+        "Suffren"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Bailli",
+        "Vice-amiral"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        169
+      ]
+    },
+    {
+      "id": "pers_025",
+      "name": "Mesmer",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Médecin"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        122
+      ]
+    },
+    {
+      "id": "pers_026",
+      "name": "Michelet",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Historien"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        43,
+        104,
+        122
+      ]
+    },
+    {
+      "id": "pers_027",
+      "name": "Law",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Financier"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        105
+      ]
+    },
+    {
+      "id": "pers_028",
+      "name": "Joly de Fleury",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Contrôleur général des finances"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        255
+      ]
+    },
+    {
+      "id": "pers_029",
+      "name": "Lefèvre d'Ormesson",
+      "aliases": [
+        "d'Ormesson"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Contrôleur général des finances"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        258
+      ]
+    },
+    {
+      "id": "pers_030",
+      "name": "Calonne",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Contrôleur général des finances"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        127,
+        261,
+        262,
+        265,
+        270,
+        276,
+        287,
+        289,
+        304,
+        307,
+        312,
+        314,
+        330,
+        336,
+        339,
+        428,
+        476
+      ]
+    },
+    {
+      "id": "pers_031",
+      "name": "Beaumarchais",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Dramaturge"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        263
+      ]
+    },
+    {
+      "id": "pers_032",
+      "name": "Loménie de Brienne",
+      "aliases": [
+        "Brienne"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Archevêque",
+        "Principal ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        127,
+        340,
+        347,
+        355,
+        360,
+        395,
+        418,
+        422,
+        424,
+        428,
+        449
+      ]
+    },
+    {
+      "id": "pers_033",
+      "name": "Mirabeau",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Comte",
+        "Député"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        318,
+        523,
+        534,
+        598,
+        619
+      ]
+    },
+    {
+      "id": "pers_034",
+      "name": "Talleyrand",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Évêque d'Autun"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        318
+      ]
+    },
+    {
+      "id": "pers_035",
+      "name": "Duc d'Orléans",
+      "aliases": [
+        "Philippe d'Orléans"
+      ],
+      "dynasty": "Bourbons-Orléans",
+      "titles": [
+        "Duc d'Orléans"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        367,
+        530
+      ]
+    },
+    {
+      "id": "pers_036",
+      "name": "Mounier",
+      "aliases": [
+        "le juge Mounier"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Juge",
+        "Député"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        400,
+        534
+      ]
+    },
+    {
+      "id": "pers_037",
+      "name": "Carnot",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Conventionnel",
+        "Organisateur de la victoire"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        496
+      ]
+    },
+    {
+      "id": "pers_038",
+      "name": "Camille Desmoulins",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Journaliste",
+        "Révolutionnaire"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        640
+      ]
+    },
+    {
+      "id": "pers_039",
+      "name": "Marat",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Journaliste",
+        "Révolutionnaire"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        640
+      ]
+    },
+    {
+      "id": "pers_040",
+      "name": "Loustalot",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Journaliste"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        641
+      ]
+    },
+    {
+      "id": "pers_041",
+      "name": "Marquis de Dreux-Brézé",
+      "aliases": [
+        "Dreux-Brézé"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Marquis",
+        "Grand maître des cérémonies"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        522
+      ]
+    },
+    {
+      "id": "pers_042",
+      "name": "De Launay",
+      "aliases": [
+        "gouverneur de la Bastille"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Gouverneur de la Bastille"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1789,
+        "month": 7,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        548
+      ]
+    },
+    {
+      "id": "pers_043",
+      "name": "Flesselles",
+      "aliases": [
+        "prévôt des marchands"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Prévôt des marchands de Paris"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1789,
+        "month": 7,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        549
+      ]
+    },
+    {
+      "id": "pers_044",
+      "name": "Kant",
+      "aliases": [
+        "Immanuel Kant"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Philosophe"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        560
+      ]
+    },
+    {
+      "id": "pers_045",
+      "name": "Taine",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Historien",
+        "Philosophe"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        576
+      ]
+    },
+    {
+      "id": "pers_046",
+      "name": "Vicomte de Noailles",
+      "aliases": [
+        "Noailles"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Vicomte",
+        "Député"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        580
+      ]
+    },
+    {
+      "id": "pers_047",
+      "name": "Rivarol",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Écrivain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        599
+      ]
+    },
+    {
+      "id": "pers_048",
+      "name": "Marie-Antoinette",
+      "aliases": [
+        "la reine"
+      ],
+      "dynasty": "Habsbourg-Lorraine",
+      "titles": [
+        "Reine de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Louis XVI"
+        }
+      ],
+      "source_lines": [
+        288,
+        540,
+        665,
+        672
+      ]
+    },
+    {
+      "id": "pers_049",
+      "name": "Breteuil",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Baron",
+        "Ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        539
+      ]
+    },
+    {
+      "id": "pers_050",
+      "name": "Marion",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Historien"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        463
+      ]
+    },
+    {
+      "id": "pers_051",
+      "name": "Louis, dauphin de France",
+      "aliases": [
+        "le vertueux dauphin"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Dauphin de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis XV"
+        },
+        {
+          "type": "fils",
+          "person": "Louis XVI"
+        }
+      ],
+      "source_lines": [
+        26
+      ]
+    },
+    {
+      "id": "pers_052",
+      "name": "Napoléon",
+      "aliases": [
+        "Napoléon Bonaparte"
+      ],
+      "dynasty": "Bonaparte",
+      "titles": [
+        "Empereur"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        168,
+        446
+      ]
+    },
+    {
+      "id": "pers_053",
+      "name": "Ségur",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Ministre de la guerre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        29
+      ]
+    },
+    {
+      "id": "pers_054",
+      "name": "Richelieu",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Cardinal",
+        "Ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        152,
+        220,
+        443
+      ]
+    },
+    {
+      "id": "pers_055",
+      "name": "Louis XIV",
+      "aliases": [],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        18,
+        62,
+        220,
+        443
+      ]
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_001",
+      "name": "Bourbons",
+      "period_start": {
+        "year": 1589,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1792,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_002",
+      "name": "Première République",
+      "period_start": {
+        "year": 1792,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1799,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}

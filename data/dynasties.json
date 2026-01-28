@@ -1,0 +1,645 @@
+[
+  {
+    "id": "dyn_0001",
+    "name": "Gaulois",
+    "period_start": {
+      "year": -600,
+      "circa": true,
+      "era": "BCE",
+      "precision": "century"
+    },
+    "period_end": {
+      "year": -52,
+      "circa": false,
+      "era": "BCE",
+      "precision": "year"
+    },
+    "color": "#8B4513"
+  },
+  {
+    "id": "dyn_0002",
+    "name": "Gallo-Romains",
+    "period_start": {
+      "year": -52,
+      "circa": false,
+      "era": "BCE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 481,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#CD853F"
+  },
+  {
+    "id": "dyn_0003",
+    "name": "Mérovingiens",
+    "period_start": {
+      "year": 481,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 751,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#4169E1"
+  },
+  {
+    "id": "dyn_0004",
+    "name": "Pipinnides",
+    "period_start": {
+      "year": 640,
+      "circa": true,
+      "era": "CE",
+      "precision": "decade"
+    },
+    "period_end": {
+      "year": 751,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0005",
+    "name": "Carolingiens",
+    "period_start": {
+      "year": 751,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 987,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#DAA520"
+  },
+  {
+    "id": "dyn_0006",
+    "name": "Capétiens",
+    "period_start": {
+      "year": 987,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1328,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#4682B4"
+  },
+  {
+    "id": "dyn_0007",
+    "name": "Robertiens",
+    "period_start": {
+      "year": 866,
+      "circa": true,
+      "era": "CE",
+      "precision": "decade"
+    },
+    "period_end": {
+      "year": 987,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0008",
+    "name": "Capétiens directs",
+    "period_start": {
+      "year": 987,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1328,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0009",
+    "name": "Plantagenets",
+    "period_start": {
+      "year": 1154,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1485,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0010",
+    "name": "Valois",
+    "period_start": {
+      "year": 1328,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1589,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#9370DB"
+  },
+  {
+    "id": "dyn_0011",
+    "name": "Plantagenêts",
+    "period_start": {
+      "year": 1154,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1399,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0012",
+    "name": "Lancastre",
+    "period_start": {
+      "year": 1399,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1471,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0013",
+    "name": "Valois-Bourgogne",
+    "period_start": {
+      "year": 1363,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1477,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0014",
+    "name": "Bourgogne",
+    "period_start": {
+      "year": 1363,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1477,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0015",
+    "name": "Habsbourg",
+    "period_start": {
+      "year": 1273,
+      "circa": true,
+      "era": "CE",
+      "precision": "decade"
+    },
+    "period_end": {
+      "year": 1918,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0016",
+    "name": "Bretagne",
+    "period_start": {
+      "year": 939,
+      "circa": true,
+      "era": "CE",
+      "precision": "decade"
+    },
+    "period_end": {
+      "year": 1532,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0017",
+    "name": "Tudor",
+    "period_start": {
+      "year": 1485,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1603,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0018",
+    "name": "Maison de Guise",
+    "period_start": {
+      "year": 1528,
+      "circa": true,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1688,
+      "circa": true,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0019",
+    "name": "Bourbons",
+    "period_start": {
+      "year": 1589,
+      "month": 8,
+      "day": 2,
+      "circa": false,
+      "era": "CE",
+      "precision": "exact"
+    },
+    "period_end": {
+      "year": 1792,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0020",
+    "name": "Guise-Lorraine",
+    "period_start": {
+      "year": 1528,
+      "circa": true,
+      "era": "CE",
+      "precision": "decade"
+    },
+    "period_end": {
+      "year": 1688,
+      "circa": true,
+      "era": "CE",
+      "precision": "decade"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0021",
+    "name": "Châtillon",
+    "period_start": {
+      "year": 1500,
+      "circa": true,
+      "era": "CE",
+      "precision": "century"
+    },
+    "period_end": {
+      "year": 1600,
+      "circa": true,
+      "era": "CE",
+      "precision": "century"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0022",
+    "name": "Montmorency",
+    "period_start": {
+      "year": 1000,
+      "circa": true,
+      "era": "CE",
+      "precision": "century"
+    },
+    "period_end": {
+      "year": 1632,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0023",
+    "name": "Guise",
+    "period_start": {
+      "year": 1528,
+      "circa": true,
+      "era": "CE",
+      "precision": "decade"
+    },
+    "period_end": {
+      "year": 1688,
+      "circa": true,
+      "era": "CE",
+      "precision": "decade"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0024",
+    "name": "Stuart",
+    "period_start": {
+      "year": 1603,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1714,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0025",
+    "name": "Habsbourg d'Espagne",
+    "period_start": {
+      "year": 1516,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1700,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0026",
+    "name": "Habsbourg d'Autriche",
+    "period_start": {
+      "year": 1278,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1918,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0027",
+    "name": "Stuarts",
+    "period_start": {
+      "year": 1603,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1714,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0028",
+    "name": "Orange-Nassau",
+    "period_start": {
+      "year": 1544,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": null,
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0029",
+    "name": "Hohenzollern",
+    "period_start": {
+      "year": 1415,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1918,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0030",
+    "name": "Savoie",
+    "period_start": {
+      "year": 1003,
+      "circa": true,
+      "era": "CE",
+      "precision": "decade"
+    },
+    "period_end": {
+      "year": 1946,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0031",
+    "name": "Bourbons d'Espagne",
+    "period_start": {
+      "year": 1700,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0032",
+    "name": "Première République",
+    "period_start": {
+      "year": 1792,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1799,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0033",
+    "name": "Consulat",
+    "period_start": {
+      "year": 1799,
+      "month": 11,
+      "day": 9,
+      "circa": false,
+      "era": "CE",
+      "precision": "exact"
+    },
+    "period_end": {
+      "year": 1804,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0034",
+    "name": "Premier Empire",
+    "period_start": {
+      "year": 1804,
+      "month": 5,
+      "day": 18,
+      "circa": false,
+      "era": "CE",
+      "precision": "exact"
+    },
+    "period_end": {
+      "year": 1814,
+      "month": 4,
+      "day": 11,
+      "circa": false,
+      "era": "CE",
+      "precision": "exact"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0035",
+    "name": "Restauration",
+    "period_start": {
+      "year": 1814,
+      "month": 5,
+      "circa": false,
+      "era": "CE",
+      "precision": "month"
+    },
+    "period_end": null,
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0036",
+    "name": "Monarchie de Juillet",
+    "period_start": {
+      "year": 1830,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1848,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0037",
+    "name": "Orléans (Monarchie de Juillet)",
+    "period_start": {
+      "year": 1830,
+      "month": 8,
+      "day": 9,
+      "circa": false,
+      "era": "CE",
+      "precision": "exact"
+    },
+    "period_end": {
+      "year": 1848,
+      "month": 2,
+      "day": 24,
+      "circa": false,
+      "era": "CE",
+      "precision": "exact"
+    },
+    "color": "#808080"
+  },
+  {
+    "id": "dyn_0038",
+    "name": "Troisième République",
+    "period_start": {
+      "year": 1870,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "period_end": {
+      "year": 1940,
+      "circa": false,
+      "era": "CE",
+      "precision": "year"
+    },
+    "color": "#808080"
+  }
+]

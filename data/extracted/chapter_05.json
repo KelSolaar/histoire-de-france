@@ -1,0 +1,3176 @@
+{
+  "chapter_number": 5,
+  "chapter_title": "PENDANT 340 ANS, L'HONORABLE MAISON CAPÉTIENNE RÈGNE DE PÈRE EN FILS",
+  "line_start": 1316,
+  "line_end": 2294,
+  "validation_status": "success",
+  "entries": [
+    {
+      "id": "evt_001",
+      "type": "period",
+      "date_start": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 1087,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Les premiers règnes capétiens sans éclat",
+      "description": "Pendant environ cent ans, la royauté capétienne fait petite figure avec un domaine étroit autour de Paris, comprenant Orléans, Étampes, Melun, Dreux, Poissy, Compiègne et Montreuil-sur-Mer.",
+      "importance": 3,
+      "people": [
+        "Hugues Capet"
+      ],
+      "locations": [
+        "Paris",
+        "Orléans",
+        "Étampes",
+        "Melun",
+        "Dreux",
+        "Poissy",
+        "Compiègne",
+        "Montreuil-sur-Mer"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 1,
+        "line_end": 8,
+        "excerpt": "Les premiers règnes furent sans éclat. Pendant une centaine d'années, cette royauté fit petite figure. Quel domaine étroit!"
+      }
+    },
+    {
+      "id": "evt_002",
+      "type": "political",
+      "date_start": {
+        "year": 987,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Les huit grands fiefs du royaume",
+      "description": "Huit grands fiefs relevant nominalement de la couronne se partagent le territoire: Flandre, Normandie, Bourgogne, Guyenne, Gascogne, Toulouse, Gothie et Barcelone.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Flandre",
+        "Normandie",
+        "Bourgogne",
+        "Guyenne",
+        "Gascogne",
+        "Toulouse",
+        "Gothie",
+        "Narbonne",
+        "Nîmes",
+        "Barcelone"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 15,
+        "line_end": 21,
+        "excerpt": "Les huit grands fiefs étaient ceux de Flandre, de Normandie, de Bourgogne, de Guyenne, de Gascogne, de Toulouse, de Gothie (Narbonne, Nîmes) et de Barcelone"
+      }
+    },
+    {
+      "id": "evt_003",
+      "type": "reign_start",
+      "date_start": {
+        "year": 996,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Règne de Robert le Pieux",
+      "description": "Robert le Pieux, successeur de Hugues Capet, met en avant le caractère religieux de la royauté. Sa tâche politique est simplifiée par les rivalités entre souverains provinciaux.",
+      "importance": 3,
+      "people": [
+        "Robert le Pieux",
+        "Hugues Capet"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 28,
+        "line_end": 33,
+        "excerpt": "Elle fut portée très haut chez le successeur de Hugues. Robert le Pieux sentit surtout le caractère religieux de la royauté."
+      }
+    },
+    {
+      "id": "evt_004",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1031,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Règne d'Henri Ier",
+      "description": "Henri Ier succède à Robert le Pieux et réussit à durer et même à accroître le domaine royal. Il épouse la fille du Grand-Duc de Kiev.",
+      "importance": 3,
+      "people": [
+        "Henri Ier",
+        "Anne de Kiev"
+      ],
+      "locations": [
+        "Kiev"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 33,
+        "line_end": 38,
+        "excerpt": "Henri et Philippe premiers du nom réussirent à durer et même à accroître leur domaine... Henri Ier épousa la fille du Grand-Duc de Kief"
+      }
+    },
+    {
+      "id": "evt_005",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1060,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Règne de Philippe Ier",
+      "description": "Philippe Ier règne mais est si peu puissant que le seigneur de Montlhéry l'empêche de dormir. Son nom vient de la prétention de sa mère à descendre des rois de Macédoine.",
+      "importance": 2,
+      "people": [
+        "Philippe Ier"
+      ],
+      "locations": [
+        "Montlhéry"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 36,
+        "line_end": 40,
+        "excerpt": "Ainsi le nom de Philippe entra dans la maison de France. Mais Philippe Ier était si peu puissant que le seigneur de Montlhéry l'empêchait de dormir."
+      }
+    },
+    {
+      "id": "evt_006",
+      "type": "treaty",
+      "date_start": {
+        "year": 911,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Cession de la Normandie à Rollon",
+      "description": "L'empereur carolingien, incapable de résister aux Normands, cède à leur chef Rollon la province qui deviendra la Normandie.",
+      "importance": 5,
+      "people": [
+        "Rollon"
+      ],
+      "locations": [
+        "Normandie",
+        "Neustrie"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 46,
+        "line_end": 50,
+        "excerpt": "Incapable de résister aux Normands, l'empereur carolingien avait cédé à leur chef Rollon la province qui est devenue la Normandie."
+      }
+    },
+    {
+      "id": "evt_007",
+      "type": "battle",
+      "date_start": {
+        "year": 1066,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille d'Hastings - Conquête de l'Angleterre",
+      "description": "Une seule bataille, celle d'Hastings, livre l'Angleterre à Guillaume le Conquérant. L'Angleterre entre dans l'histoire et va compliquer celle de France.",
+      "importance": 5,
+      "people": [
+        "Guillaume le Conquérant"
+      ],
+      "locations": [
+        "Hastings",
+        "Angleterre"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 56,
+        "line_end": 63,
+        "excerpt": "Une seule bataille, celle d'Hastings, livra l'île à Guillaume le Conquérant en 1066. L'Angleterre, qui jusqu'alors ne comptait guère... entre dans l'histoire"
+      }
+    },
+    {
+      "id": "evt_008",
+      "type": "religious",
+      "date_start": {
+        "year": 1096,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Première Croisade",
+      "description": "La première croisade, la plus importante de toutes, est prêchée par Urbain II et Pierre l'Ermite. Elle apparaît aux peuples d'Orient comme une entreprise française.",
+      "importance": 5,
+      "people": [
+        "Urbain II",
+        "Pierre l'Ermite",
+        "Philippe Ier"
+      ],
+      "locations": [
+        "Terre-Sainte"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 79,
+        "line_end": 90,
+        "excerpt": "Il se trouva qu'au moment de la première croisade, la plus importante de toutes (1096), le roi de France était en difficulté avec l'Eglise"
+      }
+    },
+    {
+      "id": "evt_009",
+      "type": "political",
+      "date_start": {
+        "year": 1100,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "La révolution communale",
+      "description": "La bourgeoisie des villes s'organise en corporations et communes, obtenant des libertés tantôt par la violence, tantôt à l'amiable ou à prix d'argent.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Flandre",
+        "Allemagne",
+        "Italie"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 102,
+        "line_end": 115,
+        "excerpt": "Ce qu'on appelle la révolution communale fut, comme toutes les révolutions, un effet de l'enrichissement"
+      }
+    },
+    {
+      "id": "evt_010",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1108,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Louis VI le Gros",
+      "description": "Louis VI le Gros commence la période d'activité de la monarchie capétienne. Énergique, il entreprend des opérations de police militaire pour nettoyer le pays.",
+      "importance": 4,
+      "people": [
+        "Louis VI le Gros",
+        "Philippe Ier"
+      ],
+      "locations": [
+        "Paris",
+        "Orléans",
+        "Montlhéry"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 126,
+        "line_end": 134,
+        "excerpt": "Ce roi, le premier des Capétiens qui ait porté le nom de Louis... Avec lui commence la période d'activité de la Monarchie capétienne (1108)."
+      }
+    },
+    {
+      "id": "evt_011",
+      "type": "political",
+      "date_start": {
+        "year": 1110,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Organisation de l'administration royale par Louis VI",
+      "description": "Louis VI organise l'administration du royaume, choisissant pour fonctionnaires de petites gens qu'il change souvent de place. Son homme de confiance est Suger.",
+      "importance": 4,
+      "people": [
+        "Louis VI le Gros",
+        "Suger"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 141,
+        "line_end": 150,
+        "excerpt": "Il commença aussi à organiser l'administration du royaume... Son homme de confiance, Suger, un simple moine, sera le ministre-type de la royauté."
+      }
+    },
+    {
+      "id": "evt_012",
+      "type": "battle",
+      "date_start": {
+        "year": 1124,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Résistance à l'invasion allemande de 1124",
+      "description": "L'empereur allemand tente une invasion. De tous les points du pays, vassaux et milices viennent se ranger autour du roi et de l'oriflamme de Saint-Denis. Le César germanique rebrousse chemin.",
+      "importance": 4,
+      "people": [
+        "Louis VI le Gros"
+      ],
+      "locations": [
+        "Reims",
+        "Saint-Denis"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 161,
+        "line_end": 169,
+        "excerpt": "On le vit lorsque l'empereur allemand, en 1124, tenta encore une invasion... le César germanique ne s'attendait pas à cette résistance."
+      }
+    },
+    {
+      "id": "evt_013",
+      "type": "event",
+      "date_start": {
+        "year": 1137,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mariage de Louis VII et Éléonore de Guyenne",
+      "description": "Louis VII épouse Éléonore de Guyenne dont la dot est tout le Sud-Ouest. Par ce mariage, la France s'étend d'un seul coup jusqu'aux Pyrénées.",
+      "importance": 4,
+      "people": [
+        "Louis VII",
+        "Éléonore de Guyenne",
+        "Louis VI le Gros"
+      ],
+      "locations": [
+        "Guyenne",
+        "Pyrénées"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 177,
+        "line_end": 182,
+        "excerpt": "Louis VII s'était très bien marié. Il avait épousé Eléonore de Guyenne dont la dot était tout le Sud-Ouest."
+      }
+    },
+    {
+      "id": "evt_014",
+      "type": "event",
+      "date_start": {
+        "year": 1152,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Divorce de Louis VII et Éléonore de Guyenne",
+      "description": "L'union orageuse est annulée après quinze ans, après la mort de Suger. Éléonore porte sa dot à Henri Plantagenet, comte d'Anjou, ce qui constitue une catastrophe.",
+      "importance": 5,
+      "people": [
+        "Louis VII",
+        "Éléonore de Guyenne",
+        "Suger",
+        "Henri Plantagenet"
+      ],
+      "locations": [
+        "Guyenne",
+        "Anjou"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 183,
+        "line_end": 193,
+        "excerpt": "Ce divorce fut une catastrophe... elle porta sa dot à Henri Plantagenet, comte d'Anjou."
+      }
+    },
+    {
+      "id": "evt_015",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1154,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Henri Plantagenet hérite de la couronne d'Angleterre",
+      "description": "Le comte d'Anjou hérite de la couronne d'Angleterre, se trouvant à la tête d'un royaume comprenant la Grande-Bretagne, la Normandie, et par Éléonore, la Guyenne, l'Auvergne et l'Aquitaine.",
+      "importance": 5,
+      "people": [
+        "Henri Plantagenet",
+        "Éléonore de Guyenne"
+      ],
+      "locations": [
+        "Angleterre",
+        "Normandie",
+        "Guyenne",
+        "Auvergne",
+        "Aquitaine",
+        "Anjou"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 193,
+        "line_end": 199,
+        "excerpt": "Le hasard voulut, en outre, que le comte d'Anjou héritât presque tout de suite de la couronne d'Angleterre (1154)."
+      }
+    },
+    {
+      "id": "evt_016",
+      "type": "period",
+      "date_start": {
+        "year": 1154,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 1259,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "La première guerre de Cent Ans",
+      "description": "Une grande lutte commence entre la France et l'État anglo-normand. Elle ne devait avoir de trêve qu'avec saint Louis. Ce fut la première guerre de cent ans.",
+      "importance": 4,
+      "people": [
+        "Louis VII"
+      ],
+      "locations": [
+        "France",
+        "Angleterre"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 200,
+        "line_end": 203,
+        "excerpt": "Une grande lutte avait commencé. Elle ne devait avoir de trêve qu'avec saint Louis. Ce fut la première guerre de cent ans."
+      }
+    },
+    {
+      "id": "evt_017",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1180,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Philippe Auguste",
+      "description": "Philippe Auguste, né tard du second mariage de Louis VII, devient roi avant l'âge d'homme. D'une étonnante précocité, il représente le réalisme, la patience et l'esprit d'opportunité.",
+      "importance": 5,
+      "people": [
+        "Philippe Auguste",
+        "Louis VII"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 215,
+        "line_end": 224,
+        "excerpt": "Philippe Auguste, devenu roi avant l'âge d'homme, car il était né tard du second mariage de Louis VII, fut d'une étonnante précocité."
+      }
+    },
+    {
+      "id": "evt_018",
+      "type": "death",
+      "date_start": {
+        "year": 1199,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Richard Cœur de Lion",
+      "description": "Richard Cœur de Lion, après tant d'aventures romanesques, est frappé d'une flèche devant le château de Chalus.",
+      "importance": 4,
+      "people": [
+        "Richard Cœur de Lion"
+      ],
+      "locations": [
+        "Chalus"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 239,
+        "line_end": 241,
+        "excerpt": "Richard Coeur de Lion, après tant d'aventures romanesques, avait été frappé d'une flèche devant le château de Chalus"
+      }
+    },
+    {
+      "id": "evt_019",
+      "type": "political",
+      "date_start": {
+        "year": 1203,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Confiscation des domaines de Jean sans Terre",
+      "description": "Philippe Auguste fait prononcer la confiscation des domaines de Jean sans Terre pour immoralité et indignité, notamment l'assassinat de son neveu Arthur de Bretagne.",
+      "importance": 5,
+      "people": [
+        "Philippe Auguste",
+        "Jean sans Terre",
+        "Arthur de Bretagne"
+      ],
+      "locations": [
+        "Normandie",
+        "Maine",
+        "Anjou",
+        "Touraine",
+        "Poitou"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 242,
+        "line_end": 253,
+        "excerpt": "Jean était son vassal: la confiscation de ses domaines fut prononcée pour cause d'immoralité et d'indignité (1203)."
+      }
+    },
+    {
+      "id": "evt_020",
+      "type": "battle",
+      "date_start": {
+        "year": 1214,
+        "month": 7,
+        "day": 27,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Bouvines",
+      "description": "Face à une coalition de l'empereur allemand Othon, des Plantagenets et des féodaux jaloux, Philippe Auguste remporte une victoire décisive qui délivre la France.",
+      "importance": 5,
+      "people": [
+        "Philippe Auguste",
+        "Othon IV",
+        "Jean sans Terre",
+        "Innocent III"
+      ],
+      "locations": [
+        "Bouvines",
+        "Flandre"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 254,
+        "line_end": 274,
+        "excerpt": "Une coalition des rancunes et des avidités se forma: le Plantagenet, l'empereur allemand, les féodaux jaloux... la bataille de Bouvines"
+      }
+    },
+    {
+      "id": "evt_021",
+      "type": "religious",
+      "date_start": {
+        "year": 1209,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Croisade contre les Albigeois",
+      "description": "Simon de Montfort et ses croisés partent contre l'hérésie albigeoise. La lutte devient celle du Nord contre la féodalité du Midi et la dynastie toulousaine.",
+      "importance": 4,
+      "people": [
+        "Simon de Montfort",
+        "Philippe Auguste"
+      ],
+      "locations": [
+        "Languedoc",
+        "Toulouse",
+        "Cévennes"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 292,
+        "line_end": 307,
+        "excerpt": "Dès le moment où Simon de Montfort et ses croisés se mirent en marche, l'affaire changea d'aspect. Elle devint la lutte du Nord contre la féodalité du Midi"
+      }
+    },
+    {
+      "id": "evt_022",
+      "type": "death",
+      "date_start": {
+        "year": 1223,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Philippe Auguste",
+      "description": "Philippe Auguste meurt laissant une France agrandie et sauvée des périls extérieurs, un trésor et de l'ordre. Sa monarchie est si solide qu'il n'a pas besoin d'associer son fils au trône.",
+      "importance": 4,
+      "people": [
+        "Philippe Auguste",
+        "Louis VIII"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 309,
+        "line_end": 321,
+        "excerpt": "En mourant (1223), Philippe Auguste ne laissait pas seulement une France agrandie et sauvée des périls extérieurs."
+      }
+    },
+    {
+      "id": "evt_023",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1223,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Louis VIII",
+      "description": "Louis VIII succède naturellement à Philippe Auguste sans élection. L'hérédité a triomphé après près de deux siècles et demi depuis Hugues Capet.",
+      "importance": 3,
+      "people": [
+        "Louis VIII",
+        "Philippe Auguste"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 315,
+        "line_end": 321,
+        "excerpt": "Louis VIII lui succéda naturellement et personne ne demanda qu'une élection eût lieu... il avait fallu près de deux siècles et demi pour que l'hérédité triomphât."
+      }
+    },
+    {
+      "id": "evt_024",
+      "type": "death",
+      "date_start": {
+        "year": 1226,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Louis VIII - Minorité de Louis IX",
+      "description": "Louis VIII meurt en 1226 alors que son fils aîné n'a que onze ans. La régence de Blanche de Castille commence dans une période orageuse.",
+      "importance": 4,
+      "people": [
+        "Louis VIII",
+        "Louis IX",
+        "Blanche de Castille"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 325,
+        "line_end": 336,
+        "excerpt": "En 1226, lorsque Louis VIII mourut, son fils aîné avait onze ans. Les minorités ont toujours été un péril."
+      }
+    },
+    {
+      "id": "evt_025",
+      "type": "political",
+      "date_start": {
+        "year": 1226,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Fronde féodale contre Blanche de Castille",
+      "description": "Les vaincus de Bouvines tentent une revanche. La conjuration conteste la régence de Blanche de Castille, la traitant d'étrangère et cherchant à mettre la couronne sur une autre tête.",
+      "importance": 4,
+      "people": [
+        "Blanche de Castille",
+        "Louis IX"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 333,
+        "line_end": 346,
+        "excerpt": "Les conjurés contestaient la régence de Blanche de Castille... La fidélité des bourgeois de Paris le sauva"
+      }
+    },
+    {
+      "id": "evt_026",
+      "type": "political",
+      "date_start": {
+        "year": 1229,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Réunion du Languedoc au royaume",
+      "description": "Blanche de Castille réunit le Languedoc au royaume, cueillant le fruit politique de la guerre contre les Albigeois grâce à la prudente abstention de Philippe Auguste.",
+      "importance": 4,
+      "people": [
+        "Blanche de Castille",
+        "Philippe Auguste"
+      ],
+      "locations": [
+        "Languedoc"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 350,
+        "line_end": 353,
+        "excerpt": "Elle réunit le Languedoc au royaume, cueillant ainsi, grâce à la prudente abstention de Philippe Auguste, le fruit politique de la guerre contre les Albigeois."
+      }
+    },
+    {
+      "id": "evt_027",
+      "type": "event",
+      "date_start": {
+        "year": 1234,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Répression de Pierre Mauclerc en Bretagne",
+      "description": "Le comte de Bretagne Pierre Mauclerc, un Capétien qui avait mal tourné, appelle les Anglais à son aide. Il est battu et des garnisons royales occupent les principales places bretonnes.",
+      "importance": 3,
+      "people": [
+        "Blanche de Castille",
+        "Pierre Mauclerc"
+      ],
+      "locations": [
+        "Bretagne"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 353,
+        "line_end": 358,
+        "excerpt": "A l'Ouest, le comte de Bretagne, Pierre Mauclerc, un Capétien qui avait mal tourné... fut également battu"
+      }
+    },
+    {
+      "id": "evt_028",
+      "type": "event",
+      "date_start": {
+        "year": 1236,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Majorité de Louis IX et mariage avec Marguerite de Provence",
+      "description": "Louis IX devient majeur et épouse Marguerite de Provence, mariage politique qui prépare la réunion d'une autre province.",
+      "importance": 3,
+      "people": [
+        "Louis IX",
+        "Marguerite de Provence"
+      ],
+      "locations": [
+        "Provence"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 359,
+        "line_end": 363,
+        "excerpt": "En 1236, Louis IX est majeur. Il vient d'épouser Marguerite de Provence. Mariage politique qui prépare la réunion d'une autre province."
+      }
+    },
+    {
+      "id": "evt_029",
+      "type": "battle",
+      "date_start": {
+        "year": 1242,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bataille de Taillebourg",
+      "description": "Saint Louis brise le dernier retour offensif des Plantagenets à la bataille de Taillebourg.",
+      "importance": 4,
+      "people": [
+        "Louis IX"
+      ],
+      "locations": [
+        "Taillebourg"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 380,
+        "line_end": 382,
+        "excerpt": "A la bataille de Taillebourg, en 1242, il avait brisé le dernier retour offensif des Plantagenets."
+      }
+    },
+    {
+      "id": "evt_030",
+      "type": "religious",
+      "date_start": {
+        "year": 1248,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Septième Croisade - Expédition d'Égypte",
+      "description": "Saint Louis part délivrer Jérusalem et va droit en Égypte, clef de la Palestine et de la Syrie. L'expédition tourne mal et il est fait prisonnier par les Mamelouks.",
+      "importance": 4,
+      "people": [
+        "Louis IX"
+      ],
+      "locations": [
+        "Égypte",
+        "Jérusalem",
+        "Palestine",
+        "Syrie"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 382,
+        "line_end": 390,
+        "excerpt": "On a admiré que, parti pour délivrer Jérusalem, il fût allé, comme Bonaparte, droit en Egypte... Saint Louis fut fait prisonnier par les Mameluks"
+      }
+    },
+    {
+      "id": "evt_031",
+      "type": "event",
+      "date_start": {
+        "year": 1250,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mouvement des Pastoureaux",
+      "description": "Un mouvement révolutionnaire compliqué de mysticisme éclate en France pendant l'absence de Saint Louis. La bourgeoisie des villes se charge de l'écraser.",
+      "importance": 2,
+      "people": [
+        "Blanche de Castille"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 388,
+        "line_end": 392,
+        "excerpt": "Sa mère, vieillie, le rappelait en France, inquiète de l'anarchie des Pastoureaux... La bourgeoisie des villes se chargea de l'écraser."
+      }
+    },
+    {
+      "id": "evt_032",
+      "type": "treaty",
+      "date_start": {
+        "year": 1259,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de Paris avec l'Angleterre",
+      "description": "Louis IX rend au roi d'Angleterre des provinces du Sud-Ouest mais obtient en échange la renonciation aux provinces perdues, notamment la Normandie, et la reconnaissance de la suzeraineté française sur la Guyenne.",
+      "importance": 4,
+      "people": [
+        "Louis IX",
+        "Henri III d'Angleterre"
+      ],
+      "locations": [
+        "Normandie",
+        "Guyenne"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 398,
+        "line_end": 415,
+        "excerpt": "Louis IX transigeait avec Henri III. S'il lui rendait des provinces, Henri III renonçait à revendiquer celles qu'il avait perdues, notamment la Normandie"
+      }
+    },
+    {
+      "id": "evt_033",
+      "type": "political",
+      "date_start": {
+        "year": 1250,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Réformes judiciaires de Saint Louis",
+      "description": "Louis IX organise les tribunaux et la procédure, met le Parlement au-dessus des autres juridictions. Sous son règne, cette cour d'appel reçoit ses attributions principales.",
+      "importance": 4,
+      "people": [
+        "Louis IX"
+      ],
+      "locations": [
+        "Vincennes"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 419,
+        "line_end": 428,
+        "excerpt": "C'est comme juge royal, sous le chêne de Vincennes, que son souvenir est resté populaire. Il organisait les tribunaux, la procédure. Il mettait le «Parlement» au-dessus des autres juridictions."
+      }
+    },
+    {
+      "id": "evt_034",
+      "type": "political",
+      "date_start": {
+        "year": 1268,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Le Livre des Métiers",
+      "description": "Saint Louis organise les corporations. L'existence et les droits de l'ouvrier reçoivent protection dans un ordre social chrétien inscrit au célèbre Livre des Métiers.",
+      "importance": 3,
+      "people": [
+        "Louis IX",
+        "Joinville"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 429,
+        "line_end": 436,
+        "excerpt": "Surtout il organise les corporations. L'existence et les droits de l'ouvrier reçoivent protection dans un «ordre social chrétien», inscrit au célèbre Livre des Métiers."
+      }
+    },
+    {
+      "id": "evt_035",
+      "type": "death",
+      "date_start": {
+        "year": 1270,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Saint Louis à Tunis",
+      "description": "Saint Louis meurt de la peste devant Tunis lors de sa seconde croisade, répétant le nom de Jérusalem. Les croisades finissent avec lui.",
+      "importance": 5,
+      "people": [
+        "Louis IX",
+        "Charles d'Anjou",
+        "Joinville"
+      ],
+      "locations": [
+        "Tunis",
+        "Carthage",
+        "Sicile",
+        "Jérusalem"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 447,
+        "line_end": 456,
+        "excerpt": "A peine arrivé à l'endroit où avait été Carthage, le saint roi... mourut de la peste en répétant le nom de Jérusalem"
+      }
+    },
+    {
+      "id": "evt_036",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1270,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Philippe III le Hardi",
+      "description": "Philippe III succède à Saint Louis. Il recueille plusieurs héritages dont celui de Toulouse et doit défendre la frontière des Pyrénées contre l'Aragon.",
+      "importance": 3,
+      "people": [
+        "Philippe III",
+        "Louis IX"
+      ],
+      "locations": [
+        "Toulouse",
+        "Pyrénées",
+        "Aragon",
+        "Navarre"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 463,
+        "line_end": 476,
+        "excerpt": "le fils de saint Louis recueillit tout de suite plusieurs héritages, dont celui de Toulouse... Philippe III, qui gagna à ces campagnes le nom de Hardi"
+      }
+    },
+    {
+      "id": "evt_037",
+      "type": "political",
+      "date_start": {
+        "year": 1266,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Charles d'Anjou roi de Naples et Sicile",
+      "description": "Charles d'Anjou, frère de Saint Louis, est appelé par un pape français et devient roi de Naples et de Sicile pour mettre fin à l'influence gibeline.",
+      "importance": 4,
+      "people": [
+        "Charles d'Anjou",
+        "Louis IX",
+        "Conradin"
+      ],
+      "locations": [
+        "Naples",
+        "Sicile",
+        "Italie"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 479,
+        "line_end": 488,
+        "excerpt": "Charles d'Anjou était devenu roi de Naples et de Sicile... Pour en finir avec les intrigues allemandes, il fit condamner à mort le jeune Conradin"
+      }
+    },
+    {
+      "id": "evt_038",
+      "type": "event",
+      "date_start": {
+        "year": 1282,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Vêpres siciliennes",
+      "description": "La révolte des Siciliens commence la décadence du royaume français de Naples. Philippe III doit venir au secours de son oncle Charles d'Anjou.",
+      "importance": 4,
+      "people": [
+        "Charles d'Anjou",
+        "Philippe III"
+      ],
+      "locations": [
+        "Sicile",
+        "Naples",
+        "Aragon"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 489,
+        "line_end": 495,
+        "excerpt": "La révolte des Siciliens, restée fameuse sous le nom de Vêpres siciliennes, commença la décadence du royaume français de Naples."
+      }
+    },
+    {
+      "id": "evt_039",
+      "type": "death",
+      "date_start": {
+        "year": 1285,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Philippe III le Hardi",
+      "description": "Philippe le Hardi meurt au retour d'une expédition en Catalogne. Son fils Philippe le Bel n'a que dix-sept ans mais est singulièrement précoce.",
+      "importance": 3,
+      "people": [
+        "Philippe III",
+        "Philippe IV le Bel"
+      ],
+      "locations": [
+        "Catalogne"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 496,
+        "line_end": 501,
+        "excerpt": "Philippe le Hardi mourut en 1285 au retour d'une deuxième expédition, cette fois en Catalogne. Son fils, Philippe le Bel, n'avait que dix-sept ans"
+      }
+    },
+    {
+      "id": "evt_040",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1285,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Philippe IV le Bel",
+      "description": "Philippe le Bel devient roi à dix-sept ans. Il liquide l'affaire de Sicile et applique sa maxime: 'Nous qui voulons toujours raison garder.'",
+      "importance": 4,
+      "people": [
+        "Philippe IV le Bel",
+        "Philippe III"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 498,
+        "line_end": 506,
+        "excerpt": "Son fils, Philippe le Bel, n'avait que dix-sept ans, mais il était singulièrement précoce... «Nous qui voulons toujours raison garder.»"
+      }
+    },
+    {
+      "id": "evt_041",
+      "type": "event",
+      "date_start": {
+        "year": 1294,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Guerre maritime avec l'Angleterre",
+      "description": "La guerre éclate spontanément entre les marins normands et ceux de Bordeaux. Philippe le Bel comprend que pour combattre l'Angleterre, c'est sur mer qu'il faut l'atteindre.",
+      "importance": 4,
+      "people": [
+        "Philippe IV le Bel",
+        "Édouard Ier"
+      ],
+      "locations": [
+        "Guyenne",
+        "Bordeaux",
+        "Normandie",
+        "Manche"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 522,
+        "line_end": 538,
+        "excerpt": "Les gouvernements y furent entraînés après une longue procédure... Philippe le Bel comprit qu'une lutte grave s'ouvrait et il eut le premier cette idée que, pour combattre l'Angleterre, c'était sur mer qu'il fallait l'atteindre."
+      }
+    },
+    {
+      "id": "evt_042",
+      "type": "political",
+      "date_start": {
+        "year": 1295,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Coalition européenne et blocus continental",
+      "description": "Édouard Ier suscite une coalition européenne. Philippe le Bel répond par un blocus continental avec la Suède, la Norvège, la Hanse et les États ibériques. La Flandre refuse de s'associer.",
+      "importance": 4,
+      "people": [
+        "Philippe IV le Bel",
+        "Édouard Ier",
+        "Adolphe de Nassau"
+      ],
+      "locations": [
+        "Flandre",
+        "Suède",
+        "Norvège",
+        "Valenciennes"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 538,
+        "line_end": 555,
+        "excerpt": "Edouard Ier... suscita contre la France une coalition européenne... Philippe le Bel à son tour chercha des alliés et répondit par un véritable blocus continental"
+      }
+    },
+    {
+      "id": "evt_043",
+      "type": "treaty",
+      "date_start": {
+        "year": 1299,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Paix avec l'Angleterre",
+      "description": "Après cinq ans de guerre, la paix est signée avec l'Angleterre. Édouard Ier épouse Marguerite de France. La Flandre devient le principal souci de Philippe le Bel.",
+      "importance": 3,
+      "people": [
+        "Philippe IV le Bel",
+        "Édouard Ier",
+        "Marguerite de France"
+      ],
+      "locations": [
+        "Guyenne",
+        "Flandre"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 561,
+        "line_end": 566,
+        "excerpt": "Quand la paix fut signée avec l'Angleterre, au bout de cinq ans, en 1299... Un arrangement fut conclu pour la Guyenne avec Edouard Ier, qui épousa Marguerite de France."
+      }
+    },
+    {
+      "id": "evt_044",
+      "type": "battle",
+      "date_start": {
+        "year": 1302,
+        "month": 7,
+        "day": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Courtrai - Journée des éperons",
+      "description": "Les tisserands flamands battent la chevalerie française à Courtrai. C'est la 'journée des éperons', un coup terrible pour Philippe le Bel.",
+      "importance": 4,
+      "people": [
+        "Philippe IV le Bel"
+      ],
+      "locations": [
+        "Courtrai",
+        "Flandre"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 567,
+        "line_end": 574,
+        "excerpt": "Ce peuple de tisserands battit à Courtrai la chevalerie française: ce fut la «journée des éperons» (1302)."
+      }
+    },
+    {
+      "id": "evt_045",
+      "type": "political",
+      "date_start": {
+        "year": 1302,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Convocation des États Généraux",
+      "description": "Philippe le Bel convoque les États Généraux à Notre-Dame de Paris pour montrer qu'il a la France derrière lui dans son conflit avec le pape Boniface VIII.",
+      "importance": 4,
+      "people": [
+        "Philippe IV le Bel",
+        "Boniface VIII"
+      ],
+      "locations": [
+        "Paris",
+        "Notre-Dame"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 596,
+        "line_end": 613,
+        "excerpt": "Enfin, pour mieux marquer qu'il avait la France derrière lui, le roi convoqua des Etats Généraux... dans l'église Notre Dame"
+      }
+    },
+    {
+      "id": "evt_046",
+      "type": "event",
+      "date_start": {
+        "year": 1303,
+        "month": 9,
+        "day": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Attentat d'Anagni",
+      "description": "Guillaume de Nogaret se rend à Rome, trouve Boniface VIII à Anagni et s'empare brutalement de sa personne. Le pape meurt d'émotion quelques jours plus tard.",
+      "importance": 5,
+      "people": [
+        "Guillaume de Nogaret",
+        "Boniface VIII",
+        "Philippe IV le Bel"
+      ],
+      "locations": [
+        "Rome",
+        "Anagni"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 617,
+        "line_end": 625,
+        "excerpt": "C'est alors que Guillaume de Nogaret se rendit à Rome, trouva Boniface VIII à Anagni et s'empara brutalement de sa personne. Délivré, le pape mourut d'émotion quelques jours plus tard (1303)."
+      }
+    },
+    {
+      "id": "evt_047",
+      "type": "religious",
+      "date_start": {
+        "year": 1309,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Installation des papes à Avignon",
+      "description": "Clément V, ancien archevêque de Bordeaux, s'établit à Avignon. Les papes y resteront pendant trois quarts de siècle sous la protection de la monarchie française.",
+      "importance": 4,
+      "people": [
+        "Clément V",
+        "Philippe IV le Bel"
+      ],
+      "locations": [
+        "Avignon",
+        "Bordeaux"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 630,
+        "line_end": 633,
+        "excerpt": "Le signe de sa victoire, ce fut que Clément V, ancien archevêque de Bordeaux, passa pour un pape français et s'établit à Avignon."
+      }
+    },
+    {
+      "id": "evt_048",
+      "type": "event",
+      "date_start": {
+        "year": 1307,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 1314,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Procès et destruction de l'Ordre du Temple",
+      "description": "Philippe le Bel détruit l'Ordre du Temple, puissant et international. De nombreux chevaliers et leur grand maître Jacques de Molay sont brûlés comme hérétiques.",
+      "importance": 5,
+      "people": [
+        "Philippe IV le Bel",
+        "Jacques de Molay"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 653,
+        "line_end": 662,
+        "excerpt": "Le procès des Templiers, qui eut un si grand retentissement, fut avant tout un procès politique. Philippe le Bel ne fut si acharné à brûler... Jacques de Molay"
+      }
+    },
+    {
+      "id": "evt_049",
+      "type": "political",
+      "date_start": {
+        "year": 1305,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Réunion de la Champagne, Lyon et autres territoires",
+      "description": "Philippe le Bel réunit à la France la Champagne, la Marche, Angoulême, Lyon et le Vivarais. Il garde aussi Lille, Douai et Orchies de la dure entreprise de Flandre.",
+      "importance": 4,
+      "people": [
+        "Philippe IV le Bel",
+        "Philippe le Long"
+      ],
+      "locations": [
+        "Champagne",
+        "Marche",
+        "Angoulême",
+        "Lyon",
+        "Vivarais",
+        "Lille",
+        "Douai",
+        "Orchies",
+        "Bourgogne"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 669,
+        "line_end": 677,
+        "excerpt": "il ne faut pas oublier que Philippe le Bel réunit à la France la Champagne, la Marche et Angoulême, Lyon et le Vivarais... garda, de la dure entreprise de Flandre, Lille, Douai et Orchies."
+      }
+    },
+    {
+      "id": "evt_050",
+      "type": "death",
+      "date_start": {
+        "year": 1314,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Philippe IV le Bel",
+      "description": "Philippe IV meurt en 1314 à quarante-six ans, laissant un royaume troublé par l'indiscipline générale et des ligues de mécontents.",
+      "importance": 4,
+      "people": [
+        "Philippe IV le Bel",
+        "Louis X"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 684,
+        "line_end": 688,
+        "excerpt": "Lorsque Philippe IV mourut, en 1314 (il n'avait que quarante-six ans), le royaume était étrangement troublé."
+      }
+    },
+    {
+      "id": "evt_051",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1314,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Louis X le Hutin",
+      "description": "Louis X, surnommé Hutin à cause du tumulte de son avènement, doit calmer les mécontents et sacrifie Enguerrand de Marigny.",
+      "importance": 3,
+      "people": [
+        "Louis X le Hutin",
+        "Enguerrand de Marigny",
+        "Philippe IV le Bel"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 689,
+        "line_end": 706,
+        "excerpt": "Louis X fut surnommé Hutin, non qu'il fût querelleur ou batailleur comme on l'a cru, mais parce que son avènement survint dans ce temps de tumulte (hutin) et de désordre."
+      }
+    },
+    {
+      "id": "evt_052",
+      "type": "death",
+      "date_start": {
+        "year": 1315,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Pendaison d'Enguerrand de Marigny",
+      "description": "Enguerrand de Marigny, bras droit de Philippe le Bel, est pendu malgré sa contribution aux institutions d'ordre et de paix. Il sera réhabilité plus tard.",
+      "importance": 3,
+      "people": [
+        "Enguerrand de Marigny",
+        "Louis X le Hutin",
+        "Philippe IV le Bel"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 698,
+        "line_end": 709,
+        "excerpt": "chacun regarda comme une vengeance personnelle la pendaison de ce ministre roturier. «Mais, en mourant, dit très bien Michelet, il laisse à la royauté qui le frappe ses instruments de puissance»"
+      }
+    },
+    {
+      "id": "evt_053",
+      "type": "political",
+      "date_start": {
+        "year": 1315,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ordonnance pour l'affranchissement des serfs",
+      "description": "Louis X promulgue une célèbre ordonnance pour l'affranchissement des serfs de son domaine.",
+      "importance": 3,
+      "people": [
+        "Louis X le Hutin"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 710,
+        "line_end": 713,
+        "excerpt": "Le pauvre Louis Hutin... n'a guère laissé que ce nom bizarre et une célèbre ordonnance pour l'affranchissement des serfs de son domaine."
+      }
+    },
+    {
+      "id": "evt_054",
+      "type": "death",
+      "date_start": {
+        "year": 1316,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Louis X le Hutin",
+      "description": "Louis X meurt sans laisser de fils après seulement deux ans de règne. Pour la première fois depuis trois cents ans, un Capétien disparaît sans héritier mâle.",
+      "importance": 4,
+      "people": [
+        "Louis X le Hutin"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 713,
+        "line_end": 716,
+        "excerpt": "Les deux ans de son règne ne sont pas à négliger, bien que sa mort, tôt venue, ait compté plus que sa vie. Pour la première fois depuis trois cents ans, un Capétien disparaissait sans laisser de fils."
+      }
+    },
+    {
+      "id": "evt_055",
+      "type": "political",
+      "date_start": {
+        "year": 1316,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Application de la loi salique - Avènement de Philippe V",
+      "description": "La couronne passe à Philippe le Long, frère de Louis X, et non à sa fille. L'assemblée des notables approuve la succession de mâle en mâle, connue sous le nom de loi salique.",
+      "importance": 5,
+      "people": [
+        "Philippe V le Long",
+        "Louis X le Hutin"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 717,
+        "line_end": 732,
+        "excerpt": "la couronne passa sans encombres, non à la fille que laissait Louis Hutin, mais à son frère... on alla chercher, pour justifier une loi naturelle, je ne sais quelle loi des Francs Saliens, d'où le nom baroque de loi salique."
+      }
+    },
+    {
+      "id": "evt_056",
+      "type": "death",
+      "date_start": {
+        "year": 1322,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Philippe V le Long",
+      "description": "Philippe V meurt en 1322 sans laisser de fils après avoir brisé les ligues et couru sus à un nouveau soulèvement de Pastoureaux.",
+      "importance": 3,
+      "people": [
+        "Philippe V le Long"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 736,
+        "line_end": 742,
+        "excerpt": "Philippe se méfiait. Il voulut de l'ordre partout, brisa les ligues... Lui aussi mourut jeune et sans laisser de fils, en 1322."
+      }
+    },
+    {
+      "id": "evt_057",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1322,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Charles IV le Bel",
+      "description": "Charles le Bel succède à son frère Philippe V. Il prend le numéro quatre pour se rattacher à la lignée de Charlemagne.",
+      "importance": 3,
+      "people": [
+        "Charles IV le Bel",
+        "Philippe V le Long"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 742,
+        "line_end": 747,
+        "excerpt": "Cette fois, la couronne passa sans plus de difficulté à son frère Charles, surnommé le Bel... s'appelât Charles, de prendre le numéro quatre pour se rattacher à la lignée de Charlemagne"
+      }
+    },
+    {
+      "id": "evt_058",
+      "type": "death",
+      "date_start": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Charles IV le Bel - Fin des Capétiens directs",
+      "description": "Charles le Bel meurt de bonne heure ne laissant qu'une fille. La reine met au monde une autre fille. Philippe de Valois, régent, devient roi. Les Capétiens directs s'éteignent après 340 ans.",
+      "importance": 5,
+      "people": [
+        "Charles IV le Bel",
+        "Philippe VI de Valois"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 756,
+        "line_end": 764,
+        "excerpt": "Charles le Bel, à son tour, mourut de bonne heure, en 1328. Comme ses frères encore, il ne laissait qu'une fille... Le régent, du fait, devint roi."
+      }
+    },
+    {
+      "id": "evt_059",
+      "type": "reign_start",
+      "date_start": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Philippe VI de Valois",
+      "description": "Philippe de Valois devient roi. La réclamation d'Édouard III d'Angleterre, petit-fils de Philippe le Bel par sa mère, est écartée car 'en France on ne voulait pas être sujet du roi d'Angleterre'.",
+      "importance": 5,
+      "people": [
+        "Philippe VI de Valois",
+        "Édouard III",
+        "Isabeau de France"
+      ],
+      "locations": [],
+      "group_dynasty": "Valois",
+      "source": {
+        "line_start": 764,
+        "line_end": 778,
+        "excerpt": "Une assemblée, semblable à celle qui avait jadis élu Hugues Capet, approuva... la réclamation fut écartée pour diverses raisons dont la majeure fut «qu'en France on ne voulait pas être sujet du roi d'Angleterre»."
+      }
+    }
+  ],
+  "people": [
+    {
+      "id": "pers_001",
+      "name": "Robert le Pieux",
+      "aliases": [
+        "Robert II"
+      ],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1031,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 996,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1031,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Hugues Capet"
+        },
+        {
+          "type": "fils",
+          "person": "Henri Ier"
+        }
+      ],
+      "source_lines": [
+        28,
+        33,
+        367
+      ]
+    },
+    {
+      "id": "pers_002",
+      "name": "Henri Ier",
+      "aliases": [],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1060,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1031,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1060,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Robert le Pieux"
+        },
+        {
+          "type": "épouse",
+          "person": "Anne de Kiev"
+        },
+        {
+          "type": "fils",
+          "person": "Philippe Ier"
+        }
+      ],
+      "source_lines": [
+        33,
+        36
+      ]
+    },
+    {
+      "id": "pers_003",
+      "name": "Anne de Kiev",
+      "aliases": [
+        "Fille du Grand-Duc de Kiev"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Reine de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Henri Ier"
+        }
+      ],
+      "source_lines": [
+        36
+      ]
+    },
+    {
+      "id": "pers_004",
+      "name": "Philippe Ier",
+      "aliases": [],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1108,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1060,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1108,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Henri Ier"
+        },
+        {
+          "type": "fils",
+          "person": "Louis VI le Gros"
+        }
+      ],
+      "source_lines": [
+        36,
+        39,
+        82,
+        127
+      ]
+    },
+    {
+      "id": "pers_005",
+      "name": "Rollon",
+      "aliases": [
+        "Chef normand"
+      ],
+      "dynasty": "Normandie",
+      "titles": [
+        "Duc de Normandie"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 911,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": null
+      },
+      "relations": [],
+      "source_lines": [
+        48
+      ]
+    },
+    {
+      "id": "pers_006",
+      "name": "Guillaume le Conquérant",
+      "aliases": [
+        "Duc de Normandie"
+      ],
+      "dynasty": "Normandie",
+      "titles": [
+        "Duc de Normandie",
+        "Roi d'Angleterre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1066,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1087,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [],
+      "source_lines": [
+        57,
+        64,
+        68
+      ]
+    },
+    {
+      "id": "pers_007",
+      "name": "Urbain II",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Pape"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        74
+      ]
+    },
+    {
+      "id": "pers_008",
+      "name": "Pierre l'Ermite",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        74
+      ]
+    },
+    {
+      "id": "pers_009",
+      "name": "Louis VI le Gros",
+      "aliases": [
+        "Louis VI"
+      ],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1137,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1108,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1137,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Philippe Ier"
+        },
+        {
+          "type": "fils",
+          "person": "Louis VII"
+        }
+      ],
+      "source_lines": [
+        126,
+        128,
+        135,
+        138,
+        145,
+        164,
+        177
+      ]
+    },
+    {
+      "id": "pers_010",
+      "name": "Suger",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Abbé de Saint-Denis",
+        "Régent"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1151,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        149,
+        172,
+        184
+      ]
+    },
+    {
+      "id": "pers_011",
+      "name": "Louis VII",
+      "aliases": [
+        "Louis le Jeune"
+      ],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1180,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1137,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1180,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis VI le Gros"
+        },
+        {
+          "type": "épouse",
+          "person": "Éléonore de Guyenne"
+        },
+        {
+          "type": "fils",
+          "person": "Philippe Auguste"
+        }
+      ],
+      "source_lines": [
+        178,
+        181,
+        185,
+        199,
+        216
+      ]
+    },
+    {
+      "id": "pers_012",
+      "name": "Éléonore de Guyenne",
+      "aliases": [
+        "Éléonore d'Aquitaine"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Duchesse de Guyenne",
+        "Reine de France",
+        "Reine d'Angleterre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Louis VII"
+        },
+        {
+          "type": "époux",
+          "person": "Henri Plantagenet"
+        },
+        {
+          "type": "fils",
+          "person": "Richard Cœur de Lion"
+        },
+        {
+          "type": "fils",
+          "person": "Jean sans Terre"
+        }
+      ],
+      "source_lines": [
+        179,
+        186,
+        193,
+        221,
+        238
+      ]
+    },
+    {
+      "id": "pers_013",
+      "name": "Henri Plantagenet",
+      "aliases": [
+        "Henri II d'Angleterre"
+      ],
+      "dynasty": "Plantagenets",
+      "titles": [
+        "Comte d'Anjou",
+        "Roi d'Angleterre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1154,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1189,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Éléonore de Guyenne"
+        },
+        {
+          "type": "fils",
+          "person": "Richard Cœur de Lion"
+        },
+        {
+          "type": "fils",
+          "person": "Jean sans Terre"
+        }
+      ],
+      "source_lines": [
+        186,
+        193,
+        238
+      ]
+    },
+    {
+      "id": "pers_014",
+      "name": "Philippe Auguste",
+      "aliases": [
+        "Philippe II"
+      ],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1223,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1180,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1223,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis VII"
+        },
+        {
+          "type": "fils",
+          "person": "Louis VIII"
+        }
+      ],
+      "source_lines": [
+        215,
+        218,
+        234,
+        246,
+        252,
+        261,
+        266,
+        275,
+        282,
+        285,
+        304,
+        309,
+        351,
+        367
+      ]
+    },
+    {
+      "id": "pers_015",
+      "name": "Richard Cœur de Lion",
+      "aliases": [
+        "Richard Ier d'Angleterre"
+      ],
+      "dynasty": "Plantagenets",
+      "titles": [
+        "Roi d'Angleterre"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1199,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1189,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1199,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "mère",
+          "person": "Éléonore de Guyenne"
+        },
+        {
+          "type": "père",
+          "person": "Henri Plantagenet"
+        }
+      ],
+      "source_lines": [
+        220,
+        224,
+        239
+      ]
+    },
+    {
+      "id": "pers_016",
+      "name": "Jean sans Terre",
+      "aliases": [],
+      "dynasty": "Plantagenets",
+      "titles": [
+        "Roi d'Angleterre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1199,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1216,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "mère",
+          "person": "Éléonore de Guyenne"
+        },
+        {
+          "type": "père",
+          "person": "Henri Plantagenet"
+        },
+        {
+          "type": "neveu",
+          "person": "Arthur de Bretagne"
+        }
+      ],
+      "source_lines": [
+        221,
+        242,
+        245,
+        253,
+        527
+      ]
+    },
+    {
+      "id": "pers_017",
+      "name": "Arthur de Bretagne",
+      "aliases": [],
+      "dynasty": "Plantagenets",
+      "titles": [
+        "Duc de Bretagne"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1203,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "oncle",
+          "person": "Jean sans Terre"
+        }
+      ],
+      "source_lines": [
+        244
+      ]
+    },
+    {
+      "id": "pers_018",
+      "name": "Othon IV",
+      "aliases": [
+        "Empereur allemand"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Empereur germanique"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        255
+      ]
+    },
+    {
+      "id": "pers_019",
+      "name": "Innocent III",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Pape"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        262
+      ]
+    },
+    {
+      "id": "pers_020",
+      "name": "Simon de Montfort",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Comte de Montfort"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        296
+      ]
+    },
+    {
+      "id": "pers_021",
+      "name": "Louis VIII",
+      "aliases": [
+        "Louis le Lion"
+      ],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1226,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1223,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1226,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Philippe Auguste"
+        },
+        {
+          "type": "épouse",
+          "person": "Blanche de Castille"
+        },
+        {
+          "type": "fils",
+          "person": "Louis IX"
+        }
+      ],
+      "source_lines": [
+        276,
+        315,
+        325,
+        332,
+        461
+      ]
+    },
+    {
+      "id": "pers_022",
+      "name": "Blanche de Castille",
+      "aliases": [
+        "L'Espagnole"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Reine de France",
+        "Régente"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Louis VIII"
+        },
+        {
+          "type": "fils",
+          "person": "Louis IX"
+        }
+      ],
+      "source_lines": [
+        334,
+        339,
+        349,
+        389
+      ]
+    },
+    {
+      "id": "pers_023",
+      "name": "Louis IX",
+      "aliases": [
+        "Saint Louis"
+      ],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1270,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1226,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1270,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis VIII"
+        },
+        {
+          "type": "mère",
+          "person": "Blanche de Castille"
+        },
+        {
+          "type": "épouse",
+          "person": "Marguerite de Provence"
+        },
+        {
+          "type": "frère",
+          "person": "Charles d'Anjou"
+        },
+        {
+          "type": "fils",
+          "person": "Philippe III"
+        }
+      ],
+      "source_lines": [
+        202,
+        289,
+        328,
+        337,
+        342,
+        359,
+        364,
+        375,
+        380,
+        384,
+        393,
+        419,
+        429,
+        438,
+        445,
+        450,
+        453,
+        457,
+        480,
+        615
+      ]
+    },
+    {
+      "id": "pers_024",
+      "name": "Marguerite de Provence",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Reine de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Louis IX"
+        }
+      ],
+      "source_lines": [
+        360
+      ]
+    },
+    {
+      "id": "pers_025",
+      "name": "Joinville",
+      "aliases": [
+        "Jean de Joinville"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Sénéchal de Champagne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        435,
+        448
+      ]
+    },
+    {
+      "id": "pers_026",
+      "name": "Henri III d'Angleterre",
+      "aliases": [],
+      "dynasty": "Plantagenets",
+      "titles": [
+        "Roi d'Angleterre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1216,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1272,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [],
+      "source_lines": [
+        403,
+        407
+      ]
+    },
+    {
+      "id": "pers_027",
+      "name": "Charles d'Anjou",
+      "aliases": [],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Comte d'Anjou",
+        "Roi de Naples",
+        "Roi de Sicile"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "frère",
+          "person": "Louis IX"
+        }
+      ],
+      "source_lines": [
+        447,
+        479,
+        483,
+        491
+      ]
+    },
+    {
+      "id": "pers_028",
+      "name": "Conradin",
+      "aliases": [],
+      "dynasty": "Hohenstaufen",
+      "titles": [
+        "Duc de Souabe"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1268,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        485
+      ]
+    },
+    {
+      "id": "pers_029",
+      "name": "Philippe III",
+      "aliases": [
+        "Philippe le Hardi"
+      ],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1285,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1270,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1285,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis IX"
+        },
+        {
+          "type": "fils",
+          "person": "Philippe IV le Bel"
+        }
+      ],
+      "source_lines": [
+        459,
+        468,
+        491,
+        496
+      ]
+    },
+    {
+      "id": "pers_030",
+      "name": "Philippe IV le Bel",
+      "aliases": [
+        "Philippe le Bel"
+      ],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1314,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1285,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1314,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Philippe III"
+        },
+        {
+          "type": "fils",
+          "person": "Louis X le Hutin"
+        },
+        {
+          "type": "fils",
+          "person": "Philippe V le Long"
+        },
+        {
+          "type": "fils",
+          "person": "Charles IV le Bel"
+        },
+        {
+          "type": "fille",
+          "person": "Isabeau de France"
+        }
+      ],
+      "source_lines": [
+        289,
+        441,
+        498,
+        517,
+        522,
+        527,
+        531,
+        541,
+        552,
+        561,
+        570,
+        577,
+        581,
+        619,
+        630,
+        636,
+        653,
+        669,
+        684,
+        701
+      ]
+    },
+    {
+      "id": "pers_031",
+      "name": "Édouard Ier",
+      "aliases": [],
+      "dynasty": "Plantagenets",
+      "titles": [
+        "Roi d'Angleterre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1272,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1307,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Marguerite de France"
+        }
+      ],
+      "source_lines": [
+        523,
+        538,
+        562
+      ]
+    },
+    {
+      "id": "pers_032",
+      "name": "Adolphe de Nassau",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Empereur germanique"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        549
+      ]
+    },
+    {
+      "id": "pers_033",
+      "name": "Boniface VIII",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Pape"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1303,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        576,
+        583,
+        586,
+        617,
+        621,
+        655
+      ]
+    },
+    {
+      "id": "pers_034",
+      "name": "Guillaume de Nogaret",
+      "aliases": [
+        "Nogaret"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Garde des Sceaux"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        619,
+        637
+      ]
+    },
+    {
+      "id": "pers_035",
+      "name": "Clément V",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Pape"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        630
+      ]
+    },
+    {
+      "id": "pers_036",
+      "name": "Jacques de Molay",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Grand Maître du Temple"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1314,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        660
+      ]
+    },
+    {
+      "id": "pers_037",
+      "name": "Pierre Mauclerc",
+      "aliases": [],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Comte de Bretagne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        354
+      ]
+    },
+    {
+      "id": "pers_038",
+      "name": "Enguerrand de Marigny",
+      "aliases": [
+        "Le Portier"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Chambellan",
+        "Recteur du royaume"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1315,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        700,
+        705
+      ]
+    },
+    {
+      "id": "pers_039",
+      "name": "Louis X le Hutin",
+      "aliases": [
+        "Louis Hutin"
+      ],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1316,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1314,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1316,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Philippe IV le Bel"
+        }
+      ],
+      "source_lines": [
+        689,
+        710,
+        714
+      ]
+    },
+    {
+      "id": "pers_040",
+      "name": "Philippe V le Long",
+      "aliases": [],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1322,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1316,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1322,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Philippe IV le Bel"
+        }
+      ],
+      "source_lines": [
+        673,
+        723,
+        736,
+        741
+      ]
+    },
+    {
+      "id": "pers_041",
+      "name": "Charles IV le Bel",
+      "aliases": [],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1322,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1328,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Philippe IV le Bel"
+        }
+      ],
+      "source_lines": [
+        743,
+        749,
+        756
+      ]
+    },
+    {
+      "id": "pers_042",
+      "name": "Philippe VI de Valois",
+      "aliases": [
+        "Le roi trouvé"
+      ],
+      "dynasty": "Valois",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1328,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1350,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "cousin",
+          "person": "Charles IV le Bel"
+        }
+      ],
+      "source_lines": [
+        759,
+        765,
+        778
+      ]
+    },
+    {
+      "id": "pers_043",
+      "name": "Édouard III",
+      "aliases": [],
+      "dynasty": "Plantagenets",
+      "titles": [
+        "Roi d'Angleterre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "mère",
+          "person": "Isabeau de France"
+        },
+        {
+          "type": "grand-père",
+          "person": "Philippe IV le Bel"
+        }
+      ],
+      "source_lines": [
+        752,
+        770,
+        773
+      ]
+    },
+    {
+      "id": "pers_044",
+      "name": "Isabeau de France",
+      "aliases": [],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Reine d'Angleterre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Philippe IV le Bel"
+        },
+        {
+          "type": "fils",
+          "person": "Édouard III"
+        }
+      ],
+      "source_lines": [
+        771
+      ]
+    },
+    {
+      "id": "pers_045",
+      "name": "Marguerite de France",
+      "aliases": [],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Reine d'Angleterre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Édouard Ier"
+        }
+      ],
+      "source_lines": [
+        563
+      ]
+    },
+    {
+      "id": "pers_046",
+      "name": "Pierre Dubois",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Légiste"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        679
+      ]
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_001",
+      "name": "Capétiens directs",
+      "period_start": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_002",
+      "name": "Plantagenets",
+      "period_start": {
+        "year": 1154,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1485,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_003",
+      "name": "Valois",
+      "period_start": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1589,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}

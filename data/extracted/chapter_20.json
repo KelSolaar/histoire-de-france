@@ -1,0 +1,13 @@
+{
+  "chapter_number": 20,
+  "chapter_title": "LA DEUXIÈME RÉPUBLIQUE ET LE SECOND EMPIRE",
+  "line_start": 13016,
+  "line_end": 13866,
+  "validation_status": "error",
+  "entries": [],
+  "people": [],
+  "dynasties": [],
+  "errors": [
+    "CLI process 'claude -p' timed out after 600.0 seconds"
+  ]
+}

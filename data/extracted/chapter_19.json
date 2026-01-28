@@ -1,0 +1,2311 @@
+{
+  "chapter_number": 19,
+  "chapter_title": "LA MONARCHIE DE JUILLET",
+  "line_start": 12467,
+  "line_end": 13015,
+  "validation_status": "success",
+  "entries": [
+    {
+      "type": "reign_start",
+      "date_start": {
+        "year": 1830,
+        "month": 8,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Avènement de Louis-Philippe Ier",
+      "description": "Louis-Philippe d'Orléans, fils de Philippe-Égalité, monte sur le trône après la révolution de Juillet, fondant la monarchie de Juillet.",
+      "importance": 4,
+      "people": [
+        "Louis-Philippe Ier",
+        "Philippe-Égalité"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 8,
+        "line_end": 17,
+        "excerpt": "Qui était le duc d'Orléans? Le fils de Philippe-Egalité. Son père était un régicide. Lui-même avait combattu à Jemmapes."
+      },
+      "id": "evt_19_001"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1792,
+        "month": 11,
+        "day": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de Jemmapes",
+      "description": "Bataille où le duc d'Orléans (futur Louis-Philippe) combattit aux côtés des armées révolutionnaires.",
+      "importance": 3,
+      "people": [
+        "Louis-Philippe Ier"
+      ],
+      "locations": [
+        "Jemmapes",
+        "Belgique"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 12,
+        "line_end": 13,
+        "excerpt": "Lui-même avait combattu à Jemmapes."
+      },
+      "id": "evt_19_002"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1830,
+        "month": 7,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Les Trois Glorieuses",
+      "description": "Journées révolutionnaires de juillet 1830 qui renversèrent Charles X et portèrent Louis-Philippe au pouvoir, rétablissant le drapeau tricolore.",
+      "importance": 5,
+      "people": [
+        "Charles X",
+        "Louis-Philippe Ier"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 80,
+        "line_end": 84,
+        "excerpt": "La Révolution de 1830 avait relevé les trois couleurs qui signifiaient les frontières naturelles... d'où le nom de «trois glorieuses»"
+      },
+      "id": "evt_19_003"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1830,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ministère Laffitte et parti du Mouvement",
+      "description": "Louis-Philippe confie le ministère au banquier Laffitte et au parti du «mouvement» pour satisfaire les révolutionnaires.",
+      "importance": 2,
+      "people": [
+        "Louis-Philippe Ier",
+        "Jacques Laffitte"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 122,
+        "line_end": 125,
+        "excerpt": "L'émeute, d'où elle était née, pesait sur elle et demandait son salaire. Il fallut lui céder d'abord et Louis-Philippe donna le ministère au banquier Laffitte"
+      },
+      "id": "evt_19_004"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1830,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Révolution belge contre la Hollande",
+      "description": "Les Belges se soulèvent contre la domination hollandaise, encouragés par les événements de Paris.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Belgique",
+        "Hollande"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 135,
+        "line_end": 139,
+        "excerpt": "Avant les journées de juillet, les Belges s'étaient soulevés contre la domination hollandaise."
+      },
+      "id": "evt_19_005"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1831,
+        "month": 2,
+        "day": 3,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Élection du duc de Nemours comme roi des Belges",
+      "description": "Le Congrès national belge élit le duc de Nemours roi, mais Louis-Philippe refuse cette couronne pour son fils afin d'éviter la guerre.",
+      "importance": 3,
+      "people": [
+        "Louis-Philippe Ier",
+        "Duc de Nemours",
+        "Eugène de Beauharnais"
+      ],
+      "locations": [
+        "Belgique",
+        "Bruxelles"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 158,
+        "line_end": 164,
+        "excerpt": "Le duc de Nemours fut élu roi le 3 février 1831 et Louis-Philippe refusa cette couronne pour son fils."
+      },
+      "id": "evt_19_006"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1830,
+        "month": 11,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Insurrection polonaise",
+      "description": "Soulèvement des Polonais contre la Russie, qui paralysa la Russie et la Prusse, permettant l'indépendance de la Belgique.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Pologne",
+        "Russie",
+        "Prusse"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 165,
+        "line_end": 168,
+        "excerpt": "Si une insurrection des Polonais n'eût éclaté à ce moment-là, paralysant la Russie et, avec elle la Prusse..."
+      },
+      "id": "evt_19_007"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1831,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Indépendance et neutralité de la Belgique",
+      "description": "À la conférence de Londres, la Belgique est déclarée indépendante et neutre, garantie par les puissances européennes.",
+      "importance": 4,
+      "people": [
+        "Louis-Philippe Ier",
+        "Talleyrand",
+        "Léopold Ier"
+      ],
+      "locations": [
+        "Londres",
+        "Belgique"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 169,
+        "line_end": 176,
+        "excerpt": "La Belgique indépendante était fondée... Les puissances avaient voulu que la Belgique libre fût neutre, et sa neutralité garantie par l'Europe"
+      },
+      "id": "evt_19_008"
+    },
+    {
+      "type": "reign_start",
+      "date_start": {
+        "year": 1831,
+        "month": 7,
+        "day": 21,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Léopold Ier roi des Belges",
+      "description": "Léopold de Saxe-Cobourg devient roi des Belges, candidat de l'Angleterre, épousera ensuite la princesse Louise, fille de Louis-Philippe.",
+      "importance": 3,
+      "people": [
+        "Léopold Ier",
+        "Princesse Louise d'Orléans",
+        "Louis-Philippe Ier"
+      ],
+      "locations": [
+        "Belgique",
+        "Bruxelles"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 183,
+        "line_end": 186,
+        "excerpt": "En acceptant Léopold Ier, un Cobourg, candidat de l'Angleterre, pour roi des Belges, le roi des Français se réservait pourtant de lui donner sa fille"
+      },
+      "id": "evt_19_009"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1832,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Siège d'Anvers",
+      "description": "Une armée française délivre Anvers menacée par un retour offensif des Hollandais, sauvant la Belgique.",
+      "importance": 3,
+      "people": [
+        "Louis-Philippe Ier"
+      ],
+      "locations": [
+        "Anvers",
+        "Belgique",
+        "Hollande"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 186,
+        "line_end": 189,
+        "excerpt": "En 1832, il sauvait encore la Belgique, menacée par un retour offensif des Hollandais, et une armée française délivrait Anvers"
+      },
+      "id": "evt_19_010"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1831,
+        "month": 3,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ministère Casimir Perier",
+      "description": "Huit mois après juillet 1830, Laffitte et le parti du mouvement cèdent la place à Casimir Perier et au parti de la résistance.",
+      "importance": 3,
+      "people": [
+        "Casimir Perier",
+        "Jacques Laffitte",
+        "Louis-Philippe Ier"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 200,
+        "line_end": 203,
+        "excerpt": "Huit mois après les journées de juillet, Laffitte et le parti du mouvement étaient usés, cédaient la place à Casimir Perier et au parti de la résistance."
+      },
+      "id": "evt_19_011"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1832,
+        "month": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Insurrection lors des funérailles du général Lamarque",
+      "description": "L'enterrement du général Lamarque sert de prétexte à une prise d'armes des républicains et bonapartistes réunis.",
+      "importance": 2,
+      "people": [
+        "Général Lamarque"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 214,
+        "line_end": 216,
+        "excerpt": "L'enterrement du général Lamarque fut pour les républicains et les bonapartistes, toujours réunis, l'occasion d'une prise d'armes."
+      },
+      "id": "evt_19_012"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1832,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Tentative de soulèvement de la duchesse de Berry en Vendée",
+      "description": "La duchesse de Berry tente de soulever la Vendée au nom des légitimistes, sans succès.",
+      "importance": 2,
+      "people": [
+        "Duchesse de Berry"
+      ],
+      "locations": [
+        "Vendée"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 216,
+        "line_end": 218,
+        "excerpt": "Presque en même temps, la duchesse de Berry avait essayé de soulever la Vendée: les légitimistes étaient aussi irréconciliables que les révolutionnaires."
+      },
+      "id": "evt_19_013"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1834,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Insurrection de Lyon et massacre de la rue Transnonain",
+      "description": "Insurrection socialiste à Lyon, écrasée avec violence, avec répercussions à Paris où la Société des Droits de l'homme se soulève. Le massacre de la rue Transnonain marque la répression sanglante.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Lyon",
+        "Paris",
+        "Rue Transnonain"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 218,
+        "line_end": 229,
+        "excerpt": "A Lyon, une première insurrection, de caractère socialiste... Une autre, beaucoup plus grave, éclata en 1834... Le «massacre de la rue Transnonain»"
+      },
+      "id": "evt_19_014"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1835,
+        "month": 7,
+        "day": 28,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Attentat de Fieschi contre Louis-Philippe",
+      "description": "Attentat manqué de Fieschi contre le roi, justifiant de nouvelles mesures de répression et la limitation de la liberté de la presse.",
+      "importance": 3,
+      "people": [
+        "Giuseppe Fieschi",
+        "Louis-Philippe Ier"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 236,
+        "line_end": 238,
+        "excerpt": "En 1835, l'attentat manqué de Fieschi contre le roi justifia de nouvelles mesures de répression. Comme après l'assassinat du duc de Berry, la liberté de la presse fut limitée."
+      },
+      "id": "evt_19_015"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1836,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ministère Thiers et tentative de rapprochement avec l'Autriche",
+      "description": "Thiers, converti au conservatisme, tente un rapprochement avec l'Autriche couronné par un projet de mariage du duc d'Orléans avec une archiduchesse, qui échoue.",
+      "importance": 2,
+      "people": [
+        "Adolphe Thiers",
+        "Duc d'Orléans",
+        "Louis-Philippe Ier",
+        "Metternich"
+      ],
+      "locations": [
+        "Paris",
+        "Vienne",
+        "Autriche"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 259,
+        "line_end": 268,
+        "excerpt": "La dernière expérience d'un cabinet désigné par la majorité fut celle de Thiers en 1836... Thiers tenta avec l'Autriche un rapprochement qui devait être couronné par le mariage du duc d'Orléans avec une archiduchesse."
+      },
+      "id": "evt_19_016"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1836,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Début du gouvernement personnel de Louis-Philippe",
+      "description": "Louis-Philippe appelle Molé au ministère, recevant ses directions directement du roi, marquant le début du gouvernement personnel.",
+      "importance": 3,
+      "people": [
+        "Louis-Philippe Ier",
+        "Comte Molé"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 268,
+        "line_end": 273,
+        "excerpt": "Alors le roi appela au ministère un homme à lui, Molé, qui recevait ses directions. Ce qu'on appela tout de suite le gouvernement personnel commençait"
+      },
+      "id": "evt_19_017"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1832,
+        "month": 7,
+        "day": 22,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort du duc de Reichstadt",
+      "description": "Le roi de Rome, devenu duc de Reichstadt, fils de Napoléon Ier, meurt à Vienne, laissant Louis-Napoléon Bonaparte héritier du nom napoléonien.",
+      "importance": 3,
+      "people": [
+        "Duc de Reichstadt",
+        "Napoléon II",
+        "Louis-Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Vienne"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 277,
+        "line_end": 281,
+        "excerpt": "Le roi de Rome, devenu duc de Reichstadt, était mort en 1832, et l'héritier du nom napoléonien était un neveu de l'empereur"
+      },
+      "id": "evt_19_018"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1836,
+        "month": 10,
+        "day": 30,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Tentative de Louis-Napoléon Bonaparte à Strasbourg",
+      "description": "Louis-Napoléon Bonaparte tente de soulever la garnison de Strasbourg, mais sa tentative échoue. Il est expédié en Amérique et ses complices acquittés.",
+      "importance": 3,
+      "people": [
+        "Louis-Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Strasbourg"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 281,
+        "line_end": 287,
+        "excerpt": "Lorsqu'il essaya, en 1836, de soulever la garnison de Strasbourg, sa tentative ne fut même pas prise au sérieux. On se contenta d'expédier le prétendant en Amérique"
+      },
+      "id": "evt_19_019"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1838,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "La Coalition contre Molé",
+      "description": "Coalition parlementaire de Broglie, Guizot, Thiers, Odilon Barrot, légitimistes et républicains contre le ministre Molé, affaiblissant le régime.",
+      "importance": 3,
+      "people": [
+        "Comte Molé",
+        "Duc de Broglie",
+        "François Guizot",
+        "Adolphe Thiers",
+        "Odilon Barrot"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 289,
+        "line_end": 297,
+        "excerpt": "les chefs parlementaires, du centre droit jusqu'à la gauche, le duc de Broglie, Guizot, Thiers, Odilon Barrot... menaient la lutte contre Molé, le «favori»... Ce fut la coalition, «l'immorale et funeste coalition»"
+      },
+      "id": "evt_19_020"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1839,
+        "month": 5,
+        "day": 12,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Insurrection de Barbès à Paris",
+      "description": "Après la défaite de Molé aux élections, les révolutionnaires conduits par Barbès tentent de soulever Paris. Les barricades ne durent qu'un jour.",
+      "importance": 2,
+      "people": [
+        "Armand Barbès",
+        "Comte Molé"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 300,
+        "line_end": 306,
+        "excerpt": "Lorsque Molé, en 1839, eut été battu aux élections... les révolutionnaires, conduits par Barbès, tentèrent de soulever Paris. Les barricades ne durèrent pas plus d'un jour"
+      },
+      "id": "evt_19_021"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1840,
+        "month": 3,
+        "day": 1,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Retour de Thiers au ministère",
+      "description": "Louis-Philippe rappelle Thiers qui avait mené la campagne contre Molé. Thiers veut s'illustrer par une politique extérieure active.",
+      "importance": 3,
+      "people": [
+        "Adolphe Thiers",
+        "Louis-Philippe Ier"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 317,
+        "line_end": 324,
+        "excerpt": "en 1840, rappela Thiers qui avait conduit cette campagne... Thiers, historien, avait ranimé les souvenirs de la Révolution et de l'Empire. Il voulait s'illustrer par une politique extérieure active"
+      },
+      "id": "evt_19_022"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1840,
+        "month": 12,
+        "day": 15,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Retour des cendres de Napoléon",
+      "description": "Thiers fait ramener de Sainte-Hélène les restes de Napoléon par le prince de Joinville, réhabilitant le culte de l'empereur.",
+      "importance": 4,
+      "people": [
+        "Napoléon Ier",
+        "Adolphe Thiers",
+        "Prince de Joinville"
+      ],
+      "locations": [
+        "Sainte-Hélène",
+        "Paris",
+        "Invalides"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 326,
+        "line_end": 334,
+        "excerpt": "Thiers proposa tout de suite de ramener de Sainte-Hélène les restes de l'empereur, chargea de cette mission le prince de Joinville... Le retour des cendres ébranla les imaginations."
+      },
+      "id": "evt_19_023"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1840,
+        "month": 7,
+        "day": 15,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Traité du 15 juillet 1840 - Coalition contre la France",
+      "description": "L'Angleterre, la Russie, la Prusse et l'Autriche forment une coalition contre Méhémet-Ali et la France, renouant le pacte de Chaumont.",
+      "importance": 4,
+      "people": [
+        "Méhémet-Ali",
+        "Louis-Philippe Ier",
+        "Adolphe Thiers"
+      ],
+      "locations": [
+        "Londres",
+        "Égypte",
+        "Syrie",
+        "Constantinople"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 360,
+        "line_end": 365,
+        "excerpt": "une coalition contre Méhémet-Ali, en réalité contre la France... Et cette coalition, c'était celle des quatre grandes puissances: Angleterre, Russie, Prusse et Autriche. Le traité du 15 juillet 1840 renouait le pacte de Chaumont."
+      },
+      "id": "evt_19_024"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1840,
+        "month": 8,
+        "day": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Tentative de Louis-Napoléon Bonaparte à Boulogne",
+      "description": "Louis-Napoléon débarque à Boulogne pour une nouvelle tentative bonapartiste. Il est cette fois enfermé au fort de Ham.",
+      "importance": 3,
+      "people": [
+        "Louis-Napoléon Bonaparte"
+      ],
+      "locations": [
+        "Boulogne",
+        "Fort de Ham"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 370,
+        "line_end": 375,
+        "excerpt": "Louis-Napoléon Bonaparte, non moins bon observateur, marqua ce moment par une manifestation nouvelle: il débarqua à Boulogne, d'où son oncle, jadis, avait menacé la puissance anglaise. Il fut cette fois enfermé au fort de Ham"
+      },
+      "id": "evt_19_025"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1840,
+        "month": 10,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Chute de Thiers et maintien de la paix",
+      "description": "Louis-Philippe, bravant l'impopularité, oblige Thiers à démissionner pour maintenir la paix face à la coalition européenne.",
+      "importance": 3,
+      "people": [
+        "Louis-Philippe Ier",
+        "Adolphe Thiers"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 390,
+        "line_end": 395,
+        "excerpt": "Presque seul, malgré son ministre, l'opinion et son entourage même, Louis-Philippe tint bon pour la paix... Bravant l'impopularité, il s'interposa, désapprouva le langage belliqueux de Thiers, et, au mois d'octobre, l'obligea à se démettre."
+      },
+      "id": "evt_19_026"
+    },
+    {
+      "type": "political",
+      "date_start": {
+        "year": 1840,
+        "month": 10,
+        "day": 29,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Ministère Guizot et politique de l'Entente cordiale",
+      "description": "Guizot devient le principal ministre de Louis-Philippe, fondant sa politique extérieure sur l'entente cordiale avec l'Angleterre.",
+      "importance": 3,
+      "people": [
+        "François Guizot",
+        "Louis-Philippe Ier"
+      ],
+      "locations": [
+        "Paris",
+        "Londres"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 404,
+        "line_end": 414,
+        "excerpt": "Désormais, et pendant les années qui restaient à la monarchie de juillet avant de succomber, c'est avec Guizot, résolu à réparer le mal qu'il avait fait, que Louis-Philippe gouverna... leur politique extérieure, fondée sur «l'entente cordiale» avec l'Angleterre"
+      },
+      "id": "evt_19_027"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1844,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Affaire Pritchard",
+      "description": "L'expulsion d'un missionnaire anglais de Tahiti provoque une crise franco-anglaise, menaçant la guerre «pour la reine Pomaré».",
+      "importance": 2,
+      "people": [
+        "George Pritchard",
+        "Reine Pomaré IV"
+      ],
+      "locations": [
+        "Tahiti",
+        "Océanie"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 415,
+        "line_end": 420,
+        "excerpt": "l'affaire Pritchard (un missionnaire anglais expulsé de Tahiti et pour lequel l'Angleterre réclamait une indemnité)... en 1844, on fut à deux doigts d'une guerre franco-anglaise «pour la reine Pomaré»."
+      },
+      "id": "evt_19_028"
+    },
+    {
+      "type": "battle",
+      "date_start": {
+        "year": 1844,
+        "month": 8,
+        "day": 14,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Bataille de l'Isly",
+      "description": "Le maréchal Bugeaud bat les Marocains venus au secours d'Abd-el-Kader, poursuivant la conquête de l'Algérie.",
+      "importance": 3,
+      "people": [
+        "Maréchal Bugeaud",
+        "Abd-el-Kader"
+      ],
+      "locations": [
+        "Isly",
+        "Maroc",
+        "Algérie"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 420,
+        "line_end": 423,
+        "excerpt": "C'était l'année même où, poursuivant la conquête de l'Algérie, le maréchal Bugeaud battait à l'Isly les Marocains venus au secours d'Abd-el-Kader, l'année où notre escadre bombardait Tanger."
+      },
+      "id": "evt_19_029"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1844,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Bombardement de Tanger",
+      "description": "L'escadre française bombarde Tanger dans le cadre de la conquête de l'Algérie.",
+      "importance": 2,
+      "people": [],
+      "locations": [
+        "Tanger",
+        "Maroc"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 422,
+        "line_end": 423,
+        "excerpt": "l'année où notre escadre bombardait Tanger."
+      },
+      "id": "evt_19_030"
+    },
+    {
+      "type": "death",
+      "date_start": {
+        "year": 1842,
+        "month": 7,
+        "day": 13,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort du duc d'Orléans",
+      "description": "Le duc d'Orléans, héritier du trône, est tué dans un accident de voiture, laissant un héritier de quatre ans, le comte de Paris.",
+      "importance": 4,
+      "people": [
+        "Duc d'Orléans",
+        "Comte de Paris",
+        "Louis-Philippe Ier"
+      ],
+      "locations": [
+        "Neuilly"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 432,
+        "line_end": 436,
+        "excerpt": "En 1842, le duc d'Orléans avait été tué par un accident de voiture. Le roi avait soixante-dix ans, l'héritier du trône, le comte de Paris, en avait quatre."
+      },
+      "id": "evt_19_031"
+    },
+    {
+      "type": "treaty",
+      "date_start": {
+        "year": 1846,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mariages espagnols - Rupture de l'Entente cordiale",
+      "description": "La reine Isabelle épouse le duc de Cadix et l'infante épouse le duc de Montpensier, provoquant la rupture de l'entente cordiale avec l'Angleterre.",
+      "importance": 3,
+      "people": [
+        "Reine Isabelle II d'Espagne",
+        "Duc de Cadix",
+        "Duc de Montpensier",
+        "Louis-Philippe Ier",
+        "François Guizot",
+        "Lord Palmerston"
+      ],
+      "locations": [
+        "Espagne",
+        "Madrid"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 456,
+        "line_end": 464,
+        "excerpt": "Elle se brisa sur l'affaire des mariages espagnols... Lorsque la France l'eut emporté, lorsqu'en 1846 la jeune reine Isabelle eut épousé le duc de Cadix et l'infante le duc de Montpensier, l'entente cordiale fut rompue."
+      },
+      "id": "evt_19_032"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1847,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Campagne des banquets pour la réforme électorale",
+      "description": "Campagne pour l'extension du droit de suffrage sous forme de banquets où des paroles séditieuses sont prononcées.",
+      "importance": 3,
+      "people": [
+        "Alphonse de Lamartine",
+        "François Guizot"
+      ],
+      "locations": [
+        "Paris",
+        "Mâcon"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 516,
+        "line_end": 519,
+        "excerpt": "Une campagne pour la réforme électorale avait commencé sous la forme inoffensive de banquets où des paroles de plus en plus séditieuses étaient prononcées: Lamartine, à Mâcon, annonçait «la révolution du mépris»."
+      },
+      "id": "evt_19_033"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1848,
+        "month": 2,
+        "day": 22,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Début de la Révolution de février 1848",
+      "description": "Des barricades se dressent à Paris après l'interdiction d'un banquet. La garde nationale crie «Vive la Réforme!» au lieu de réprimer l'émeute.",
+      "importance": 4,
+      "people": [
+        "Louis-Philippe Ier",
+        "François Guizot"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 519,
+        "line_end": 527,
+        "excerpt": "Un de ces banquets, ayant été interdit à Paris, donna lieu à une manifestation... tandis que des barricades se dressaient le 22 février, les légions de la garde se rendaient à leurs postes en criant: «Vive la Réforme!»"
+      },
+      "id": "evt_19_034"
+    },
+    {
+      "type": "event",
+      "date_start": {
+        "year": 1848,
+        "month": 2,
+        "day": 23,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Fusillade du boulevard des Capucines",
+      "description": "Une fusillade devant le ministère des Affaires étrangères tue une quinzaine d'insurgés, excitant la foule parisienne.",
+      "importance": 3,
+      "people": [
+        "François Guizot"
+      ],
+      "locations": [
+        "Paris",
+        "Boulevard des Capucines"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 531,
+        "line_end": 535,
+        "excerpt": "Une fusillade boulevard des Capucines, devant le ministère des affaires étrangères, celui de Guizot, tua une quinzaine d'insurgés et la promenade des cadavres à travers Paris excita davantage la foule."
+      },
+      "id": "evt_19_035"
+    },
+    {
+      "type": "reign_end",
+      "date_start": {
+        "year": 1848,
+        "month": 2,
+        "day": 24,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Abdication de Louis-Philippe",
+      "description": "Louis-Philippe abdique en faveur de son petit-fils le comte de Paris, mais la République est proclamée quelques minutes plus tard.",
+      "importance": 5,
+      "people": [
+        "Louis-Philippe Ier",
+        "Comte de Paris",
+        "Duchesse d'Orléans",
+        "Maréchal Bugeaud",
+        "Odilon Barrot"
+      ],
+      "locations": [
+        "Paris",
+        "Tuileries"
+      ],
+      "group_dynasty": "Monarchie de Juillet",
+      "source": {
+        "line_start": 536,
+        "line_end": 547,
+        "excerpt": "Le 24 février, le maréchal Bugeaud, qui essaie de rétablir l'ordre, est débordé, les Tuileries sont menacées... Louis-Philippe renonce au trône... il abdique en faveur de son petit-fils... Quelques minutes plus tard, la République était proclamée."
+      },
+      "id": "evt_19_036"
+    },
+    {
+      "type": "period",
+      "date_start": {
+        "year": 1848,
+        "month": 2,
+        "day": 24,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Proclamation de la Deuxième République",
+      "description": "La République est proclamée après l'envahissement de la Chambre qui venait d'acclamer la régence de la duchesse d'Orléans.",
+      "importance": 5,
+      "people": [
+        "Louis-Philippe Ier",
+        "Duchesse d'Orléans",
+        "Odilon Barrot"
+      ],
+      "locations": [
+        "Paris",
+        "Chambre des députés"
+      ],
+      "group_dynasty": "Deuxième République",
+      "source": {
+        "line_start": 543,
+        "line_end": 547,
+        "excerpt": "La Chambre est envahie au moment où elle vient d'acclamer la régence de la duchesse d'Orléans, quand Odilon Barrot vient de dire: «Est-ce qu'on prétendrait remettre en question ce que nous avons décidé par la Révolution de Juillet?» Quelques minutes plus tard, la République était proclamée."
+      },
+      "id": "evt_19_037"
+    }
+  ],
+  "people": [
+    {
+      "name": "Louis-Philippe Ier",
+      "aliases": [
+        "Duc d'Orléans",
+        "Roi des Français",
+        "Philippe VII"
+      ],
+      "dynasty": "Orléans",
+      "titles": [
+        "Duc d'Orléans",
+        "Roi des Français"
+      ],
+      "birth": {
+        "year": 1773,
+        "month": 10,
+        "day": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1830,
+          "month": 8,
+          "day": 9,
+          "circa": false,
+          "era": "CE",
+          "precision": "exact"
+        },
+        "end": {
+          "year": 1848,
+          "month": 2,
+          "day": 24,
+          "circa": false,
+          "era": "CE",
+          "precision": "exact"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Philippe-Égalité"
+        },
+        {
+          "type": "fils",
+          "person": "Duc de Nemours"
+        },
+        {
+          "type": "fils",
+          "person": "Prince de Joinville"
+        },
+        {
+          "type": "fils",
+          "person": "Duc d'Orléans"
+        },
+        {
+          "type": "fils",
+          "person": "Duc de Montpensier"
+        },
+        {
+          "type": "fille",
+          "person": "Princesse Louise d'Orléans"
+        },
+        {
+          "type": "petit-fils",
+          "person": "Comte de Paris"
+        }
+      ],
+      "source_lines": [
+        11,
+        37,
+        55,
+        77,
+        87,
+        124,
+        132,
+        145,
+        150,
+        154,
+        161,
+        176,
+        181,
+        197,
+        207,
+        257,
+        268,
+        317,
+        365,
+        391,
+        399,
+        402,
+        407,
+        428,
+        433,
+        438,
+        440,
+        456,
+        510,
+        528,
+        541
+      ],
+      "id": "per_louis_philippe_ier"
+    },
+    {
+      "name": "Philippe-Égalité",
+      "aliases": [
+        "Louis Philippe Joseph d'Orléans",
+        "Duc d'Orléans"
+      ],
+      "dynasty": "Orléans",
+      "titles": [
+        "Duc d'Orléans"
+      ],
+      "birth": {
+        "year": 1747,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "death": {
+        "year": 1793,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Louis-Philippe Ier"
+        }
+      ],
+      "source_lines": [
+        11,
+        12
+      ],
+      "id": "per_philippe__galit_"
+    },
+    {
+      "name": "Charles X",
+      "aliases": [
+        "Comte d'Artois"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1824,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1830,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [],
+      "source_lines": [
+        27,
+        54,
+        126,
+        192,
+        205,
+        317,
+        438,
+        512,
+        540
+      ],
+      "id": "per_charles_x"
+    },
+    {
+      "name": "Augustin Thierry",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Historien"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        15
+      ],
+      "id": "per_augustin_thierry"
+    },
+    {
+      "name": "Louis XVIII",
+      "aliases": [],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        37,
+        52,
+        147,
+        236,
+        325
+      ],
+      "id": "per_louis_xviii"
+    },
+    {
+      "name": "Napoléon Ier",
+      "aliases": [
+        "L'Empereur",
+        "Bonaparte"
+      ],
+      "dynasty": "Bonaparte",
+      "titles": [
+        "Empereur des Français"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Duc de Reichstadt"
+        },
+        {
+          "type": "neveu",
+          "person": "Louis-Napoléon Bonaparte"
+        }
+      ],
+      "source_lines": [
+        38,
+        326,
+        332,
+        393
+      ],
+      "id": "per_napol_on_ier"
+    },
+    {
+      "name": "Robespierre",
+      "aliases": [
+        "Maximilien de Robespierre"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        61
+      ],
+      "id": "per_robespierre"
+    },
+    {
+      "name": "Edgar Quinet",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Écrivain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        83
+      ],
+      "id": "per_edgar_quinet"
+    },
+    {
+      "name": "Jacques Laffitte",
+      "aliases": [
+        "Laffitte"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Banquier",
+        "Ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        124,
+        201
+      ],
+      "id": "per_jacques_laffitte"
+    },
+    {
+      "name": "Talleyrand",
+      "aliases": [
+        "Charles-Maurice de Talleyrand-Périgord"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Prince de Bénévent",
+        "Ambassadeur"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        147,
+        150,
+        154,
+        354,
+        441
+      ],
+      "id": "per_talleyrand"
+    },
+    {
+      "name": "Cardinal de Fleury",
+      "aliases": [
+        "Fleury"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Cardinal",
+        "Premier ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        151
+      ],
+      "id": "per_cardinal_de_fleury"
+    },
+    {
+      "name": "Duc de Nemours",
+      "aliases": [],
+      "dynasty": "Orléans",
+      "titles": [
+        "Duc de Nemours",
+        "Prince"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis-Philippe Ier"
+        }
+      ],
+      "source_lines": [
+        159,
+        160
+      ],
+      "id": "per_duc_de_nemours"
+    },
+    {
+      "name": "Eugène de Beauharnais",
+      "aliases": [],
+      "dynasty": "Beauharnais",
+      "titles": [
+        "Prince"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        160
+      ],
+      "id": "per_eug_ne_de_beauharnai"
+    },
+    {
+      "name": "Léopold Ier",
+      "aliases": [
+        "Léopold de Saxe-Cobourg"
+      ],
+      "dynasty": "Saxe-Cobourg",
+      "titles": [
+        "Roi des Belges"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 1831,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": null
+      },
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Princesse Louise d'Orléans"
+        }
+      ],
+      "source_lines": [
+        183,
+        184
+      ],
+      "id": "per_l_opold_ier"
+    },
+    {
+      "name": "Princesse Louise d'Orléans",
+      "aliases": [],
+      "dynasty": "Orléans",
+      "titles": [
+        "Princesse",
+        "Reine des Belges"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis-Philippe Ier"
+        },
+        {
+          "type": "époux",
+          "person": "Léopold Ier"
+        }
+      ],
+      "source_lines": [
+        185,
+        186
+      ],
+      "id": "per_princesse_louise_d_o"
+    },
+    {
+      "name": "Casimir Perier",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Ministre",
+        "Président du Conseil"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        202
+      ],
+      "id": "per_casimir_perier"
+    },
+    {
+      "name": "Général Lamarque",
+      "aliases": [
+        "Jean Maximilien Lamarque"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Général"
+      ],
+      "birth": null,
+      "death": {
+        "year": 1832,
+        "month": 6,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        214,
+        215
+      ],
+      "id": "per_g_n_ral_lamarque"
+    },
+    {
+      "name": "Duchesse de Berry",
+      "aliases": [
+        "Marie-Caroline de Bourbon-Siciles"
+      ],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Duchesse de Berry"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        217
+      ],
+      "id": "per_duchesse_de_berry"
+    },
+    {
+      "name": "Giuseppe Fieschi",
+      "aliases": [
+        "Fieschi"
+      ],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": {
+        "year": 1836,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        236
+      ],
+      "id": "per_giuseppe_fieschi"
+    },
+    {
+      "name": "Sainte-Beuve",
+      "aliases": [
+        "Charles-Augustin Sainte-Beuve"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Critique littéraire"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        244
+      ],
+      "id": "per_sainte_beuve"
+    },
+    {
+      "name": "Duc de Broglie",
+      "aliases": [
+        "Victor de Broglie"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Duc",
+        "Ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        252,
+        290
+      ],
+      "id": "per_duc_de_broglie"
+    },
+    {
+      "name": "François Guizot",
+      "aliases": [
+        "Guizot"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Ministre",
+        "Historien",
+        "Ambassadeur"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        252,
+        290,
+        404,
+        407,
+        412,
+        440,
+        457,
+        471,
+        488,
+        502,
+        529,
+        533
+      ],
+      "id": "per_fran_ois_guizot"
+    },
+    {
+      "name": "Adolphe Thiers",
+      "aliases": [
+        "Thiers"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Historien",
+        "Ministre",
+        "Président du Conseil"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        253,
+        260,
+        268,
+        290,
+        308,
+        318,
+        321,
+        326,
+        336,
+        341,
+        356,
+        374,
+        377,
+        467,
+        470,
+        535
+      ],
+      "id": "per_adolphe_thiers"
+    },
+    {
+      "name": "Odilon Barrot",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Ministre",
+        "Député"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        290,
+        535,
+        544
+      ],
+      "id": "per_odilon_barrot"
+    },
+    {
+      "name": "Comte Molé",
+      "aliases": [
+        "Molé",
+        "Louis-Mathieu Molé"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Comte",
+        "Ministre",
+        "Président du Conseil"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        269,
+        291,
+        300,
+        307,
+        308
+      ],
+      "id": "per_comte_mol_"
+    },
+    {
+      "name": "Metternich",
+      "aliases": [
+        "Klemens von Metternich"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Prince",
+        "Chancelier d'Autriche"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        266,
+        488
+      ],
+      "id": "per_metternich"
+    },
+    {
+      "name": "Duc de Reichstadt",
+      "aliases": [
+        "Roi de Rome",
+        "Napoléon II",
+        "L'Aiglon"
+      ],
+      "dynasty": "Bonaparte",
+      "titles": [
+        "Roi de Rome",
+        "Duc de Reichstadt"
+      ],
+      "birth": {
+        "year": 1811,
+        "month": 3,
+        "day": 20,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "death": {
+        "year": 1832,
+        "month": 7,
+        "day": 22,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Napoléon Ier"
+        }
+      ],
+      "source_lines": [
+        277,
+        278
+      ],
+      "id": "per_duc_de_reichstadt"
+    },
+    {
+      "name": "Louis-Napoléon Bonaparte",
+      "aliases": [
+        "Napoléon III",
+        "Président Louis-Napoléon"
+      ],
+      "dynasty": "Bonaparte",
+      "titles": [
+        "Prince",
+        "Président de la République",
+        "Empereur des Français"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis Bonaparte"
+        },
+        {
+          "type": "mère",
+          "person": "Hortense de Beauharnais"
+        }
+      ],
+      "source_lines": [
+        279,
+        281,
+        282,
+        370
+      ],
+      "id": "per_louis_napol_on_bonap"
+    },
+    {
+      "name": "Louis Bonaparte",
+      "aliases": [
+        "Louis de Hollande"
+      ],
+      "dynasty": "Bonaparte",
+      "titles": [
+        "Roi de Hollande"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Louis-Napoléon Bonaparte"
+        },
+        {
+          "type": "épouse",
+          "person": "Hortense de Beauharnais"
+        }
+      ],
+      "source_lines": [
+        279
+      ],
+      "id": "per_louis_bonaparte"
+    },
+    {
+      "name": "Hortense de Beauharnais",
+      "aliases": [],
+      "dynasty": "Beauharnais",
+      "titles": [
+        "Reine de Hollande"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Louis-Napoléon Bonaparte"
+        },
+        {
+          "type": "époux",
+          "person": "Louis Bonaparte"
+        }
+      ],
+      "source_lines": [
+        280
+      ],
+      "id": "per_hortense_de_beauharn"
+    },
+    {
+      "name": "Armand Barbès",
+      "aliases": [
+        "Barbès"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Révolutionnaire"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        303
+      ],
+      "id": "per_armand_barb_s"
+    },
+    {
+      "name": "Maréchal Soult",
+      "aliases": [
+        "Jean-de-Dieu Soult"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Maréchal de France",
+        "Président du Conseil"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        307
+      ],
+      "id": "per_mar_chal_soult"
+    },
+    {
+      "name": "Chateaubriand",
+      "aliases": [
+        "François-René de Chateaubriand"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Vicomte",
+        "Écrivain",
+        "Ministre"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        324
+      ],
+      "id": "per_chateaubriand"
+    },
+    {
+      "name": "Prince de Joinville",
+      "aliases": [
+        "François d'Orléans"
+      ],
+      "dynasty": "Orléans",
+      "titles": [
+        "Prince",
+        "Amiral"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis-Philippe Ier"
+        }
+      ],
+      "source_lines": [
+        327
+      ],
+      "id": "per_prince_de_joinville"
+    },
+    {
+      "name": "Alphonse de Lamartine",
+      "aliases": [
+        "Lamartine"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Poète",
+        "Homme politique"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        330,
+        518
+      ],
+      "id": "per_alphonse_de_lamartin"
+    },
+    {
+      "name": "Méhémet-Ali",
+      "aliases": [
+        "Muhammad Ali Pacha"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Vice-roi d'Égypte",
+        "Pacha"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        344,
+        347,
+        358,
+        361
+      ],
+      "id": "per_m_h_met_ali"
+    },
+    {
+      "name": "Henri Heine",
+      "aliases": [
+        "Heinrich Heine"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Poète",
+        "Écrivain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        368
+      ],
+      "id": "per_henri_heine"
+    },
+    {
+      "name": "Duc d'Orléans",
+      "aliases": [
+        "Ferdinand-Philippe d'Orléans"
+      ],
+      "dynasty": "Orléans",
+      "titles": [
+        "Duc d'Orléans",
+        "Prince héritier"
+      ],
+      "birth": {
+        "year": 1810,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "death": {
+        "year": 1842,
+        "month": 7,
+        "day": 13,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis-Philippe Ier"
+        },
+        {
+          "type": "fils",
+          "person": "Comte de Paris"
+        }
+      ],
+      "source_lines": [
+        263,
+        388,
+        432,
+        433
+      ],
+      "id": "per_duc_d_orl_ans"
+    },
+    {
+      "name": "Comte de Paris",
+      "aliases": [
+        "Louis-Philippe d'Orléans"
+      ],
+      "dynasty": "Orléans",
+      "titles": [
+        "Comte de Paris",
+        "Prince héritier"
+      ],
+      "birth": {
+        "year": 1838,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Duc d'Orléans"
+        },
+        {
+          "type": "grand-père",
+          "person": "Louis-Philippe Ier"
+        }
+      ],
+      "source_lines": [
+        434
+      ],
+      "id": "per_comte_de_paris"
+    },
+    {
+      "name": "Lord Palmerston",
+      "aliases": [
+        "Henry John Temple"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Vicomte",
+        "Premier ministre britannique"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        443,
+        458
+      ],
+      "id": "per_lord_palmerston"
+    },
+    {
+      "name": "Reine Isabelle II d'Espagne",
+      "aliases": [
+        "Isabelle II"
+      ],
+      "dynasty": "Bourbons d'Espagne",
+      "titles": [
+        "Reine d'Espagne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Duc de Cadix"
+        }
+      ],
+      "source_lines": [
+        463
+      ],
+      "id": "per_reine_isabelle_ii_d_"
+    },
+    {
+      "name": "Duc de Cadix",
+      "aliases": [
+        "François d'Assise de Bourbon"
+      ],
+      "dynasty": "Bourbons d'Espagne",
+      "titles": [
+        "Duc de Cadix",
+        "Roi consort d'Espagne"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "épouse",
+          "person": "Reine Isabelle II d'Espagne"
+        }
+      ],
+      "source_lines": [
+        463,
+        464
+      ],
+      "id": "per_duc_de_cadix"
+    },
+    {
+      "name": "Duc de Montpensier",
+      "aliases": [
+        "Antoine d'Orléans"
+      ],
+      "dynasty": "Orléans",
+      "titles": [
+        "Duc de Montpensier"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis-Philippe Ier"
+        }
+      ],
+      "source_lines": [
+        464
+      ],
+      "id": "per_duc_de_montpensier"
+    },
+    {
+      "name": "Émile Bourgeois",
+      "aliases": [
+        "M. Emile Bourgeois"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Historien"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        470,
+        471
+      ],
+      "id": "per__mile_bourgeois"
+    },
+    {
+      "name": "Maréchal Bugeaud",
+      "aliases": [
+        "Thomas Robert Bugeaud"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Maréchal de France",
+        "Duc d'Isly"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        421,
+        536
+      ],
+      "id": "per_mar_chal_bugeaud"
+    },
+    {
+      "name": "Abd-el-Kader",
+      "aliases": [
+        "Émir Abd el-Kader"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Émir"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        422
+      ],
+      "id": "per_abd_el_kader"
+    },
+    {
+      "name": "Reine Pomaré IV",
+      "aliases": [
+        "Pomaré"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Reine de Tahiti"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        420
+      ],
+      "id": "per_reine_pomar__iv"
+    },
+    {
+      "name": "George Pritchard",
+      "aliases": [
+        "Pritchard"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Missionnaire",
+        "Consul britannique"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        416
+      ],
+      "id": "per_george_pritchard"
+    },
+    {
+      "name": "Duchesse d'Orléans",
+      "aliases": [
+        "Hélène de Mecklembourg-Schwerin"
+      ],
+      "dynasty": "Orléans",
+      "titles": [
+        "Duchesse d'Orléans"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [
+        {
+          "type": "époux",
+          "person": "Duc d'Orléans"
+        },
+        {
+          "type": "fils",
+          "person": "Comte de Paris"
+        }
+      ],
+      "source_lines": [
+        544
+      ],
+      "id": "per_duchesse_d_orl_ans"
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_orleans_juillet",
+      "name": "Orléans (Monarchie de Juillet)",
+      "period_start": {
+        "year": 1830,
+        "month": 8,
+        "day": 9,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "period_end": {
+        "year": 1848,
+        "month": 2,
+        "day": 24,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      }
+    }
+  ],
+  "errors": []
+}

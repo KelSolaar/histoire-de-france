@@ -1,0 +1,1142 @@
+{
+  "chapter_number": 3,
+  "chapter_title": "GRANDEUR ET DÉCADENCE DES CAROLINGIENS",
+  "line_start": 807,
+  "line_end": 1028,
+  "validation_status": "success",
+  "entries": [
+    {
+      "id": "evt_001",
+      "type": "period",
+      "date_start": {
+        "year": 751,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "date_end": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Période carolingienne",
+      "description": "Deuxième dynastie régnante, les Carolingiens s'appuient sur l'Église et cherchent à reconstituer l'empire d'Occident. Leur généalogie inclut toutes les races et provinces.",
+      "importance": 5,
+      "people": [
+        "Pépin",
+        "Charlemagne"
+      ],
+      "locations": [
+        "Gaule",
+        "Austrasie",
+        "Aquitaine",
+        "Narbonnaise"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 1,
+        "line_end": 15,
+        "excerpt": "De tout temps la politique s'est faite avec des sentiments et avec des idées... On trouve dans la généalogie des nouveaux rois toutes les races, toutes les provinces."
+      }
+    },
+    {
+      "id": "evt_002",
+      "type": "death",
+      "date_start": {
+        "year": 768,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Pépin le Bref",
+      "description": "À sa mort en 768, Pépin a pacifié et réuni la Gaule entière, y compris l'Aquitaine. Les derniers Arabes ont repassé les Pyrénées.",
+      "importance": 4,
+      "people": [
+        "Pépin le Bref"
+      ],
+      "locations": [
+        "Gaule",
+        "Aquitaine",
+        "Provence",
+        "Narbonnaise",
+        "Pyrénées"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 30,
+        "line_end": 35,
+        "excerpt": "A sa mort, en 767, Pépin a pacifié et réuni la Gaule entière, y compris l'indocile Aquitaine. Les derniers Arabes restés en Provence et en Narbonnaise ont repassé les Pyrénées."
+      }
+    },
+    {
+      "id": "evt_003",
+      "type": "political",
+      "date_start": {
+        "year": 754,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Alliance entre la papauté et la France",
+      "description": "Le pape, menacé par les Lombards et abandonné par Constantinople, demande la protection du roi des Francs. Pépin constitue et garantit le pouvoir temporel des papes.",
+      "importance": 5,
+      "people": [
+        "Pépin le Bref"
+      ],
+      "locations": [
+        "Rome",
+        "Constantinople"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 35,
+        "line_end": 48,
+        "excerpt": "le pape, menacé dans Rome par les Lombards, abandonné par l'empereur de Constantinople qui penche déjà vers le schisme, a demandé la protection du roi des Francs."
+      }
+    },
+    {
+      "id": "evt_004",
+      "type": "religious",
+      "date_start": {
+        "year": 754,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Sacre de Pépin par le pape Étienne II",
+      "description": "Le pape Étienne II renouvelle la consécration et couronne Pépin, créant le sacre royal. Il le salue du titre de patrice avec l'assentiment de l'empereur d'Orient.",
+      "importance": 5,
+      "people": [
+        "Pépin le Bref",
+        "Étienne II"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 49,
+        "line_end": 54,
+        "excerpt": "Etienne II avait renouvelé la consécration qu'il avait donnée à Pépin. Il avait couronné lui-même le nouveau roi, et ce couronnement, c'était un sacre."
+      }
+    },
+    {
+      "id": "evt_005",
+      "type": "death",
+      "date_start": {
+        "year": 771,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Carloman, frère de Charlemagne",
+      "description": "Carloman, avec lequel Charlemagne avait partagé les domaines de Pépin, meurt presque immédiatement, permettant à Charles d'être seul maître.",
+      "importance": 3,
+      "people": [
+        "Carloman",
+        "Charlemagne"
+      ],
+      "locations": [],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 56,
+        "line_end": 63,
+        "excerpt": "Encore a-t-il fallu, pour que Charles fût grand, que son frère Carloman, avec lequel il avait partagé les domaines de Pépin, mourût presque tout de suite."
+      }
+    },
+    {
+      "id": "evt_006",
+      "type": "reign_start",
+      "date_start": {
+        "year": 771,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Charlemagne seul maître",
+      "description": "En 771, Charlemagne devient le seul maître après la mort de son frère Carloman et se met à l'œuvre pour continuer Rome et refaire l'Empire.",
+      "importance": 5,
+      "people": [
+        "Charlemagne"
+      ],
+      "locations": [],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 68,
+        "line_end": 70,
+        "excerpt": "Dès qu'il fut le seul maître, en 771, Charlemagne se mit à l'oeuvre. Son but? Continuer Rome, refaire l'Empire."
+      }
+    },
+    {
+      "id": "evt_007",
+      "type": "battle",
+      "date_start": {
+        "year": 774,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Conquête du royaume lombard",
+      "description": "Charlemagne bat le roi des Lombards en Italie et lui prend la couronne de fer.",
+      "importance": 4,
+      "people": [
+        "Charlemagne"
+      ],
+      "locations": [
+        "Italie"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 70,
+        "line_end": 71,
+        "excerpt": "En Italie, il bat le roi des Lombards et lui prend la couronne de fer."
+      }
+    },
+    {
+      "id": "evt_008",
+      "type": "battle",
+      "date_start": {
+        "year": 778,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Désastre de Roncevaux",
+      "description": "Seul échec de Charlemagne lors de son passage en Espagne. Le désastre de Roncevaux et le cor de Roland servent sa gloire et sa légende, devenant une épopée nationale.",
+      "importance": 4,
+      "people": [
+        "Charlemagne",
+        "Roland"
+      ],
+      "locations": [
+        "Espagne",
+        "Roncevaux"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 71,
+        "line_end": 73,
+        "excerpt": "Il passe à l'Espagne: c'est son seul échec. Mais le désastre de Roncevaux, le cor de Roland, servent sa gloire et sa légende: son épopée devient nationale."
+      }
+    },
+    {
+      "id": "evt_009",
+      "type": "period",
+      "date_start": {
+        "year": 772,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "date_end": {
+        "year": 804,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Guerres saxonnes de Charlemagne",
+      "description": "Sur 53 campagnes de son règne, 18 eurent pour objet de soumettre les Saxons. Charlemagne alla plus loin que les légions romaines, atteignant l'Elbe.",
+      "importance": 5,
+      "people": [
+        "Charlemagne",
+        "Witikind"
+      ],
+      "locations": [
+        "Germanie",
+        "Elbe",
+        "Saxe"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 73,
+        "line_end": 82,
+        "excerpt": "Surtout, sa grande idée était d'en finir avec la Germanie... Sur les cinquante-trois campagnes de son règne, dix-huit eurent pour objet de soumettre les Saxons."
+      }
+    },
+    {
+      "id": "evt_010",
+      "type": "event",
+      "date_start": {
+        "year": -52,
+        "circa": true,
+        "era": "BCE",
+        "precision": "decade"
+      },
+      "title": "Vercingétorix, héros de l'indépendance gauloise",
+      "description": "Référence historique: Witikind fut pour les Germains ce que Vercingétorix avait été pour les Gaulois - le héros de l'indépendance.",
+      "importance": 4,
+      "people": [
+        "Vercingétorix"
+      ],
+      "locations": [
+        "Gaule"
+      ],
+      "group_dynasty": "Gaulois",
+      "source": {
+        "line_start": 83,
+        "line_end": 85,
+        "excerpt": "Witikind fut peut-être le héros de l'indépendance germanique, comme Vercingétorix avait été le héros de l'indépendance gauloise."
+      }
+    },
+    {
+      "id": "evt_011",
+      "type": "religious",
+      "date_start": {
+        "year": 800,
+        "month": 12,
+        "day": 25,
+        "circa": false,
+        "era": "CE",
+        "precision": "exact"
+      },
+      "title": "Couronnement impérial de Charlemagne",
+      "description": "Charlemagne reçoit la couronne impériale des mains du pape en l'an 800, restaurant l'empire d'Occident. Les peuples croient avoir renoué les âges avec le nouvel Auguste.",
+      "importance": 5,
+      "people": [
+        "Charlemagne"
+      ],
+      "locations": [
+        "Rome"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 95,
+        "line_end": 100,
+        "excerpt": "Il la reçut des mains du pape, en l'an 800, et les peuples, avec le nouvel Auguste, crurent avoir renoué les âges."
+      }
+    },
+    {
+      "id": "evt_012",
+      "type": "political",
+      "date_start": {
+        "year": 800,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Organisation de la féodalité par Charlemagne",
+      "description": "Charlemagne organise le gouvernement et la société, donnant une forme à la féodalité née spontanément dans l'anarchie des siècles antérieurs. Il crée le système des fiefs.",
+      "importance": 4,
+      "people": [
+        "Charlemagne"
+      ],
+      "locations": [],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 102,
+        "line_end": 125,
+        "excerpt": "De l'Empire reconstitué, Charlemagne voulut être aussi le législateur. Il organisa le gouvernement et la société; le premier il donna une forme à la féodalité."
+      }
+    },
+    {
+      "id": "evt_013",
+      "type": "death",
+      "date_start": {
+        "year": 814,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Charlemagne",
+      "description": "Un peu avant sa mort en 814, Charlemagne eut des pressentiments funestes pour l'avenir. À sa mort, les prisons étaient pleines de grands personnages dont il avait eu sujet de se méfier.",
+      "importance": 5,
+      "people": [
+        "Charlemagne"
+      ],
+      "locations": [
+        "Aix-la-Chapelle"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 141,
+        "line_end": 145,
+        "excerpt": "Un peu avant sa mort, qui survint en 814, Charlemagne eut des pressentiments funestes pour l'avenir. Ses pressentiments ne le trompaient pas."
+      }
+    },
+    {
+      "id": "evt_014",
+      "type": "reign_start",
+      "date_start": {
+        "year": 814,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Règne de Louis le Pieux (le Débonnaire)",
+      "description": "Après quatre générations de grands hommes, la vigueur des Pipinnides était épuisée. Louis, héritier de Charlemagne, était faible. Les peuples le surnommèrent le Débonnaire par ironie.",
+      "importance": 4,
+      "people": [
+        "Louis le Pieux"
+      ],
+      "locations": [],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 146,
+        "line_end": 152,
+        "excerpt": "Après quatre générations de grands hommes, la vigueur des Pipinnides était épuisée... L'empereur Louis était un faible... Louis «le Pieux» fut encore surnommé par ironie le Débonnaire."
+      }
+    },
+    {
+      "id": "evt_015",
+      "type": "political",
+      "date_start": {
+        "year": 833,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Dépositions de Louis le Débonnaire",
+      "description": "À deux reprises, le Débonnaire est déposé après avoir subi l'humiliation des pénitences publiques. Restauré deux fois, son règne s'achève dans l'impuissance.",
+      "importance": 3,
+      "people": [
+        "Louis le Pieux"
+      ],
+      "locations": [],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 154,
+        "line_end": 159,
+        "excerpt": "A deux reprises, le Débonnaire est déposé après avoir subi l'humiliation des pénitences publiques. Restauré deux fois, son règne s'achève dans l'impuissance."
+      }
+    },
+    {
+      "id": "evt_016",
+      "type": "treaty",
+      "date_start": {
+        "year": 843,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Traité de Verdun",
+      "description": "Le célèbre traité de Verdun démembre l'Empire carolingien. Louis reçoit l'Allemagne, Lothaire une bande de la mer du Nord à l'Italie, Charles le Chauve le reste de la Gaule.",
+      "importance": 5,
+      "people": [
+        "Lothaire",
+        "Charles le Chauve",
+        "Louis le Germanique"
+      ],
+      "locations": [
+        "Verdun",
+        "Allemagne",
+        "Italie",
+        "Gaule",
+        "Rhône"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 161,
+        "line_end": 172,
+        "excerpt": "La paix, qui fut le célèbre traité de Verdun, démembra l'Empire (843). Etrange partage, puisque Louis avait l'Allemagne, Lothaire une longue bande de pays..."
+      }
+    },
+    {
+      "id": "evt_017",
+      "type": "political",
+      "date_start": {
+        "year": 843,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Création de la Lotharingie (Lorraine)",
+      "description": "Le partage de Verdun crée entre la France et l'Allemagne un territoire contesté (royaume de Lothaire). La limite du Rhin est perdue pour la Gaule.",
+      "importance": 4,
+      "people": [
+        "Lothaire"
+      ],
+      "locations": [
+        "Lotharingie",
+        "Lorraine",
+        "Rhin"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 173,
+        "line_end": 180,
+        "excerpt": "Celui de Verdun eut, en outre, un résultat désastreux: il créait entre la France et l'Allemagne un territoire contesté et la limite du Rhin était perdue pour la Gaule."
+      }
+    },
+    {
+      "id": "evt_018",
+      "type": "reign_start",
+      "date_start": {
+        "year": 843,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Règne de Charles le Chauve",
+      "description": "Charles le Chauve, petit-fils de Charlemagne, se nationalisa et fut un roi français. Il eut à cœur de retrouver les provinces de l'Est et affirma l'unité française.",
+      "importance": 4,
+      "people": [
+        "Charles le Chauve",
+        "Louis le Germanique"
+      ],
+      "locations": [
+        "Gaule",
+        "France"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 181,
+        "line_end": 195,
+        "excerpt": "De même que Louis le Germanique fut tout de suite un roi allemand, son frère, Charles le Chauve, se nationalisa et fut un roi français."
+      }
+    },
+    {
+      "id": "evt_019",
+      "type": "event",
+      "date_start": {
+        "year": 1804,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Napoléon prend le titre d'empereur",
+      "description": "Référence historique: mille ans après Charlemagne, le titre d'empereur conserve un tel prestige que Napoléon le prendra à son tour.",
+      "importance": 4,
+      "people": [
+        "Napoléon"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Premier Empire",
+      "source": {
+        "line_start": 99,
+        "line_end": 100,
+        "excerpt": "le titre d'empereur gardera un tel prestige que, mille ans plus tard, c'est encore celui que prendra Napoléon."
+      }
+    },
+    {
+      "id": "evt_020",
+      "type": "event",
+      "date_start": {
+        "year": 100,
+        "circa": true,
+        "era": "CE",
+        "precision": "century"
+      },
+      "title": "Marc-Aurèle et Trajan protègent l'Empire",
+      "description": "Référence historique: Charlemagne avait recommencé Marc-Aurèle et Trajan en protégeant l'Europe contre les barbares slaves et mongols.",
+      "importance": 3,
+      "people": [
+        "Marc-Aurèle",
+        "Trajan"
+      ],
+      "locations": [
+        "Europe",
+        "Danube"
+      ],
+      "group_dynasty": "Gallo-Romains",
+      "source": {
+        "line_start": 93,
+        "line_end": 95,
+        "excerpt": "Charlemagne avait recommencé Marc-Aurèle et Trajan. Il avait protégé l'Europe contre d'autres barbares, slaves et mongols."
+      }
+    }
+  ],
+  "people": [
+    {
+      "id": "per_001",
+      "name": "Charlemagne",
+      "aliases": [
+        "Charles le Grand",
+        "Carolus Magnus",
+        "Charles"
+      ],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Roi des Francs",
+        "Empereur d'Occident"
+      ],
+      "birth": null,
+      "death": {
+        "year": 814,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 768,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 814,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Pépin le Bref"
+        },
+        {
+          "type": "frère",
+          "person": "Carloman"
+        },
+        {
+          "type": "fils",
+          "person": "Louis le Pieux"
+        }
+      ],
+      "source_lines": [
+        17,
+        55,
+        56,
+        62,
+        68,
+        70,
+        73,
+        78,
+        93,
+        95,
+        99,
+        102,
+        110,
+        127,
+        141,
+        143,
+        145,
+        181
+      ]
+    },
+    {
+      "id": "per_002",
+      "name": "Pépin le Bref",
+      "aliases": [
+        "Pépin"
+      ],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Roi des Francs",
+        "Patrice"
+      ],
+      "birth": null,
+      "death": {
+        "year": 768,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 751,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 768,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Charlemagne"
+        },
+        {
+          "type": "fils",
+          "person": "Carloman"
+        }
+      ],
+      "source_lines": [
+        30,
+        37,
+        42,
+        46,
+        49,
+        53,
+        56
+      ]
+    },
+    {
+      "id": "per_003",
+      "name": "Étienne II",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Pape"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 752,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 757,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [],
+      "source_lines": [
+        49
+      ]
+    },
+    {
+      "id": "per_004",
+      "name": "Carloman",
+      "aliases": [],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Roi des Francs"
+      ],
+      "birth": null,
+      "death": {
+        "year": 771,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "père",
+          "person": "Pépin le Bref"
+        },
+        {
+          "type": "frère",
+          "person": "Charlemagne"
+        }
+      ],
+      "source_lines": [
+        56,
+        61
+      ]
+    },
+    {
+      "id": "per_005",
+      "name": "Roland",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [
+        "Paladin",
+        "Comte de la Marche de Bretagne"
+      ],
+      "birth": null,
+      "death": {
+        "year": 778,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        72
+      ]
+    },
+    {
+      "id": "per_006",
+      "name": "Witikind",
+      "aliases": [
+        "Widukind"
+      ],
+      "dynasty": "Saxons",
+      "titles": [
+        "Chef saxon"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        83
+      ]
+    },
+    {
+      "id": "per_007",
+      "name": "Vercingétorix",
+      "aliases": [],
+      "dynasty": "Gaulois",
+      "titles": [
+        "Chef gaulois"
+      ],
+      "birth": null,
+      "death": {
+        "year": -46,
+        "circa": false,
+        "era": "BCE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        84
+      ]
+    },
+    {
+      "id": "per_008",
+      "name": "Louis le Pieux",
+      "aliases": [
+        "Louis le Débonnaire",
+        "l'empereur Louis"
+      ],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Empereur d'Occident"
+      ],
+      "birth": null,
+      "death": {
+        "year": 840,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 814,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 840,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Charlemagne"
+        },
+        {
+          "type": "fils",
+          "person": "Lothaire"
+        },
+        {
+          "type": "fils",
+          "person": "Charles le Chauve"
+        },
+        {
+          "type": "fils",
+          "person": "Louis le Germanique"
+        }
+      ],
+      "source_lines": [
+        147,
+        148,
+        150,
+        154,
+        156,
+        159
+      ]
+    },
+    {
+      "id": "per_009",
+      "name": "Lothaire Ier",
+      "aliases": [
+        "Lothaire"
+      ],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Empereur d'Occident"
+      ],
+      "birth": null,
+      "death": {
+        "year": 855,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 840,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 855,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis le Pieux"
+        },
+        {
+          "type": "frère",
+          "person": "Charles le Chauve"
+        },
+        {
+          "type": "frère",
+          "person": "Louis le Germanique"
+        }
+      ],
+      "source_lines": [
+        161,
+        165
+      ]
+    },
+    {
+      "id": "per_010",
+      "name": "Charles le Chauve",
+      "aliases": [
+        "Charles II"
+      ],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Roi de Francie occidentale",
+        "Empereur d'Occident"
+      ],
+      "birth": null,
+      "death": {
+        "year": 877,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 843,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 877,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis le Pieux"
+        },
+        {
+          "type": "frère",
+          "person": "Lothaire"
+        },
+        {
+          "type": "frère",
+          "person": "Louis le Germanique"
+        }
+      ],
+      "source_lines": [
+        162,
+        167,
+        182,
+        184,
+        188,
+        190,
+        193
+      ]
+    },
+    {
+      "id": "per_011",
+      "name": "Louis le Germanique",
+      "aliases": [
+        "Louis II de Germanie"
+      ],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Roi de Francie orientale"
+      ],
+      "birth": null,
+      "death": {
+        "year": 876,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 843,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 876,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Louis le Pieux"
+        },
+        {
+          "type": "frère",
+          "person": "Lothaire"
+        },
+        {
+          "type": "frère",
+          "person": "Charles le Chauve"
+        }
+      ],
+      "source_lines": [
+        162,
+        165,
+        182,
+        186
+      ]
+    },
+    {
+      "id": "per_012",
+      "name": "Napoléon",
+      "aliases": [
+        "Napoléon Ier",
+        "Napoléon Bonaparte"
+      ],
+      "dynasty": "Bonaparte",
+      "titles": [
+        "Empereur des Français"
+      ],
+      "birth": {
+        "year": 1769,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "death": {
+        "year": 1821,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 1804,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 1815,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [],
+      "source_lines": [
+        100
+      ]
+    },
+    {
+      "id": "per_013",
+      "name": "Marc-Aurèle",
+      "aliases": [],
+      "dynasty": "Antonins",
+      "titles": [
+        "Empereur romain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        93
+      ]
+    },
+    {
+      "id": "per_014",
+      "name": "Trajan",
+      "aliases": [],
+      "dynasty": "Antonins",
+      "titles": [
+        "Empereur romain"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        93
+      ]
+    },
+    {
+      "id": "per_015",
+      "name": "Ganelon",
+      "aliases": [],
+      "dynasty": null,
+      "titles": [],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        130
+      ]
+    },
+    {
+      "id": "per_016",
+      "name": "Clovis",
+      "aliases": [],
+      "dynasty": "Mérovingiens",
+      "titles": [
+        "Roi des Francs"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        24,
+        29
+      ]
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_001",
+      "name": "Carolingiens",
+      "period_start": {
+        "year": 751,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_002",
+      "name": "Capétiens",
+      "period_start": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}

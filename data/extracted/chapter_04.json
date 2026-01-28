@@ -1,0 +1,1097 @@
+{
+  "chapter_number": 4,
+  "chapter_title": "LA RÉVOLUTION DE 987 ET L'AVÈNEMENT DES CAPÉTIENS",
+  "line_start": 1029,
+  "line_end": 1315,
+  "validation_status": "success",
+  "entries": [
+    {
+      "id": "evt_001",
+      "type": "period",
+      "date_start": {
+        "year": 900,
+        "circa": true,
+        "era": "CE",
+        "precision": "century"
+      },
+      "date_end": {
+        "year": 999,
+        "circa": true,
+        "era": "CE",
+        "precision": "century"
+      },
+      "title": "Le Xe siècle, siècle de calamités",
+      "description": "Le dixième siècle est probablement le plus atroce de l'histoire de France, dépassant même la chute de Rome et l'agonie des Mérovingiens.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 1,
+        "line_end": 5,
+        "excerpt": "Le dixième siècle est probablement le plus atroce de notre histoire. Tout ce qu'on avait vu à la chute de Rome et pendant l'agonie des Mérovingiens fut dépassé."
+      }
+    },
+    {
+      "id": "evt_002",
+      "type": "event",
+      "date_start": {
+        "year": 900,
+        "circa": true,
+        "era": "CE",
+        "precision": "century"
+      },
+      "title": "Retour des Sarrasins au Sud",
+      "description": "Les Sarrasins réapparaissent au Sud de la France, ajoutant aux calamités du Xe siècle.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "Sud de la France"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 6,
+        "line_end": 7,
+        "excerpt": "Au Sud, les Sarrasins avaient reparu."
+      }
+    },
+    {
+      "id": "evt_003",
+      "type": "event",
+      "date_start": {
+        "year": 850,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Invasions normandes",
+      "description": "Les Normands, après avoir pillé les côtes, s'enhardissent, remontent les fleuves, brûlent les villes et dévastent le pays.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 7,
+        "line_end": 9,
+        "excerpt": "Et puis un autre fléau était venu: les Normands, qui, après avoir pillé les côtes, s'enhardissaient, remontaient les fleuves, brûlaient les villes"
+      }
+    },
+    {
+      "id": "evt_004",
+      "type": "political",
+      "date_start": {
+        "year": 900,
+        "circa": true,
+        "era": "CE",
+        "precision": "century"
+      },
+      "title": "Naissance du système féodal",
+      "description": "Face à l'impuissance des Carolingiens à repousser les envahisseurs, le système féodal s'affranchit et produit un pullulement de souverainetés locales.",
+      "importance": 5,
+      "people": [],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 13,
+        "line_end": 20,
+        "excerpt": "Alors les hauts fonctionnaires se rendent indépendants. Le système féodal, que Charlemagne avait régularisé et discipliné, s'affranchit"
+      }
+    },
+    {
+      "id": "evt_005",
+      "type": "event",
+      "date_start": {
+        "year": 900,
+        "circa": true,
+        "era": "CE",
+        "precision": "century"
+      },
+      "title": "Origine des seigneuries ecclésiastiques",
+      "description": "Des évêques et des abbés recueillent la succession de l'État tombé dans l'impuissance, fondant des seigneuries ecclésiastiques.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 22,
+        "line_end": 26,
+        "excerpt": "Ailleurs, ce furent des évêques, des abbés qui recueillirent la succession de l'Etat tombé dans l'impuissance. Telle fut l'origine des seigneureries ecclésiastiques."
+      }
+    },
+    {
+      "id": "evt_006",
+      "type": "death",
+      "date_start": {
+        "year": 866,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Robert le Fort au champ d'honneur",
+      "description": "Robert le Fort, fondateur de la maison capétienne, meurt au combat après dix ans de lutte contre les Normands.",
+      "importance": 4,
+      "people": [
+        "Robert le Fort"
+      ],
+      "locations": [],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 72,
+        "line_end": 74,
+        "excerpt": "Robert le Fort, le vrai fondateur de la maison, s'est battu dix ans contre les Normands et il est mort au champ d'honneur."
+      }
+    },
+    {
+      "id": "evt_007",
+      "type": "event",
+      "date_start": {
+        "year": 885,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Défense héroïque de Paris par Eudes",
+      "description": "Eudes, fils de Robert le Fort, défend héroïquement Paris contre les Normands tandis que Charles le Gros se couvre de honte.",
+      "importance": 4,
+      "people": [
+        "Eudes",
+        "Charles le Gros"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 76,
+        "line_end": 78,
+        "excerpt": "Son fils Eudes défend héroïquement Paris contre les mêmes adversaires, tandis que Charles le Gros se couvre de honte."
+      }
+    },
+    {
+      "id": "evt_008",
+      "type": "political",
+      "date_start": {
+        "year": 887,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Déposition de Charles le Gros",
+      "description": "Charles le Gros est déposé pour son incapacité et sa lâcheté face aux envahisseurs normands.",
+      "importance": 3,
+      "people": [
+        "Charles le Gros"
+      ],
+      "locations": [],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 62,
+        "line_end": 64,
+        "excerpt": "ils avaient beau avoir perdu l'estime publique, au point d'être déposés comme il advint à Charles le Gros pour son incapacité et sa lâcheté"
+      }
+    },
+    {
+      "id": "evt_009",
+      "type": "reign_start",
+      "date_start": {
+        "year": 888,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Élection d'Eudes comme duc de France à Compiègne",
+      "description": "Le duc de France Eudes est élu à Compiègne en 888 après la déposition de Charles le Gros, accédant à une sorte de consulat à vie.",
+      "importance": 4,
+      "people": [
+        "Eudes"
+      ],
+      "locations": [
+        "Compiègne"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 78,
+        "line_end": 80,
+        "excerpt": "Charles le Gros déposé, Eudes est candidat à une sorte de consulat à vie. Le duc de France fut élu à Compiègne en 888."
+      }
+    },
+    {
+      "id": "evt_010",
+      "type": "political",
+      "date_start": {
+        "year": 893,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Réconciliation d'Eudes avec Charles le Simple",
+      "description": "Eudes transige avec Charles le Simple: à sa mort, le Carolingien reprendra le trône. Cette restauration aura lieu.",
+      "importance": 3,
+      "people": [
+        "Eudes",
+        "Charles le Simple"
+      ],
+      "locations": [],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 87,
+        "line_end": 92,
+        "excerpt": "Eudes trouva meilleur de ne pas s'entêter. Il réservait l'avenir. Il se réconcilia avec Charles le Simple et transigea avec lui"
+      }
+    },
+    {
+      "id": "evt_011",
+      "type": "death",
+      "date_start": {
+        "year": 956,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort d'Hugues le Grand",
+      "description": "Hugues le Grand meurt en 956, laissant son duché à Hugues Capet. Le Carolingien Lothaire est alors un enfant.",
+      "importance": 3,
+      "people": [
+        "Hugues le Grand",
+        "Hugues Capet",
+        "Lothaire"
+      ],
+      "locations": [],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 106,
+        "line_end": 108,
+        "excerpt": "Hugues le Grand était mort en 956. Il laissait son duché à Hugues Capet."
+      }
+    },
+    {
+      "id": "evt_012",
+      "type": "event",
+      "date_start": {
+        "year": 978,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Lothaire délivre Paris d'une invasion allemande",
+      "description": "Le roi Lothaire retrouve son prestige en délivrant Paris d'une invasion allemande, ranimant la vieille dynastie carolingienne.",
+      "importance": 3,
+      "people": [
+        "Lothaire"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 109,
+        "line_end": 112,
+        "excerpt": "Avec Lothaire, la vieille dynastie se ranime. Lothaire veut ressaisir l'autorité, reconquérir son royaume. Il retrouve son prestige en délivrant Paris d'une invasion allemande."
+      }
+    },
+    {
+      "id": "evt_013",
+      "type": "death",
+      "date_start": {
+        "year": 986,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Lothaire",
+      "description": "Le roi Lothaire meurt en 986, selon certains empoisonné, après avoir menacé l'ascension des Capétiens.",
+      "importance": 3,
+      "people": [
+        "Lothaire"
+      ],
+      "locations": [],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 112,
+        "line_end": 114,
+        "excerpt": "S'il eût vécu davantage, qui sait s'il n'étouffait pas la chance des Capétiens? Il mourut, quelques-uns disent empoisonné, en 986."
+      }
+    },
+    {
+      "id": "evt_014",
+      "type": "death",
+      "date_start": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Mort de Louis V dans un accident de chasse",
+      "description": "Louis V, fils de Lothaire, ne règne qu'un an et meurt dans un accident de chasse, laissant le trône vacant.",
+      "importance": 3,
+      "people": [
+        "Louis V",
+        "Lothaire"
+      ],
+      "locations": [],
+      "group_dynasty": "Carolingiens",
+      "source": {
+        "line_start": 114,
+        "line_end": 115,
+        "excerpt": "Son fils Louis ne régna qu'un an et fut tué dans un accident de chasse."
+      }
+    },
+    {
+      "id": "evt_015",
+      "type": "political",
+      "date_start": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Assemblée de Senlis - Acquittement d'Adalbéron",
+      "description": "Adalbéron, archevêque de Reims accusé de trahison par Lothaire, est acquitté à l'assemblée de Senlis grâce à Hugues Capet.",
+      "importance": 3,
+      "people": [
+        "Adalbéron",
+        "Hugues Capet",
+        "Lothaire"
+      ],
+      "locations": [
+        "Senlis",
+        "Reims"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 118,
+        "line_end": 123,
+        "excerpt": "Adalbéron, archevêque de Reims, avait eu de graves difficultés avec Lothaire qui l'avait accusé de trahison... Hugues fit proclamer son innocence à l'assemblée de Senlis"
+      }
+    },
+    {
+      "id": "evt_016",
+      "type": "reign_start",
+      "date_start": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Élection d'Hugues Capet comme roi de France",
+      "description": "Hugues Capet est élu roi à Senlis en 987, présenté comme prince national et défenseur de la chose publique. Charles de Lorraine est écarté car vassal du roi de Germanie.",
+      "importance": 5,
+      "people": [
+        "Hugues Capet",
+        "Adalbéron",
+        "Charles de Lorraine"
+      ],
+      "locations": [
+        "Senlis"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 123,
+        "line_end": 130,
+        "excerpt": "Une autre assemblée fut convoquée à Senlis pour l'élection définitive... Ainsi Hugues Capet fut élu en qualité de prince national (987)."
+      }
+    },
+    {
+      "id": "evt_017",
+      "type": "political",
+      "date_start": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Opposition des grands feudataires à l'élection d'Hugues Capet",
+      "description": "Plusieurs grands feudataires ne reconnaissent pas l'élection d'Hugues: les comtes de Flandre, de Troyes, de Toulouse, le duc d'Aquitaine et quelques archevêques.",
+      "importance": 3,
+      "people": [
+        "Hugues Capet"
+      ],
+      "locations": [
+        "Flandre",
+        "Troyes",
+        "Toulouse",
+        "Aquitaine"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 136,
+        "line_end": 140,
+        "excerpt": "Cependant celle de Hugues fut loin d'être unanime. Plusieurs des grands feudataires, les comtes de Flandre, de Troyes, de Toulouse, le duc d'Aquitaine"
+      }
+    },
+    {
+      "id": "evt_018",
+      "type": "political",
+      "date_start": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Association du fils d'Hugues Capet au trône",
+      "description": "Hugues Capet associe immédiatement son fils aîné au trône, faisant de l'élection du successeur un simulacre sans risque.",
+      "importance": 4,
+      "people": [
+        "Hugues Capet"
+      ],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 147,
+        "line_end": 152,
+        "excerpt": "Hugues Capet ayant tout de suite associé au trône son fils aîné, l'élection du successeur eut lieu du vivant du roi. Elle ne fut plus qu'un simulacre"
+      }
+    },
+    {
+      "id": "evt_019",
+      "type": "event",
+      "date_start": {
+        "year": 987,
+        "circa": true,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Épisode du comte de Périgord à Tours",
+      "description": "Au comte de Périgord qui s'était emparé de Tours, Hugues demandant 'Qui t'a fait comte?' s'entend répondre 'Qui t'a fait roi?'",
+      "importance": 2,
+      "people": [
+        "Hugues Capet",
+        "Comte de Périgord"
+      ],
+      "locations": [
+        "Tours",
+        "Périgord"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 176,
+        "line_end": 180,
+        "excerpt": "Au comte de Périgord qui s'était emparé de sa ville de Tours, Hugues ayant fait demander par un héraut: «Qui t'a fait comte?» s'entendit répondre: «Qui t'a fait roi?»"
+      }
+    },
+    {
+      "id": "evt_020",
+      "type": "period",
+      "date_start": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Fondation de la monarchie nationale française",
+      "description": "L'avènement de Hugues Capet en 987 assure l'avenir de la France. C'est la date la plus importante de l'histoire de France selon Bainville.",
+      "importance": 5,
+      "people": [
+        "Hugues Capet"
+      ],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 163,
+        "line_end": 168,
+        "excerpt": "La race de Hugues Capet, après avoir mis trois générations à prendre la couronne, régnera pendant huit siècles. L'avenir de la France est assuré par l'avènement de la monarchie nationale."
+      }
+    },
+    {
+      "id": "evt_021",
+      "type": "event",
+      "date_start": {
+        "year": -52,
+        "circa": false,
+        "era": "BCE",
+        "precision": "year"
+      },
+      "title": "Conquête de la Gaule par César (référence)",
+      "description": "Référence à la conquête romaine: entre la conquête de César et la fondation de la monarchie française (987), il s'est écoulé plus de mille ans.",
+      "importance": 5,
+      "people": [
+        "Jules César"
+      ],
+      "locations": [
+        "Gaule"
+      ],
+      "group_dynasty": "Gaulois",
+      "source": {
+        "line_start": 168,
+        "line_end": 172,
+        "excerpt": "A cette date de 987, véritablement la plus importante de notre histoire, il y a déjà plus de mille ans que César a conquis la Gaule."
+      }
+    },
+    {
+      "id": "evt_022",
+      "type": "religious",
+      "date_start": {
+        "year": 1000,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Légende des terreurs de l'an 1000",
+      "description": "La légende selon laquelle les hommes auraient attendu la fin du monde à l'an 1000, renonçant au travail dans une folie collective, est une exagération des chroniques.",
+      "importance": 2,
+      "people": [],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 196,
+        "line_end": 204,
+        "excerpt": "Les conditions de la vie étaient devenues si terribles qu'elles ont donné naissance à la légende d'après laquelle les hommes de ce temps-là auraient attendu la fin du monde"
+      }
+    },
+    {
+      "id": "evt_023",
+      "type": "religious",
+      "date_start": {
+        "year": 1000,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Institution de la Trêve de Dieu",
+      "description": "L'Église profite du renouveau de l'esprit religieux pour imposer la trêve de Dieu, limitant les guerres privées et le brigandage.",
+      "importance": 4,
+      "people": [],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 205,
+        "line_end": 208,
+        "excerpt": "L'Eglise en profita pour imposer les règles qui limitaient les guerres privées et le brigandage: ce fut la trêve de Dieu."
+      }
+    },
+    {
+      "id": "evt_024",
+      "type": "event",
+      "date_start": {
+        "year": 1000,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Institution de la chevalerie",
+      "description": "La chevalerie est instituée, codifiant les devoirs de l'homme d'armes et l'honneur du soldat, idées en germe dans la féodalité fondée sur la protection.",
+      "importance": 4,
+      "people": [],
+      "locations": [],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 208,
+        "line_end": 212,
+        "excerpt": "En même temps, la chevalerie était instituée. Les devoirs de l'homme d'armes, l'honneur du soldat: ces idées étaient en germe dans la féodalité"
+      }
+    },
+    {
+      "id": "evt_025",
+      "type": "religious",
+      "date_start": {
+        "year": 1095,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "title": "Annonce des Croisades",
+      "description": "Le renouveau de la vie spirituelle donnera naissance aux Croisades, dérivatif puissant par lequel l'Occident reprendra contact avec le monde méditerranéen et l'Orient.",
+      "importance": 4,
+      "people": [],
+      "locations": [
+        "Orient",
+        "Méditerranée"
+      ],
+      "group_dynasty": "Capétiens",
+      "source": {
+        "line_start": 212,
+        "line_end": 218,
+        "excerpt": "Bientôt ce renouveau de la vie spirituelle donnera naissance aux Croisades, dérivatif puissant, par lequel l'Occident... préparera sa renaissance"
+      }
+    },
+    {
+      "id": "evt_026",
+      "type": "event",
+      "date_start": {
+        "year": 1789,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "title": "Disparition des droits féodaux (référence)",
+      "description": "Référence à 1789: les droits féodaux, transformés et usés par les siècles, ne disparaîtront tout à fait qu'en 1789.",
+      "importance": 3,
+      "people": [],
+      "locations": [
+        "France"
+      ],
+      "group_dynasty": "Première République",
+      "source": {
+        "line_start": 48,
+        "line_end": 50,
+        "excerpt": "Transformés, usés par les siècles, les droits féodaux n'ont disparu tout à fait qu'en 1789"
+      }
+    }
+  ],
+  "people": [
+    {
+      "id": "pers_001",
+      "name": "Robert le Fort",
+      "aliases": [],
+      "dynasty": "Robertiens",
+      "titles": [
+        "Comte",
+        "Duc"
+      ],
+      "birth": null,
+      "death": {
+        "year": 866,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Eudes"
+        }
+      ],
+      "source_lines": [
+        72,
+        74,
+        96,
+        162
+      ]
+    },
+    {
+      "id": "pers_002",
+      "name": "Eudes",
+      "aliases": [
+        "Eudes de France"
+      ],
+      "dynasty": "Robertiens",
+      "titles": [
+        "Duc de France",
+        "Roi"
+      ],
+      "birth": null,
+      "death": {
+        "year": 898,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 888,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 898,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Robert le Fort"
+        }
+      ],
+      "source_lines": [
+        76,
+        78,
+        80,
+        87,
+        90,
+        116
+      ]
+    },
+    {
+      "id": "pers_003",
+      "name": "Charles le Gros",
+      "aliases": [],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Empereur",
+        "Roi"
+      ],
+      "birth": null,
+      "death": {
+        "year": 888,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        63,
+        77,
+        78
+      ]
+    },
+    {
+      "id": "pers_004",
+      "name": "Charles le Simple",
+      "aliases": [],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": {
+        "start": {
+          "year": 898,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 922,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [],
+      "source_lines": [
+        87,
+        89
+      ]
+    },
+    {
+      "id": "pers_005",
+      "name": "Hugues le Grand",
+      "aliases": [
+        "Hugues le Grand"
+      ],
+      "dynasty": "Robertiens",
+      "titles": [
+        "Duc de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 956,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": null,
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Hugues Capet"
+        }
+      ],
+      "source_lines": [
+        101,
+        106
+      ]
+    },
+    {
+      "id": "pers_006",
+      "name": "Lothaire",
+      "aliases": [],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 986,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 954,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 986,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "fils",
+          "person": "Louis V"
+        }
+      ],
+      "source_lines": [
+        103,
+        108,
+        109,
+        112,
+        114,
+        119
+      ]
+    },
+    {
+      "id": "pers_007",
+      "name": "Hugues Capet",
+      "aliases": [],
+      "dynasty": "Capétiens",
+      "titles": [
+        "Duc de France",
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 996,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 987,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 996,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Hugues le Grand"
+        }
+      ],
+      "source_lines": [
+        107,
+        115,
+        117,
+        121,
+        123,
+        126,
+        128,
+        130,
+        131,
+        134,
+        147,
+        163,
+        173,
+        177
+      ]
+    },
+    {
+      "id": "pers_008",
+      "name": "Louis V",
+      "aliases": [
+        "Louis V le Fainéant"
+      ],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "reign": {
+        "start": {
+          "year": 986,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        },
+        "end": {
+          "year": 987,
+          "circa": false,
+          "era": "CE",
+          "precision": "year"
+        }
+      },
+      "relations": [
+        {
+          "type": "père",
+          "person": "Lothaire"
+        }
+      ],
+      "source_lines": [
+        114
+      ]
+    },
+    {
+      "id": "pers_009",
+      "name": "Charles de Lorraine",
+      "aliases": [],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Duc de Lorraine"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        115,
+        125
+      ]
+    },
+    {
+      "id": "pers_010",
+      "name": "Adalbéron",
+      "aliases": [
+        "Adalbéron de Reims"
+      ],
+      "dynasty": null,
+      "titles": [
+        "Archevêque de Reims"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        118,
+        120,
+        122,
+        125
+      ]
+    },
+    {
+      "id": "pers_011",
+      "name": "Charlemagne",
+      "aliases": [],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Empereur"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        15,
+        85,
+        159
+      ]
+    },
+    {
+      "id": "pers_012",
+      "name": "Pépin le Bref",
+      "aliases": [],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Roi"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        61
+      ]
+    },
+    {
+      "id": "pers_013",
+      "name": "Charles le Chauve",
+      "aliases": [],
+      "dynasty": "Carolingiens",
+      "titles": [
+        "Roi",
+        "Empereur"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        159
+      ]
+    },
+    {
+      "id": "pers_014",
+      "name": "Louis XIV",
+      "aliases": [],
+      "dynasty": "Bourbons",
+      "titles": [
+        "Roi de France"
+      ],
+      "birth": null,
+      "death": null,
+      "reign": null,
+      "relations": [],
+      "source_lines": [
+        99
+      ]
+    }
+  ],
+  "dynasties": [
+    {
+      "id": "dyn_001",
+      "name": "Carolingiens",
+      "period_start": {
+        "year": 751,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_002",
+      "name": "Robertiens",
+      "period_start": {
+        "year": 866,
+        "circa": true,
+        "era": "CE",
+        "precision": "decade"
+      },
+      "period_end": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    },
+    {
+      "id": "dyn_003",
+      "name": "Capétiens",
+      "period_start": {
+        "year": 987,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      },
+      "period_end": {
+        "year": 1328,
+        "circa": false,
+        "era": "CE",
+        "precision": "year"
+      }
+    }
+  ],
+  "errors": []
+}
