@@ -258,11 +258,15 @@ function HelpModal({ onClose }: { onClose: () => void }) {
 }
 
 function getCommonsUrl(imageUrl: string): string | undefined {
-  const parts = new URL(imageUrl).pathname.split('/');
-  const filename = parts.includes('thumb') ? parts[parts.length - 2] : parts[parts.length - 1];
-  return filename
-    ? `https://commons.wikimedia.org/wiki/File:${decodeURIComponent(filename)}`
-    : undefined;
+  try {
+    const parts = new URL(imageUrl).pathname.split('/');
+    const filename = parts.includes('thumb') ? parts[parts.length - 2] : parts[parts.length - 1];
+    return filename
+      ? `https://commons.wikimedia.org/wiki/File:${decodeURIComponent(filename)}`
+      : undefined;
+  } catch {
+    return undefined;
+  }
 }
 
 // Importance level configuration (5 = highest, 1 = lowest)
@@ -297,6 +301,7 @@ function App() {
   const sortedEntriesRef = useRef<TimelineEntry[]>([]);
   const selectedIndexRef = useRef<number | null>(null);
   const navigateRef = useRef<(index: number) => void>(() => {});
+  const fitAfterFilterRef = useRef(false);
 
   const toggleTag = useCallback((tag: string) => {
     setActiveTags(prev => {
@@ -365,7 +370,7 @@ function App() {
       setSelectedEntry(null);
       setSelectedIndex(null);
     }
-  }, [sortedEntries]);
+  }, [sortedEntries, selectedEntry]);
 
   // Select an entry and sync both selectedEntry + selectedIndex atomically
   const selectEntry = useCallback((entry: TimelineEntry | null) => {
@@ -390,6 +395,14 @@ function App() {
   }, []);
 
   navigateRef.current = navigateToEntry;
+
+  const handleTimelineDraw = useCallback(() => {
+    setTimelineReady(true);
+    if (fitAfterFilterRef.current) {
+      fitAfterFilterRef.current = false;
+      canvasTimelineRef.current?.fit();
+    }
+  }, []);
 
   const handleFit = () => {
     canvasTimelineRef.current?.fit();
@@ -621,7 +634,7 @@ function App() {
                   {importanceLevels.map(({ level, label }) => (
                     <button
                       key={level}
-                      onClick={() => { setImportanceDropdownOpen(false); setTimelineReady(false); requestAnimationFrame(() => { setMinImportance(level); requestAnimationFrame(() => canvasTimelineRef.current?.fit()); }); }}
+                      onClick={() => { setImportanceDropdownOpen(false); setTimelineReady(false); fitAfterFilterRef.current = true; setMinImportance(level); }}
                       className={`w-full px-3 py-2 text-left text-sm hover:bg-surface-hover transition-colors flex items-center justify-between ${
                         minImportance === level ? 'text-accent' : 'text-foreground-secondary'
                       }`}
@@ -680,7 +693,7 @@ function App() {
             groupingMode={groupingMode}
             selectedEntry={selectedEntry}
             onSelectEntry={selectEntry}
-            onDraw={useCallback(() => setTimelineReady(true), [])}
+            onDraw={handleTimelineDraw}
           />
           {!timelineReady && (
             <div className="absolute inset-0 flex items-center justify-center bg-surface">

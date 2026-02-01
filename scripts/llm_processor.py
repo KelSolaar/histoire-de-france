@@ -1,3 +1,7 @@
+# /// script
+# requires-python = ">=3.10"
+# ///
+
 """
 LLM Processor Module
 

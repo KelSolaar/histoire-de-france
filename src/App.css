@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-/* Design tokens */
+/* Design tokens: canvas renderer reads these CSS vars directly via getComputedStyle */
 :root {
   --color-bg-primary: #0a0a0a;
   --color-bg-secondary: #171717;
@@ -29,6 +29,7 @@
   --color-importance-1: #3d4a5c;
 }
 
+/* Tailwind v4 theme tokens for utility classes */
 @theme {
   --color-surface: #0a0a0a;
   --color-surface-secondary: #171717;

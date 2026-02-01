@@ -291,7 +291,11 @@ async def _async_main(
                 )
 
             if tasks:
-                await asyncio.gather(*tasks, return_exceptions=True)
+                results = await asyncio.gather(*tasks, return_exceptions=True)
+                for result in results:
+                    if isinstance(result, BaseException):
+                        total_errors += 1
+                        LOGGER.warning("Fetch error: %s", result)
                 await asyncio.sleep(1.0)
 
             for entry in chunk:

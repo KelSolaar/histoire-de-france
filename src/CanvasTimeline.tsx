@@ -995,6 +995,37 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
     setTooltipData(null);
   };
 
+  const zoomToBadge = (badge: BadgeHitRect) => {
+    const yearRange = badge.maxYear - badge.minYear;
+    const padding = Math.max(yearRange * 0.15, 20);
+    const fitMin = badge.minYear - padding;
+    const fitMax = badge.maxYear + padding;
+    const fitRange = fitMax - fitMin;
+    const availableWidth = dimensions.width - groupLabelWidth - badge.rightmostLabelWidth;
+    const newScale = Math.max(0.05, Math.min(5, availableWidth / (fitRange * 10)));
+    const newOffsetX = -(fitMin - minYear) * newScale * 10 - 50;
+    setTargetState((prev) => ({ ...prev, scale: newScale, offsetX: newOffsetX }));
+  };
+
+  const hitTestBadge = (x: number, y: number): BadgeHitRect | null => {
+    for (const badge of badgeHitRectsRef.current) {
+      if (x >= badge.x && x <= badge.x + badge.w && y >= badge.y && y <= badge.y + badge.h) {
+        return badge;
+      }
+    }
+    return null;
+  };
+
+  const hitTestEvent = (x: number, y: number): TimelineEntry | null => {
+    for (const pos of positionedEventsRef.current) {
+      const posY = pos.y + viewState.offsetY;
+      if (x >= pos.x && x <= pos.x + pos.width && y >= posY && y <= posY + pos.height) {
+        return pos.entry;
+      }
+    }
+    return null;
+  };
+
   const handleClick = (e: React.MouseEvent) => {
     if (hasDraggedRef.current) return;
 
@@ -1007,34 +1038,11 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
 
     if (x < groupLabelWidth || y < AXIS_HEIGHT) return;
 
-    for (const badge of badgeHitRectsRef.current) {
-      if (x >= badge.x && x <= badge.x + badge.w && y >= badge.y && y <= badge.y + badge.h) {
-        const yearRange = badge.maxYear - badge.minYear;
-        const padding = Math.max(yearRange * 0.15, 20);
-        const fitMin = badge.minYear - padding;
-        const fitMax = badge.maxYear + padding;
-        const fitRange = fitMax - fitMin;
-        const availableWidth = dimensions.width - groupLabelWidth - badge.rightmostLabelWidth;
-        const newScale = Math.max(0.05, Math.min(5, availableWidth / (fitRange * 10)));
-        const newOffsetX = -(fitMin - minYear) * newScale * 10 - 50;
-        setTargetState((prev) => ({ ...prev, scale: newScale, offsetX: newOffsetX }));
-        return;
-      }
-    }
+    const badge = hitTestBadge(x, y);
+    if (badge) { zoomToBadge(badge); return; }
 
-    for (const pos of positionedEventsRef.current) {
-      const posY = pos.y + viewState.offsetY;
-      if (
-        x >= pos.x &&
-        x <= pos.x + pos.width &&
-        y >= posY &&
-        y <= posY + pos.height
-      ) {
-        onSelectEntry(pos.entry);
-        return;
-      }
-    }
-    onSelectEntry(null);
+    const entry = hitTestEvent(x, y);
+    onSelectEntry(entry);
   };
 
   // Touch handlers for mobile
@@ -1077,29 +1085,11 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
 
     if (x < groupLabelWidth || y < AXIS_HEIGHT) return;
 
-    for (const badge of badgeHitRectsRef.current) {
-      if (x >= badge.x && x <= badge.x + badge.w && y >= badge.y && y <= badge.y + badge.h) {
-        const yearRange = badge.maxYear - badge.minYear;
-        const padding = Math.max(yearRange * 0.15, 20);
-        const fitMin = badge.minYear - padding;
-        const fitMax = badge.maxYear + padding;
-        const fitRange = fitMax - fitMin;
-        const availableWidth = dimensions.width - groupLabelWidth - badge.rightmostLabelWidth;
-        const newScale = Math.max(0.05, Math.min(5, availableWidth / (fitRange * 10)));
-        const newOffsetX = -(fitMin - minYear) * newScale * 10 - 50;
-        setTargetState((prev) => ({ ...prev, scale: newScale, offsetX: newOffsetX }));
-        return;
-      }
-    }
+    const badge = hitTestBadge(x, y);
+    if (badge) { zoomToBadge(badge); return; }
 
-    for (const pos of positionedEventsRef.current) {
-      const posY = pos.y + viewState.offsetY;
-      if (x >= pos.x && x <= pos.x + pos.width && y >= posY && y <= posY + pos.height) {
-        onSelectEntry(pos.entry);
-        return;
-      }
-    }
-    onSelectEntry(null);
+    const entry = hitTestEvent(x, y);
+    onSelectEntry(entry);
   };
 
   // Native touchmove listener to call preventDefault (React synthetic events are passive)
