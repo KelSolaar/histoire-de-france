@@ -1114,7 +1114,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
       let offsetX = 0;
       if (selectedEntry) {
         const entryYear = selectedEntry.date_start.era === 'BCE'
-          ? -selectedEntry.date_start.year
+          ? -Math.abs(selectedEntry.date_start.year)
           : selectedEntry.date_start.year;
         const pixelsPerYear = finalScale * 10;
         offsetX = -(entryYear - minYear) * pixelsPerYear + (dimensions.width - GROUP_LABEL_WIDTH) / 2 - 50;

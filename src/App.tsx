@@ -345,8 +345,8 @@ function App() {
   // Keep sorted entries ref in sync with filtered entries
   const sortedEntries = useMemo(() => {
     return [...filteredEntries].sort((a, b) => {
-      const yearA = a.date_start.era === 'BCE' ? -a.date_start.year : a.date_start.year;
-      const yearB = b.date_start.era === 'BCE' ? -b.date_start.year : b.date_start.year;
+      const yearA = a.date_start.era === 'BCE' ? -Math.abs(a.date_start.year) : a.date_start.year;
+      const yearB = b.date_start.era === 'BCE' ? -Math.abs(b.date_start.year) : b.date_start.year;
       return yearA - yearB;
     });
   }, [filteredEntries]);
