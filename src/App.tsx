@@ -204,6 +204,59 @@ function SourceReaderModal({ source, onClose }: { source: SourceReference; onClo
   );
 }
 
+function HelpModal({ onClose }: { onClose: () => void }) {
+  useEffect(() => {
+    const handleKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') onClose();
+    };
+    window.addEventListener('keydown', handleKey);
+    return () => window.removeEventListener('keydown', handleKey);
+  }, [onClose]);
+
+  const shortcuts: [string, string][] = [
+    ['← ↑', 'Entrée précédente'],
+    ['→ ↓', 'Entrée suivante'],
+    ['+', 'Zoomer'],
+    ['-', 'Dézoomer'],
+    ['F', 'Ajuster la vue'],
+    ['?', 'Aide'],
+    ['Esc', 'Fermer / Désélectionner'],
+  ];
+
+  return (
+    <div className="fixed inset-0 z-50 flex items-center justify-center" onClick={onClose}>
+      <div className="absolute inset-0 bg-black/60" />
+      <div
+        className="relative w-full max-w-sm bg-surface-secondary border border-border rounded-lg shadow-2xl flex flex-col"
+        onClick={e => e.stopPropagation()}
+      >
+        <div className="flex items-center justify-between px-5 py-3 border-b border-border">
+          <span className="text-sm font-medium text-foreground">Raccourcis clavier</span>
+          <button
+            onClick={onClose}
+            className="p-1 text-foreground-muted hover:text-foreground hover:bg-surface-hover rounded transition-colors"
+            title="Fermer (Esc)"
+          >
+            <IconClose />
+          </button>
+        </div>
+        <div className="p-5 space-y-2">
+          {shortcuts.map(([key, desc]) => (
+            <div key={key} className="flex items-center justify-between gap-4">
+              <span className="text-sm text-foreground-secondary">{desc}</span>
+              <kbd className="px-2 py-0.5 text-xs font-mono bg-surface-tertiary text-foreground-muted border border-border rounded">{key}</kbd>
+            </div>
+          ))}
+          <div className="mt-4 pt-3 border-t border-border text-xs text-foreground-muted leading-relaxed">
+            Cliquez sur une entrée pour voir ses détails. Cliquez sur la citation pour
+            ouvrir le texte source. Faites glisser pour naviguer, molette pour zoomer.
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 function getCommonsUrl(imageUrl: string): string | undefined {
   const parts = new URL(imageUrl).pathname.split('/');
   const filename = parts.includes('thumb') ? parts[parts.length - 2] : parts[parts.length - 1];
@@ -237,6 +290,7 @@ function App() {
   const [searchExpanded, setSearchExpanded] = useState(false);
   const [tagCloudOpen, setTagCloudOpen] = useState(false);
   const [sourceReaderOpen, setSourceReaderOpen] = useState(false);
+  const [helpOpen, setHelpOpen] = useState(false);
   const [timelineReady, setTimelineReady] = useState(false);
   const searchInputRef = useRef<HTMLInputElement>(null);
   const canvasTimelineRef = useRef<CanvasTimelineRef>(null);
@@ -410,6 +464,9 @@ function App() {
       } else if (e.key === 'f') {
         e.preventDefault();
         canvasTimelineRef.current?.fit();
+      } else if (e.key === '?') {
+        e.preventDefault();
+        setHelpOpen(prev => !prev);
       }
     };
 
@@ -600,6 +657,14 @@ function App() {
               <IconFit />
             </button>
           </div>
+          <div className="w-px h-6 bg-border" />
+          <button
+            onClick={() => setHelpOpen(true)}
+            className="px-2.5 py-1.5 text-sm font-medium bg-surface-tertiary text-foreground-secondary rounded-md hover:bg-surface-hover hover:text-foreground transition-colors"
+            title="Aide (?)"
+          >
+            ?
+          </button>
         </div>
       </header>
 
@@ -805,6 +870,7 @@ function App() {
           </div>
         )}
       </div>
+      {helpOpen && <HelpModal onClose={() => setHelpOpen(false)} />}
     </div>
   );
 }
