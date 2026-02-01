@@ -52,6 +52,7 @@ uv run scripts/pipeline.py --steps extract,merge   # run specific steps
 |-----------|------------------------|------------------------------------------------------|
 | `chunk`   | `text_chunker.py`      | Split source text into 22 chapter files              |
 | `extract` | `history_extractor.py` | Extract events from each chapter using an LLM        |
+| `clean`   | `clean_extracted.py`   | Strip LLM artifacts from extracted data              |
 | `merge`   | `data_merger.py`       | Merge per-chapter JSON into `timeline_entries.json`  |
 | `verify`  | `verify_sources.py`    | Verify excerpts against source text, fix line ranges |
 | `tag`     | `tag_entries.py`       | Assign thematic tags using an LLM                    |
@@ -73,6 +74,7 @@ scripts/
   pipeline.py          Orchestrates the full data pipeline
   text_chunker.py      Splits source text by chapter headings
   history_extractor.py LLM-based event extraction
+  clean_extracted.py   Strips LLM artifacts from extracted data
   data_merger.py       Merges extracted chapter data
   verify_sources.py    Verifies and fixes source references
   tag_entries.py       LLM-based tag assignment

@@ -72,6 +72,11 @@ class Step:
             ]
             if tool:
                 cmd += ["-t", tool]
+        elif self.name == "clean":
+            cmd += [
+                "-i",
+                "data/extracted/",
+            ]
         elif self.name == "merge":
             cmd += [
                 "-i",
@@ -109,6 +114,7 @@ class Step:
 STEPS = [
     Step("chunk", "text_chunker.py", "Split source text into chapters"),
     Step("extract", "history_extractor.py", "Extract events with LLM", needs_tool=True),
+    Step("clean", "clean_extracted.py", "Clean LLM artifacts from extracted data"),
     Step("merge", "data_merger.py", "Merge extracted data"),
     Step("verify", "verify_sources.py", "Verify excerpts & fix line ranges"),
     Step("tag", "tag_entries.py", "Assign tags with LLM", needs_tool=True),
@@ -184,7 +190,7 @@ def main(steps: str | None, from_step: str | None, tool: str, verbose: bool):
     """
     Run the full data processing pipeline (or selected steps).
 
-    Steps (in order): chunk, extract, merge, verify, tag, images.
+    Steps (in order): chunk, extract, clean, merge, verify, tag, images.
 
     Examples:
 
