@@ -54,7 +54,7 @@ interface BadgeHitRect {
 const ROW_HEIGHT = 28;
 const MARKER_PADDING = 4;
 const AXIS_HEIGHT = 40;
-const GROUP_LABEL_WIDTH = 160;
+const GROUP_LABEL_WIDTH_DEFAULT = 160;
 const SCROLL_SPEED = 0.75;
 const ZOOM_SPEED = 0.025;
 const LERP_FACTOR = 0.25;
@@ -189,6 +189,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
   const [dimensions, setDimensions] = useState({ width: 800, height: 600 });
+  const groupLabelWidth = dimensions.width < 640 ? 80 : GROUP_LABEL_WIDTH_DEFAULT;
   const [viewState, setViewState] = useState({ offsetX: 0, offsetY: 0, scale: 0.3 });
   const viewStateRef = useRef(viewState);
   const [hoveredEvent, setHoveredEvent] = useState<TimelineEntry | null>(null);
@@ -200,6 +201,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
   const totalHeightRef = useRef(0);
   const badgeHitRectsRef = useRef<BadgeHitRect[]>([]);
   const tooltipTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const lastTouchDistRef = useRef(0);
   const [tooltipData, setTooltipData] = useState<{
     entry: TimelineEntry;
     x: number;
@@ -316,24 +318,24 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
     : { minYear: 0, maxYear: 100 };
 
   // Minimum scale: ensure entire timeline can always fit in viewport
-  const minScale = Math.min(0.05, (dimensions.width - GROUP_LABEL_WIDTH - 100) / ((maxYear - minYear) * 10));
+  const minScale = Math.min(0.05, (dimensions.width - groupLabelWidth - 100) / ((maxYear - minYear) * 10));
 
   // Convert year to x position
   const yearToX = useCallback(
     (year: number) => {
       const pixelsPerYear = viewState.scale * 10;
-      return (year - minYear) * pixelsPerYear + viewState.offsetX + GROUP_LABEL_WIDTH + 50;
+      return (year - minYear) * pixelsPerYear + viewState.offsetX + groupLabelWidth + 50;
     },
-    [minYear, viewState.offsetX, viewState.scale]
+    [minYear, viewState.offsetX, viewState.scale, groupLabelWidth]
   );
 
   // Convert x position to year
   const xToYear = useCallback(
     (x: number) => {
       const pixelsPerYear = viewState.scale * 10;
-      return (x - viewState.offsetX - GROUP_LABEL_WIDTH - 50) / pixelsPerYear + minYear;
+      return (x - viewState.offsetX - groupLabelWidth - 50) / pixelsPerYear + minYear;
     },
-    [minYear, viewState.offsetX, viewState.scale]
+    [minYear, viewState.offsetX, viewState.scale, groupLabelWidth]
   );
 
   // Stable row layout - only recomputes when entries/grouping changes
@@ -467,7 +469,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
     initialFitDone.current = true;
     const yearRange = maxYear - minYear;
     if (yearRange <= 0) return;
-    const availableWidth = dimensions.width - GROUP_LABEL_WIDTH - 100;
+    const availableWidth = dimensions.width - groupLabelWidth - 100;
     const fitScale = availableWidth / (yearRange * 10);
     targetStateRef.current = { offsetX: 0, offsetY: 0, scale: Math.max(minScale, Math.min(5, fitScale)) };
     setViewState(targetStateRef.current);
@@ -508,7 +510,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
     // Draw group labels on left side
     ctx.save();
     ctx.beginPath();
-    ctx.rect(0, AXIS_HEIGHT, GROUP_LABEL_WIDTH, dimensions.height - AXIS_HEIGHT);
+    ctx.rect(0, AXIS_HEIGHT, groupLabelWidth, dimensions.height - AXIS_HEIGHT);
     ctx.clip();
 
     for (let i = 0; i < groups.length; i++) {
@@ -518,13 +520,13 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
       if (y + group.height < AXIS_HEIGHT || y > dimensions.height) continue;
 
       ctx.fillStyle = i % 2 === 0 ? COLORS.background : COLORS.backgroundAlt;
-      ctx.fillRect(0, Math.max(y, AXIS_HEIGHT), GROUP_LABEL_WIDTH, group.height);
+      ctx.fillRect(0, Math.max(y, AXIS_HEIGHT), groupLabelWidth, group.height);
 
       ctx.strokeStyle = COLORS.axis;
       ctx.lineWidth = 1;
       ctx.beginPath();
-      ctx.moveTo(GROUP_LABEL_WIDTH, y);
-      ctx.lineTo(GROUP_LABEL_WIDTH, y + group.height);
+      ctx.moveTo(groupLabelWidth, y);
+      ctx.lineTo(groupLabelWidth, y + group.height);
       ctx.stroke();
 
       ctx.fillStyle = COLORS.axisTextMajor;
@@ -536,7 +538,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
       const clippedLabelY = Math.min(labelY, y + group.height - 12);
 
       let label = group.key;
-      const maxWidth = GROUP_LABEL_WIDTH - 16;
+      const maxWidth = groupLabelWidth - 16;
       while (ctx.measureText(label).width > maxWidth && label.length > 0) {
         label = label.slice(0, -1);
       }
@@ -553,7 +555,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
       const y = group.y + group.height + viewState.offsetY;
       if (y < AXIS_HEIGHT || y > dimensions.height) continue;
       ctx.beginPath();
-      ctx.moveTo(GROUP_LABEL_WIDTH, y);
+      ctx.moveTo(groupLabelWidth, y);
       ctx.lineTo(dimensions.width, y);
       ctx.stroke();
     }
@@ -561,7 +563,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
     // Draw events (clipped to timeline area)
     ctx.save();
     ctx.beginPath();
-    ctx.rect(GROUP_LABEL_WIDTH, AXIS_HEIGHT, dimensions.width - GROUP_LABEL_WIDTH, dimensions.height - AXIS_HEIGHT);
+    ctx.rect(groupLabelWidth, AXIS_HEIGHT, dimensions.width - groupLabelWidth, dimensions.height - AXIS_HEIGHT);
     ctx.clip();
 
     // Visibility culling
@@ -725,7 +727,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
       const y = pos.y + viewState.offsetY;
 
       if (!visibleSet.has(pos.entry.id)) continue;
-      if (x + pos.width < GROUP_LABEL_WIDTH || x > dimensions.width) continue;
+      if (x + pos.width < groupLabelWidth || x > dimensions.width) continue;
       if (y + pos.height < AXIS_HEIGHT || y > dimensions.height) continue;
 
       if (selectedEntry && pos.entry.id === selectedEntry.id) {
@@ -750,7 +752,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
     ctx.strokeStyle = COLORS.axis;
     ctx.lineWidth = 1;
     ctx.beginPath();
-    ctx.moveTo(GROUP_LABEL_WIDTH, AXIS_HEIGHT);
+    ctx.moveTo(groupLabelWidth, AXIS_HEIGHT);
     ctx.lineTo(dimensions.width, AXIS_HEIGHT);
     ctx.stroke();
 
@@ -766,14 +768,14 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
     if (pixelsPerYear > 10) yearStep = 10;
     if (pixelsPerYear > 20) yearStep = 5;
 
-    const startYear = Math.floor(xToYear(GROUP_LABEL_WIDTH) / yearStep) * yearStep;
+    const startYear = Math.floor(xToYear(groupLabelWidth) / yearStep) * yearStep;
     const endYear = Math.ceil(xToYear(dimensions.width) / yearStep) * yearStep;
 
     let lastLabelRight = -Infinity;
 
     for (let year = startYear; year <= endYear; year += yearStep) {
       const x = yearToX(year);
-      if (x < GROUP_LABEL_WIDTH || x > dimensions.width) continue;
+      if (x < groupLabelWidth || x > dimensions.width) continue;
 
       ctx.strokeStyle = COLORS.axis;
       ctx.beginPath();
@@ -800,11 +802,11 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
 
     // Draw group label header
     ctx.fillStyle = COLORS.groupLabel;
-    ctx.fillRect(0, 0, GROUP_LABEL_WIDTH, AXIS_HEIGHT);
+    ctx.fillRect(0, 0, groupLabelWidth, AXIS_HEIGHT);
     ctx.strokeStyle = COLORS.axis;
     ctx.beginPath();
-    ctx.moveTo(GROUP_LABEL_WIDTH, 0);
-    ctx.lineTo(GROUP_LABEL_WIDTH, AXIS_HEIGHT);
+    ctx.moveTo(groupLabelWidth, 0);
+    ctx.lineTo(groupLabelWidth, AXIS_HEIGHT);
     ctx.stroke();
 
     // Scrollbar indicator if content overflows
@@ -819,7 +821,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
     // Hidden event badges
     ctx.save();
     ctx.beginPath();
-    ctx.rect(GROUP_LABEL_WIDTH, AXIS_HEIGHT, dimensions.width - GROUP_LABEL_WIDTH, dimensions.height - AXIS_HEIGHT);
+    ctx.rect(groupLabelWidth, AXIS_HEIGHT, dimensions.width - groupLabelWidth, dimensions.height - AXIS_HEIGHT);
     ctx.clip();
 
     ctx.font = '9px system-ui, sans-serif';
@@ -850,7 +852,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
         bx = afterEndX + (gapWidth - tw - 8) / 2;
       }
 
-      if (bx > dimensions.width || bx + 40 < GROUP_LABEL_WIDTH) continue;
+      if (bx > dimensions.width || bx + 40 < groupLabelWidth) continue;
 
       const badgeLabel = `+${count}`;
       const tw = ctx.measureText(badgeLabel).width;
@@ -924,7 +926,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
       return;
     }
 
-    if (x < GROUP_LABEL_WIDTH || y < AXIS_HEIGHT) {
+    if (x < groupLabelWidth || y < AXIS_HEIGHT) {
       setHoveredEvent(null);
       canvas.style.cursor = 'default';
       return;
@@ -1003,7 +1005,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
     const x = e.clientX - rect.left;
     const y = e.clientY - rect.top;
 
-    if (x < GROUP_LABEL_WIDTH || y < AXIS_HEIGHT) return;
+    if (x < groupLabelWidth || y < AXIS_HEIGHT) return;
 
     for (const badge of badgeHitRectsRef.current) {
       if (x >= badge.x && x <= badge.x + badge.w && y >= badge.y && y <= badge.y + badge.h) {
@@ -1012,7 +1014,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
         const fitMin = badge.minYear - padding;
         const fitMax = badge.maxYear + padding;
         const fitRange = fitMax - fitMin;
-        const availableWidth = dimensions.width - GROUP_LABEL_WIDTH - badge.rightmostLabelWidth;
+        const availableWidth = dimensions.width - groupLabelWidth - badge.rightmostLabelWidth;
         const newScale = Math.max(0.05, Math.min(5, availableWidth / (fitRange * 10)));
         const newOffsetX = -(fitMin - minYear) * newScale * 10 - 50;
         setTargetState((prev) => ({ ...prev, scale: newScale, offsetX: newOffsetX }));
@@ -1035,6 +1037,127 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
     onSelectEntry(null);
   };
 
+  // Touch handlers for mobile
+  const handleTouchStart = (e: React.TouchEvent) => {
+    isAnimatingRef.current = false;
+    if (animationFrameRef.current) cancelAnimationFrame(animationFrameRef.current);
+    if (tooltipTimeoutRef.current) {
+      clearTimeout(tooltipTimeoutRef.current);
+      tooltipTimeoutRef.current = null;
+    }
+    setTooltipData(null);
+
+    if (e.touches.length === 1) {
+      const touch = e.touches[0];
+      hasDraggedRef.current = false;
+      setDragStart({
+        x: touch.clientX,
+        y: touch.clientY,
+        offsetX: targetStateRef.current.offsetX,
+        offsetY: targetStateRef.current.offsetY,
+      });
+    } else if (e.touches.length === 2) {
+      const dx = e.touches[0].clientX - e.touches[1].clientX;
+      const dy = e.touches[0].clientY - e.touches[1].clientY;
+      lastTouchDistRef.current = Math.sqrt(dx * dx + dy * dy);
+    }
+  };
+
+  const handleTouchEnd = (e: React.TouchEvent) => {
+    if (e.touches.length > 0) return;
+    if (hasDraggedRef.current) return;
+
+    const touch = e.changedTouches[0];
+    const canvas = canvasRef.current;
+    if (!canvas || !touch) return;
+
+    const rect = canvas.getBoundingClientRect();
+    const x = touch.clientX - rect.left;
+    const y = touch.clientY - rect.top;
+
+    if (x < groupLabelWidth || y < AXIS_HEIGHT) return;
+
+    for (const badge of badgeHitRectsRef.current) {
+      if (x >= badge.x && x <= badge.x + badge.w && y >= badge.y && y <= badge.y + badge.h) {
+        const yearRange = badge.maxYear - badge.minYear;
+        const padding = Math.max(yearRange * 0.15, 20);
+        const fitMin = badge.minYear - padding;
+        const fitMax = badge.maxYear + padding;
+        const fitRange = fitMax - fitMin;
+        const availableWidth = dimensions.width - groupLabelWidth - badge.rightmostLabelWidth;
+        const newScale = Math.max(0.05, Math.min(5, availableWidth / (fitRange * 10)));
+        const newOffsetX = -(fitMin - minYear) * newScale * 10 - 50;
+        setTargetState((prev) => ({ ...prev, scale: newScale, offsetX: newOffsetX }));
+        return;
+      }
+    }
+
+    for (const pos of positionedEventsRef.current) {
+      const posY = pos.y + viewState.offsetY;
+      if (x >= pos.x && x <= pos.x + pos.width && y >= posY && y <= posY + pos.height) {
+        onSelectEntry(pos.entry);
+        return;
+      }
+    }
+    onSelectEntry(null);
+  };
+
+  // Native touchmove listener to call preventDefault (React synthetic events are passive)
+  useEffect(() => {
+    const canvas = canvasRef.current;
+    if (!canvas) return;
+
+    const handleTouchMove = (e: TouchEvent) => {
+      e.preventDefault();
+
+      if (e.touches.length === 1) {
+        const touch = e.touches[0];
+        const dx = touch.clientX - dragStart.x;
+        const dy = touch.clientY - dragStart.y;
+        if (Math.abs(dx) > 5 || Math.abs(dy) > 5) hasDraggedRef.current = true;
+
+        const maxOffsetY = 0;
+        const minOffsetY = Math.min(0, dimensions.height - AXIS_HEIGHT - totalHeightRef.current);
+        const newState = {
+          offsetX: dragStart.offsetX + dx,
+          offsetY: Math.max(minOffsetY, Math.min(maxOffsetY, dragStart.offsetY + dy)),
+          scale: viewStateRef.current.scale,
+        };
+        setViewState(newState);
+        targetStateRef.current = newState;
+      } else if (e.touches.length === 2) {
+        hasDraggedRef.current = true;
+        const dx = e.touches[0].clientX - e.touches[1].clientX;
+        const dy = e.touches[0].clientY - e.touches[1].clientY;
+        const dist = Math.sqrt(dx * dx + dy * dy);
+        if (lastTouchDistRef.current === 0) {
+          lastTouchDistRef.current = dist;
+          return;
+        }
+        const scaleFactor = dist / lastTouchDistRef.current;
+        lastTouchDistRef.current = dist;
+
+        const midX = (e.touches[0].clientX + e.touches[1].clientX) / 2;
+        const rect = canvas.getBoundingClientRect();
+        const mouseX = midX - rect.left;
+
+        const vs = viewStateRef.current;
+        const currentPPY = vs.scale * 10;
+        const yearAtMouse = (mouseX - vs.offsetX - groupLabelWidth - 50) / currentPPY + minYear;
+        const newScale = Math.max(minScale, Math.min(5, vs.scale * scaleFactor));
+        const newPPY = newScale * 10;
+        const newOffsetX = mouseX - (yearAtMouse - minYear) * newPPY - groupLabelWidth - 50;
+
+        const newState = { offsetX: newOffsetX, offsetY: vs.offsetY, scale: newScale };
+        setViewState(newState);
+        targetStateRef.current = newState;
+      }
+    };
+
+    canvas.addEventListener('touchmove', handleTouchMove, { passive: false });
+    return () => canvas.removeEventListener('touchmove', handleTouchMove);
+  }, [dragStart, dimensions.height, minYear, minScale, groupLabelWidth]);
+
   // Handle wheel zoom with native event listener — reads from ref to avoid re-registration
   useEffect(() => {
     const canvas = canvasRef.current;
@@ -1050,11 +1173,11 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
         const zoomFactor = 1 - e.deltaY * ZOOM_SPEED;
 
         const currentPixelsPerYear = vs.scale * 10;
-        const yearAtMouse = (mouseX - vs.offsetX - GROUP_LABEL_WIDTH - 50) / currentPixelsPerYear + minYear;
+        const yearAtMouse = (mouseX - vs.offsetX - groupLabelWidth - 50) / currentPixelsPerYear + minYear;
 
         const newScale = Math.max(minScale, Math.min(5, vs.scale * zoomFactor));
         const newPixelsPerYear = newScale * 10;
-        const newOffsetX = mouseX - (yearAtMouse - minYear) * newPixelsPerYear - GROUP_LABEL_WIDTH - 50;
+        const newOffsetX = mouseX - (yearAtMouse - minYear) * newPixelsPerYear - groupLabelWidth - 50;
 
         targetStateRef.current = { offsetX: newOffsetX, offsetY: vs.offsetY, scale: newScale };
         startAnimation();
@@ -1079,7 +1202,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
 
     canvas.addEventListener('wheel', handleWheel, { passive: false });
     return () => canvas.removeEventListener('wheel', handleWheel);
-  }, [setTargetState, startAnimation, minYear, minScale, dimensions.height]);
+  }, [setTargetState, startAnimation, minYear, minScale, dimensions.height, groupLabelWidth]);
 
   // Expose methods to parent
   useImperativeHandle(ref, () => ({
@@ -1091,7 +1214,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
     },
     fit: () => {
       const yearRange = maxYear - minYear;
-      const availableWidth = dimensions.width - GROUP_LABEL_WIDTH - 100;
+      const availableWidth = dimensions.width - groupLabelWidth - 100;
       const newScale = availableWidth / (yearRange * 10);
       const finalScale = Math.max(minScale, Math.min(5, newScale));
       const contentHeight = stableLayout.totalHeight - AXIS_HEIGHT;
@@ -1117,7 +1240,7 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
           ? -Math.abs(selectedEntry.date_start.year)
           : selectedEntry.date_start.year;
         const pixelsPerYear = finalScale * 10;
-        offsetX = -(entryYear - minYear) * pixelsPerYear + (dimensions.width - GROUP_LABEL_WIDTH) / 2 - 50;
+        offsetX = -(entryYear - minYear) * pixelsPerYear + (dimensions.width - groupLabelWidth) / 2 - 50;
       }
       setTargetState(() => ({ offsetX, offsetY, scale: finalScale }));
     },
@@ -1155,14 +1278,14 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
         ? Math.min(5, neededScale * 1.1)
         : targetStateRef.current.scale;
       const pixelsPerYear = finalScale * 10;
-      const targetX = -(entryYear - minYear) * pixelsPerYear + (dimensions.width - GROUP_LABEL_WIDTH) / 2 - 50;
+      const targetX = -(entryYear - minYear) * pixelsPerYear + (dimensions.width - groupLabelWidth) / 2 - 50;
       const targetY = -(pos.y - dimensions.height / 2 + ROW_HEIGHT / 2 - AXIS_HEIGHT);
       setTargetState(() => ({ offsetX: targetX, offsetY: targetY, scale: finalScale }));
     },
   }), [maxYear, minYear, minScale, dimensions.width, dimensions.height, setTargetState, stableLayout.totalHeight, selectedEntry]);
 
   return (
-    <div ref={containerRef} style={{ width: '100%', height: '100%', position: 'relative', overflow: 'hidden' }}>
+    <div ref={containerRef} style={{ width: '100%', height: '100%', position: 'relative', overflow: 'hidden', touchAction: 'none' }}>
       <canvas
         ref={canvasRef}
         style={{
@@ -1175,6 +1298,8 @@ export const CanvasTimeline = forwardRef<CanvasTimelineRef, CanvasTimelineProps>
         onMouseUp={handleMouseUp}
         onMouseLeave={handleMouseLeave}
         onClick={handleClick}
+        onTouchStart={handleTouchStart}
+        onTouchEnd={handleTouchEnd}
       />
       {tooltipData && (
         <TooltipCard

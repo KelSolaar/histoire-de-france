@@ -503,11 +503,11 @@ function App() {
   return (
     <div className="flex flex-col h-screen bg-surface text-foreground">
       {/* Header */}
-      <header className="flex items-center justify-between px-6 py-4 bg-surface-secondary border-b border-border">
-        <h1 className="text-xl font-semibold tracking-tight text-accent">
+      <header className="flex flex-col gap-1.5 md:flex-row md:gap-0 md:items-center md:justify-between px-3 py-2 md:px-6 md:py-4 bg-surface-secondary border-b border-border">
+        <h1 className="text-base md:text-xl font-semibold tracking-tight text-accent">
           Histoire de France <span className="text-foreground-muted font-normal">&mdash; d'apr&egrave;s Jacques Bainville</span>
         </h1>
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2 md:gap-3 flex-wrap">
           {/* Group selector */}
           <div className="flex gap-1">
             {groupModes.map(({ key, label, title }) => (
@@ -525,41 +525,43 @@ function App() {
               </button>
             ))}
           </div>
-          <div className="w-px h-6 bg-border" />
-          {/* Search */}
-          {searchExpanded ? (
-            <div className="relative">
-              <input
-                ref={searchInputRef}
-                type="text"
-                value={searchQuery}
-                onChange={e => setSearchQuery(e.target.value)}
-                placeholder="Rechercher..."
-                className="w-48 px-3 py-1.5 pl-8 text-sm bg-surface-tertiary text-foreground border border-border rounded-md focus:outline-none focus:border-accent placeholder:text-foreground-muted"
-                autoFocus
-              />
-              <span className="absolute left-2.5 top-1/2 -translate-y-1/2 text-foreground-muted">
-                <IconSearch size={14} />
-              </span>
-              {searchQuery && (
-                <button
-                  onClick={() => { setSearchQuery(''); searchInputRef.current?.focus(); }}
-                  className="absolute right-2 top-1/2 -translate-y-1/2 text-foreground-muted hover:text-foreground"
-                >
-                  <IconClose size={12} />
-                </button>
-              )}
-            </div>
-          ) : (
-            <button
-              onClick={() => setSearchExpanded(true)}
-              className="p-1.5 text-foreground-secondary hover:text-foreground hover:bg-surface-hover rounded-md transition-colors"
-              title="Rechercher"
-            >
-              <IconSearch />
-            </button>
-          )}
-          <div className="w-px h-6 bg-border" />
+          <div className="hidden md:block w-px h-6 bg-border" />
+          {/* Search — hidden on mobile */}
+          <div className="hidden md:block">
+            {searchExpanded ? (
+              <div className="relative">
+                <input
+                  ref={searchInputRef}
+                  type="text"
+                  value={searchQuery}
+                  onChange={e => setSearchQuery(e.target.value)}
+                  placeholder="Rechercher..."
+                  className="w-48 px-3 py-1.5 pl-8 text-sm bg-surface-tertiary text-foreground border border-border rounded-md focus:outline-none focus:border-accent placeholder:text-foreground-muted"
+                  autoFocus
+                />
+                <span className="absolute left-2.5 top-1/2 -translate-y-1/2 text-foreground-muted">
+                  <IconSearch size={14} />
+                </span>
+                {searchQuery && (
+                  <button
+                    onClick={() => { setSearchQuery(''); searchInputRef.current?.focus(); }}
+                    className="absolute right-2 top-1/2 -translate-y-1/2 text-foreground-muted hover:text-foreground"
+                  >
+                    <IconClose size={12} />
+                  </button>
+                )}
+              </div>
+            ) : (
+              <button
+                onClick={() => setSearchExpanded(true)}
+                className="p-1.5 text-foreground-secondary hover:text-foreground hover:bg-surface-hover rounded-md transition-colors"
+                title="Rechercher"
+              >
+                <IconSearch />
+              </button>
+            )}
+          </div>
+          <div className="hidden md:block w-px h-6 bg-border" />
           {/* Tags */}
           <div className="flex items-center gap-2">
             <div className="relative">
@@ -598,7 +600,7 @@ function App() {
               )}
             </div>
           </div>
-          <div className="w-px h-6 bg-border" />
+          <div className="hidden md:block w-px h-6 bg-border" />
           {/* Importance filter dropdown */}
           <div className="relative">
             <button
@@ -632,9 +634,9 @@ function App() {
               </>
             )}
           </div>
-          <div className="w-px h-6 bg-border" />
-          {/* Zoom controls */}
-          <div className="flex gap-1">
+          {/* Zoom controls — hidden on mobile (pinch to zoom) */}
+          <div className="hidden md:block w-px h-6 bg-border" />
+          <div className="hidden md:flex gap-1">
             <button
               onClick={handleZoomOut}
               className="px-3 py-1.5 text-sm font-medium bg-surface-tertiary text-foreground-secondary rounded-md hover:bg-surface-hover hover:text-foreground transition-colors"
@@ -657,7 +659,7 @@ function App() {
               <IconFit />
             </button>
           </div>
-          <div className="w-px h-6 bg-border" />
+          <div className="hidden md:block w-px h-6 bg-border" />
           <button
             onClick={() => setHelpOpen(true)}
             className="px-2.5 py-1.5 text-sm font-medium bg-surface-tertiary text-foreground-secondary rounded-md hover:bg-surface-hover hover:text-foreground transition-colors"
@@ -690,9 +692,11 @@ function App() {
           )}
         </div>
 
-        {/* Detail panel */}
+        {/* Detail panel — overlay on mobile, side panel on desktop */}
         {selectedEntry && (
-          <div className="w-96 bg-surface-secondary border-l border-border p-6 overflow-y-auto relative flex flex-col">
+          <>
+          <div className="fixed inset-0 bg-black/40 z-30 md:hidden" onClick={() => selectEntry(null)} />
+          <div className="fixed inset-0 z-40 md:static md:inset-auto md:z-auto md:w-96 bg-surface-secondary md:border-l md:border-border p-6 overflow-y-auto relative flex flex-col">
             {/* Header with navigation and close */}
             <div className="flex items-center justify-between mb-4">
               <div className="flex items-center gap-1">
@@ -868,6 +872,7 @@ function App() {
               />
             )}
           </div>
+          </>
         )}
       </div>
       {helpOpen && <HelpModal onClose={() => setHelpOpen(false)} />}
